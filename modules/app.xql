@@ -9,7 +9,7 @@ import module namespace functx="http://www.functx.com" at "functx.xql";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 (:page 主頁面唯一程式，擷取網頁變數：coll-資料集、titleID-文本識別碼、path-資料路徑、mode：操作模式選項；之後可以考慮是否以POST傳送，方便傳遞參數:)
-declare function app:page($node as node(), $model as map(*), $mode as xs:string?, $path as xs:string?, $titleId as xs:string?, $file as xs:string?, $query as xs:string?){
+declare function app:page($node as node(), $model as map(*), $mode as xs:string?, $path as xs:string?, $titleId as xs:string?, $query as xs:string?){
 let $book := (:取得文本資訊:)
     if ($titleId) then doc($config:data-root||"/list.xml")//tei:bibl[data(@n)=$titleId]
     else ()
@@ -20,28 +20,23 @@ let $bookAuthors := (:文本作者:)
     if ($book) then data($book/tei:author)
     else ()
 let $titleNode := 
-    if ($titleId) then collection($config:data-root||"/kr1/"||$titleId)//tei:TEI
+    if ($titleId) then doc($config:data-root||"/kr1/"||$titleId||".xml")/tei:TEI
     else ()
-let $fileNode := 
-    if ($file) then doc($config:data-root||"/kr1/"||$titleId||"/"||$file)/tei:TEI
-    else ()
-let $currentDiv :=
-    if ($path) then app:divPath($fileNode/tei:text/tei:body, $path)
-    else if ($fileNode) then  $fileNode/tei:text/tei:body
-    else if ($titleNode) then $titleNode/tei:text/tei:body
-    else ()
+let $currentDiv := (:目前指向的div:)
+    if ($path) then app:divPath($titleNode/tei:text/tei:body, $path)
+    else $titleNode/tei:text/tei:body
 let $leftnode := (:左欄資料:)
     if ($mode eq "54") then $web:roadmap
     else if($mode eq "53") then $web:log
     else if($mode eq "1") then app:bookTitles() (:操作模式1，啟動app:bookTitle功能:)
-    else if ($mode eq "2") then app:firstDiv($titleId, $currentDiv, $bookTitle, $file, $path) (:操作模式2，啟動app:firstDiv功能:)
+    else if ($mode eq "2") then app:firstDiv($titleId, $currentDiv, $bookTitle, $path) (:操作模式2，啟動app:firstDiv功能:)
     else $web:homepage
 let $rightnode := (:右欄資料:)
     if ($mode eq "54") then <p><br/>左欄是本網站擬設功能，歡迎向本站連絡人提出你想要看到的功能。如果情況允許，我們也會將之納入未來的設計功能當中。</p>
     else if ($mode eq "53") then <p><br/>左欄是目前本網站已完成功能的總表。</p>
     else if ($mode eq "1") then <h4>請點選左邊的書目進行瀏覽</h4>
     else if ($mode eq "2") then 
-        if ($path) then app:divHeadOnTheRight($currentDiv, $path, $titleId, $file, $bookTitle)
+        if ($path) then app:divHeadOnTheRight($currentDiv, $path, $titleId,  $bookTitle)
         else <h4>請點選左邊的項目，以進入下一層目錄。</h4>
     else <p><br/>請點選功能表中的選項，或是利用上列的檢索表單進行本站的檢索。</p>
 return
@@ -49,16 +44,14 @@ web:webpage($leftnode, $rightnode, $titleId)
 };
 (:divPath 處理div的路徑:)
 declare function app:divPath($node, $path as xs:string?)as node(){
-if ($path) then (:如果路徑存在依序處理div:)
-    if (count(tokenize($path, "-")) gt 1) then
-        app:divPath($node/tei:div[position()=number(substring-before($path, "-"))], substring-after($path, "-"))
-    else
-        $node/tei:div[position()=number($path)]
+(:依序處理div:)
+if (count(tokenize($path, "-")) gt 1) then
+    app:divPath($node/tei:div[position()=number(substring-before($path, "-"))], substring-after($path, "-"))
 else
-    $node
+    $node/tei:div[position()=number($path)]
 }; 
 (:製造資料分層標題與超連結:)
-declare function app:divHeader($path, $titleId, $currentDiv, $file){
+declare function app:divHeader($path, $titleId, $currentDiv){
 let $pathList := tokenize($path, "-") (:分開路徑的節點:)
 let $pathList2 :=
     for $p in 1 to count($pathList) (::)
@@ -71,7 +64,7 @@ let $pathList2 :=
                 else $pathList[$q]||"-"
         return string-join($pathlink)
          }</path>
-let $linkFirstPart := (:連結的前面部分:) "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||$file||"&amp;path="
+let $linkFirstPart := (:連結的前面部分:) "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||"&amp;path="
 let $linkList := (:相對於不同標題的連結:)
     for $link at $count in $pathList2
     return $linkFirstPart||$pathList2[$count]
@@ -80,26 +73,23 @@ return
     return
             <a>{attribute href {$linkList[$count]}}<span>{attribute style {"color:rgb(50,"||string(200-($count - 1)*20)||","||string(200-($count - 1)*30)||")"}}{if ($div/tei:head) then $div/tei:head/text() else "卷首"}</span>/</a>
 };
-declare function app:firstDiv($titleId, $currentDiv, $bookTitle, $file, $path) as node(){
+declare function app:firstDiv($titleId, $currentDiv, $bookTitle,  $path) as node(){
 let $titleUrl := "index.html?mode=2&amp;titleId="||$titleId (:設定連結參數:)
 return
     <div>
-    <h2><a>{attribute href {$titleUrl}}{$bookTitle}</a>：{app:divHeader($path, $titleId, $currentDiv, $file)(:呼叫divHeader設定分節標題連結:)}</h2>
+    <h2><a>{attribute href {$titleUrl}}{$bookTitle}</a>：{app:divHeader($path, $titleId, $currentDiv)(:呼叫divHeader設定分節標題連結:)}</h2>
     <div class="alert alert-success"> 
     {if ($currentDiv/tei:p) then $currentDiv/tei:p
     else ()(:有段落文字的話，顯示段落:)}
     {if ($currentDiv/tei:div) then (:有小節的話，顯示標題與連結:)
     <div style="column-count:2;">
     <ol>{
-        for $div at $count in $currentDiv/tei:div 
-        order by 
-            if ($path) then ()
-            else base-uri($div)
+        for $div at $count in $currentDiv/tei:div (:加入小節標題:)
         return        
         <li>{
             let $urllink :=
-                if ($path) then     "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||$file||"&amp;path="||$path||"-"||$count
-                else "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||tokenize(base-uri($div),"/")[last()]||"&amp;path=1"
+                if ($path) then     "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||$path||"-"||$count
+                else "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||$count
             return
                 <a> {attribute href {$urllink}} 
                 {if ($div/tei:head/text()) then $div/tei:head/text() else <span>{$bookTitle||"未設標題"}</span>}</a>}
@@ -110,11 +100,8 @@ return
     }</div>{$currentDiv/tei:byline[last()]}
     </div>
 };
-declare function app:divHeadOnTheRight($currentDiv, $path, $titleId, $file, $bookTitle) as node(){
+declare function app:divHeadOnTheRight($divs, $path, $titleId,  $bookTitle) as node(){
 let $pathList := tokenize($path, "-")
-let $divs :=
-    if (count($pathList) > 2) then $currentDiv/../tei:div
-    else collection($config:data-root||"/kr1/"||$titleId)//tei:TEI/tei:text/tei:body/tei:div
 return
         <div>
         <h4>可以從下面點選上一層目錄：</h4>
@@ -123,8 +110,8 @@ return
             return        
                 <li>{
                     let $urllink :=
-                        if (count($pathList) gt 2) then "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||$file||"&amp;path="||string-join(remove($pathList, count($pathList)), "-")||"-"||$count
-                        else "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||tokenize(base-uri($div),"/")[last()]||"&amp;path=1"
+                        if (count($pathList) gt 2) then (:如果路徑有兩層:) "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||string-join(remove($pathList, count($pathList)), "-")||"-"||$count (:回到上一層，把路徑最後一項移掉，重做連結:)
+                        else "index.html?mode=2&amp;titleId="||$titleId||"&amp;path="||$count
                     return
                         <a> {attribute href {$urllink}} 
                         {$div/tei:head/text()}</a>}
