@@ -5,11 +5,11 @@ module namespace app="http://exist-db.org/apps/cc/templates";
 import module namespace templates="http://exist-db.org/xquery/templates";
 import module namespace config="http://exist-db.org/apps/cc/config" at "config.xqm";
 import module namespace web="http://exist-db.org/apps/cc/web" at "web.xqm";
-import module namespace functx="http://www.functx.com" at "../../shared-resources/content/functx.xql";
+import module namespace functx="http://www.functx.com" at "functx.xql";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
 (:page 主頁面唯一程式，擷取網頁變數：coll-資料集、titleID-文本識別碼、path-資料路徑、mode：操作模式選項；之後可以考慮是否以POST傳送，方便傳遞參數:)
-declare function app:page($node as node(), $model as map(*), $mode as xs:string?, $path as xs:string?, $titleId as xs:string?, $file as xs:string?){
+declare function app:page($node as node(), $model as map(*), $mode as xs:string?, $path as xs:string?, $titleId as xs:string?, $file as xs:string?, $query as xs:string?){
 let $book := (:取得文本資訊:)
     if ($titleId) then doc($config:data-root||"/list.xml")//tei:bibl[data(@n)=$titleId]
     else ()
@@ -20,7 +20,7 @@ let $bookAuthors := (:文本作者:)
     if ($book) then data($book/tei:author)
     else ()
 let $titleNode := 
-    if ($titleId) then collection($config:data-root||"/kr1/"||$titleId)/tei:TEI
+    if ($titleId) then collection($config:data-root||"/kr1/"||$titleId)//tei:TEI
     else ()
 let $fileNode := 
     if ($file) then doc($config:data-root||"/kr1/"||$titleId||"/"||$file)/tei:TEI
@@ -81,14 +81,14 @@ return
             <a>{attribute href {$linkList[$count]}}<span>{attribute style {"color:rgb(50,"||string(200-($count - 1)*20)||","||string(200-($count - 1)*30)||")"}}{if ($div/tei:head) then $div/tei:head/text() else "卷首"}</span>/</a>
 };
 declare function app:firstDiv($titleId, $currentDiv, $bookTitle, $file, $path) as node(){
-let $titleUrl := "index.html?mode=2&amp;titleId="||$titleId(:設定連結參數:)
+let $titleUrl := "index.html?mode=2&amp;titleId="||$titleId (:設定連結參數:)
 return
     <div>
-    <h2><a>{attribute href {$titleUrl}}{$bookTitle}</a>：{app:divHeader($path, $titleId, $currentDiv, $file)}</h2>
+    <h2><a>{attribute href {$titleUrl}}{$bookTitle}</a>：{app:divHeader($path, $titleId, $currentDiv, $file)(:呼叫divHeader設定分節標題連結:)}</h2>
     <div class="alert alert-success"> 
     {if ($currentDiv/tei:p) then $currentDiv/tei:p
-    else ()}
-    {if ($currentDiv/tei:div) then
+    else ()(:有段落文字的話，顯示段落:)}
+    {if ($currentDiv/tei:div) then (:有小節的話，顯示標題與連結:)
     <div style="column-count:2;">
     <ol>{
         for $div at $count in $currentDiv/tei:div 
@@ -102,7 +102,7 @@ return
                 else "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||tokenize(base-uri($div),"/")[last()]||"&amp;path=1"
             return
                 <a> {attribute href {$urllink}} 
-                {if ($div/tei:head/text()) then $div/tei:head/text() else <span>{$bookTitle||"卷首"}</span>}</a>}
+                {if ($div/tei:head/text()) then $div/tei:head/text() else <span>{$bookTitle||"未設標題"}</span>}</a>}
         </li>
         }
     </ol></div>
@@ -110,22 +110,25 @@ return
     }</div>{$currentDiv/tei:byline[last()]}
     </div>
 };
-declare function app:divHeadOnTheRight($divs, $path, $titleId, $file, $bookTitle) as node(){
+declare function app:divHeadOnTheRight($currentDiv, $path, $titleId, $file, $bookTitle) as node(){
 let $pathList := tokenize($path, "-")
+let $divs :=
+    if (count($pathList) > 2) then $currentDiv/../tei:div
+    else collection($config:data-root||"/kr1/"||$titleId)//tei:TEI/tei:text/tei:body/tei:div
 return
         <div>
-        <h4>你也可以從下面點選上一層目錄：</h4>
+        <h4>可以從下面點選上一層目錄：</h4>
         <ul>{
             for $div at $count in $divs/../tei:div
             return        
-            <li>{
-                let $urllink :=
-                    if (count($pathList) gt 2) then "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||$file||"&amp;path="||string-join(remove($pathList, count($pathList)), "-")||"-"||$count
-                    else "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||$file
-                return
-                    <a> {attribute href {$urllink}} 
-                    {$div/tei:head/text()}</a>}
-            </li>
+                <li>{
+                    let $urllink :=
+                        if (count($pathList) gt 2) then "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||$file||"&amp;path="||string-join(remove($pathList, count($pathList)), "-")||"-"||$count
+                        else "index.html?mode=2&amp;titleId="||$titleId||"&amp;file="||tokenize(base-uri($div),"/")[last()]||"&amp;path=1"
+                    return
+                        <a> {attribute href {$urllink}} 
+                        {$div/tei:head/text()}</a>}
+                </li>
             }
         </ul>
         </div>    
