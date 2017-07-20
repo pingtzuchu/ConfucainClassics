@@ -610,6 +610,10 @@ listBibl {
   display: block;
   margin-bottom: 0.5em;
 }
+match {
+    display: inline;
+    background-color: YellowGreen;
+}
 mentioned {
   display: inline;
   font-style: italic;
@@ -660,15 +664,20 @@ p {
   margin-bottom: 0.5em;
 }
 pb {
-  display: none;
-}
-    
-pb:after {
+  display: inline;
+  color:black;
   content: attr(n);
-  font-weight: bold;
-  margin-bottom: 1em;
-  margin-top: 1em;
-  text-align: center;
+  background-color:YellowGreen;
+}    
+pb::before {
+  display:inline;
+  content: "\a["attr(n)"=";
+  white-space: pre;
+}
+pb::after {
+    display:inline;
+    content: "\a";
+    white-space: pre;
 }
 pc[n="："]{
     content:"：";
