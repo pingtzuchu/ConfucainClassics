@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+龍龕手鑑上聲卷第二　釋行均字廣濟集<lb/>
+手<hi>書九</hi>第一　?<hi>許/偉</hi>第二水<hi>書/?</hi>第三火<hi>呼/果</hi>第四　土<hi>他魯</hi>第五<lb/>
+草<hi>倉老</hi>第六　口<hi>苦/后</hi>第七女<hi>尼/?</hi>第八鳥<hi>丁/了</hi>第九　馬<hi>莫下</hi>第十<lb/>
+阜<hi>房九</hi>第十一　?<hi>魚/撿</hi>第十二　厂<hi>呼/旱</hi>第十三<hi>侯/古</hi>第十四　米<hi>莫?</hi>第十五<lb/>
+雨<hi>王矩</hi>第十六　酉<hi>羊/九</hi>第十七齒<hi>昌/里</hi>第十八耳<hi>而/止</hi>第十九　瓦<hi>五寡</hi>第二十<lb/>
+犬<hi>苦泫</hi>第卄一　豕<hi>施/是</hi>第卄二<hi>直/?</hi>第卄三虎<hi>呼/古</hi>第卄四　鬼<hi>居偉</hi>第卄五<lb/>
+走<hi>子口</hi>第卄六　羽<hi>王/矩</hi>第卄七皿<hi>旻/永</hi>第卄八<hi>文/兩</hi>第卄九　爪<hi>側巧</hi>第三十<lb/>
+矢<hi>或視</hi>第卅一　黍<hi>書/?</hi>第卅二鹵<hi>郎/古</hi>第卅三九<hi>居/有</hi>第卅四　几<hi>居履</hi>第卅五<lb/>
+斗<hi>當口</hi>第卅六<hi>書/?</hi>第卅七　享<hi>許/兩</hi>第卅八此<hi>雌/氏</hi>第卅九止<hi>諸市</hi>第四十<lb/>
+枲<hi>息里</hi>第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>一　子<hi>即/里</hi>第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>二鼓<hi>公/五</hi>第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>三小<hi>私/少</hi>第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>四　缶<hi>方九</hi>第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>五<lb/>
+<pb n="1b"/>
+老<hi>盧計</hi>第卌六井<hi>子/請</hi>第卌七喜<hi>?/里</hi>第卌八古<hi>公/五</hi>第卌九　乃<hi>奴海</hi>第五十<lb/>
+里<hi>力止</hi>第五十一　尒<hi>兒/氏</hi>第五十二　凵<hi>丘/犯</hi>第五十三黽<hi>莫/杏</hi>第五十四　<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>
+                    <hi>其九</hi>第五十五<lb/>
+也<hi>羊者</hi>第五十六比<hi>卑/履</hi>第五十七　是<hi>常/紙</hi>第五十八首<hi>書/九</hi>第五十九果<hi>古火</hi>第六十<lb/>
+︻手部第一揈<hi>火?反?擊也/五俗下一又/玉篇音釵/正敕皆反以拳加物也六</hi>扠<lb/>
+<hi>丑佳反以拳加人也亦作/俗</hi>?<hi>正責加反?手取物/也又与<graphic n="KR4271" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4271.png" mimeType="image/png"/>抯略同二/千多反?/合/和也二/二/俗/正呼毛反除田草曰?三</hi>
+撾<hi>陟瓜反?捶也/三俗倉丸七?二反正/作?<graphic n="KR1483" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1483.png" mimeType="image/png"/>二字?擲/也</hi>摫<hi>二/俗/或/作/正居?反/裁也四丑居反?蒲/也二/俗</hi>拏挐<hi>二正女加反並相牽引也又搦也玉篇/又乃下反下又女余反亦相牽引也三/都甘反??也負也/舉也以木荷物也</hi>探<lb/>
+<hi>他含反?取也/二</hi>摧<hi>昨回反折也/阻也/挫也</hi>捫<hi>音門?摸也/以手撫摩也</hi>摹<hi>俗</hi>摸<hi>正莫胡反以手?搭/也又音莫捫?也二</hi>攀<hi>俗/正普斑反?引也接也二</hi>摽<hi>疋?反/??也/土凋反?撥也又/徒了反?動也二</hi>?<hi>渠?反?變也?也/也/平也重也始也稱也又姓/縳謀反?抱也二俗</hi>?<hi>正羊昭反?動/也作也又姓四</hi>?擒<hi>二/今</hi>?<hi>正及林反?捉/也急持也/三</hi>排<hi>?皆反傍?用/在身傍禦攻也</hi>?<hi>俗</hi>撓<hi>正呼?反?攪<pb n="2a"/>也下又奴巧反??也二</hi>挻<hi>式延反??也柔/也和也取也長也</hi>掊<hi>蒲交反手?/也又俗音浮</hi>攙<hi>士咸反??也又/楚銜反?上?也</hi>揗<hi>二/俗/正音?手相安慰也又俗音順摩?也三</hi>?<hi>俗/或/作</hi>
+                    <graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>
+                    <hi>正所丘反求也/索也/聚也三/俗音/挑</hi>搯<hi>士刀反??也又俗苦甲反?音烏活反</hi>?<lb/>
+<hi>二俗/正音抽??也除/也去/也引也三</hi>摳<hi>苦侯反?衣攐衣又豈俱反訓同/又俗昌朱反??也攐音去?反</hi>揩<hi>口皆反摩拭也又苦/反摸也法也拭也</hi>捐<hi>音??也</hi>
+?<hi>在丸反聚也又音?訟也/二/俗/正蘇刀反?/也刮也/三/宅耕反撞也觸/也与/三同</hi>掁<hi>直庚反/觸也</hi>撜<hi>直庚反又俗都/鄧反正從木音??名/也/二/俗</hi>攘<hi>正汝/羊反除也逐也/也又揎?出臂/以手御也又而亮揖?也/音伊入反三</hi>撐<hi>丑庚反撥也/又?拄也</hi>拑<lb/>
+<hi>巨淹反持/也</hi>摶<hi>徒官反/?風也</hi>?<hi>三俗/同上四</hi>扡<hi>音/他/曳也二/俗直尼反/正從土二/三俗疾羊反?柱也</hi>捎<hi>所交反蒲?良馬名也又/也又相焦反?動也/音?</hi>抔<hi>?侯反手/掬物/也/俗?牡二音/正作/裝字/側交反?搯也又側巧反亦亂搔/也/俗音/慈</hi>掑<hi>音/其</hi>攜<hi>今</hi>攜<hi>正/圭/反/持也提也二/俗丑皆楚佳二/反正/作搋字/奴何反?也</hi>
+                    <graphic n="KR3446" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3446.png" mimeType="image/png"/>
+                    <hi>乙皆反推也/又背/負?</hi>挨<hi>烏皆反倚也又?騃反打也/又??反亦?也又俗音族</hi>?<hi>音/臺/?舉也</hi>抄<hi>初交初教二反?/掠取也与鈔同</hi>
+挼<hi>素?反?也又奴禾反?莏也又/摧也</hi>捼<hi>奴回反摧也/又手摩物也</hi>攎<hi>音/?</hi>斂<hi>盧/也/俗/正素何反/摩?也二</hi>挲<hi>同上</hi>揌<lb/>
+<pb n="2b"/>
+<hi>蘇臺反??也又俗音?</hi>搒<hi>白盲反?輔也/又笞也打/也</hi>?<hi>或/作</hi>捲<hi>正</hi>拳<hi>今渠?反力也/也屈手也三/正/通音上舉也又俗音</hi>拸<hi>音移加也/又弋紙反</hi>攄<hi>丑居反舒/張散布也</hi>攓<hi>去/反?綰/也亦/縮也/音/新</hi>攡<hi>音離/張也</hi>操<hi>倉刀反持也又七到反志/也/俗</hi>掔<hi>正苦閑苦堅二反/固五厚也持也二</hi>搴<hi>去/反?衣/也与褰/同/二/俗通正楚尤反手?也四</hi>揂揫<hi>即由反聚/也細也二/五堅反揧破/也又摩/也/俗/正徒刁反擇/也?出也二/子紅反撮也把?也/俗/通</hi>?<hi>正莫官反/?覆也三</hi>拈<hi>奴恬反手/指取物也/都回反?/撲物/也/許為反謙也作也又裂也亦指?也</hi>抨<hi>普耕反/彈/也/五?反/??也</hi>搫<hi>盤婆二音除也又/披散也又婉轉?</hi>拼<hi>伯耕反繩?也/又從也?/也俗或作</hi>拋<hi>今/正普包反?擲也投也/又普教反?/車也四/音/持也/又俗音鋪</hi>撣<hi>徒干反?觸也又?碁石/也亦掉也又上去二聲</hi>
+抪<hi>王篇普胡反開張遍布也又?胡反展舒也又俗/音</hi>搪<hi>音唐?/?/也/通/或/作</hi>?<hi>正所咸反好手?/也又息?反三</hi>
+捄<hi>九朱反玉篇法也切韻盛士/也詩云?之儒從木者/音求</hi>揪<hi>俗音秋/正作楸</hi>抯<hi>側加反挹也又徐野咨/野才野/三反皆取也</hi>拫<hi>根反急引也俗支耆二/音</hi>撕<hi>音西/提也/俗必迷反/正作</hi>抬<hi>二俗丑之/反正作笞</hi>?<hi>俗</hi>攠<hi>二或作音摩/?/抄也三</hi>?<hi>苦?<pb n="3a"/>反揩摩也</hi>?<hi>俗/求二音/音韋/?也</hi>摷<hi>正/或作/落堯側/交二反擊也二</hi>?<hi>音求緩也亦從木/作朹??梅/也</hi>据<hi>音居拮?手病也二俗苦回/反</hi>揎<hi>音宣手發/衣也二同</hi>?<hi>二字郭迻/音/同/音臻聚也/又琴瑟音/房連反不咽也苦?反又音開/二俗玉/郎/反/俗耳由人?二反/正作揉/屈太也/音孫捫?/摸/<graphic n="KR2021" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2021.png" mimeType="image/png"/>也/七?子寸二反推也又人/名姓香嚴又/九反俗</hi>?<hi>或作/正所臻反從上/擇取/物也三/?皆/反/音/?</hi>批<hi>疋迷反推轉擊/示也又房密反/舊?作?烏玄反深也</hi>扳<hi>音班挽也又古/文攀字/引也</hi>摞<hi>力戈反理也/或作摞/字/二俗音/靈??/俗宅加反/正作</hi>?<hi>玉篇音貞引也郭迻又音丑人/反/通</hi>?<hi>三/俗</hi>摐<hi>正七容反?打也又/音?亦打鐘?也五</hi>攐<hi>二/正</hi>?<hi>今立言反舉也正?衣也下又音舉/起也三/音堅縣名又/音賢/地名/?尢反/?/屈</hi>撏<hi>士占/徐林/二反?取也</hi>?<hi>魯甘反/?持也/舊?作舊?作羾音紅?飛/音/名/音/咨/二俗音/剛舉也/苦胡反空/也/也</hi>?<hi>音而/搦也/舊?作標</hi>?<lb/>
+<hi>或作/正音???/山名/也二</hi>揋<hi>烏灰反?/掎又國名</hi>?<hi>?昆胡本二/反手/推也</hi>揄<hi>音俞?揚詭/言也又動/也又徒侯徒口二反引也俗音正作/?屋?</hi>擂<hi>音雷/研物</hi>?<hi>俗/古</hi>掤<hi>今音?以手覆矢又/弓強也又俗音/三/音余/共也</hi>?<hi>音將扶?<pb n="3b"/>也二同</hi>扛<hi>音江舉鼎少說文/云撗/對舉也/今</hi>摎<hi>正音交束也橈也又音/流亦絞縳也/又姓二/俗音?正作/?木/名也/或作</hi>撢<lb/>
+<hi>今余針反探也又玉篇音潭?/二</hi>?<hi>音呵/?/下江反??/??/音雙/女皆反揩/?摩拭也</hi>?<hi>俗音西正/作?鳥?</hi>扔<hi>音/仍引也又列也</hi>掄<hi>音輪手轉也又力昆/反擇也一曰貫/也/?</hi>
+                    <graphic n="KR4183" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4183.png" mimeType="image/png"/>
+                    <hi>正</hi>?<hi>今許羈反/擊/也三/去魚反/?/也</hi>?<hi>音勞?閉也二許撟反玄?/星名正從木二</hi>捈<hi>他胡反/?引也/徐?反?/<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>草木也</hi>揱<hi>音消長?又所角反?也又長臂也又所教反木上小也</hi>
+攏<hi>音籠房?又力董反??又物?籌也酒/律</hi>摛<hi>丑知反舒也又/俗音離/山?</hi>?<hi>音因/就也</hi>?<hi>音旻/撫也</hi>擠<hi>祖兮反?排也</hi>?<lb/>
+<hi>書容反撞也</hi>?<hi>口耕反/琴聲也/古文?/公/反</hi>?<hi>音容不/安/也/二俗音劉正/作/木名也</hi>揚<hi>音羊舉也導也明也</hi>
+?<hi>音西/俗音/音/牟/俗/正似泉似戀二/反揎也轉也二</hi>?<hi>俗啼?/二音/音耶</hi>搥<hi>都?/反<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>
+                    也又直追反棒?也又?髻也/音/或作/扷也/俗音/?</hi>撋<hi>如?反說文/云按摧急也/都昆反</hi>
+上聲<hi>俗</hi>揣<hi>今正?委反量也?也試也動也除也/又?也又音釧度也又俗音/搏三</hi>拯<hi>此字無疊韻取?字上聲??也救也上舉也助/也二</hi>抆<hi>武粉反/?拭也</hi>擾<hi>俗/正而<graphic n="KR1842" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1842.png" mimeType="image/png"/>反?/?也煩也二</hi>拖<hi>徒可反引也又音/施持物惠/人也</hi>?<hi>俗同上</hi>揜<hi>古</hi>
+<pb n="4a"/>
+<pb n="5a"/>
+<hi>正音母手?指也二</hi>?<hi>勒可反/?裂也</hi>?<hi>二/俗/正音?師?也/与旅字同/三</hi>攪<hi>古/反手/?動/也/俗</hi>抱<hi>正薄老反捉也持也二</hi>?<hi>方垢反衣/上?/也/俗</hi>撚<hi>正奴典反以指/?續/緊也二</hi>?<hi>昌者反?裂物?也/玉篇又諸也反?也</hi>撦<hi>同上</hi>撼<lb/>
+<hi>胡感反?動也/九展反?搌醜長?/也又俗音擅<graphic n="KR0825" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0825.png" mimeType="image/png"/>?也</hi>搌<hi>知/演反束縳也/又丑免反/?也/烏絞反/?拉也</hi>擺捭<hi>北/買反?撥也亦姓二古文音指</hi>?<hi>所簡反以/手?物也</hi>?<hi>音亥/動也</hi>?<hi>蘇感反/??動也/俗</hi>?<hi>正音拱厄/持也/二/奴鳥反/<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>也/?許反打聲也</hi>?<hi>俗巨/兩反</hi>?<hi>或/作</hi>撱<hi>今羊捶反?也又撞也又/他果反器文狹長也/二/二/俗/正音/動也三</hi>摙<hi>力展反擔運物也</hi>搴<graphic n="KR2081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2081.png" mimeType="image/png"/>
+                    <hi>九輦/反/也二同</hi>拐<hi>俗古買反正作/柺老人杖/也</hi>?<hi>即淺反/切也/古</hi>挸<hi>或/作</hi>?<hi>正古典反?振拭面也三</hi>抮<hi>呼典反/引戾也/音紙?掌也說/文云側手?也/二俗烏騃反/下又竹例反/俗音/動/俗音?</hi>捆<lb/>
+<hi>苦本反?取也/直?/反二</hi>攤<hi>奴?反按也又他/丹反?開亦緩也/俗竹几之日/陟栗三反</hi>攩<hi>他朗反?擴搥打也又胡曠反亦打?也</hi>
+?<hi>俗胡廣反正作?讀書床</hi>揃<hi>即淺/反/?滅也二</hi>擏<hi>居影反所/以正/弓/居影反/?/除/音粉/動也/俗</hi>扮<hi>正一房吻反握也又芳粉/反二/俗</hi>摻<hi>二今所斬反/執抉也/三/烏感反/手覆也</hi>?<hi>?往/反/或/作</hi>?<hi>正而勇反/推?也<pb n="5b"/>二</hi>?<hi>音我也/音魯/??/正/今許偃反手/約物也/二</hi>摬<hi>?丙反/申打也</hi>?<hi>俗音/掌</hi>?<hi>子小反菜似薺俗</hi>拲<hi>二正居悚反兩手共持/也下一又居王反義同三</hi>?<hi>許委反手/?傷/也/音/兆</hi>扭<hi>女九反?手轉?又陟有反?按也俗音唯正作埻射的也又宅耕/反</hi>撙<hi>則損反促/也挫趍也</hi>?<hi>俗胡/感反/俗音/顯/義合/作?俗</hi>?<hi>古</hi>?<lb/>
+<hi>今音?普也皆也合也?也四</hi>?<hi>多旱反笞也/又俗音</hi>抌<hi>章/反</hi>?<hi>火犬反/捵也</hi>捵<hi>丑展反/?出也/音好</hi>掞<lb/>
+<hi>舒染反動也/俗傍?反/正作/梐/敕里/反</hi>去聲控<hi>苦貢反持也/引也/告也/音患以身貫甲也又古還反又去/聲也/昌制反曳也制/也又昌折/反</hi>?<hi>二俗昌/制/反/俗</hi>
+                    <graphic n="KR4396" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4396.png" mimeType="image/png"/>
+                    <hi>正苦浪反/?舉也拒也遮也捍也二?</hi>抗<hi>今苦浪反/義同上四</hi>撞<hi>直降反/擊也刺也擣/也又宅江反?/突也/二/俗/正古候/反/擩也擩音人注反三</hi>
+挫<hi>祖?反摧也/折也/音亮一取也/也笞也/治也/正/今時戰反/專?也二</hi>掾<hi>以絹反官名也必刃反棄也排也/?也</hi>?　?<hi>三俗/貢反/二/俗/正余制反又羊設反牽引拖?也三</hi>捩<lb/>
+<hi>郎計力結二反拗?也又琵琶撥也/今/正古代反滌也<graphic n="KR1092" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1092.png" mimeType="image/png"/>也又許/?反拭也<graphic n="KR1092" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1092.png" mimeType="image/png"/>音?/二同/俗烏半反手?也正作腕</hi>掛<lb/>
+<pb n="6a"/>
+<hi>俗通</hi>挂<hi>正古賣反懸/?也止也二</hi>挍<hi>音教撿?/又<graphic n="KR0690" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0690.png" mimeType="image/png"/>?也/二俗皮證皮?二/反依几也正作</hi>措<hi>倉故反舉?也投也</hi>捕<lb/>
+<hi>音??捉也</hi>援<hi>于眷反?衛護助/也又于願反亦姓</hi>按<hi>烏漢反抑/也安/也</hi>?<hi>烏困烏?二反以/手捺物之/?也</hi>撩<hi>力吊反治病也又?擲也又力鳥反扶也又力堯/反取物也</hi>捍<hi>音汗/?也</hi>扞<hi>音汗衛也以手?也又古旱/反?投物也/音厄展反/古文/音拜古</hi>
+                    <graphic n="KR2805" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2805.png" mimeType="image/png"/>
+<hi>二或作</hi>捃<hi>今居運反/也/拾也取也/四/薄報反鳥/伏卵也/俗</hi>?<hi>正余亮反揩摸拭?也二</hi>
+                    <graphic n="KR2076" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2076.png" mimeType="image/png"/>
+                    <hi>俗</hi>
+抃<hi>通</hi>拚<hi>正皮變反?/也三/?過反布也揚/也放也/?也</hi>揀<hi>練簡二音/?擇/也</hi>摜<hi>古患反?帶也</hi>擋<lb/>
+<hi>丁浪反摒?也/二俗音舊正作/柩屍在棺曰?/正/今作紺反手?物/也又子敢/反二/二俗正陟利反到也又?財也又陟里反/指也三</hi>挏<hi>俗音/洞</hi>摓<hi>扶用反切韻/勞灼龜兆也/莫貢/反</hi>?<hi>音惠/裂/也又卦也/俗音謝</hi>撌<hi>俗求位反?檻也又丘/位反/俗音/悟/或/作/正其記反/諱/也二/俗</hi>?<hi>正古浪古郎二反梢舁舉也二古文音亂理也/通</hi>擩<hi>正人注反?莝手進物也/又奴豆反/?不解也二/俗力刃反/正作?/所拜/反</hi>拚<hi>舊?作/古反也</hi>?<hi>方味反川韻云南人呼相/也</hi>?<hi>呼縣反/?/也/徒弔?反/同/掉/俗/蒲拜/反次火也/許既/反</hi>捸<hi>俗特計反正作</hi>
+<pb n="6b"/>
+<pb n="6b"/>
+<hi>下也又縣名亦人姓</hi>捔<hi>音角掎?也又/土角反攙?也</hi>搠<hi>俗音/朔</hi>握<hi>?角反持/也/把也</hi>搦<hi>女角反持也又尼白/反捉?也又正也</hi>
+                    <graphic n="KR2021" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2021.png" mimeType="image/png"/>
+<hi>蘇各反?模也</hi>插<hi>三/俗</hi>?<hi>正/今初洽反/?入也五</hi>扱<hi>初洽反引也取/也級也/也/俗</hi>掐<hi>正苦甲反捻也爪?也二</hi>掘<hi>渠物反穿斸也/<graphic n="KR1263" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1263.png" mimeType="image/png"/>音/陟玉反</hi>挹<hi>伊入反酌也斟也持/也又音邑鳥短氣也/伊入反?讓也進也/又相居反取水具也</hi>掇<hi>多括反拾?也又陟劣反亦拾取也</hi>搮<hi>力乙反以/手?物也</hi>攉<hi>古岳反揚?大舉/也又苦岳反擊也</hi>扮<hi>俗</hi>扴<hi>正古八反手指/?物也二</hi>抓<lb/>
+<hi>二俗</hi>擘<hi>正悲厄反分?也/以手治物也/三/音卓?也推/也又俗音掾/五/俗/正疾反?獲也欣也勝也成也疾也獵也六</hi>?<hi>俗</hi>挾<hi>正胡貼反懷/?持護也二</hi>拹<hi>二/俗</hi>拉<hi>正郎合反摧/折拗?也三/或作又竹聲正盧盍反与粒訓/同二</hi>搚<hi>与拉擸/俱同/又摺?相和也</hi>摺<hi>之?反疊也/又音拉敗也</hi>?<hi>才盍反擸?和雜也/又私盍反搕?糞也</hi>搕<hi>烏合反以/手??也又?糞也</hi>?<hi>常/?反柱杖/也又俗直<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>反</hi>搏<hi>?各疋各二/反皆?/也</hi>?<hi>五割反?也/又/才結反/五割反伐木餘?也皆俗正從木作?五</hi>拆<hi>二俗/音坼/普木反拂/?打聲也/二/俗</hi>搨<hi>正</hi>?<hi>通都盍/反/手打也又俗音塔四或作</hi>撻<hi>正他?反/打?也二/俗</hi>?<hi>正蒲八反?擢也盡也/又蒲未反/迴?也二/?目/也</hi>抉<hi>伊?反出也又挑也二<pb n="7a"/>他反除也誤也遺/也又徒活反解?也</hi>?<hi>烏括反取也又胡/官反/?摩/也</hi>揳<hi>先結反??/不方正也二</hi>?<hi>同上/?也二俗正莫結反?/也二/俗所六反/正作縮/音葉/度也又/音牒摺?也二/俗音/搦</hi>拂<hi>芳勿反/?也除也去也拭也</hi>擗<lb/>
+<hi>房益反撫心也/古</hi>搤扼<hi>二今音厄持/挽捉握也三</hi>挓<hi>俗知格反裂也/張也正作磔二</hi>?<hi>徒骨反/搪?也俗</hi>挬<lb/>
+<hi>正俗通蒲?/反按也三</hi>押<hi>音甲??也又/音鴨?署/也</hi>?<hi>楚草反扶?也又所草反?/擇取物也又所去反裝/也</hi>捻<hi>奴貼反指?也</hi>
+                    <graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>
+<hi>音雹相?也/音/?/二/俗/或/作</hi>拓<hi>正音託手/承/物/也又姓又之石反四</hi>摑<hi>古?反挻?打/也或作/二</hi>撤<hi>直列反除去壞?也又發?也</hi>?<hi>之六昌六二反?/止也樂/?也/音滅手拔/也摩?也</hi>?<hi>音未?/摋麋也/音/?/?也</hi>揥<hi>他歷反手挑?也/又丑列/飾也</hi>
+?<hi>女角反?也又奴豆反柱/也</hi>摝<hi>音鹿/振也/渠列反/強暴也</hi>捇<hi>呼?反?掘土也經/音義又丑格反開也</hi>掝<hi>呼?反?裂也</hi>?<lb/>
+<hi>徒結反捎取也又音弟取也又音帶搥也</hi>扑<hi>普木反打?/也又俗音朴</hi>撅<hi>居月反/撥物也/託頓/二音/或/作</hi>捊<hi>正郎括反手也也摩也取也或作乎下又俗他得徒得二反二</hi>?<hi>俗/正他得反擊也/又俗音特/二/二俗其月/反正作/盧/葛反撥?手披物也</hi>?<hi>二俗</hi>
+捏<hi>正年結反捻也捺也三/舊?作/音張草反/普活反/艾?也</hi>攃<hi>蒼葛反足動/草聲亦揩也</hi>抶<hi>丑栗反/?打也</hi>挌<hi>音格<pb n="7b"/>打也又音恪亦擊也也/又止也正也</hi>
+                    <graphic n="KR2062" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2062.png" mimeType="image/png"/>
+                    <hi>苦擊苦弔二/反旁擊/也</hi>撽<hi>胡狄反符?說文二尺/書也又苦吊反旁擊也/俗/正苦結反?提也持也又苦計反手/也二</hi>?<hi>俗/正普未反/推?也二</hi>
+                    <graphic n="KR1721" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1721.png" mimeType="image/png"/>
+                    <hi>普厄反射/中聲/也/俗/正/末反逼/也又排也二/俗同上二俗音必正作???羅/花樹也/經音義作蹴于六反指?也應是?/字音式六反拾也在阿含經弟九卷/郎?/反俗</hi>?<lb/>
+<hi>正今式六反/拾也/三/阻立反/?斂也</hi>?<hi>音朴擊也又/音雹打聲也</hi>抇<hi>?骨反牽/物動轉也</hi>拮<hi>音古?据手病/又音結義同</hi>挃<lb/>
+<hi>徒結反<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>也又/陟栗反撞/也</hi>抈<hi>音月折也又俗五活反正作相去樹皮也</hi>?<hi>胡結反捋取/又<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>結/反/蒲北方/擊/也</hi>?<hi>音筆也二同舊?作?在阿育王壞目因?經也</hi>摭<hi>之石反拾/也又作拓/紀逆反/持/也/古/反/丁結陟栗二反/撞也与挃/同/居玉反持也</hi>?<hi>?骨奴困二反?/?按物/水中也</hi>摵<hi>子六反到也又所/責/反殞落/?</hi>搭<hi>音塔摸?又/音荅/打也</hi>扢<hi>居<graphic n="KR2151" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2151.png" mimeType="image/png"/>古忽?骨古代四反昔摩也</hi>擽<hi>音?擊也</hi>搰<hi>胡骨反/掘地也/俗</hi>?<hi>正張?反/置/也二</hi>?<hi>音雪滅/?也</hi>撫<hi>俗音/亦/俗/正千木反玉篇促也二</hi>
+                    <graphic n="KR3301" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3301.png" mimeType="image/png"/>
+                    <hi>与即反/拭/也/俗古/?/七入二反</hi>?<hi>子雪反手/??/也/二或作似?/反拔/也二</hi>?<hi>音列也</hi>?<lb/>
+<hi>音木曰?</hi>抾<hi>去劫反/挹也/子列反/摘去也/胡結<graphic n="KR0849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0849.png" mimeType="image/png"/>結二/反束縳/也/俗/或/作/正昨?反手?也四</hi>
+<pb n="8a"/>
+<pb n="9a"/>
+螽<graphic n="KR0977" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0977.png" mimeType="image/png"/>
+                    <hi>二正音終?蟴虫名也五</hi>蟴<hi>音斯/?/也</hi>蚣<hi>俗</hi>虹<hi>正音紅?蜺也又/音降青/?也二</hi>蛟<hi>音交?/龍也</hi>螻<hi>上音婁下音孤或云仙蛄蟪蛄石皆/螻姑之異名也</hi>?<hi>俗</hi>螭<hi>正丑知反無/角龍也二/音毗/虫名/古/或/作</hi>蚍<hi>今音毗蜉也四</hi>蜉<lb/>
+<hi>音浮蚍?/也/俗/俗/通</hi>融<hi>正以戎反知也/朗也又姓也三</hi>?<hi>二/俗</hi>螈<hi>古</hi>蚖<hi>今愚袁五官二反蠑?守?蚚蜴蝘蜓四種異名也四</hi>蜈蚣<hi>上音?下音公蝍蛆?蜒/也/能制?下又音鍾蟲/螽虫也</hi>蚰蜒<hi>上音由下音延江南大/者蜈蚣小/者??也/俗</hi>蝣<hi>正音由蜉?也朝出暮死虫或/作?二</hi>蠑<hi>音??蚖蚚/蜴?名/也/俗音/公/俗</hi>螝<hi>正居追胡對/二反蚕蛹也二</hi>蟬<hi>音蟬蜩也不食之虫仲夏月?始鳴也</hi>螇<hi>音兮?螰虫/名/似蟬也</hi>?<hi>邊奚反/牛虱也</hi>蠅<hi>余承反蒼/?虫/也</hi>螟<hi>莫經反?蛉?虫也/毛詩云食苗心虫曰?</hi>蛛<hi>音/蛛蜘?也或作徒登徒得二反正作/<graphic n="KR2048" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2048.png" mimeType="image/png"/>二字食禾虫也</hi>蜪<hi>徒刀他刀二反?/疋云蝗/子/也/俗/通/正五?反蟹?也三俗</hi>?<hi>正音?蛷?也/二/俗</hi>蛷<hi>正音求?/虫名/也二/舊?/作螗</hi>蛇<hi>弋支反逶?也?/子云?衣朱冠也</hi>蝭<hi>啼帝二音寒蟬鳴也</hi>蛇<hi>古</hi>?<hi>正食遮反/毒虫也又姓又弋支/反?丘地名又音也亦人/姓二/或/作</hi>蜱<hi>正符支反蛸蟷也/又??反亦虫名</hi>蠰<hi>音霜齒?蝎虫也又傷餉二音</hi>蟷<hi>音當?蜋/亦螗蜋也</hi>蛸<hi>音梢?子喜子也又音消/?/虫即<graphic n="KR2159" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2159.png" mimeType="image/png"/>蟭也又長?蜘蛛又姓</hi>蟯<hi>音饒人腹中虫又去消反<pb n="9b"/>二俗</hi>螵<hi>正符消疋消二反/?蛸/虫名也三</hi>?<hi>蘇凋反?蛸/長攲?虫也/二/俗</hi>蛔<hi>或/作/今音?人腹中?虫也四</hi>蝤<lb/>
+<hi>音由木中虫也又即由疾由二反?蛑似蟹而大生海邊/也</hi>?<hi>或/作</hi>蛑<hi>今音牟蝤?/似蟹而大二</hi>蛉<hi>音/零/虫名也/汝占反大?也</hi>蛅<lb/>
+<hi>汝占反黑?食檀木虫也</hi>螐<hi>音烏蚅?蠋虫/大如指白色也/莫汪反/螻蛄也</hi>蠐<hi>上音齊下音/?虫名/也</hi>蟥<hi>音?/?蛢音蒲結反</hi>
+蛢<hi>音瓶以翼鳴虫/或/作</hi>蟾<hi>正?廉反?蠩蝦?/也/又視廉反?光月彩也二</hi>蠩<hi>音諸踞?一頭數尾長二三尺/左右有/??如蚕可/食也</hi>蜍<hi>署魚反?也又音余蜘蛛也</hi>[加/虫]<hi>音加米/中虫也</hi>蟛?<hi>音彭?蝟似蟹/而小也二/同/俗/或/作/今音移?疋云蝓?螺<graphic n="KR1109" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1109.png" mimeType="image/png"/>也又音斯守??名也三</hi>
+?<hi>音其蟛?似蟹而/小也</hi>蚐<hi>俗/或/作/正直尼反/蟻卵也三/俗尺之反正作嗤?也音/義敕之/反香嚴寺之反</hi>蝯<hi>音爰亦猴年五百?化?玃</hi>螉<hi>烏紅反蠮?/也蠮音/噎</hi>蝖<hi>音喧蠀/螬也</hi>蠀<hi>取私反?/螬蝎化也</hi>
+                    <graphic n="KR4272" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4272.png" mimeType="image/png"/>
+                    <hi>二或/作</hi>蛬<hi>正渠容/居悚/二反蟋蟀也三</hi>蛩<hi>渠容反?巨也</hi>蠊<hi>音廉蜚/?虫名/正</hi>蟫<hi>今徒含反衣/中白魚也二</hi>蟡<hi>為反涸水精一身兩/頭似?可取魚?/也</hi>蜲<hi>?為反?蛇也</hi>蚵<lb/>
+<hi>音何蛶蠪</hi>蝑<hi>相居反/蜙?也</hi>蜙<hi>息恭反?/蝑虫名也/俗/正部田符/?/二反?珠也二/音</hi>?<hi>音咸海虫/可食/也/郎禾郎果二反/二或/作/今音秋次?/也/三/音/因</hi>蝚<hi>音柔/虫名也/渠惟反/虫名也</hi>蜊<hi>力脂反/蛤?也/音?蝗子<pb n="10a"/>也一曰蟻子</hi>蝩<hi>直容反蚕晚生者也又/?容反?<graphic n="KR0977" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0977.png" mimeType="image/png"/>虫/名也/俗?/交/胡刀二反</hi>蛝<hi>閑根二/音虫名/所江反/虫/名</hi>?<hi>音侯/虫也</hi>蟼<hi>音??蛙也</hi>
+<graphic n="KR2171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2171.png" mimeType="image/png"/>
+                    <hi>音啼螗?小蟬/也/俗煩盤/二/音</hi>?<hi>音/豕/掘地也</hi>蜻<hi>音青?蜓亦蟪蛄?/名也又音精?蚙也/力<graphic n="KR0825" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0825.png" mimeType="image/png"/>反虫名也</hi>蚶<hi>呼談/反<graphic n="KR1109" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1109.png" mimeType="image/png"/>
+                    ?也</hi>蟉<hi>正/通渠幽反?幽龍/也又音聊/也二</hi>?<hi>渠幽居幽二/反無角龍也/都聊反?蟉/茅中小虫也/音離分破也又/音亦刀?也音?同?螏?/也</hi>?<hi>同/上</hi>蝓<hi>音俞/?蝸/牛又神朱反</hi>虷<hi>胡安反?蟹/一名蜎虫也</hi>蚷<hi>俗</hi>螶<hi>正音渠獸/名/也二俗或作</hi>?<hi>今徒紅反/鳥虫名三/或/作</hi>蟭<hi>今音焦??/螗蜋卵也二</hi>?<hi>??反蚕/初生/也/或作音蛾/蚕/?也</hi>蚿<hi>音賢馬?虫也一曰百足</hi>
+<graphic n="KR3087" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3087.png" mimeType="image/png"/>
+                    <hi>音錢鳴?也/本集作蛛蛭二字/經音義作?非也</hi>?<hi>音王?孫虫名?一/名蜻蚓即今促織也</hi>?<hi>或作力/脂反</hi>蜛<hi>音居?蠩也</hi>?<lb/>
+<hi>音無也</hi>
+                    <graphic n="KR2708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2708.png" mimeType="image/png"/>
+                    <hi>音風玉篇/虫/窟也/音/沙</hi>螓<hi>音奏蜻虫似/蟬而/小?</hi>蠜<hi>音煩蛗/螽虫也</hi>蠪<hi>音籠赤駮如狐/九尾爪音如小?食人名??又虰蟲亦獸名也</hi>虰<hi>丑丁反/蠪?也</hi>上聲蠢<hi>赤尹反出也作也動?/?也又与偆惷四同二/姑五反?毒媚惑也蠹神也蠹音都固反又音野二</hi>蠓<hi>莫孔反/蚊?也</hi>蟣<hi>居豈反/蝨子也</hi>蜚<hi>非尾反咸?虫也又扶沸反神異經/云南方蚊翼下有?虫生於九卵子復生九而俱去蚊亦不知也明目者見之又古飛/字/今/古音/早/?也二/俗</hi>蚪<hi>正音斗蝌/?虫也二</hi>蟻<hi>魚綺反大曰蚍蜉小曰?子二</hi>蚓<lb/>
+<pb n="10b"/>
+<hi>音引蚯?/也</hi>
+                    <graphic n="KR1109" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1109.png" mimeType="image/png"/>
+                    <hi>二/俗</hi>?<hi>通</hi>蚌<hi>正白項反/?蛤也四</hi>?<hi>古典反/蚕衣也</hi>蠕<hi>二/俗/通/正而?反虫動?又而?反?蠢/虫名也四</hi>?　<graphic n="KR3939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3939.png" mimeType="image/png"/>?<hi>四/俗/正莫朗反?/大?王也五</hi>蛘<hi>羊掌反痛?也又/蟻名与癢痒亦同</hi>?<hi>俗</hi>蚡<hi>正房粉反??也与鼢同又平聲二/音婦?/螽虫也/俗/正於典反/?蜓也二/二/俗</hi>蜓<hi>正徒典反守?異名/也又音廷蜻?也三/於?反?蟻蚯蚓也</hi>
+蛹<hi>余隴反蚕?也/音?大/?名也/音?小/??也</hi>蚥<hi>音甫蜛?螳蜋?名也/又音父蟾/蜍?名也/俗</hi>蜢<hi>正音猛蚱/?虫名二</hi>?<hi>或作</hi>
+蜆<hi>今音現赤頭?虫一名縊女善自縊也又音顯小虫也二</hi>?<hi>音管/雨/下虫名也/余兩反/虫/?</hi>蜄<hi>俗</hi>
+                    <graphic n="KR1849" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1849.png" mimeType="image/png"/>
+                    <hi>正</hi>蜃<hi>今時忍時刃二反海?大蛤?也三</hi>
+<graphic n="KR2114" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2114.png" mimeType="image/png"/>
+                    <hi>上音暑下音負??虫名/俗音里/魚/名</hi>?<hi>上音/下音兩??/虫名也又石之精也</hi>?<hi>呼罪反土?毒/虫也又俗音?/二俗音險</hi>
+蝺<hi>舊?作瑀音雨石似玉也</hi>蟢<hi>音喜?/子虫也</hi>蜾<hi>音果?/羸虫名/許兩反/虫?也/巨豈反蟬也</hi>
+去聲螚<hi>奴代反小??也</hi>螮<hi>音帶?/蝀虹也</hi>蚋?<hi>而稅反蚊?也/下又而?反二</hi>蠆<hi>今</hi>?<hi>正丑芥反毒虫也二俗</hi>?<hi>古</hi>蠹<hi>正當故反食木虫也/三/音惠?/蛄也/他外書芮他?亦雪/四反皆?蟬昜皮也</hi>?<hi>音眷?蠾?名也</hi>蠣<hi>力制反蚌/蛤/屬也</hi>?<hi>俗/正音次虫似/也二</hi>蚝<hi>七志反?毛/虫有毒/也</hi>?<hi>良刃反/熒火也/音射/虫名/音愛</hi>
+<pb n="11a"/>
+?<hi>音造</hi>蛀<hi>二或/作/今音注/虫名三/舊/藏作<graphic n="KR4634" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4634.png" mimeType="image/png"/>/蘇到反疥?/舊?作/蘇因反?水/舊?作嗽/蘇奏/反/香句反?蚕也/苦到反?/<graphic n="KR1298" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1298.png" mimeType="image/png"/>蝎/虫</hi>螅<hi>俗去例反正/作憩/息也</hi>蜡<hi>鋤嫁反年終/祭名与<graphic n="KR3666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3666.png" mimeType="image/png"/>同</hi>?<hi>或/作</hi>?<hi>正蔗隻二音<graphic n="KR2114" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2114.png" mimeType="image/png"/>/蝜虫名也二</hi>蟃<lb/>
+<hi>音万螟蛉虫也/失亮反?/?虫/也</hi>蟦<hi>扶沸反蠐/螬虫/也</hi>蝟<hi>音謂虫名毛/如針又彭?/或/作</hi>?<hi>正音進虫名二音務?/名也二同/經音義/同/餌</hi>蠫<hi>郎計反割/破/也又俗音螺二</hi>?<hi>俗音/貝同/丑芥反毒?也二</hi>
+入聲<hi>二俗/或/作</hi>螫<hi>正施隻反又呵各/反/虫行毒也四/二或/作/正呼各施隻丑略三反虫行毒也三俗</hi>蠍<hi>正香謁反/螫人虫也二</hi>蝎<hi>音曷/虫名/也又俗同上</hi>蠈<hi>層則反食禾虫也/?疋云食節曰?/五俗</hi>
+蝨<hi>正音瑟蟣?/也六/俗/正音特食/禾虫也二</hi>蝠<hi>音福蝙/?/也/俗音/?/上音織下音墨方言云蝙蝠異名也</hi>
+蛺?<hi>古?反?也二同/正/今徒?反/蛺?也二/俗</hi>蛭<hi>正音質水/??也二/俗</hi>蜴<hi>正音/亦蜥?也二俗</hi>蜤<hi>二或作</hi>蜥<hi>正先?反/?蜴也四/先?反/?/也/音/覓</hi>?<hi>奴葛反?螫/也又知列反/俗/正音色虫名也二</hi>螰<hi>音鹿螇?虫名蟪蛄也/古?/反螇/?水虫名也</hi>蚸<hi>音??疋/二?虫名也/俗/正他?反/??也二</hi>?<hi>正/俗郎葛反??也二</hi>
+<pb n="11b"/>
+<graphic n="KR1853" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1853.png" mimeType="image/png"/>
+                    <hi>音積虫名/也/或/作</hi>螏<hi>今音疾?/?也二/魚列反虫蝗/鳥獸之?也</hi>蟘<hi>他德反/虫名也</hi>蟄<hi>直立反虫/??也</hi>?<lb/>
+<hi>莫結反?<graphic n="KR3447" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3447.png" mimeType="image/png"/>小虫/風春雨磑/者也</hi>虴蛨<hi>上知格反下莫百反/虫名也</hi>?<hi>音憶小/蜂/也</hi>?<hi>俗/通/正盧盍反/?也二</hi>蚱<hi>音責?猛虫也直炙反</hi>蠋<hi>直玉反/?虫名又之/欲市玉二反皆虫/名/音或虫名短爪?如?三四寸有三/足含砂射人?則為害也又音/域</hi>蚅<hi>音厄?蠋大如指似蚕虫也/之欲反蚩?又/音蜀/也</hi>?<hi>奴勒反虫名似?而/小青班色齧/人也/俗/正蒲結反/蟥蛢虫二</hi>?<hi>渠竹反蟾蜍?名也</hi>
+<graphic n="KR2104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2104.png" mimeType="image/png"/>
+                    <hi>子六反蝍?蚇蠖也</hi>蚇蠖<hi>上昌石反下鳥郭/反丁?出伸虫也</hi>蠮<hi>烏結反?螉細/腰蜂也螉音翁/音?渠?朝/生暮死虫也</hi>蛶<hi>音劣?疋云?珂虫也又郎活反/義同</hi>蟋<hi>音悉?/蟀蛬也/或/作</hi>蟀<hi>正音率/蟋?也二</hi>?<hi>音截?似蟹/生海/中也</hi>
+                    <graphic n="KR2578" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2578.png" mimeType="image/png"/>
+                    <hi>音?石?虫形似龜?得春雨即生?石上也/知列反今/作蜇/同</hi>?<hi>毗必反/?蜂也</hi>?<hi>或/作</hi>
+                    <graphic n="KR1914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1914.png" mimeType="image/png"/>
+                    <hi>正/列反/?/似蟬而小也二/音??/虫名</hi>蛚<hi>音列蜻?/蟋蟀也</hi>?<hi>音舌?蛈蟪名也</hi>蝍<hi>即節二音?/蛆蜈蚣也/正音瓦蛤/蟹?/也/俗同/上</hi>蝁<hi>烏各/反/?名二同</hi>蚗<hi>古穴反??/蟪蛄虫名也</hi>?<hi>尼質反小虫也</hi>
+                    <graphic n="KR0630" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0630.png" mimeType="image/png"/>
+                    <hi>女力反虫/食/病也</hi>螲<hi>陟栗反螻/蛅物/也</hi>蛣<hi>去吉反?/虫/名/音/?/俗魚/列反</hi>
+                    <graphic n="KR3823" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3823.png" mimeType="image/png"/>
+                    <hi>俗音/特/音/弋虫?也</hi>
+<graphic n="KR2547" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2547.png" mimeType="image/png"/>
+                    <hi>正</hi>蛤<hi>今古合反<graphic n="KR1109" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1109.png" mimeType="image/png"/>/也二</hi>蟆<hi>音/莫小/蚊也二同</hi>蝮<hi>芳福反??也色如/綬帶最毒/或云<graphic n="KR3280" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3280.png" mimeType="image/png"/>/俗音?/正作</hi>
+                    <graphic n="KR2159" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2159.png" mimeType="image/png"/>
+                    <hi>布各反?蜼螗蜋外<pb n="12a"/>也音/哲</hi>蝃<hi>音拙蛛也</hi>
+︻水部第三淹<hi>?炎反??也?也滯也漬也敗也/也</hi>洴<hi>音瓶澼?也/澼音普的反</hi>湔<hi>則前反洗也又/音箭亦水名</hi>?<hi>俗正音???也?也沉也深也/止也二</hi>沿?<hi>音???也順流/而下曰?/二同</hi>?<hi>俗音/?</hi>??<hi>三/俗今</hi>?<lb/>
+<hi>正似延反口液也五/俗/正音魚燧人之?天下多/水故教以?又水/名二</hi>浮泡<hi>上伏牟反下音?浮?也/漂也泛也泡水上浮漚也</hi>沮<hi>子魚反?渠覆姓也又側魚反亦姓又七余反水名又慈?反止也壞也濕也/俗/古/正常倫/反/清也/也三/古侯反?渠水瀆也</hi>洲<lb/>
+<hi>音州?渚也水中可居曰?也/俗</hi>濡<hi>正人朱反霑?也/漬也又水名二</hi>濺<hi>則前反水疾流?也又/音箭?水相?/灑也</hi>滋<hi>子之反蒔/也多也?也二日也又水名</hi>?<hi>音/烏水/流?也四</hi>濨<hi>音慈間/水也</hi>泓<hi>烏宏反?水/染/?也三</hi>?<hi>俗正</hi>漂<lb/>
+<hi>今疋昭反浮也三</hi>灤<hi>落官反/水名也</hi>滔<hi>音叨水流/?又漫也</hi>淪<hi>力/反?/也/漬也</hi>渾<hi>?昆反又胡/?/反元也</hi>漘<hi>食淪反水際也正今音?水/際畔也二</hi>湖<hi>音/胡大陂/曰?江?也</hi>潮<hi>直/反江/海水?也</hi>涯<hi>五佳反水/際邊也/徒含反火<graphic n="KR1842" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1842.png" mimeType="image/png"/>深清澄淨曰?又水名</hi>
+汾<hi>符分反水名也</hi>?<hi>俗/正徒刀反大/波曰?也二</hi>濃<hi>女容反/?厚也</hi>淋<hi>以水/也</hi>?<hi>音林水出/?也三</hi>瀾灡<lb/>
+<pb n="12b"/>
+<hi>落干反/大波也二</hi>
+                    <graphic n="KR1272" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1272.png" mimeType="image/png"/>
+                    <hi>力應反?也/又水名亦姓</hi>洋<hi>音羊水流盛大?/也又音祥/水名</hi>?<hi>俗</hi>游<hi>正音由浮也/?/水流?也又姓二</hi>滂<hi>普郎反?滿溢也/側加反/水/名/七何反水/名又同上/音豪城?/也又水名</hi>漳<hi>音章/水名</hi>潢<hi>音?積水池也又去聲染?也古文音供</hi>漚<hi>烏侯反/浮?也</hi>浸<hi>今</hi>
+                    <graphic n="KR1171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1171.png" mimeType="image/png"/>
+                    <hi>古七林反???雨?也又子/禁反?漬也又?氣/清也二/今/正余/針反/?雨?也二</hi>涑<hi>速侯反洗浣也又七亦反水/名也/音冥/也?海/也又与/瀴同/今/正古侯反/通水於川曰?二</hi>湍<hi>他官反急/?也逝/?也又音<graphic n="KR0825" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0825.png" mimeType="image/png"/>水名也</hi>
+湑<hi>相居反落也又露?也三</hi>濰<hi>音維/水名/於容反/水名/二俗/音泡</hi>?<hi>音官/縣名</hi>渦<hi>古禾反水名也又烏禾反女王國名/烏禾反水/???也/徒紅反水名/亦水/?也</hi>溏<hi>音唐/池也</hi>湲<hi>音?潺/?也/俗/通/正他刀反水名出西又清太也三</hi>?<hi>音終小水入大水也/又在公反??水也</hi>濆<hi>普門反潠也又音/焚水際也又水名/汝羊反/露濃也/正</hi>?<hi>今所姦所枝二反出涕?也二</hi>汪<hi>烏光反渟水也又/水深廣大也又姓</hi>洸<hi>光汪二音/水名/也</hi>汒<hi>莫郎/反谷/名右涼兆也</hi>茫<hi>莫郎反/滄?也/或作</hi>
+滄<hi>正錯剛反?浪也亦州名也二</hi>沱<hi>音?江/?名也</hi>池<hi>音?呼?水/名又音/馳</hi>汧<hi>音牽水名也又苦/見反泉出不流也</hi>泙<hi>音平水名也於支反水波文/也</hi>漣<hi>音連?漪風/動水/?也/玉?反/水名也</hi>湮<hi>音因?沉/下落/也/或/作</hi>灘<hi>正他干反水?也又涒?太?在申曰涒<pb n="13a"/>?也下又奴桉反/水奔也二</hi>涒<hi>他昆反?灘/太歲在申也</hi>沂<hi>魚衣反/水名也</hi>?<hi>音諸水/名也</hi>?<hi>俗</hi>涔<hi>正鋤針反?陽也名又管?山名也亦養?又取魚也又/牛馬跡有水曰?也二</hi>漩<hi>正</hi>?<hi>今似泉似絹二/反水回?也二/二/俗/二正音遲水名也下一又音脂/亦水/名又音/紙/著止也四</hi>湫<hi>啾秋二音大水池名/也又子小反?隘也</hi>涪<hi>音浮/水名</hi>淆<hi>?交反混/?濁水也</hi>?<hi>古玄反水流/?也/又姓</hi>湝<hi>音皆水流?也</hi>
+?<hi>力追力水二反水名</hi>?<hi>音終/水名</hi>渝<hi>音俞?變也/又水名州名/音臻/水名/徂紅反/水聲也/魚衣反??山狀?</hi>洢<lb/>
+<hi>音伊水名</hi>浟<hi>音由水/流?也/羊朱反/汙?</hi>澪<hi>音/零/二/俗/或/作</hi>淄<hi>今側持反水/名州/名四/於今反水名</hi>?滹<hi>音呼水池又/水名二/同</hi>?<hi>?公反/水道也</hi>渱<hi>音紅潰?/水沸湧也/舊?/作澆</hi>
+                    <graphic n="KR1413" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1413.png" mimeType="image/png"/>
+                    <hi>音/水/古文乾字</hi>
+洵<hi>音荀水名又音旬均也龕也又呼縣反亦水?</hi>?<hi>舊?作/非字</hi>
+                    <graphic n="KR1935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1935.png" mimeType="image/png"/>
+                    <hi>占堯反/与澆同/舊藏/作流</hi>淒<hi>音妻/雲?</hi>沾<hi>張廉都念二反水名</hi>浤<hi>?/萌反??/汩?水波勢</hi>渹<hi>呼萌反水名又/水聲/亦大也/昨心徐林/二反水名/博昆疋奔二反玉篇云水/汲也香嚴又烏反水不行也/二/俗/今</hi>漻<hi>正音聊水/清/也四</hi>澐<hi>音云江水/大波曰?</hi>瀧<hi>?江反南人名湍也亦州名/又音雙水名又音籠?凍沽漬也/音</hi>?<hi>音泉/水名/音還/水名</hi>淜<hi>二或/作/正皮水反說文云/無舟渡河/也三</hi>淦<hi>古南反水入?也又<pb n="13b"/>音紺新?縣名</hi>溈<hi>音為/水名</hi>?<hi>居為反水/名又音為</hi>淇<hi>音其/水名</hi>?<hi>俗</hi>潺<hi>正示閑士連二反/?湲水流?也二/音交</hi>
+灕<hi>力支反埤蒼/云水滲入地也</hi>漓<hi>音離林?秋水也又/玉篇水滲入地/也/音云/水名/俗看延/二/音/音/盈大海亦州名七余反水/名/俗音/交</hi>沖<hi>直弓反/和/也</hi>汀<hi>他丁反水/際平沙也</hi>灣<hi>烏開反水/曲/流也</hi>溶<hi>音容水名也/又音勇水?/許?反水名</hi>泔<hi>音甘米/汁/也</hi>?<hi>古</hi>泅<hi>今祥由反人浮水上/也又小兒?水也二</hi>湟<hi>音皇/水名</hi>澧<hi>音豐水名又音/?亦水名亦姓</hi>洙<hi>音殊水名/音/蓬/普官/反淅/米汁也又姓/?/或/作/今孚袁反/米汁也三/俗</hi>?<hi>正徒何反滂?水?水出為?也又徒可反潰?沙水?/??二</hi>湓<hi>蒲門反水/在潯陽一曰水/漏也又疋問反含水/?也</hi>
+                    <graphic n="KR0697" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0697.png" mimeType="image/png"/>
+                    <hi>省</hi>?<hi>正音澄?凝又待清/亦清甚也与澄同二/莫江反水名</hi>?<hi>音?渺?水?</hi>澎<hi>音彭?水/勢又地名</hi>漮<hi>音康/水名也</hi>涂<hi>音徒/水名</hi>湡<hi>音愚齊藪名/又小?水名/俗音/瓶/音水名又俗音?/俗</hi>?<hi>正音充水/聲/也二</hi>?<hi>二古文/流/字</hi>?<hi>音/?河縣/名又都?反</hi>?<hi>音傷/水名</hi>浾<hi>側加反染棠木汁也又子外反/則郎反/水也二</hi>洳<hi>音如水名又/人恕反沮?</hi>?<hi>音均/水名</hi>?<hi>音逢/水也</hi>涳<hi>音空?濛/細/雨也</hi>湞<hi>宅耕反水/名出南海又音貞亦水名也</hi>浭<hi>古行反/水/名/正/今音/水勢也下又/許拱反?溶水?二</hi>汍<hi>胡官反?/瀾泣淚也</hi>泭<hi>芳/無反小木?也</hi>潼<lb/>
+<pb n="14a"/>
+<hi>音同水名閞名又衝通二音河?也</hi>瀟<hi>蘇凋反/水/名</hi>??　灁　?<hi>七/俗/正烏玄反深也又泉水不流者曰?又姓八</hi>洈<hi>音危/水名</hi>?<hi>上音/雖下音/微??小雨也/音肥/水名/音/水如/臨目也/又水草交曰?也二</hi>瀏<hi>音流水清</hi>
+淙<hi>才宗反水/聲</hi>?<hi>俗音/浮</hi>湹<hi>直連反/水/名</hi>洏<hi>音而漣?/涕流/?/俗</hi>?<hi>正子?反?洽漬?也又泉水出微?二</hi>
+                    <graphic n="KR1485" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1485.png" mimeType="image/png"/>
+<hi>胡刀反/而由/反/音/紅</hi>洨<hi>交爻二音水/名縣名/也</hi>溓<hi>勒兼反大水中?小水/出曰?又力忝反薄水</hi>濂<hi>勒兼反/薄也/或作</hi>
+淭<hi>正音渠?挐二</hi>沋<hi>音尤/水名</hi>?<hi>音來/水名</hi>漕<hi>音曹/邑名</hi>湛<hi>直深反普大也又直?/反安設也又徒/感反/?公反音春三同</hi>上聲沈<hi>音審國名也又姓也又/音沉?也止也与沉同</hi>涌<hi>音勇/滕也</hi>灑<hi>所解所/綺所寄所賈四反?掃也</hi>
+減<hi>耕斬反?少也耗也又行濫反俱通</hi>?　渚<hi>之暑/反水涯/也沚也遮也三</hi>澡<hi>音早?治也/盥也洗/也</hi>澫<hi>午口反蓮?也</hi>澹<lb/>
+<hi>徒敢反?水?也又恬靜也二</hi>淡<hi>徒敢反/?水/滿?也又音琰/俗/音講/?水流也</hi>港<hi>正同/上</hi>溥<hi>音普廣/也大也</hi>浦<hi>音普??也大水有小口曰?又姓</hi>涵<hi>胡感反水入?也/又胡南反?冰也</hi>滔<hi>二同上和泥/也又/深也</hi>混<hi>胡本反?/?陽/未/?而為一也</hi>滓<hi>阻史反穢也澱也俗</hi>澣<hi>正</hi>浣<hi>通胡管反濯也洗?也三/俗/古文莫孔反?澒/無知也又与濛同二/莫孔反?澒大水?又平聲涳?細<pb n="14b"/>雨也</hi>澒<hi>胡孔反?水銀滓/也又濛?与鴻同/俗</hi>洒洗<hi>二正先?反滌浣?浴也/又音跣姑?律名也/三</hi>滉<hi>胡廣反?/瀁水?也通正???二反滅也/?也盡也又水/?二/乃頂乃定二反/泥?又/浞也</hi>瀴<hi>莫頂反?涬大水/?也又作溟/同</hi>涬<hi>胡頂/反瀴?也又逄孔反</hi>?<hi>通</hi>沔<hi>正??反漢水?名又郡名二</hi>湎<hi>??反/?也</hi>涊<hi>年典反淟?也/又音忍水名也</hi>淟<hi>他典反?涊/?酒滓濁也</hi>
+                    <graphic n="KR1842" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1842.png" mimeType="image/png"/>
+                    <hi>之少反池?也</hi>
+                    <graphic n="KR1071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1071.png" mimeType="image/png"/>
+                    <hi>俗/正莫朗反?沉通俗/文云水廣大?也二/通</hi>沆<hi>正</hi>沉<hi>今胡朗反<graphic n="KR1071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1071.png" mimeType="image/png"/>?也亦?/北方之氣也下一又直深反?也止也三</hi>
+澥<hi>胡買反渤?海之別名又水?/也/徒本反/混?也</hi>澿<hi>渠飲渠禁二/反身寒?也</hi>潬<hi>徒旦反水中沙?/也又俗/他丹反</hi>泫<hi>玄犬反露光也又?然流?也/俗/通</hi>泚<hi>正千?反水/清?也二</hi>
+                    <graphic n="KR1566" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1566.png" mimeType="image/png"/>
+                    <hi>?/有反?/也/又所休反小便也</hi>?<hi>安古反/水?也/舊藏/作陛</hi>淲<hi>俗</hi>汻<hi>或/作</hi>滸<hi>正呼古反水岸也又水聲也三</hi>?<hi>音買水/名/也</hi>漊<hi>力主反雨??也又汝/南人謂飲酒?為?也</hi>潣浼<hi>音?水流/平?二同</hi>?<hi>烏?反汫?小水?</hi>
+汫<hi>徂頂反??也玉篇又口冷反??/徒冷反小水?切韻徒/頂反/寒/音巨井反</hi>沝<hi>之累反二/水流合也/古文/音似</hi>淼<hi>名小反大水也</hi>沛<lb/>
+<hi>子?反水名与濟同</hi>?<hi>或/作</hi>潕<hi>今音武水名/在/南陽二/俗音/?/俗郎果郎/?二/反</hi>湤<hi>徒可反沙水?/?/?与?同</hi>灝<hi>胡老反?漾水勢/?也/或/作/正徐兩反??也又徒/朗反水/大之?也二/或/作</hi>汱<hi>正古犬反墜也伏水/也又/音大濤?二</hi>?<hi>俗他口反<pb n="15a"/>音掩雲雨/?</hi>?<hi>音聚水聲/亦去/聲</hi>渺<hi>敷沼/反?溔/水名/亡小反</hi>溔<hi>羊沼反浩/?大水也</hi>?<hi>胡了反水/渺?/?</hi>潽<hi>音普玉篇云水也香嚴俗蒲鑒/反/或作/音海/蘇果反/水/名/或/作/正以轉反濟/水?名也二</hi>?<hi>徐?反/水浦也</hi>?<hi>徐?反溝水亦除水</hi>
+汕<hi>音?魚浮水上也又所晏反魚?水上也/正</hi>?<hi>通百買反/水名/二</hi>泱<hi>烏朗反滃?水?又/?/良反亦水流?</hi>滃<hi>烏孔反大水?</hi>瀉<lb/>
+<hi>悉也反?水又司夜反吐?也又音昔?土也</hi>涘<hi>床史反水/岸/涯也</hi>浘<hi>音尾水流?又?/閭海水淺/?也</hi>溤<hi>音馬/水名/莫梗反</hi>滬<lb/>
+<hi>音?水名靈龜負河圖出?也/?/古文徒朗反正/作/盪滌?二/直里/反</hi>渳濔<hi>綿婢反水/流?二同</hi>瀰<hi>音?水流?也音弭川韻流水?郭氏又/俗羊祥二音</hi>滻<hi>音?/水名</hi>沚<hi>或/作</hi>?<hi>正音止水渚也又止也/小可以?息其上也二/音父/水名/音頂?濘水?/奴管反湯也又奴/亂反浴餘/汁也/俗力稔反寒/?正/作<graphic n="KR1006" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1006.png" mimeType="image/png"/>/二/俗/或/作/正武忍??二反?池縣名又食陵反亦水名/四</hi>淰<hi>乃忝反水流?又/音審?/水動也</hi>湳<hi>奴感反水/名又人姓</hi>?<hi>蘇老/反/隻忍/反</hi>瀋<hi>昌飲反汁也俗正音?/水名二</hi>?<hi>莫本反?憂/也与懣/同/七罪反/清水?</hi>漼<hi>七罪反水/深/?也/上烏猛反下胡猛反??水?旋也</hi>漅<hi>子小反/水/名/子小反<graphic n="KR1847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1847.png" mimeType="image/png"/>酒/也<graphic n="KR1847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1847.png" mimeType="image/png"/>/音鹿/丑領反/?/泥/正/俗居/偃/反水名二/音/井</hi>洧<hi>榮水反水名也</hi>
+<pb n="15b"/>
+氿<hi>正</hi>?<hi>俗居水反水涯拈土也二</hi>渿<hi>音/染</hi>去聲<hi>三/古/二正子計反?渡也益也定也止也又上聲五</hi>
+泳<hi>音詠遊也/?行水中也</hi>漾<hi>余/亮/反水名</hi>瀁<hi>余亮反?水溢蕩?/又余兩反滉?水?</hi>溉灌<hi>上古愛反?亦灌也又水名也/又音既/澆漬也下音貫?澆也漬也聚也溉也注也沃也/鼻/?</hi>涕<hi>他計反?淚目汁也/或作洟下又上聲二/俗/正音注時雨普?也又音樹二</hi>?<hi>今正音??水濺也濺音即/見反二</hi>汙<hi>烏故烏?二反?/染也/也/穢也</hi>洎<hi>居?反肉汁也又/渠?反至也及也</hi>漲<hi>知亮反水大/泛也又音張</hi>?<hi>俗同上</hi>
+汜<hi>或作</hi>泛<hi>二正芳梵反浮/也亦流?也三/烏定反/小水也</hi>潰<hi>胡外反亂也/叛也/漏也/俗</hi>瀑<hi>正蒲報反急雨也二</hi>
+湩<hi>都弄反乳汁也又都勇反濁/多也</hi>湊<hi>倉奏反歸也又/水交/?聚也/俗/正私閏反/深?也二/私閏反水名也</hi>淤<hi>於反水中青?也/俗</hi>派<hi>正普賣反水/之分流也二</hi>漱<hi>?/奏所又/二反?口也</hi>?<hi>三/俗</hi>?<hi>通</hi>滲<hi>正所禁反?漏也五</hi>
+潠<hi>蘇困反?水也与/同</hi>?<hi>音?湍/?也</hi>沸<hi>非未反/騰?也</hi>灆<hi>或/作</hi>濫<hi>今盧淡反?/失猥雜也二</hi>瀚<hi>胡旦反?海北/海也又鎮名俗</hi>濩<hi>正護鑊二音布?多霤下?也又一/反?澤縣/名二/普?反流?也又水/名又音貝郡名又姓</hi>浿<hi>普?反亦水名</hi>澱<lb/>
+<hi>堂練反?滓也亦藍?也</hi>淀<hi>正/俗堂練反陂?泊/?也又淺泉也二/胡戒/胡愛/二反/?也</hi>澌<hi>音賜?盡也又水也?注云死之言?也</hi>澮<lb/>
+<pb n="16a"/>
+<hi>古外反水名也又俗注瀆/也</hi>泮<hi>音/?水/解/散也</hi>汰<hi>太闥二音/?過多也/音豆水?/也与/同/蒲勘反響梵字</hi>?<lb/>
+<hi>四俗</hi>泝<hi>今/正音素舟中/水者?/斗也又逆流而上也六</hi>漬<hi>箭賜反浸/漚/?也</hi>濞<hi>疋詣芳?二/反水名也</hi>?<lb/>
+<hi>疋詣反水名/疋詣反/水聲也/疋詣反/水/名/音慮?/漉也/二古文/音/訓/二俗烏故反正作?新?作?</hi>汛<hi>音信灑也/又雙掝反/古文音/淨/也/二俗/音翅</hi>沁<hi>七/反/水/名/疋?反/?/水/或作</hi>
+澨<hi>今時制反水名也二</hi>滊<hi>許氣反水也出玉/篇郭/又/音深</hi>溷<hi>胡困反/濁?也</hi>?<hi>經音義晦退二音云?/潰也香嚴又/音泯</hi>?<lb/>
+<hi>二或作/正音/貫淨也亦澡/手?洒也今作監三</hi>涫<hi>音貫/沸也/在見反水/荒/曰?</hi>?<hi>士亮/反雨疾下?又士絳反水所衝也</hi>瀵<lb/>
+<hi>方問反水名又疋問反水浸也</hi>湴<hi>蒲?反深泥也玉篇又/女?奴監二反泥?也</hi>?<hi>蒲?反深泥也玉篇又女/?符?二反/亦泥?也/力救反水?也</hi>
+淛<hi>仁例反水/名</hi>?<hi>俗/正七?反染也/犯也/寒也二</hi>汶<hi>音閂/水名/或/作</hi>沴<hi>正/今郎計反/妖氣也三/呼貫反水散也/同/上</hi>澰<hi>二/俗</hi>瀲<hi>正力驗反水/波泛?也三/音</hi>濿<hi>音例以衣渡水曰/?亦/石渡水也</hi>渲<hi>息絹反小水也音護寒凝又下各反/注樹二/音/二</hi>澳<hi>音?深也水/名又/音郁隈也水?曰?</hi>
+                    <graphic n="KR4215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4215.png" mimeType="image/png"/>
+                    <hi>苦?反?/著沙/也</hi>泝<hi>俗</hi>溿<hi>或/作</hi>沜<hi>正音判水<pb n="16b"/>涯也三/他/反/俗</hi>?<hi>正</hi>?<hi>今音?激?水/波動/?也三/音紺/縣名</hi>?<hi>音利臨?/与?/同/誤似面反在/愚經第一卷</hi>
+?<hi>似面反餘也又欽/敬也</hi>漕<hi>在到反/水運榖</hi>?<hi>音類悲/?也</hi>淚<hi>音類涕/?/也/舊?作/汏音太/烏?反泥著物也又於阮於丸二反又舊?或作浣/郎計反渧?/漉也渧音帝/通貫反/水/名</hi>?<hi>舊?作垽魚靳/反澱胃之?也</hi>[泳-永+貢]<hi>古送反水/名出?章</hi>汭<hi>而銳反/水名古文淨字</hi>?<hi>?/反/?清也/必嫁反/水名</hi>潞<hi>音路州/縣水名</hi>
+                    <graphic n="KR2377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2377.png" mimeType="image/png"/>
+                    <hi>古旦反??水流/?又音汗亦浩?</hi>潦<hi>或/作</hi>澇<hi>正郎到反淹也又水名又音老上雨落水也下水名也二</hi>涮<hi>所患反?洗也/又茶?/名也</hi>?<hi>音賜同/澌盡也/俗音/使/正體/漬字</hi>灟<hi>音漏俗而遇反/音孟?/津河/又平上二聲二/子計/反</hi>入聲洑<hi>音伏洄/流也</hi>澓<hi>音伏?流也或作/洑?亦通又姓</hi>
+滑<hi>患八反?利也美也/不澀也</hi>涸<hi>何各反?/竭也盡也</hi>渧<hi>俗/今</hi>滴<hi>二正音的/水?也四/二/俗</hi>?<hi>正音法?合也常也刑也?也/三</hi>溺<hi>?的反/?沉也</hi>?<hi>六/俗</hi>澀?<hi>二/今</hi>澀<hi>正色入反?/不滑也九</hi>激<lb/>
+<hi>古?反疾波也又姓</hi>渤<hi>蒲?反?/澥海/名</hi>浡<hi>同上?然/興作/也</hi>液<hi>音亦津?/也又/姓</hi>泊<hi>傍各/反止也</hi>溼<hi>失入反水/沾也濡也</hi>澤<hi>音宅潤也下有水也又?/也</hi>漯濕<hi>他合反水/名/又俗失入反二</hi>渥<hi>?角反/也厚也漬也</hi>洽<hi>咸夾反/也/潤也和/也</hi>浹<hi>胡甲反?/水湅相著也又子?反<pb n="17a"/>洽也通也徹也?辰十二月也</hi>?<hi>丈甲反浹?也又徒/反又/音/特牛也/亦除去也又姓</hi>?<hi>俗/正時六反善/也清淳也二/俗同/上俗正烏酷反灌也漬潤也二</hi>濯<hi>音濁澣?也又姓/澣音胡/管/反</hi>泄<hi>私列反歇也/?也漏/也</hi>洩<hi>同/上</hi>溧<hi>力乙反?/水縣/名</hi>泣<hi>去急反無聲出涕也</hi>
+瀝<hi>音?/??也</hi>測<hi>?力反/?度也/俗</hi>滌<hi>正音笛?除/洗/蕩也二</hi>汲<hi>音急引也/取也又姓</hi>浞<hi>士角反水/?足/也通</hi>濼<lb/>
+<hi>正疋各反陂?大池也下又音落/水名又藥/?二音/二/俗/通/今/正他?反/泥滑也四/俗</hi>洫<hi>正許逼反溝?也二許逼反疾流也/音域/?/波勢/也/士力反?/淢水勢也</hi>浂<hi>俗</hi>泆<hi>正音/逸/??也二</hi>漠<hi>音莫??也又施也茷也</hi>澈<lb/>
+<hi>直列反水澄?/也</hi>汨<hi>音覓?羅江在?章又古?/干?二反流疾?也又亂也</hi>瀆<hi>徒木反/溝?也</hi>淴<hi>烏?反水出聲/也又俗色立反</hi>濊<hi>呼未反水聲又呼外反水名也又烏外反?注深廣也又滂?多也</hi>?<hi>音鹿?也亦刻木也又特計/反粴子也又羊至反?別名</hi>?<hi>俗/正音節水/也二</hi>
+?<hi>資悉反水?也/又音節亦水出也</hi>溘<hi>口合反可也至/也依也奄/也</hi>淖<hi>字林女角反三蒼昌/若反/又徒?反又奴教反泥?也</hi>潔<hi>音結清也靜也又精微也</hi>瀷<hi>音弋水/聚/也</hi>潩<hi>音弋水/名也/普活反/水?也/古文普未/反/今作/?水也</hi>?<hi>或/作</hi>湜<hi>正常?反水清也二正</hi>泬<hi>今音血?寥/空?又音穴二/音未塗/拭也/呼北反/水/名</hi>浙<hi>旨熱反江名/一曰?米也/舊?/作溺俗</hi>漞<lb/>
+<pb n="17b"/>
+<hi>正莫狄反或作汨?羅水名二/通</hi>汔<hi>正許乞反水/涸盡也/二</hi>濮<hi>音卜/水名</hi>氻<hi>二或/作</hi>泐<hi>正音勒疑合也玉/篇又泉聲也三</hi>
+潏<hi>余律古穴二反泉流?也/又水名/私/反持牛亦/除去又姓二同/俗</hi>?<hi>正音蜜/溢也二</hi>沕<hi>音/密塵濁又音勿?穆也</hi>洌<hi>例二音水?/也絜也</hi>?<hi>士陌/反瀺/?水落地也/俗音/落</hi>溙<hi>五/俗/俗/通/正音七水名又??又姓七字/音筆?/去滓也/俗/正芳滅反漂也玉篇/云?瀝水?/也二</hi>涿<hi>俗</hi>涿<hi>正竹角反/郡名二</hi>泏<hi>苦?反漚池也又竹律反水出/?/古文音渴/飢/?也</hi>湆<hi>音泣/?汁</hi>汋<hi>士角反二井一有水一/無水也又市若反罽?/或作/音洛/古文法字二</hi>?<hi>或/作/正音藥/?/也亦水名二/音宿?/寒風氣?</hi>洬<hi>音/宿/音煞/水也</hi>漍<hi>古?反/?水也</hi>滀<hi>丑六反水聚也</hi>
+湒<hi>入反雨?也</hi>濇<hi>色?二音不滑/玉篇又音/甾</hi>?<hi>俗/正祥亦反/潮/?二</hi>?<hi>隨?云合作淴音烏?反水出聲玉篇又音?</hi>淈<lb/>
+<hi>下?古忽二反泥水出?</hi>泌<hi>彼密毗秘二反?瀄/泉水?流?又音秘</hi>淂<hi>音得水?/又丁力反</hi>?<hi>古文/?字/俗/正先?反?米也二</hi>滭<lb/>
+<hi>音必沸水/?</hi>?<hi>音/覓瀝/?水淺也</hi>?<hi>胡甲/反/古?反/水裂?</hi>澼<hi>普?/反/?造絮者也/火?反/?/水聲亦水名/火?反水流?/正</hi>溹<hi>二今所責反/小雨也/三/俗蒲/?反/徒合/反/阻立反/和/也</hi>潝<hi>許級反/水?也</hi>浥<hi>音邑<pb n="18a"/>濕潤也/所立/反</hi>?<hi>他盍反</hi>
+︻火部第四烡<hi>三古</hi>炚?<hi>三/俗</hi>光<hi>正音光明照/瑩?/也七</hi>爞<hi>音同旱熱也</hi>
+烔<hi>音同熱也又赤??/也</hi>?<hi>作勞反火燒餘木/也又炮也焦也二</hi>?炊<hi>二俗/音烔/俗</hi>灰<hi>今/正呼回反死火也三</hi>?<hi>俗</hi>煙<hi>正伊賢反臭也/火氣也泉也二</hi>?<hi>變/體/正許其反和也/廣也長也/二</hi>煌熿<hi>音皇光明盛?也/又焜?炫燿也二</hi>焜<hi>音混火光也/徒昆反大也火盛/也又?煌郡名也</hi>熊羆<hi>上音?狩名似豕而大下/彼眉反似熊而大?/色</hi>熛<hi>布?反火/星/飛也俗二古文音漂三/俗</hi>煨<hi>正烏灰反煻/?火也/二</hi>煻<hi>音唐/灰火也</hi>譙<hi>昨焦反國/名/又姓/俗</hi>樵<hi>正昨焦反柴新也二</hi>
+　　<graphic n="KR2044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2044.png" mimeType="image/png"/>
+                    <hi>三俗音庭</hi>焄<hi>或/作/二正許云反火/氣盛?也三</hi>?<hi>同上功/?/也</hi>?<graphic n="KR4268" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4268.png" mimeType="image/png"/>
+                    <hi>二/俗/正者仍反熱氣也又冬祭也又去聲/三</hi>
+                    <graphic n="KR1106" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1106.png" mimeType="image/png"/>
+                    <hi>三/俗/正/?二音/皆火滅也四</hi>?<hi>今</hi>煢<hi>正渠營反/孤獨也二</hi>塋<hi>音/營基?也又俗同上</hi>
+爃<hi>俗音榮/二/俗</hi>炰炮<hi>二正/?交反合毛炙/物也一曰裏物燒也四</hi>炃<hi>二/俗</hi>?<hi>正符文反燒也与焚同三音煩燒炙也又同上/古文布胡反?/也竄也今作逋</hi>燐<hi>二或/作/二正力?力刃二反鬼火也四</hi>?<lb/>
+<pb n="18b"/>
+<hi>鄰二音/鬼/火也</hi>烊<hi>音羊??/又??也</hi>?<hi>音消?鑠/也与銷同/俗音/旻</hi>熵<hi>二俗忝商/適/三音</hi>炡<hi>音征爚?也</hi>熬<lb/>
+<hi>俗通/正五?反/煎?也二/?云反??/天地氣/也/俗音/珠</hi>煽<hi>失連失戰二/反火盛?也/古正二或作</hi>燖<hi>今徐兼反以湯/沃毛令脫也五/徒含反火熱也又徐兼/反以湯沃毛/令脫也</hi>膲<hi>音焦人之/三?/也俗籀文/正</hi>燋<hi>或作即?反与焦同傷火/也下一又音捉/火炬也四/二/俗/古</hi>炱<hi>正徒哀反/?煤也四/或作</hi>
+煤<hi>今莫回反炱/?灰集屋也二/正/通/今他昆反火色又/常/輪反明也又徒敦反三</hi>烰<hi>音孚火/氣/也</hi>?<hi>音哀熱甚也</hi>膋<hi>音聊?閒脂也/氏林反?/烓行/?/烏?反行?也/又口回反亦明也/俗苦回反正/作/恢大也</hi>烘<hi>呼東反火?又音紅燎也</hi>
+?<hi>二俗</hi>烽<hi>或/作</hi>?<hi>正芳容反?火夜/曰?晝日燧也四</hi>炘<hi>許斤反熱?/又火氣盛也/俗音/燈/正</hi>熝<hi>今烏刀反埋物灰中令/熟二/俗音/熒</hi>?<hi>玉篇?營反?麻也又苦/反?麻也切韻野死/草也</hi>?<hi>俗音/堆</hi>煪<hi>自秋反/??</hi>烋<lb/>
+<hi>許交反炰/?又許尤反</hi>?<hi>俗</hi>灱<hi>正許交反乾/也又熱也二</hi>
+                    <graphic n="KR2233" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2233.png" mimeType="image/png"/>
+                    <hi>昌占反?/?衣動?</hi>
+                    <graphic n="KR3356" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3356.png" mimeType="image/png"/>
+                    <hi>二古文/音/?</hi>?<hi>音斯火斯焦又先井反俗音勞/俗去/王反</hi>??<hi>俗音丕/火也二/俗与/終反</hi>?<hi>俗音/皆</hi>煇<hi>音暉/曰色也/俗失遮反/正作奢</hi>
+<pb n="19a"/>
+<pb n="20a"/>
+<pb n="21a"/>
+<hi>二正許委反火盛?又日中火也四</hi>?<hi>二俗/音?</hi>
+                    <graphic n="KR3260" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3260.png" mimeType="image/png"/>
+                    <hi>或/作</hi>燹<hi>正息淺蘇典二反字統云/逆野火又許位反義同二/所下所解二反俗音嚮/側下士/知二反/二俗/音</hi>?<hi>或作音/熟也/力展反小/然火/也</hi>煣<hi>人九反/屈申木/苦老反火乾也</hi>?<lb/>
+<hi>賄貫二音/楚人云火也/舊?作盪/徒朗反滌?</hi>煦<hi>?雨香句二反/?也說文無火</hi>?<hi>尺氏反晟/也晟音成</hi>杰<hi>音仕/二同/力稔反火舒也/即兩/反/或/作</hi>?<hi>今盧感反/黃焦也二</hi>?<hi>音負?/熾也</hi>烜<hi>?晚反光明也又姓司?氏以陽遂取木火於日月也又舊?作煖許袁反人名在廣弘明集/第十九/音/盞/俗於<graphic n="KR0955" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0955.png" mimeType="image/png"/>/反正作偃?仰也/又仆也倒也/息也又/姓/奴典/反</hi>去聲燿<hi>亦照反照也光明也熠?/也</hi>炷<hi>之戍反/燈?也/或/作/今/正呼貫/反/火光明也三/俗</hi>煉<hi>正音練燒/?也二</hi>?<lb/>
+<hi>二俗</hi>燼<hi>二正詳刃反/燭/餘也四/二/俗</hi>爆<hi>四正布教布/角?角普駮四反皆火列聲也?也落也灼也/六</hi>瑩鎣<hi>恚併反?飾也/磨/?珠玉使明靜也二</hi>熆　?炎<hi>五/俗/通/今/省</hi>爓<hi>正羊贍反火光也火氣也下又徐/閻反八</hi>燒<hi>失照反放火也自/然為??人音少</hi>炫<hi>胡絹反燿也/明也火/也</hi>?<graphic n="KR2370" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2370.png" mimeType="image/png"/>?<hi>三/俗</hi>燧<hi>正音遂烽?火也四</hi>爌<hi>苦謗/反大也空明也久也?/也又呼朗反開郎也又苦光反/俗音助佐/也益/也</hi>煰<hi>二/俗</hi>燥<hi>正?到反乾?也三</hi>
+<pb n="21b"/>
+?<hi>俗</hi>爛<hi>正郎且反火熟也又/?也二</hi>燦<hi>倉旦反?/爛光明也/三/俗/通/或作</hi>?<lb/>
+<hi>今七亂反炊?也又千楦反六/七亂反灼?/也出?/文/二/俗/通</hi>炕<hi>二正苦浪/反乾也五</hi>熾<hi>昌志反盛也猛火也</hi>熩<hi>俗音/?/皮秘皮逼二反/炒?火乾物也</hi>煬<hi>余亮反炙也向暴/也又音羊?金也</hi>烷<hi>俗音/院/或/作</hi>醮<hi>子妙反祭也二</hi>
+<graphic n="KR2044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2044.png" mimeType="image/png"/>
+                    <hi>俗音定/音謂火/狀也</hi>?<hi>俗</hi>?<hi>或/作</hi>煔<hi>今他念反火光/也又胡甘反三</hi>焮<hi>火靳反/火氣也</hi>?<hi>陟嫁反火聲也</hi>炔炅<lb/>
+<hi>音桂俱人姓下又古頂反日光也二</hi>炤<hi>正/今音照燭/也明也二</hi>炓<hi>力吊反/火光也/俗音/性</hi>?<hi>貸/二/音二/俗音愧子峻反燃火也又倉聿反火燒亦火滅也/或/作/正力照反以柴祭/天名也又平聲二</hi>?<hi>正/今五且反/火色也二</hi>爁<hi>力焰反?焱火延也又音濫亦火?/音媚?/熱/也</hi>?<hi>去?反火/乾/物也/俗平/遍反/七?反鋻也又/子?反鋻音見</hi>?<hi>衛越二音乾也二</hi>
+爟<hi>音貫烽火</hi>熂<hi>許既反/燹火也</hi>?<hi>士戀反/摶?也</hi>?<hi>或/作</hi>烗<hi>二今苦/反/熾火盛也三/俗/正市照反二舊?作?/誤舊?作熯/音漢火乾也/音?火之/毒?也</hi>?<hi>呼貫反/明也/音/<graphic n="KR2452" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2452.png" mimeType="image/png"/>
+                    </hi>入聲烼<hi>許勿反火煨起?直律反烼?/火煨煙出?/俗</hi>欻<hi>正許勿反忽也火/氣/盛?/也二</hi>黠<hi>?八反/?惠也/二/俗/通</hi>熱<hi>正而列/反爇<pb n="22a"/>也四/書育/反</hi>?<hi>二/俗</hi>熨<hi>正?勿反又?胃反?/?火/展帛/也三</hi>焲<hi>音亦火/光/也</hi>熤<hi>俗</hi>?煜<hi>二正音育火光也燿也下一又為立反火?/也三</hi>爍<hi>書若反/灼?也</hi>灼<hi>之若反?樂/也又/燒也/三/俗/正書藥反儵?光?也又音藥煜?光明?儵音式六反四</hi>炙<hi>之石反燎?也說/文從肉在火/上</hi>?<hi>俗音霍/正作霩</hi>燚<hi>俗音/亦/俗/二/通</hi>?<hi>正蒲?反煙起?四</hi>熀<hi>俗古</hi>燁<hi>正為?反煒?火光盛?也三</hi>熚<hi>音畢火聲也又??/火?也又俗音/燁</hi>?<hi>音佛火/?/也</hi>烙<hi>音/落/燒?也/俗音/雜俗</hi>
+[穫-禾+火]<hi>正胡郭反熱/也二</hi>烈<hi>音列猛?也又光也熱/也火也中?也業/也</hi>
+                    <graphic n="KR0778" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0778.png" mimeType="image/png"/>
+                    <hi>如?反/燒/也</hi>?<hi>音吸/熱也/舊?作?古?/反出道地經皮逼反火乾/也/?/文/?玉/篇/三同上或/作/四/俗/正呼木呼各二/反熱/?也二</hi>
+                    <graphic n="KR1858" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1858.png" mimeType="image/png"/>
+                    <hi>俗/正蘇反和也熟也/二/蘇?反熟也亦和也/文字指歸從辛炎也</hi>犖<hi>?甬反/?牛雜/色也/音布角也</hi>熼<hi>音弋火光也/又俗/音?</hi>燱<hi>俗音憶俗</hi>?<hi>正呼格反火色也二</hi>焱<hi>呼覓反火花也/又音/亦火也</hi>焯<hi>之若反/明/也又火氣也/蒲未反/火氣也/於歇反火/光也又中熱也出玉篇或作</hi>燲<hi>正?業反火/氣?上也二</hi>烢<hi>三或作丑革反/裂也与/同</hi>燠<hi>於/六反熱/也又於告反</hi>?<hi>口角苦的二反火燥物乾也俗/正/今音亦火/甚之?三</hi>熠<hi>為立羊入二反/?燿熒火光也/俗</hi>爝<hi>正即?反炬火也莊子云日月出而?火不息也二</hi>
+<pb n="22b"/>
+?<hi>音??家塊/俗音/煞/音赤白/澤/也/俗烏/古二</hi>?<hi>烏/反</hi>?<hi>呼?反赤也又/許赤反?光也/或/作</hi>燭<hi>正之欲反?二/烏括反/火?出/俗</hi>炟<hi>正當葛反/火起也二/俗音/疾</hi>?<hi>三俗倉括反正/作手取也</hi>
+?<hi>三俗火覓反正作/驚視/也/俗音/著/正/今音弗火光也又/畢?鬼火/也二</hi>熄<hi>音息蓄/火/也/或作正</hi>焟<hi>今音昔/火乾也三/二或/作/今士洽反湯[卄/瀹]/菜也[卄/瀹]音藥三</hi>燏<hi>音聿火/光也</hi>?<hi>音節燭餘/也又音即</hi>?<hi>?各反?於火也与爆亦同出川韻/俗</hi>熆<hi>正胡臘反玉篇吹火切/韻作?下又俗音焰二/胡沃反/灼/也/他?反望/見火?也</hi>?<hi>苦沃反熱氣也又音皓旱氣也</hi>
+?<hi>音赤/紀力反急也疾也趣也/又去吏反數也/遽也</hi>?<hi>玉篇音鍤丑輒反火/光也又音聶/也/今</hi>爩<hi>正?匆反?氣也二</hi>?<lb/>
+<hi>許勿反今作/居質反</hi>
+︻土部第五墻<hi>俗全羊反正作/牆</hi>?<hi>烏奚於計二反塵埃也又/相言??也??/敬反</hi>坯<hi>俗/通</hi>坏<hi>正普/反?末燒瓦?也二</hi>
+?　?<hi>四俗/通</hi>堆<hi>正都回反土/聚丘阜也六/三/俗</hi>坑<hi>正客庚反坎塹壑?也四二俗</hi>填<hi>今/正音田塞也滿也加/也又陟/反?壓也四</hi>疆?<hi>居良反界也垂/也境也當也二/六俗</hi>
+<pb n="23a"/>
+<pb n="24a"/>
+<pb n="25a"/>
+<pb n="26a"/>
+?<hi>而勇反地名/二同</hi>
+                    <graphic n="KR2003" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2003.png" mimeType="image/png"/>
+                    <hi>方尾/反</hi>址<hi>音止/基?</hi>?<hi>必郢/反</hi>埜<hi>二/古/今以者反郊牧之外曰/?又石反村?也三</hi>
+堵<hi>都古反垣?又/姓/俗奴老反/正作腦也</hi>坦<hi>他懶反平也明/也安也/?也</hi>垛?<hi>徒果反射/?也二同</hi>?埵<hi>多果反下垂?也二俗</hi>塚<hi>正知勇反/墓也種也二</hi>?<hi>二/俗</hi>坎<hi>二正苦感反坑/也險也陷也四</hi>壤<hi>人兩反土也塵也又臘節童少以木為之作??也於蹇反擁水也又去/聲/音婢玉篇云下也/又符支反?附也</hi>堄<hi>研?反埤?/城土女墻也</hi>垗<hi>地/直小反禎也二二或作/正都?反隴?/也又/音?三/音紙/著也/俗</hi>?<hi>正音反/坡也二/通/正徒古反瓶也又口/含反亦瓦器也二徒古反?也/安古反/村?也</hi>墾<hi>二/正/俗口佷反/耕?也三</hi>埽<hi>蘇/老反/除也?也</hi>培<hi>音部?塿小阜也或作?又音裴埋也隨也助也益/也/落口反/培?也</hi>?<hi>蒲/?/反下也</hi>圯<hi>皮美反毀也/覆也/又与支反土橋名也/俗/正初/朕反/砂土?也二俗</hi>墠<lb/>
+<hi>正音善除地/平坦曰?也二/音/善/白土也/胡黤反/堅土也/三/俗</hi>堡<hi>或/作</hi>?<hi>正音保?障/小/城也五/音字五罪反/音/垢</hi>?<hi>烏敢/反??/又今之瓜?也/直?反/落也二</hi>埢<hi>音卷塚/土也</hi>?塎<hi>上丑勇反下音勇??不安也佫音</hi>?<hi>于鬼反??也</hi>塕埲<hi>上烏孔反下方孔/反??塵/起也/正/今胡老反/土釜也二/音</hi>墥<hi>他管反</hi>
+<pb n="26b"/>
+<pb n="26b"/>
+<hi>或作音代/以土堨水三/古文尸閏/反今作舜</hi>?<hi>才性反/?/也二/直利/反</hi>垞<hi>丑嫁丑/革二反</hi>?<hi>必嫁反蜀人胃平川為平?力制反/音/祭/醋錯/二音</hi>埬<hi>俗</hi>堜<hi>正音練?/塘墟名二/莫弄反/云?也/音照隄/也界也</hi>堩<hi>古鄧反路也</hi>
+                    <graphic n="KR3214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3214.png" mimeType="image/png"/>
+                    <hi>尺志反赤土也</hi>圠<hi>於罽反玉篇/同/埋也二/古文/?字/俗音/院</hi>?<hi>胡/反</hi>坪<hi>或/作/今音病地名二</hi>
+?<hi>才句反垛也/奴到/反三</hi>墱<hi>都鄧/反/力救反/土/日?/音鄰/二古文/地/字/古文音?</hi>
+墊<hi>都念反下也又徒?反地名也二同</hi>?<hi>音/岸/古文/地字/音/計/音/聖/音世</hi>
+入聲壁<hi>卑積反垣也墻/也</hi>垤<hi>田結反蟻/封/也/二/俗/二正徒/反城上垣也即女墻也四</hi>
+                    <graphic n="KR3158" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3158.png" mimeType="image/png"/>
+<hi>二俗同上</hi>坴<hi>音六大/塊/也</hi>
+                    <graphic n="KR1033" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1033.png" mimeType="image/png"/>
+                    <hi>二/俗</hi>埴<hi>正常?反黏/土也又/和也埏?打瓦?也三/并列反/大阜也</hi>?<hi>蒲?反塵起也二俗/通</hi>坼<hi>正/今丑格反分也裂/也/又音岸義同又音尺五/四/俗/正呼各反溝也谷也坑?丘墟也五</hi>
+埸<hi>音亦??/也/二/俗/正音?白/土/也三/正</hi>墼<hi>今</hi>墽<hi>二或作經?反塼坏?名也四</hi>墆<lb/>
+<hi>徒結反貯也止/也/俗</hi>墣<hi>正普木疋/角/二反土塊也二/音未壤/土/也</hi>?<hi>或/作</hi>?<hi>正奴結反/塞/也二</hi>堨<hi>烏葛反擁?也</hi>
+<pb n="27a"/>
+<pb n="28a"/>
+<pb n="29a"/>
+<hi>音其/豆?也/音??霄又/音??草也</hi>荺<hi>舊?/作筠/蘇彫反草名蒿/也又縣名亦姓/俗</hi>蘞<hi>正音?蔓草也二</hi>薟<lb/>
+<hi>歛二音白?藥/名也/音由水?草亦/作?/又臭草</hi>?<hi>音由草/盛/?/或/作/正音瓊/草旋二/音亭?/?也或作/今居幽反草/之相?/二/新?/作蒙/新?音甾田/不耕曰?/?仍反/葅也</hi>?<hi>音匡草名</hi>
+莘<hi>所臻反地名又/姓</hi>莉<hi>直尼反/人姓</hi>?<hi>音師/草名</hi>蔩<hi>以脂反?瓜/也又音/演</hi>薋<hi>疾資反/蒺梨也</hi>莙<hi>音君牛藻菜又渠/殞反/俗/正音脂?/葅也/二</hi>葹<hi>式支反草名/扷心不死也</hi>?<hi>音移萎/?草</hi>蕠<hi>音如?藘/草也</hi>
+茬<hi>或作/正士之反?/平/縣名二/相氶敬/?/反</hi>?<hi>誤</hi>
+                    <graphic n="KR1929" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1929.png" mimeType="image/png"/>
+                    <hi>正芳無反/花葉也二</hi>葑<hi>音封/菜名</hi>?<hi>音登金?草也/音皆麻/稈/也</hi>葴<hi>音針酸/漿草也</hi>?<graphic n="KR2082" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2082.png" mimeType="image/png"/>
+                    <hi>二/俗/正昨焦反柴?/也又木名也三/二或作今呼官反化/也三</hi>茪<hi>音光/草名</hi>菗<hi>直由反茶/也又菜名</hi>?<hi>音斯草生水/中其花可食/俗/通</hi>?<hi>正音柴?葫藥也又?反二/或作音/正作/賤事/?也/或/作</hi>?<hi>今以遮反/草名二</hi>茄<hi>音加荷莖也又姓又求迦反?子也</hi>荀<lb/>
+<hi>相輪反草名/又姓</hi>菠<hi>音/波</hi>?<hi>音綿相當也又/賭物相/亭也</hi>葳<hi>音/?/蕤藥名</hi>蔣<hi>音將菰?草又即/兩反國名亦姓<pb n="29b"/>音脾</hi>荃<hi>音詮香/草/名</hi>
+                    <graphic n="KR1668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1668.png" mimeType="image/png"/>
+                    <hi>音郎?毒/藥/名也/音/?/上音紬下音除/???別名也</hi>蓒<hi>音軒?芋草名音丘/俗音毛/又音老/俗</hi>芟<hi>正音衫伐/草/也二/音菩提/二字/莫朗反草木冬生不死也又音菩薩二字</hi>
+茱<hi>上音殊下音俞?草名也/俗</hi>菰<hi>或/作</hi>?<hi>正音孤/?又/?蔣草名也三/俗</hi>菑<hi>二或作</hi>
+<graphic n="KR2801" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2801.png" mimeType="image/png"/>
+                    <hi>正側持反田不耕曰?也/四</hi>蔞<hi>音樓商?蒿可食也又力/朱反?蒿又其矩反?數/音胡多草?/又俗音/孤</hi>苛<hi>音何政也煩也怒也又上/聲</hi>菛<hi>俗音/門/俗音/親</hi>艼<hi>音丁?/香也/音/他/渠幽反去角/龍也与?同</hi>艽<hi>音求獸辱又地名</hi>
+芃<hi>音蓬??草盛?又音馮草名</hi>菘<hi>息弓反/?菜名</hi>?<hi>古懷反/草/名</hi>艿<hi>如?反/草/名</hi>蘡<hi>伊盈反?薁藤也薁音郁</hi>
+蒹<hi>古添反荻未秀者也</hi>葭<hi>音加?蘆又/徒玩反草名/甫煩反?籬/也又/音煩/二/俗</hi>荽?<hi>二或作正音雖胡?香菜也/五/俗</hi>?<hi>正?吹反藍/莠也又音隋二/蘇和反?草/可?雨衣也/又素?反???下垂?</hi>蘅<lb/>
+<hi>?庚反杜?香草大草曰杜若/也</hi>蕪<hi>音無/荒也/古</hi>蓀<hi>今音孫香/草/也二</hi>芩<hi>巨今反/黃?也/居依反葅/?草也</hi>
+葅<hi>也余反?菜也与蒩亦同</hi>蒩<hi>七余反苞?又則吾反茅?/藉封諸侯?以茅又則古反</hi>菹<hi>側魚反菜/和醋也二</hi>蘪<hi>音眉?蕪<pb n="30a"/>香草即茳蘺也</hi>茳蘺<hi>上音江下音離/??/蘪蕪也/新?作/郭迻音他</hi>?<hi>則郎反?莨/莨尾/草也</hi>莨<hi>魯當反童?草名也</hi>
+藏<hi>昨郎反?也深也?也匿也又則郎反善也厚也亦?獲又徂浪反庫/?也</hi>菆<hi>側愁反草名又蓐也/又初注反鳥窠/也</hi>苹<hi>音平萍?名也</hi>
+菄<hi>音東?風草也又俗音練</hi>
+                    <graphic n="KR3909" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3909.png" mimeType="image/png"/>
+                    <hi>而容/反三</hi>芊<hi>音千草/成?</hi>蓍<hi>今</hi>蓍<hi>正音尸蒿屬巫/者以??二</hi>
+茧<hi>丑中反草/名</hi>蒡<hi>薄庚反菜也一名/荵?以蘇可?葅</hi>藷<hi>音諸?蔗甘蔗也又音除越人呼/署預為甘?又常/恕反?藇也</hi>藇<hi>音余莞草又音序姓也又音与蕃蕪又音/藷?也/??云合作蛬音/渠容反/蟋蟀也</hi>蛬<hi>渠容居悚二/反蟋/蟀也</hi>棻<hi>音焚香/木名也</hi>蒐<hi>音搜茅?草又春獵也/莫經反?/菜堯時候月草大/月卅日小月卄九日花乃/也</hi>蕘<hi>如招反?/?/草也</hi>蓐<hi>食倫反牛?草似蘭青?色也經音義作興字</hi>芄<hi>音丸蘭/草/名/音/草名有/毒可?/藥</hi>苀<hi>胡郎反東?草名又/音剛葉似蒲藂生也</hi>芭蕉<hi>上?加反下音焦??葉?可以紡績?布也</hi>荼<hi>音途菜也/又俗音茶/胡耕反?也/也枝主也</hi>蘆<hi>音盧葦未秀者也又?菔菜名</hi>藂<hi>俗古正殂紅反草/木聚生也三</hi>茅<hi>莫包反草/名菅草也</hi>荷<hi>音/何蓮/也/又上聲?負也</hi>萎<hi>於?反怨也弱也也??病也</hi>芙<lb/>
+蓉<hi>上音扶下音容??花/之巳發也/俗</hi>葩<hi>正普巴反花也又/草/花茷盛?二</hi>莎<hi>蘇禾反/?草也</hi>莏<hi>同上手捼?也</hi>?<lb/>
+<pb n="30b"/>
+?<hi>上音娑下音婆??草水之盛?也</hi>莣<hi>音亡草名似?/皮可為/索也/三/俗/古</hi>瞢<hi>正莫登反目不明也又音夢雲?/也五</hi>茨<hi>疾資反/茅?也</hi>?<hi>俗</hi>薅茠<hi>二正呼毛反?/也去田草也三</hi>芹<hi>音勤水/菜/也</hi>薨<hi>呼弘反大臣死曰?</hi>
+茹<hi>音如恣也相牽引也又姓又音汝乾菜也臭也貪也雜/也又人恕反菜?也又噉牛也</hi>?<hi>音斤骨也?肉/之力也又/姓</hi>蘿<hi>音羅女?松?又?菔菜名也</hi>茵<hi>音因/褥也/俗</hi>薑<hi>正居良反辛/菜/名也二</hi>荖<hi>舊?/音差</hi>藤<hi>或/作</hi>?<hi>正</hi>藤<hi>今徒登反?蘿也又?苰也苰音/弘三</hi>苔<hi>徒?反?鮮/石木之衣也/俗</hi>?蕛荑<hi>四玉篇皆音提草名也下/又音夷莁?香草也五必迷反?庥也二/蒿/也</hi>芘<hi>音毗???蕃/也又俗作蓖二</hi>?<hi>音甘?草藥/名又?蔗也/皆該二音草根也</hi>茺<hi>音充?蔚草/名也/音煩?茂滋息也又蘺也/屏也又方煩/反亦屏也/汝羊反荷也又/音箱/草名也</hi>蔫<hi>於?反萎?物不鮮/也/主仍反進也厚也/?也薰也又去聲/音/芙/?/也</hi>苞<hi>音包裏也又/豊/茂也藂生也又姓</hi>苫<hi>失廉反草覆屋也又姓</hi>芸蕓<hi>音云?薹/名也二/音臺/芸/?菜名也/音/草名又大?也</hi>萇<hi>直良反?/楚<graphic n="KR2037" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2037.png" mimeType="image/png"/>生也</hi>蔓<lb/>
+<hi>上母官反?菁菜名也又音万筵也瓜葛之?也下音精菜英曰?/也/川韻登騰二音?瞢目不/明也又都鄧/反/?也</hi>茸<hi>而容反草生?<pb n="31a"/>也</hi>菅<hi>古?反草名也又姓</hi>葌蕑<hi>古?反?蘭/香草名也二/音臻草/盛?也/士臻反木/跬/生也</hi>萄<hi>徒刀反蒲?也</hi>
+?<hi>音科?生海邊葉?可為/也</hi>葐?<hi>上符分反下於云反/??香氣/盛?也俗</hi>薔<hi>正疾良反?薇也又/音/色菜/<graphic n="KR1419" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1419.png" mimeType="image/png"/>也二</hi>
+蘠<hi>匠羊反?薇也与/薔同</hi>薇<hi>音微薔/?/也/俗毗連反或/去聲正作箯</hi>?<hi>力應反?/也二/徒丁反/草莖也</hi>芎<hi>去弓反?藭香草也根曰?藭苗曰蘪/蕪也/或/作</hi>藭<hi>正音窮芎/?也/二</hi>蘩<hi>音煩皤/蒿/也</hi>萱<hi>音喧忘憂草也</hi>葋<lb/>
+<hi>其俱反艼熒也/俗/正如佳反葳?藥名也又草木花/垂?也又??五月律/名也二</hi>葷<hi>許云反/臭菜也</hi>虆<hi>力追反/<graphic n="KR2037" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2037.png" mimeType="image/png"/>也</hi>萍<lb/>
+<hi>音瓶水上浮?/也</hi>?<hi>音瓶馬帚/似/也/俗/通/正音萌屋/棟/也三</hi>蕄<hi>莫耕莫登二反?疋云存存??在也音萌芀可?彗/也</hi>芀<hi>徒聊反/花也/俗</hi>苕<hi>正徒聊反/?菜也二/正/今魯甘反染/草又姓二</hi>?<lb/>
+<hi>二俗</hi>莦<hi>正所交反說文云/?草也又音消三</hi>蘼<hi>文悲反薔/?藥名也/敷容反蕪/菁苗/也</hi>蕡<hi>符分反草/木多實也</hi>?<hi>母官反相當也</hi>蓷<hi>昌佳他?二反/草名又益母也</hi>芣?<hi>上音浮下音以車前牛/舌也上又音綿停當也</hi>莤<hi>音由水草又/軒于/草也/其機勤三音縣名亦草名又姓</hi>?<hi>古文/音農/音/萌</hi>葵<hi>渠維/反/怕巴/反</hi>上聲?<hi>於粉反?積包?也</hi>荏苒<lb/>
+<pb n="31b"/>
+<hi>上而審反?菜也又?苒也下音染草盛?也又??展轉也</hi>葦<hi>于鬼反/蘆?也/俗</hi>藕<hi>正五口反/蓮?也二</hi>
+                    <graphic n="KR1520" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1520.png" mimeType="image/png"/>
+                    <hi>古旱反/草莖也</hi>堇<hi>音?菜也又音芹水/菜也/音謹黃/土/也</hi>?<hi>音謹穰/草/也/俗</hi>藪<hi>今蘇口反澤無水有/草曰?又大澤也二</hi>蓊<hi>烏孔反大也英也又??草盛?也</hi>蕊<hi>草?/生也/如水反花?也/又垂??音須</hi>???<hi>三同/上五/俗</hi>藻<hi>正音早文也又色也二</hi>?蕩<hi>徒朗反放恣也/又水名亦姓二/胡感反??芙/蓉半/開?也</hi>
+                    <graphic n="KR3347" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3347.png" mimeType="image/png"/>
+                    <hi>二/俗</hi>萏<hi>二正徒感反菡/?芙蓉未發者也四</hi>靃<hi>息委反?靡也/与靃同又音霍</hi>蓏<hi>郎果反說文云木實曰果草實曰?又有/核曰果無核曰?又陸生曰果水生曰?通</hi>?<lb/>
+<hi>俗古老反正作?/禾稈也二</hi>?<hi>古老反/乾草也/音/草名/於?反紫?藥名也/又?茷木名也亦姓</hi>苑<hi>於?反園/?/囿也</hi>?<hi>音九菜也正作韭/字</hi>菲<hi>芳尾反薄也微也悵惋也/又菜名又芳非反芳?也</hi>茅<hi>或/作</hi>苧<hi>正直?反/草名也二</hi>莠<hi>音酉似禾非/禾之草也</hi>蒱<hi>俗或作</hi>莆<hi>正音甫蓮?堯/之瑞/草也三</hi>葆<hi>音保鳥/羽飾也</hi>
+                    <graphic n="KR0818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0818.png" mimeType="image/png"/>
+                    <hi>渠愍反地/?也又姓</hi>?<hi>亡?反/与<graphic n="KR2775" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2775.png" mimeType="image/png"/>同</hi>苡<hi>音以薏?蓮實也又云車前亦云當道亦名牛舌也</hi>薺<hi>祚?反/甘菜也</hi>苨<hi>奴?反薺/?也二同/或/作/正奴?反華茷盛也上又奴?反病劣?也二同/音爪草/名/也</hi>蘤<hi>韋委反花/也榮/也</hi>蒍<hi>俗</hi>?<hi>正韋委反/人姓也二</hi>荇莕<hi>何耿反菜名高<pb n="32a"/>音謹与同以瓢?/酒?婚?用之/也</hi>蕈<hi>慈荏反<graphic n="KR0818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0818.png" mimeType="image/png"/>生木上/也玉篇又商錦反</hi>?<hi>俗</hi>莽<hi>今莫朗/反/?草又姓二/食審/反木?也又知林反</hi>蘌<hi>音語?蘙/也</hi>?<hi>古</hi>?<hi>今去?反/野死草也二/古文/音子</hi>蕇<hi>音典葶/<graphic n="KR0995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0995.png" mimeType="image/png"/>子也/音??志藥名又韋委反?草亦姓</hi>?<hi>音表/草名</hi>薙<hi>直凡反辛?辛夷?名/又他計反/除草/也</hi>菼<hi>他敢反/荻/也</hi>荵<hi>音忍藥/草/也俗正今倉古反/草死也三/通</hi>茈<hi>正音紫?薑/又?草也二/古文失旨反/今作/?同/音魯杜衡/?名也魚矣魚力二反草盛?也/作?反/草盛?/俗/通</hi>蓰<hi>正斯氏反/草/也三</hi>蔪<hi>慈染反?/秀?也</hi>
+莒<hi>居許反草名又國名亦姓</hi>葰<hi>蘇果沙瓦二反/?人縣名二同</hi>蓓蕾<hi>上薄亥反下落猥反??花欲綻??函音聚/二或作子小/反/菜似薺/舊?/作跛/丁敢反又音占四同通正徂?反/葍?也二</hi>
+                    <graphic n="KR1688" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1688.png" mimeType="image/png"/>
+                    <hi>音犯法也常/也式也前也/或/作</hi>?<hi>正音止香/草/也又昌海反二</hi>芷<hi>音止白?藥名又?陽縣名二/俗/正音止?蒻/小/苹也二/或/作/正徒口反/草蓐也二</hi>?<hi>??云合/作/枲息/反麻有子曰?無子曰苴也音耿芋莖/也</hi>苟<hi>古口反且也/亦誠也又姓</hi>蓼<hi>音了辛菜也又/音六?莪也二</hi>蕆<hi>丑善反/?也/新?作/古典反</hi>苪<lb/>
+<pb n="32b"/>
+<hi>音丙著也</hi>?<hi>音買?人呼/苦<graphic n="KR1767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1767.png" mimeType="image/png"/>曰苦?</hi>
+                    <graphic n="KR1767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1767.png" mimeType="image/png"/>
+                    <hi>其?反苦?江/東呼苦/?也/俗同/上</hi>?<hi>古</hi>藟<hi>今力水反葛?/菜似/也二</hi>?<lb/>
+<hi>九水反藤/也/古典反/蚕衣也</hi>?<hi>上音?下音慈/?反草藂生?</hi>葸<hi>思子反質/?/?也</hi>去聲蔽<hi>必稅反掩也障也?也/情夜反祭/?/也/俗/正莫候反又莫布反豊/也美也盛也滋?也二</hi>巷<hi>下降反里也小/街也与街同</hi>蓻<lb/>
+<hi>俗</hi>蓺<hi>正種?也/今/正魚祭反?能也靜也常也准也才/也法也又禮樂書數射馭六?也四</hi>?<hi>?禁反?覆/也又平聲</hi>藺<lb/>
+<hi>良刃反?草名又姓</hi>?<hi>?救反/?薺也/俗</hi>芋<hi>正王遇反?草云有毒草也/食之煞人以灰水/?/之乃可食食巳至不飢岷山多出又音于草或?二</hi>
+薜荔<hi>上毗計反下力計反??/香草名/又覆姓</hi>藎<hi>徐刃反進也又草/名能染作/金色</hi>著<hi>陟慮反成也立也明也反也?也又張?反所?也又知?反任也又直?反貪/?也/音/屋/苫/也</hi>莇<hi>直?反/草/名</hi>莝<hi>倉?反/斬草也/之夜反/??也</hi>蔚<hi>音畏茺?草也</hi>苹<hi>通正秦?反集也聚也二</hi>?<hi>音利/臨也/胡紺反苗?/心欲/秀也/羊稅羊雪二反萌牙/初生?又草木盛?也</hi>蕢<hi>求位反盛土?也又苦?反又名也/音帝人/姓也/莫鄧力鄧/二反/?/居例反草似/芥又/音計又州縣名亦姓</hi>?<hi>俗</hi>?<hi>正五?反?也老也長養也又草名又/姓二</hi>?<hi>音問親/生草也</hi>菢<hi>薄報反鳥/伏?/也</hi>莚<hi>余戰反蔓?也/又平聲草/名</hi>薦<hi>作見反?席也草也進也又姓</hi>葂<lb/>
+<pb n="33a"/>
+<hi>舊?作/音/遂/古文/音挍</hi>茤<hi>俗</hi>芰<hi>正渠寄反陵?生水/中有子可食也/二/正</hi>薤<hi>今胡戒反葷菜也二</hi>?<lb/>
+?<hi>上音浪下徒浪反??毒/草名也</hi>蓎<hi>俗音/?</hi>?<hi>今</hi>蒜<hi>正音筭葷/菜/也二</hi>荐<hi>在見反再也/仍也數/也於反?也/又蕪也草也/正</hi>?<hi>今呼豆反荳/?藥名也二/音帝草/木/綴實??也</hi>蘱<hi>音類草也一名/蕫/如鳥尾可食之矣</hi>
+?<hi>於?反?覆也又清也微也又於例反</hi>藹<hi>於?反/?樹/繁/茂也又姓/胡計反/屧?也</hi>蘸<hi>?反以物/?水中也</hi>?<lb/>
+<hi>音??蒿也下又郎?反亦蒿也二</hi>
+                    <graphic n="KR3016" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3016.png" mimeType="image/png"/>
+                    <hi>通</hi>薍<hi>正五慣反/草/名二</hi>藋<hi>徒吊他吊二/反黎?/也/莫報反老/?与耄同/舊?作在廣弘明集第二?七眷</hi>?<hi>而證反草/不/剪也</hi>?<hi>三/俗</hi>?<hi>或/作</hi>蒨<hi>正倉練反草/盛?亦草名五</hi>茜<hi>食練反草名可染絳色也</hi>萰<hi>郎電反/草名也/三古文/音/證</hi>蒟<hi>九遇反?醬/又其/矩反</hi>芮<hi>而稅反草生/狀又姓也</hi>?<lb/>
+<hi>苦故反醋葅也/才外反藂/也又小?</hi>蔦<hi>吊鳥二音/寄生草也/俗?/過反/音?亂草又音蒲/?攎?亂草也</hi>蘙<hi>於計反以障也</hi>?<hi>意共二音/連翹草名</hi>?<hi>郎計反/紫草也</hi>蕙<hi>音惠香/草蘭</hi>
+                    <graphic n="KR1002" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1002.png" mimeType="image/png"/>
+                    <hi>作見反/畜食也</hi>莧<hi>侯間反菜/?/名也/良刃反草名</hi>薈<hi>鳥外反/草盛也</hi>?<hi>舊?作鎣/鳥定反?飾</hi>薯<hi>常恕反根/可食/也</hi>菸<hi>依倨反/息草/舊?/作羡</hi>芐<hi>音下<pb n="33b"/>蒲苹草又音?地黃也/上或作丑芥反毒虫也今作/香嚴又他刺反亦虫名二/夫/反二/舊?/作夢/新?作音草名/布過/反</hi>蔟<hi>倉候反/太?正日/名也又干木反蚕?也/二音又同/?也</hi>?<hi>他故反?/絲草名也</hi>?<hi>音計草/名又州名亦縣名俗/正初患/反/奪也逆也二</hi>入聲苾<hi>上毗/反下測于反??梵語草名有其四?故今存之也測于反同上二/二/俗</hi>菽<hi>正音叔/豆也三</hi>萩<hi>俗</hi>荻<hi>正徒?反/<graphic n="KR1840" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1840.png" mimeType="image/png"/>/也二</hi>蔔<hi>蒲北/反蘆?也二二俗/月不/明也/火不/明?/今/俗/正莫結反/?無也七</hi>葺<hi>子入反茨也又七入反修補也七入反?累修補也又子入反/茨也又音習/俗/正魚列反/妖?也二/俗/正魚列反餘/?也又姓二音上与司</hi>蘗<hi>博厄反/黃/?</hi>?<hi>胡谷反石/?草/也/胡谷反水/菜可食也/古木反?/草/藥名</hi>蔌<hi>送各反/菜茹之?名也又姓</hi>
+?<hi>彼?反種穊移蒔也</hi>藿<hi>呼郭反香草/也又豆葉也</hi>蒺<hi>音疾?/?/也</hi>
+                    <graphic n="KR2130" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2130.png" mimeType="image/png"/>
+                    <hi>二/俗</hi>爇<hi>今如?反憢?也三</hi>苜蓿<lb/>
+<hi>上音目下音宿??草/名也/紀力反急/敕/草也</hi>?<hi>音察草/?/也</hi>蔍<hi>音鹿?/蹄草也/音笛盛/種?也</hi>葯<hi>於角於略二反白芷葉也/音若杜?/香/草名</hi>蒻<hi>音若荷/葉/也又??也/俗音責/正作笮</hi>芅<hi>音弋羊桃也/或曰鬼/桃</hi>苵<hi>徒結反?雅云稗布地生穢草<pb n="34a"/>也又也/音/徒藥反/或/作</hi>?<hi>正魚烈反米/麴?也/二/音憶似菊/而苦/也/五各反/花?也/蒲?反蘩母也俗音正作荅/或/作</hi>芛<hi>正余律反草/初生也/二</hi>?<hi>二/俗/或/作/正音福草/名/也四</hi>葍<hi>音福也</hi>
+茢<hi>音列桃?可以?帚除不祥也/俗</hi>薁<hi>正於六反/蘡?也二/二/俗</hi>苃<hi>正音?蓽?/又根?也三/倉?反/草名新?作?楚/革反/二新?/作/苾/俗/正多葛反/蕈?也二/音?三同二俗</hi>蘀<hi>正音託葉/落/也三</hi>?<hi>乞迄二音/香草名也/俗/正五革五/二/反?綬草也二/或/作/正音悉牛?也二</hi>?<hi>音赫</hi>萆<hi>房益反/雨衣也</hi>?<hi>通</hi>莢<hi>正古?反蓂?皂/?榆?也又姓二/古文/蜜字/音雜亂草也又在?反?簾也</hi>
+?<hi>音忽?/也</hi>蓋<hi>胡臘反/苦/?</hi>芨<hi>音急烏頭?名也又俗/及笈二音負書/箱也</hi>苙<hi>及立二音/白/止也/音及冬/瓜也或作古黠反今作秸/也/蘇?反/草名也/俗</hi>莋<hi>今在各反/縣名/二</hi>菉<hi>音??/蓐/草/或/作音?水名今作?</hi>蓐<lb/>
+<hi>音辱草?又薦</hi>?<hi>新?作<graphic n="KR1170" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1170.png" mimeType="image/png"/>奴/?反病/?</hi>蕝<hi>子?子芮二反/束/茅表/位</hi>
+                    <graphic n="KR0995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0995.png" mimeType="image/png"/>
+                    <hi>音?葶/?子也</hi>茖<hi>音格山/?/也</hi>?<hi>許六反羊/蹄菜名</hi>
+蓫<hi>直六反馬尾草名又丑/六許六二反亦羊蹄菜名/俗/正所洽反?/莆瑞草也二</hi>?<hi>郭氏作/?/字</hi>?<hi>音勒蘿/?香草</hi>?<hi>音截<pb n="34b"/>草?</hi>?<hi>玉/篇音穫?落藥也/又一虢反川韻驚視?</hi>芍<hi>市若反?藥又七崔反/陂名又音的蓮子/也</hi>
+                    <graphic n="KR3712" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3712.png" mimeType="image/png"/>
+                    <hi>音塔/?布/音集/菩?/音弗草木盛?/新?/作厥</hi>蓽<hi>音必織/?門也/紀力反薳/?名也/鳥酷反/同/沃/古文/音岳</hi>薏<hi>音憶?苡/蓮實也俗音</hi>芴<hi>音勿土瓜/也</hi>茁<hi>微/反草牙/又止律/反/或音/笛也/音革</hi>
+︻口部第七嚬<hi>毗寅反???滅眉/也</hi>?<hi>
+                        <graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>加/反/五/俗/正語巾反?頑也?也左傳云口不道忠信之言曰?六</hi>嘲<hi>陟交反?/諕也調也/三/俗</hi>呺<hi>三/通</hi>?<hi>正許饒反?諠也大也/動也不安靜也十一赤之反?戲/?也</hi>嘶<hi>音西/鳴也</hi>哆<hi>丑加陟加尺氏三反張口也又車者反/?脣下垂?也又當可/反語聲也</hi>?<hi>子之反?/嗟憂聲也</hi>囉<hi>力何反嘍?又小?語又力沙/反</hi>?<hi>二俗音婆/在?中/俗音?/在?中</hi>
+                    <graphic n="KR4679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4679.png" mimeType="image/png"/>
+                    <hi>俗音/奢/俗音/呵/俗音/?/二俗其凝反</hi>嗏<lb/>
+<hi>二俗音茶可以/?飲也/三俗力/夷/反/三/俗</hi>?<hi>正胡刀反/熊/聲四/俗</hi>咷<hi>正徒刀反?也二</hi>嗔<lb/>
+<hi>昌真反怒也又徒堅反氣盛/?也</hi>?<hi>古</hi>喧<hi>今許袁反?譁/又私全反/二</hi>?<hi>俗?馳丘/尒二/反/??反小/兒?/也俗</hi>嘌<hi>今正音漂吹之?三/二俗穰/囊二音</hi>?<hi>古文/唐字/俗五/郎反/俗詰/倪反/俗去/危反</hi>?<hi>俗音/他/二俗</hi>
+<pb n="35a"/>
+?<hi>二通</hi>啼<hi>二正音提?泣也又/?無常節/也六</hi>?<hi>烏奚反<graphic n="KR0687" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0687.png" mimeType="image/png"/>?/聲也<graphic n="KR0687" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0687.png" mimeType="image/png"/>音幽/俗/通士佳反正/作字二</hi>?<hi>俗正五佳反犬?也二</hi>哮<hi>呼交反/闞也</hi>?<hi>俗</hi>唬<hi>或作/同上三</hi>嘐<hi>許交反擾/駭?/也/許交反??恚也又呼各反嚴醋?也二</hi>?<lb/>
+呦<hi>二俗</hi>
+                    <graphic n="KR0687" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0687.png" mimeType="image/png"/>
+                    <hi>正音幽鹿/鳴/也三/俗音/誇</hi>?<hi>俗長/林反/五俗/音穿/正/俗玉篇音口淮古花二反切韻音苦/蝸反皆口戾不正也二</hi>?<hi>音詩牛食口中/草也又俗音寺</hi>唌<hi>俗祥延反/正作?字/二/俗/正/今落侯反又/上聲?鳥聲也/三俗落侯力主/蘇口所角四反/俗音/令</hi>?<hi>俗音/離/他?/二音</hi>?<hi>俗音/柤/俗女耕反音??螫也二/俗</hi>?<hi>正是支反鳥鳴也又音/啼又?中音土美反二/俗音/卑/二俗音張/上又音帳/俗</hi>喃<hi>正女咸反詁?語聲也詁音竹咸反二</hi>嘻<hi>許之反意/?傷嘆也</hi>噫<hi>?其反痛傷之聲也又/去聲又依戒反?氣也/俗</hi>?<hi>正甫休縳/二/反吹/氣也二/俗音成俗音崖正作?</hi>?<hi>俗音/銜/二俗卓卜皆反/正/作/字</hi>?<hi>俗音/何/俗音/蒙</hi>嘽<hi>他丹反馬喘/也又喜樂也/俗</hi>?<hi>正音吹?也二</hi>啾<hi>子由反?/唧聲/也</hi>啁<hi>張由反鳥/鳴也/又陟交反??也</hi>嚘<hi>?求/反?/也又咽也</hi>嘩<hi>俗花華二/音正作譁/三/俗</hi>
+                    <graphic n="KR0561" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0561.png" mimeType="image/png"/>
+                    <hi>正音孤啼聲也/四</hi>噰<hi>或/作</hi>嗈<hi>二/今/正?容反?/鳥/聲也四</hi>?<hi>呼加呼賈/呼/可三反大笑也/俗音/?/俗莫/郎反俗</hi>
+<pb n="35b"/>
+咆<hi>正?交反?能虎聲/也二/俗知/連反</hi>叨<hi>他刀反忝/也/濫也/二/俗/正都侯反/多言也三</hi>噯<hi>俗烏/皆反</hi>?<hi>俗音青俗許/之反/俗音/流/俗昨/?反/俗音/悲/俗忙荒/二音/二俗音焚</hi>?　?<lb/>
+<hi>三俗音居</hi>?<hi>俗</hi>咿<hi>正音伊噢??悲/也痛念之聲也二</hi>?<hi>戈禾二音?/小兒?言也/烏交反?/咋多聲也</hi>咬<hi>烏交反/?聲也</hi>喑<hi>烏含於金於禁三反啼泣無聲/也/通</hi>
+                    <graphic n="KR2430" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2430.png" mimeType="image/png"/>
+                    <hi>正??反笑?也出/川韻又俗都?反二</hi>?<hi>二俗/音吟</hi>喁<hi>魚容反噞?也/又?口上見也/二/俗</hi>吪<hi>正五禾反動也<graphic n="KR0861" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0861.png" mimeType="image/png"/>也詭/也与?訛亦同三/音徒与圖同/謀計議/也/俗式人敕/轄二反二</hi>?<hi>俗也?誕三音/二俗疋/反正作漂</hi>噴<hi>普門普悶二反?吒也又吐氣也/俗音/仍/俗烏兮呼兮/二反?聲也/俗音/輪/俗他/丹反</hi>?<hi>二俗/音?/俗音/雄/俗音星</hi>吱<lb/>
+<hi>音支玉篇音哇也又/巨支反/二/俗/正嗚瓜於佳二反玉篇小/兒啼也切韻/媱聲也三</hi>?<hi>俗音夫正/作/趺二/音紬誰也又陟流反嘲也</hi>咯<hi>俗音/名</hi>?<hi>俗音/陵/論自切/奴流反/俗力/古反/或作昌為正/作吹又去聲</hi>嚨<hi>盧紅反/喉?也</hi>?<hi>俗孫二音</hi>
+喤<hi>音撗小兒啼/泣聲/鋤銜反?氣也又?奪又慈/染反小食又楚?反試人食</hi>嘰<hi>居依反口醜/玉篇小食也/俗呵/朋反/俗</hi>?<hi>正玉篇欽琴二音口急也香嚴/又牛/反口?水也二/二/俗</hi>嘕<hi>正許延反/笑?也三/去?反/善樂也/正/今音?喜/樂也二<pb n="36a"/>俗正苦干/反/二/音/真驚也/又音震二同/莫江/反語/雜?曰?也</hi>哨<hi>音消口不正也又七笑反/?口黯者/名也?音胡/俗音沙俗巨支反/俗巳/披反/俗/二音/俗/正子?將焰二反?取不/廉又資悉反?聲/也二</hi>?<hi>子俱反?也</hi>唉<lb/>
+<hi>烏開反幔?也又?其反/俗</hi>喌<hi>正州?二音呼/聲又音朱二</hi>?<hi>二俗?求/反小聲也</hi>
+                    <graphic n="KR1529" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1529.png" mimeType="image/png"/>
+                    <hi>俗音/移/俗音/毗/音?呼犬聲又?皆反唱歌聲又俗生/角反/俗</hi>嘵<hi>正許么反??聲也玉/篇又女交反嘲?也二</hi>嗺<hi>素回反?送歌也又作回反口??又醉雖反??也又俗在雀反</hi>?<lb/>
+<hi>火街反笑?也/俗他/丹反</hi>?<hi>五閑反/訟詞也/音/荒</hi>喈<hi>音皆鳥聲/又胡戒反</hi>?<hi>音喧懼/怒也/又音喚亦恚也/俗音/迦俗</hi>嘺<lb/>
+<hi>正渠?反不知也二/俗/正音超截人言/又喉鳴也/二</hi>嚝<hi>撗反鍾/?/聲也</hi>唹<hi>音?笑/?/也/音零/二/陟流反</hi>
+?<hi>烏郎反?聲也/音/皮/舊?作<graphic n="KR0561" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0561.png" mimeType="image/png"/>音/孤啼/聲也/俗奴丹/奴且二反</hi>咖<hi>俗加迦/伽三音</hi>唋<hi>俗余途/二/音/俗音俗正音聊?亮聞?聲也又力吊反/病呼也二/徒昆反/?不了/俗古/恒反</hi>咍<hi>呼?反笑/??/也</hi>咦<hi>喜夷反/笑?也</hi>嘄<hi>澆/二音聲也</hi>
+?<hi>女閑反語聲</hi>嘌<hi>疋昭反疾/吹/之?/徒昆反口/氣/?也/俗</hi>?<hi>或/作</hi>?<hi>今音和玉篇/小?啼也三/俗呼兮反二俗</hi>噅<hi>正許為反口不正/又俗火雖反三</hi>?<hi>俗</hi>?<hi>?/名/音求氣/詞也三/二俗/音須/或/作/正五/高反?口愁也二</hi>
+<pb n="36b"/>
+</p>
+<p>
+<pb n="37a"/>
+<pb n="38a"/>
+<pb n="39a"/>
+<pb n="40a"/>
+咽<hi>正烏見反吞也又平聲下又入聲四/許衛反/口?也/俗</hi>啻<hi>正音施不?也/多也越本也二</hi>
+                    <graphic n="KR1127" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1127.png" mimeType="image/png"/>　?<hi>三/俗</hi>噭<hi>正古吊反鳴/也?聲也亦也/同/四/同上?/也/古</hi>嘳<hi>今苦?反?/譏他人也二</hi>喟<hi>苦?反嘆息/也又口貴反/二/俗</hi>唄<hi>正蒲芥反梵?也三</hi>
+唎<hi>俗音利/胡紺反哺/?也二同</hi>唾<hi>土?反說/文/液也</hi>唑<hi>二/俗</hi>噬<hi>正時制反齧也又食也齧五結反三二俗/正蘇吊反吟也/即長?也/三</hi>嗽<hi>蘇奏反欬?也又所角/反口?也/?音/吸/蘇奏反觜?也/又音朔??也</hi>?<hi>才笑反/嚼也又音焦啁?聲也啁音嘲俗音刃</hi>哺<hi>音?乳?又/食在口/也</hi>噀<hi>二/俗/正蘇困反?水/也与潠/同三</hi>嗅　?<hi>三俗許救反/正作?字</hi>咧<lb/>
+<hi>二俗</hi>唳<hi>正音戾?鳴曰?又音/綟亦嘍?鳥聲/也三/俗音/泛/俗音/季/二/俗/正許既反/?啼也三</hi>嚷<hi>俗如障反/俗</hi>?<hi>二正許戒反/怒大聲也三</hi>嚫<hi>?近反/?施也/俗音到又/直/致反</hi>嚪<hi>俗音/贍</hi>?<hi>俗/正苦?反?歎也二俗子賤反</hi>哧<hi>二/俗</hi>嚇<hi>正呼嫁反笑聲也又/呼格反大怒?也三/正</hi>?<hi>今呼嫁反/虎/聲二</hi>?<hi>口俗正息妙反?欣喜也五</hi>嗆<hi>俗初亮反/正作/愴</hi>?<hi>俗音/嘆/二俗於/禁/反</hi>唸<hi>丁念唐/練/二反呷?也/俗五/戾反/俗音代</hi>?<lb/>
+<hi>俗音?/俗羊稅反/正作/皆俗/音汗正作/?睡也/下一又正疋秘反喘聲也五/俗音/?</hi>
+                    <graphic n="KR4695" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4695.png" mimeType="image/png"/>
+                    <hi>俗於反</hi>
+<pb n="40b"/>
+?<hi>俗許亮反/俗他/定反/俗音/路/二/俗/正/或/作/今音帝?噴鼻氣/也又所甲/反五/二俗音?/俗羡延二音正/作涎羡二/字</hi>咘<hi>俗音/布/三/俗/或/作</hi>嚾<hi>古/今呼貫反呼也六</hi>?<hi>俗正常至反?欲貪愛也二</hi>嗄<hi>於芥所嫁二/反聲敗變也</hi>?<graphic n="KR3597" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3597.png" mimeType="image/png"/>
+                    <hi>二俗普悶反正/作/潠水也/俗音/泰/去智反行喘息?也應法師又竹?反俗音/介/俗</hi>噪<hi>正蘇到反群/鳥鳴聲也二</hi>這<hi>俗</hi>唁<hi>正?箭反吊失國也/又語斤反?咢也二/俗通</hi>喭<lb/>
+<hi>正牛箭反?也三</hi>?<hi>伶音/破/魚祭反獨/??言也/俗音/尚/俗音/署/俗直/例反/俗音/細/俗音命俗昌制反/俗音/樹/音/人/名又姓/俗京/例反</hi>?<hi>三俗胡/計反</hi>?<hi>??反呻也又/火尸反/笑也/俗音漏二俗丁計/反/俗</hi>噁<hi>正烏故反喑/怒/?也二/俗烏/外反/俗音/爭/俗音/迸</hi>?<hi>俗音/夜/二俗音企</hi>
+嘒<hi>或作</hi>?<hi>正呼惠反/聲急也二/俗音/望/俗音/?/俗音/對/俗?/報反</hi>喕<hi>二俗?/箭反</hi>嗎<hi>俗莫反俗避夜反/俗音/?</hi>
+                    <graphic n="KR4129" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4129.png" mimeType="image/png"/>
+                    <hi>俗口/?反/二/俗</hi>哄<hi>正胡貢反/唱聲/三</hi>?<hi>音授口/?/也</hi>?<hi>俗去致反正作跋垂足坐</hi>?<lb/>
+<hi>俗通?命反歌/也/俗音/致/俗蒲/鄧反</hi>?<hi>許界反?氣/?又多言也</hi>咡<hi>仍吏反/口吻也/之夜反多/語/?也</hi>唭<hi>去吏反??也</hi>
+<pb n="41a"/>
+<pb n="42a"/>
+<pb n="43a"/>
+</p>
+<p>
+<pb n="43b"/>
+<hi>二反食新也一曰大歠聲/山劣/芮二反小/飲也又?/也二</hi>
+                    <graphic n="KR4702" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4702.png" mimeType="image/png"/>
+                    <hi>二俗釋/郝二音/先立反忍寒??/聲也又俗音/習</hi>?<hi>音/音也玉篇又火角反与?同香嚴又?立反助力聲也/或/作/今音切小/語也/二/俗於/厥反</hi>嚄<hi>胡陌反?/嘖大也五俗音</hi>嗶<hi>俗音/畢/二俗音藥正/作<graphic n="KR1371" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1371.png" mimeType="image/png"/>量器也</hi>
+                    <graphic n="KR2971" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2971.png" mimeType="image/png"/>
+                    <hi>五葛反?/讀曰?/二/俗/二或/作</hi>?<hi>今才葛反嘈??聲也又五葛反五</hi>呃<hi>通/或/作</hi>?<hi>今音厄?/喔?聲三</hi>?<hi>烏聲反/小語也</hi>?<hi>祖郭/反/鳴??也/俗音/釋/他各反歠也</hi>?<hi>丁?反多言也/又喫一頓也二同/私盍反/?食?/或/作/正山輒昌?二反多言/也又初洽反口?也二</hi>?<hi>胡?/反?/嘖也二同五合反?聲也</hi>噈<hi>子六反歍?口相/<graphic n="KR0556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0556.png" mimeType="image/png"/>也歍音/烏/子六反/歎也/而?反/多語也</hi>咯<hi>苦各反國語云弢/?血也弢/音叨</hi>嗕<hi>音辱/西羌名又??憐?也</hi>
+?<hi>音栗嘍?言不了也又俗音漂/音逆嘔/?/也</hi>?<hi>音業/動?/上山洽反下女洽反/??小人言薄相也</hi>囁<hi>而?反/口動?/古文渠六反/音/十/?業反/口嚇也</hi>嚁<hi>舊?作躍音藥在廣弘明/集第卅卷郭氏又俗音曜</hi>嗍<hi>音/朔</hi>
+                    <graphic n="KR3679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3679.png" mimeType="image/png"/>
+                    <hi>俗所/立反/俗音?</hi>啒<lb/>
+<hi>骨忽二音憂?/俗渠/力反/俗音/?/竹滑反口/蒲食/?/二/俗/二或/作/二/正/今音薩人事變也又所芥反喝?嘶聲/也七</hi>?<hi>魚謁反相呵也玉/篇又音珊??也</hi>哷<hi>音劣?/鳴也</hi>?<hi>俗/正奴骨反/口?也二</hi>唈<hi>烏合反/嚘也</hi>?<hi>烏八反飲/聲玉篇<pb n="44a"/>又古沒於月二反聲/下出也/呼木反/歐/聲/盧盍/反/俗音/喫也/昌約反/轉舌呼/其虐/反/音/剌/音赫你入反/音畜</hi>
+︻女部第八?<hi>俗俗又縶/也遭也</hi>嬰<hi>正益盈反女曰/?男曰/兒三</hi>嫌<hi>刑兼反疑/也?/也不平?心也二/許其反樂也一曰遊也又去聲?姿/??也</hi>?<hi>古哀反數也/十經曰?也/音/蒿/也/又除田草也</hi>姝<hi>昌朱反/美好也/二俗/音?</hi>婪<hi>郎含反貪?也</hi>
+姦?<hi>古?反??私詐/也二</hi>姿<hi>音資儀容/媚/態也</hi>嬌<hi>居喬反女字/媚/態?也</hi>娊?<hi>二/俗/正丁含反樂/也愛/也三</hi>?<hi>音同上媱過也四</hi>孋<hi>音離?姬/晉公之妻/俗/正居之反周姓也又与/之反王妻/?名也二</hi>?娠<hi>音身孕也又之/刃反?也二同</hi>媱<hi>余針反?蕩私逸也俗</hi>嫻<hi>正音閑?雅淹靜/也二</hi>
+                    <graphic n="KR1137" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1137.png" mimeType="image/png"/>
+                    <hi>渠營反/好?也</hi>?<hi>五堅反美/好?淨也</hi>妍<hi>俗同/上</hi>?<hi>音愚?/樂/也/毗人反婦也又妾御曰?也</hi>娙<lb/>
+<hi>五耕反身長好?也/二或/作/今莫耕反嫈/?也/又莫經反好?也三/俗</hi>嬙<hi>正疾良反婦人/官名又音色二</hi>?<hi>音奚/姦也</hi>嫘<hi>或作正力追反?祖黃帝/妻也二</hi>?<hi>許金呼談呼含/三反貪/愛也/許/???二反/便??麗/?也</hi>嫫<graphic n="KR1653" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1653.png" mimeType="image/png"/>
+                    <hi>莫胡反?母?帝妻?甚醜也下又莫百反靜也二</hi>妐<hi>音鍾夫/之兄也</hi>妃<hi>芳非反/偶曰/?又御/女也/息廉反細/也銳/也</hi>婗<hi>五奚反人始/生曰嬰?也/或/作</hi>嫛<hi>正烏奚反/?婗人<pb n="44b"/>始生也二</hi>?<hi>俗先/羊反/子余反?/訾星名也</hi>媞<hi>音帝美好/?又/音是江淮呼母也/音頻/?姿</hi>媸<hi>赤之反/?妍也/呼光/反</hi>姣<hi>胡交反?姬也又古巧反?/媚也</hi>?<hi>相倫反狂/也又音縣/音誇?/奢?也/或/作</hi>?<hi>正所臻反/有?國名</hi>姺<hi>所臻反/女字也</hi>妤<hi>音余婕/?也</hi>?<lb/>
+<hi>所交反小?/倫也</hi>?<hi>玉篇牛昆/反女字也</hi>娀<hi>音嵩有?女?狄帝/嚳次妃吞乙卵生契/音專可/愛/也/古文音/雖同綏</hi>嫈<hi>烏耕反/?新婦?也又伊迸反小心態/也</hi>媯<hi>俗</hi>?<hi>正居為/反州/名水名又姓二</hi>?<hi>烏何反媕?不快也/又烏可反人姓/也</hi>媕<hi>烏含反??幻不快/又?琰反婦人名也/古文音要</hi>婘<hi>巨?反/美好也</hi>?<hi>巨?反??/好?也二同/莫江反/女神名</hi>嫽<hi>音聊相??又力/吊反?悷性自是/烏含反?婪/貪玉篇又青含反亦貪也</hi>
+嬠<hi>青含反婪也</hi>媮<hi>他侯反薄也巧黠也又/荀且/也又羊朱反?縣名也又靡也</hi>?<hi>二俗/音?/二俗/音?</hi>
+                    <graphic n="KR3068" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3068.png" mimeType="image/png"/>
+                    <hi>苦加反??女作姿態也?音?二/俗/正力之反/無夫也三</hi>奻<hi>奴還女患/二反訟也/或/作</hi>妦<hi>正芳容反/好?也二/蘇干反/詐也</hi>?<hi>阻耕反</hi>?<lb/>
+<hi>阿歌二音女師以教文字</hi>?<hi>阿訶二音/女字/也</hi>?<hi>於?反??舞?也/又僤?好姿態/?</hi>?<hi>房連反?/始/美?</hi>?<hi>?占昌?二反/?姼輕薄?也</hi>嬥<hi>徒聊反細腰?又徒了徒吊二反?????又巴人歌也又/音濁直好?</hi>婓<hi>芳非反??往/??一曰/醜</hi>娃<hi>於佳反?媱聲又美/女?/又音桂人姓</hi>?<hi>音夫貪?又音/憂鼻目閒恨也俗</hi>
+?<hi>正即移反婦人好?也又音此/二/或/作</hi>嫴<hi>今音/孤/保?也二/俗</hi>嫙<hi>正似全反/好?也二/二/俗</hi>媧<hi>今六蛙古花二反女?伏<pb n="45a"/>義之妹三/二/俗/或/作/今与之反?樂也又許/其反/善也亦?也四</hi>?<hi>許<graphic n="KR1272" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1272.png" mimeType="image/png"/>反女字也又/去聲?也善/也/音/昏/或作</hi>嬬<lb/>
+<hi>正人朱反妾名也二</hi>嬃<hi>相俞反/女字</hi>娶<hi>相俞七句二/反媒嫁/也</hi>嬣<hi>女/反?体也/体音蒲本/反/俗音/妻/音/經/許其反婦人賤稱也</hi>
+奸<hi>音干以淫犯?又以?交也亦亂也又古?反/音/貪</hi>?<hi>??反/娥眉也</hi>?<hi>舊?/作崔</hi>嫄<hi>音元/姜?</hi>婤<hi>都聊反大也又音抽好/?也又音周女字也</hi>
+<graphic n="KR4184" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4184.png" mimeType="image/png"/>
+                    <hi>??反娥眉?</hi>嫣<hi>許延/???蹇三反長/好?又人名又?/?反</hi>嫹<hi>俗</hi>媌<hi>正莫交莫巧二/反美好?也二/古文/?字/或/作</hi>妘<hi>今音云女字也又姓/二</hi>嬚<hi>音?女/字/也</hi>?<hi>音余/女字/徒刀反与?同/?小有柄者鼓</hi>娞<hi>音/?</hi>上聲　娜<hi>奴可反????也二同於?反美/也順也好也/泥鳥反苛/也擾弄也</hi>?<hi>咨死反/女兄也</hi>?<hi>玉篇音惱?弄擾?也/又俗女甲七列二反/四俗二或作/正/今音朏相?/亂也八字</hi>嫋<hi>奴鳥反/長弱?</hi>嬝<hi>奴鳥反/<graphic n="KR0933" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0933.png" mimeType="image/png"/>也二</hi>嬾<hi>落散反惰/也与懶同</hi>姥<hi>莫補反/老?也/其綺反女樂也</hi>
+婸<hi>徒朗反姪/?/正</hi>婧<hi>二今疾井反女人貞/絜也又竦立也三/二俗烏了/反正作窈/俗徒了反/正作窱</hi>?<hi>俗</hi>嫂<hi>通</hi>
+?<hi>正蘇老反兄?也三</hi>?娞<hi>上烏?反下奴每/反??/好?也</hi>婀<hi>烏可反/?娜也/?</hi>?<hi>正五感反/含怒?二/二或作今胡感反?害?性也又五感反三</hi>媽<hi>莫補反/母也</hi>嬐<hi>魚撿反?/然齊等也/俗/通/正</hi>嬭<hi>今奴買反/乳也/四俗</hi>
+<pb n="45b"/>
+<pb n="45b"/>
+<hi>正莫候反女師也二</hi>?<hi>二/俗/正疋計反/醜/也三</hi>妧<hi>五貫反好?/也又?人也/疋正反問也/婚也娶/也</hi>姅<hi>半判二音/傷孕/也/川韻作</hi>
+嫚<hi>正莫晏反侮易也二/俗/正倉且反詩云三女/??也又美女?二/俗</hi>嫪<hi>正郎到反/?惜物也二/作且反/女徒也又昨且反好?也又不謹也</hi>
+嬖<hi>必計反愛也妄也卑/也</hi>?<hi>或/作</hi>奼<hi>今當故陟嫁二反美女/也隨經更有多/釋二/俗</hi>嫕<hi>正於計反婉/?柔順?二/二俗</hi>?<lb/>
+<hi>正芳遇反?子曰?又芳方反鳥伏?出也三</hi>?<hi>芳万反?息也一/曰鳥伏乍出也</hi>婭<hi>?嫁反/因?也/四/俗</hi>嫭<hi>正胡故反美好也五</hi>?<lb/>
+<hi>音縣狂也又/音荀/俗/或/作</hi>妎<hi>正胡計反心不了也又音/害字林云/疾?妒也三</hi>婟<hi>胡故反?/嫪戀惜也/上音炭下音畔/??無?也</hi>
+?<hi>許吊許列二反?/喜?</hi>婠<hi>音貫好?又烏/八反小兒肥也</hi>媛<hi>音院淑?又/美/女曰?</hi>姁<hi>香句反/?/嫗/乙句反/老?也/俗音媚二或作音曳衣也</hi>?<hi>音二女/字/也</hi>?<hi>下晏反/也</hi>?<hi>?豆二音美女/也又/俗音短</hi>娷<hi>竹志反好?又飢/也又女恚反人姓/孚梵反好?也</hi>
+<graphic n="KR0945" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0945.png" mimeType="image/png"/>
+                    <hi>?寐二音夫姤婦也</hi>?<hi>於見反/安也</hi>?<hi>音恚/??</hi>婺<hi>音務女星又莫候反/怐?也怐音古候反/正/今力卷反好?也二</hi>孌<lb/>
+<hi>音戀?順也</hi>嬇<hi>苦?胡對二/反女字/也</hi>?<hi>音遇??也女/子遇男子/也</hi>?<hi>承正反玉篇/云長?二同</hi>?<hi>音志女/?也</hi>入聲嫉<lb/>
+<hi>音疾害賢曰?</hi>媷<hi>音辱/懈也</hi>?<hi>音逸媱/也蕩也/音的君也/長也正也/普結反/輕薄?</hi>?<hi>爍/二音/美好?也</hi>?<hi>於角反好?也</hi>娖<lb/>
+<pb n="46a"/>
+<hi>測角反辯也/陟玉反謹行也/又姓又同/上</hi>?<hi>音獨/慢也/二/俗/或/作/二正私列反/狎也慢也五</hi>?<hi>音戈婦女官也竹角反謹順/?也</hi>姶<hi>烏合反/美好?</hi>?<hi>蘇合反/姶?也/音?姚?/美好也/又他外反亦好?也</hi>姞<hi>渠乙反姓/也一曰字</hi>妲<hi>丹葛反?已紂妃也/音執/至也</hi>妠<hi>奴骨女刮二反肥?/又音納姶?聚物也</hi>婥<hi>昌若反?/約美/?</hi>姡<hi>音活?<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>也/<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>音他典反</hi>?<hi>許及反/嚴也/即反?好</hi>嫟<hi>女力反媱/?/也三</hi>?<hi>七亦反?娕齊謹又音/責鮮好又音/健急?/俗</hi>娕<hi>正初角反恭/謹/?也二</hi>姴<hi>音列美也音宿/先結/反/通</hi>?<hi>正呼?反小氣?又/苦?反得/志好二</hi>?<hi>俗</hi>?<hi>二今王縛反/作/姿也三/於?反媚也鼻目閒?薄曰?/也</hi>?<hi>他合反/安也/胡?反/好?也</hi>妶<hi>俗</hi>?<hi>正許六反媚/也好/也二/莫北反/怒?也/音熟後?/官/名也/俗於竭反舊?作觸又郭氏音?三/蒲末反/鬼婦所/居之?天不雨也</hi>妯<hi>音逐?雅云感之動也詩/云憂心且?也亦?娌也/音釋/嫁也</hi>妡?<hi>二俗所六反/舊?作/音?貪/食曰?在成實論/舊?作/欲/字/俗/六反/正/作/士洽反?/?/謔也?五洽反</hi>
+                    <graphic n="KR3722" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3722.png" mimeType="image/png"/>
+                    <hi>音必/母也/音卜昌意妻也/俗音色又/疾良/反</hi>妁<hi>酌杓二音/媒人也</hi>
+︻鳥部第九鳥<hi>都了反飛?也篆文說文及玉篇切韻皆云三點象曰中三足烏也</hi>殦<hi>五俗</hi>?<hi>通</hi>?<lb/>
+<pb n="46b"/>
+<hi>正昌脂反一云鳶鳥/鳶音/?七</hi>?　鷍<hi>六/俗</hi>梟<hi>正古?反不/孝/鳥也食父母也七</hi>鶯<hi>鳥耕/反春?羽文鳥也毛有斑文</hi>?<lb/>
+<hi>二俗</hi>?<hi>正鳥耕反/??也三</hi>鸚<hi>烏耕反?鵡/能/音鳥也</hi>鶖<hi>音秋?/?鳥也/音鴛?鶵/?/?也</hi>鴛鴦<hi>上音怨下音/央疋鳥也</hi>
+鵁鶄<hi>上音交下音青??似鴨而群飛也</hi>鶤??<hi>上二音昆下計奚反/?/?似?而大也</hi>鶢鶋<hi>上音爰下音/居海鳥/也</hi>?<hi>音扶野鴨/小者也俗古</hi>鴻<hi>正音紅鴈?也大/曰?小曰/三/俗</hi>?<hi>正七余反?鳩/不媱/鳥也二</hi>鶬鶊<hi>上音倉下音/庚??鳥也俗</hi>鴝<lb/>
+<hi>正其俱反十鵒鳥/也二</hi>鶙<hi>音啼?/?鳥也</hi>鵜鶘<hi>上音啼下音/胡掏河鳥也</hi>鴉<hi>俗</hi>?<hi>正烏/牙反烏之?名/也又汝南有三足?二俗</hi>
+                    <graphic n="KR4022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4022.png" mimeType="image/png"/>鵹<lb/>
+鸝<hi>三正音離??鳥也四</hi>?<hi>二/俗</hi>鳭<hi>?/鷯</hi>鵰<hi>都聊反鶚/?又姓四</hi>鷦<hi>音焦?鵰/似/?也</hi>鷯<hi>音聊鷦/?/也</hi>??<hi>二俗</hi>鶿<lb/>
+<hi>正音慈鸕?鳥也又音?鳥/也三/正/今音渠/?鳥也二</hi>?<hi>音劬?鵲/鳥也又姓</hi>鸕<hi>音盧?/鶿鳥也/俗音/劬</hi>?<hi>俗音生正作?</hi>?<lb/>
+鵪<hi>二俗/正烏含反?鶉/也字林作/三/常倫反垂?也?/化為?字林作</hi>鸉<hi>音羊白/鷢鳥也</hi>?<hi>音羊/?一足鳥字統/云鵏?舞則大雨也</hi>
+                    <graphic n="KR2795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2795.png" mimeType="image/png"/>
+<hi>音傷??鳥又?鶊/也</hi>鵂<hi>音休?鶹薰/胡/?名也/音?鵂?也又/?離鳥/名也/三/俗</hi>鶵<hi>正士于反与雛同/鵷?也?鳥也四/余廉反?離鳥也/音牟/?名也/通</hi>鷚<hi>正渠幽莫浮武休三反天?/鳥也又力救反鳥子也二/或/作/正書容反/?鳥也/二</hi>鴒<hi>音零?張<pb n="47a"/>之?/俗</hi>
+                    <graphic n="KR1809" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1809.png" mimeType="image/png"/>
+                    <hi>二或/作/?/文</hi>鸇<hi>正之然反鷂?又晨/風鳥也又知連反五</hi>鵃<hi>陟交反鶻?似/山鵲而小/也</hi>?<hi>音其鳥/名也/音欺?也</hi>?<hi>音浮?/鳩也/或作出/王/篇/音非鳥/名二</hi>鸗<hi>音龍/鳥名也</hi>鴳<hi>音安?鳥立春/鳴立秋/去也/或/作</hi>鵯<hi>正音卑?鶋鳥又音疋二/舊/?作/字郭/迻/俗音無在?譯阿合中</hi>鸋<hi>音寧夬?/巧/婦也</hi>?<hi>上音重下音常/?/?鳥名也</hi>鶶鷵<hi>上音唐下音屠??鳥名似烏蒼白色也</hi>
+?<hi>音余与?同穴鳥也/音皆?疋云雄/雉又曰雄鶉也</hi>鵌<hi>音途鳥名与/?同穴也</hi>?<hi>波婆/二音/或/作</hi>?<hi>正音方鷝?鳥名人面青/身又房傷二音澤鸆鳥二俗/二或/作/正他兮反鷿/?鳥名也四/誤舊?作/鴉烏加反</hi>鷤<hi>徒干反鸛?如?短尾射之銜矢射人也又音啼?空鳥又特計反?鳥</hi>鸛<hi>音歡?又音/貫?雀也二同</hi>?<hi>二或作/同上四/二或/作</hi>
+                    <graphic n="KR2154" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2154.png" mimeType="image/png"/>
+                    <hi>正苦咸竹咸二反/鳥啄物曰?也三/烏侯反水鳥也</hi>
+?<hi>徒紅又鳥/名</hi>鵳<hi>音堅鳥名/<graphic n="KR2154" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2154.png" mimeType="image/png"/>?/也/俗</hi>鷮<hi>正驕橋上音似雉而/小尾長走鳴/也二/於嬌反??/?聲/鳥也</hi>
+                    <graphic n="KR1765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1765.png" mimeType="image/png"/>?<hi>古牙反?也下又或音可二</hi>鴐<hi>音加?/鵝鳥也</hi>鸒<hi>余預二音?疋云?斯鳥/雅烏也腹下/白多群也/誤出感通?勸?/僧傳作?丁含反</hi>鷳<hi>或/作</hi>鷴<hi>正音閑曰?似雉尾長四五尺也二</hi>鷡<hi>音無?鴽/鳥名/也</hi>鴽<hi>音如/鴿也</hi>?<hi>音云鳥/名/也</hi>?<hi>音/然/与專反?尾草/也一名/射干/俗通</hi>鳶<lb/>
+<hi>正音??也其飛也翔二</hi>?<hi>?全反?鳥鷰/名也又音玄二/度官??二/反鸛?鳥名/音同<graphic n="KR1391" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1391.png" mimeType="image/png"/>?/鳥有?/長一尺四方五色文也</hi>鵟<hi>音狂?/?也<pb n="47b"/>音??鳩鷹也</hi>?<hi>古玄反杜/?/鳥也</hi>鶗　?<hi>上二音啼下一音???鳥名/春分秋分鳴?則?務歇也</hi>鶱<hi>許言反/飛舉?</hi>鳩<hi>胡官反?/?鳥也正</hi>?<hi>今音無鳥名二</hi>?<hi>音愚鳥似/?/鶖也</hi>?<hi>即移疾移/二反水鳥也/昌脂反/与?同/俗音/烏/於容反?渠水鳥也俗音陵</hi>?<hi>俗元憍/二/音</hi>鳲<hi>音尸?/鳩也/俗</hi>?<hi>正音浮/?鳩二</hi>?<hi>二/俗</hi>鳩<hi>正居求反鴿/也?聚也三俗正</hi>鷏<hi>今音田蚊母鳥也三/或/作</hi>鷜<hi>今音樓野鵝也又/力朱反鵱?也二/昨仙反?/?鳥/也</hi>鵬<hi>通</hi>鵬<hi>正?崩反/大鳥也二/巨支反?也或曰也</hi>鷛<hi>或/作/正音容?渠鳥名/似鴨?足也二</hi>鸍<hi>?絁二音/鳥名一名/沉?似鴨而小/也</hi>
+                    <graphic n="KR2857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2857.png" mimeType="image/png"/>
+                    <hi>部迷反?/鷺水鳥也/正</hi>?<hi>今音旻鳥似翠喙赤也二</hi>
+                    <graphic n="KR3037" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3037.png" mimeType="image/png"/>
+                    <hi>音愚鳥名/現則大旱</hi>
+                    <graphic n="KR1775" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1775.png" mimeType="image/png"/>
+                    <hi>或/作/今??反工雀/即巧/婦也二</hi>?<hi>俗/正音???鳥名/似烏三/足六尾自?牝牡?音母二</hi>鴸<hi>音朱鳥名似人/首/也</hi>?<hi>於消反鳥名/狀如山?也</hi>?<hi>渠惟反/?鴆鳥</hi>鶅<hi>側持反東/方/雉也</hi>鷷<hi>音遵西/方雉名/?盆?/鳩鳥/或/作</hi>鳻<hi>今音大鳩二</hi>鶢<hi>二俗?/爰工音</hi>鳼<hi>音文/鳥名/音/松/或/作/正音詩?/?鳥名二/音移/鳥名/音枚</hi>鳭<lb/>
+<hi>上陟交反下女交反???鳥也上又音/焦与鷦/同</hi>鷐<hi>音辰?/風鸇</hi>鳹<hi>巨淹反自啄鳥/也又渠/今反</hi>鶼<hi>音兼比/翼鳥也/或/作</hi>鷣<hi>今余針反鷂之?名又弋笑反一曰負雀?名/二</hi>鵧<hi>薄丁/反二/音針??/水鳥名也/音心鳥/?色也</hi>?<hi>上音蒙下音同/??/水鳥也</hi>鸆<hi>語俱反鸅?一<pb n="48a"/>名姻澤也姻音/護/音煩?/鴅鳥名</hi>鵻<hi>音隹小/鳥也</hi>上聲<hi>俗</hi>?<hi>正音???鳥/也似烏赤足二</hi>鵡?<hi>音武/鸚也下又音母義同二</hi>?<hi>或/作</hi>島<hi>正都老/反海中有/山曰?也又音鳥二/烏了反水/鳥名/足近尾不能行也/音府/鳥名/俗</hi>?<hi>或/作</hi>鸓<hi>正力水反飛生鳥名紫赤色似蝠/而長又音雷三/昌兩反鶖/鳥/毛也</hi>?<hi>音部小/鳥/也</hi>鴙<hi>二俗直几反/正作/雉二</hi>鴇鴝?<hi>四俗</hi>
+　?<hi>三今音保大鳥也七</hi>?<graphic n="KR2046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2046.png" mimeType="image/png"/>
+                    <hi>音?鳥/名二同</hi>
+                    <graphic n="KR1391" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1391.png" mimeType="image/png"/>
+                    <hi>音可?/鳥扶/?樹上?也</hi>?<hi>或/作/正烏老反/鳥名也二/或/作音/?今作<graphic n="KR2046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2046.png" mimeType="image/png"/>
+                    音父?鳼越鳥/也/莫項莫江二/反/鳥/也/薄顯反/?鵲也/奴了反/鳥/名/俗音/鳥/俗徐兩反与/同又音鳥/以小反雉鳴也又羊水反</hi>︻去聲　鷙<hi>音至執鳥也謂鷹/鸇/之?能執?鳥者也二</hi>鷲<hi>音就鳥名多/子?/色也</hi>鷺<hi>音路白?鳥也</hi>?<lb/>
+鴆<hi>二俗/正直禁反/?鳥也三/或/作</hi>鵏<hi>正音??/?鳥也二</hi>鷂<hi>羊笑反/鷹?也/許運反?鶘<graphic n="KR0690" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0690.png" mimeType="image/png"/>/聲/云?鳥也</hi>鴳鷃<hi>烏?反?雀也又鶬?鳥也二</hi>鵋<hi>渠記反?鴆鵂鶹/鳥今之角?/也</hi>?<hi>音大鳥名狀如/?三曰有/耳/經自切青/反/在四阿含慕抄</hi>?<hi>乙?/反鸕鶿也玉篇又音翳</hi>鷖<lb/>
+<hi>於計反鳥似?也又烏?反?屬/二/俗/正苦候反鳥子也生而/須哺曰?自食曰/三/俗音/貫/俗</hi>?<hi>正苦旦苦葛二反??鳥似?冬無毛曰夜常鳴也/二</hi>?<hi>音且?/?鳥也/奏湊搆/三音</hi>鴣<hi>上之夜反下古胡反?/?鳥不衝北飛也/音志/鳥也/音曳飛星鳥也</hi>
+<pb n="48b"/>
+?<hi>音振鳥名也/正</hi>?<hi>今私閏反飛也/又音?鷂也二/音/鴻也/音兔木?鳥有/毛角也二同/訓/二音/倉?反?鳩鳥</hi>入聲<hi>舊?/作?/三/俗</hi>?<hi>正何各反似鵲而嘴/長仙?祥鳥也/三</hi>?<hi>俗同/上/俗音/足</hi>鵲<hi>七雀反說文知太?所在巢常背之与?/同/俗</hi>鸀<hi>正</hi>鳿<hi>上二之欲反下一魚欲反?頭?/觜目足赤大/如鴨六首鳥也</hi>鵓<hi>蒲沒反/?鴿也</hi>鶡<hi>胡葛反?似??必至死也</hi>鵒<hi>音欲鴝?鳥也似反舌/鳥兩/翼班白?/異</hi>鶩<hi>音木又音/務??也/或/作/正五?反革/?/鳥也二/俗</hi>鶂<hi>或/作/正五?反水鳥也博物志云雄雌相視而有孕也三</hi>鷢<hi>渠月反白/?鳥也/陟格都?二反/?屬戇鳥也</hi>鸄<hi>經?胡狄二反鳥/名似烏倉白色也/并列反鵂鶹別名也俗正并列并祭二反雉/屬而小/有冠也二</hi>鴩<hi>徒結反哺豉/鳥也或作?</hi>?<hi>音逸鵏/豉鳥也/音積鳥/名也</hi>鷽<hi>?角胡角二反/山鵲之屬也舊經切胡骨反/三/俗</hi>鶻<hi>正?骨反鷹?也又骨滑二音/?鳩也又?/?陽鳥也/四/或/作</hi>
+                    <graphic n="KR2608" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2608.png" mimeType="image/png"/>
+                    <hi>正音獨?軬乙/鳥也二俗</hi>鷟<hi>正七甬反?也二/音岳?/?/屬也/普木反/鳥/也</hi>?<hi>俗</hi>鶺<hi>或/作/正音積?鴒鳥一名錢母大/如鷰/鵛下有錢文也三俗正音格鵋?鳥名也下/又音洛鳥<graphic n="KR1410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1410.png" mimeType="image/png"/>水鳥/二</hi>
+                    <graphic n="KR2253" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2253.png" mimeType="image/png"/>
+                    <hi>音洛似鵰?/文赤/頭也</hi>鴀<hi>音不?鳩/出/玉篇/俗音?水/?鳥也二</hi>鴗<hi>音立水?小青鳥似?食/魚一曰天?/音畢??鳥名/白面/色也</hi>?<hi>二或/作</hi>鷿<hi>今抶?反?/鳥名/似?而足近尾也三</hi>?<hi>音力似/?而小也二同<pb n="49a"/>音?鳥也/居縳反三/首鳥也</hi>
+                    <graphic n="KR2570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2570.png" mimeType="image/png"/>
+                    <hi>音習?/鴣鳥名</hi>鵽<hi>知滑反黃雀/也又當括反/或/作</hi>鷫<hi>正音宿西方/神鳥也/二</hi>鵙<hi>古覓反/伯勞也</hi>鴷<hi>音列啄木鳥</hi>鵴<hi>居六渠六二反鳴/鳩今布穀/鳥也</hi>鴶<hi>古黠反/?/鵴/俗去謁反/正/作朅/胡瞎反/<graphic n="KR1534" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1534.png" mimeType="image/png"/>/也</hi>
+                    <graphic n="KR1534" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1534.png" mimeType="image/png"/>
+                    <hi>軋葛二音/?鶡/也</hi>鸐<hi>音濁山雉長尾也俗</hi>?<hi>正音聿飛快也/二/或/作</hi>鷸<hi>正余律反/鳥/名二/俗</hi>鶟<hi>正?骨反?鶘鳥名似/雉/青身/白首也二</hi>?<hi>辛聿反小/鳥名也或作</hi>鵱<hi>今音六?鷜/野/鵝也二</hi>鶌<hi>九勿反?鳩也又/去勿反?鳥/名/古?/反/俗音/宿</hi>鳪<hi>音卜雉?/?/名也</hi>
+                    <graphic n="KR1410" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1410.png" mimeType="image/png"/>
+                    <hi>音卜烏?水鳥似水也</hi>鵠<hi>胡沃反異/鳥名/也</hi>
+                    <graphic n="KR1800" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1800.png" mimeType="image/png"/>
+                    <hi>音乙?/鷰/也/木務二音与鶩/同亦??也</hi>
+︻馬部第十馬<hi>莫下反人??以代勞釋名曰大司馬武也大?武事也說文云?字四/點</hi>?<hi>五俗</hi>
+?<hi>二通/正/俱反馳/也奔也八字/俗</hi>駰<hi>正音因/白馬?/?也又?巾反二/俗</hi>騠<hi>正音提駃?馬/也又丁奚反二</hi>馳<hi>直知反騖也走也奔也騖音務</hi>駝<hi>正</hi>?<hi>今音?/馲?也二</hi>驍<hi>古堯反?騎/武健良勇也/俗</hi>驕<hi>正居喬反馬/?六尺也二</hi>驪<hi>音離馬深?/色也又姓</hi>?<hi>音昌馬名</hi>騎<lb/>
+<hi>音?又?寄反?也又姓</hi>騾<hi>盧戈反/?馬也</hi>騏<hi>音其?/驥馬也/倉含反?駕說文云/駕二馬右者曰?也</hi>馴<hi>音旬善也/從也擾也/俗</hi>騱<hi>正音兮驒?野馬名又馬前/中白也二</hi>騜<hi>音皇/馬名</hi>駩<hi>音詮白馬/?脣/也</hi>駗<hi>力?反/馬色也</hi>驎<hi>通</hi>?<hi>正力?反騏?白/馬/黑脊/也二</hi>駢<hi>部田反駕/三馬也</hi>
+<pb n="49b"/>
+騚<hi>音前四蹄皆/白也/音?騮馬/脊/?也/都/年反馬額/白今戴星馬也/音宣?/額馬也/俗</hi>駣<hi>正徒刀反馬/四歲也/二/徒刀反?駼馬獸名似馬/也</hi>駼<hi>音徒騊/?獸也/烏魂反?/驪俊馬也</hi>?<hi>音俞紫/色馬也/俗</hi>騷<hi>正蘇遭反/愁/也二/二俗博昆反走也二</hi>
+<graphic n="KR2876" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2876.png" mimeType="image/png"/>
+                    <hi>音回馬名</hi>?<hi>五剛反千/里/駒也/或/作/正子紅反/馬?也二</hi>駸<hi>志反馬/行疾也/俗/正/今側鳩反?御亦?虞神獸也又姓三</hi>駑駘<hi>上音奴下音/臺体馬也</hi>
+                    <graphic n="KR0865" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0865.png" mimeType="image/png"/>
+                    <hi>倉紅反/馬色也/二/古</hi>?<hi>今子垂/之累/二反馬小白三/俗</hi>驩<hi>正/官反馬名也二?文/今/音瓜淺黃色馬也/一曰?馬?喙也/二</hi>驫<hi>甫休反馬走/?又徒合反/音寒/馬名/音?驊?/周穆王馬/二俗或作/正音?馬/白腹曰?四/直耕反玉篇/馬住?/也</hi>?<hi>音傍馬行盛?/也玉篇又音彭</hi>驊<hi>?花反/?騮也/音咸?驩古縣名亦馬名</hi>駺<lb/>
+<hi>音郎馬尾白也</hi>?<hi>徒登反/馬躍也</hi>?<hi>落侯反/馬屬也</hi>騛<hi>音非玉篇云??/龍馬曰行三千里/音?馬/七尺也</hi>?<hi>普胡反/馬/名</hi>騅<hi>音佳馬色又姓</hi>
+駓<hi>芳悲反桃花馬色也</hi>?<hi>音夷/馬名/音離驢/子/也</hi>駒<hi>音俱馬/一?也/他兮反/駿馬名</hi>?<hi>相輪/反/?皆反馬/姓/和也/?圭反獸名似馬一/角/俗殷因/二音</hi>駌<hi>?元反汙/面馬/也</hi>?<hi>音文?王/馬名/也</hi>駪<hi>所臻反/馬/名</hi>騢<hi>胡加反馬赤/白/色雜也</hi>驠<hi>音煙馬竅白其俱反騤?馬行也/俗/或/作</hi>騤<hi>今渠追反強也盛/也又馬行?/三/郎奚反馬/屬/二同/音煩生/?之?/音煩?止</hi>
+<pb n="50a"/>
+<pb n="51a"/>
+<pb n="52a"/>
+馵<hi>音注馬左足白也</hi>入聲駃<hi>古穴反?騠良馬生/七日超母也騠音提/馬雜/色也</hi>駮<hi>百角反/獸名二</hi>馲<hi>正/通皆落託二音??也下又知格反?<graphic n="KR2466" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2466.png" mimeType="image/png"/>也二/落託二音??也字/書云力/負千斤也</hi>駱<hi>音落馬名又/姓又俗作馲/俗</hi>
+                    <graphic n="KR2466" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2466.png" mimeType="image/png"/>
+                    <hi>正莫百反馲?/驢父牛母也二</hi>
+                    <graphic n="KR1411" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1411.png" mimeType="image/png"/>
+                    <hi>蒲沒蒲角二反?馬獸名似馬一角牛尾/也</hi>馺<hi>蘇合反馬/行/疾?</hi>騄<hi>音鹿野馬也又音/??駬/駿馬也/俗</hi>驖<hi>正徒結他結二反/馬/赤?色也二</hi>?<hi>徒結余/二反馬行疾也</hi>
+?<hi>音獨馬行?也</hi>?<hi>音獨??/野/馬也</hi>?<hi>音鹿?/?也</hi>
+                    <graphic n="KR2363" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2363.png" mimeType="image/png"/>
+                    <hi>音伏/馬也</hi>
+                    <graphic n="KR3295" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3295.png" mimeType="image/png"/>
+                    <hi>音六?良/健/馬也/音角馬/白額也</hi>驀<hi>莫百反騎也又踰也</hi>
+騞<hi>呼?反行不止也又?然忽也又与<graphic n="KR1154" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1154.png" mimeType="image/png"/>同出玉/篇/俗</hi>馹<hi>正音日驛/馬/也二</hi>驛<hi>音亦?/馬/也</hi>
+                    <graphic n="KR2473" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2473.png" mimeType="image/png"/>
+                    <hi>音八馬/八?也/二或作正音葛馬走疾也三</hi>?<hi>博末反/馬怒也/俗音/折</hi>驧<hi>或/作/今/渠竹反馬跳躍/也一曰馬曲脊也二/二/俗/或作正良?反踐/也四</hi>馵<hi>知立/反</hi>?<hi>音覓馬/多?也</hi>驌<hi>音宿?/?馬名/俗音?正/作鸄鳥名</hi>騽<hi>?立似入二反/馬/豪/骨也/音業??馬?大也</hi>?<hi>音逐馬/?獸名/音末/馬名/或作聿述/肆/三音</hi>驈<hi>聿述二音?/馬白/髀也/去勿反??/良馬也二同</hi>駜<hi>毗必平?二反馬/肥也/去吉反/馬色也/他盍反/?/馬行不進也/陟革反?/獸名也</hi>馰<hi>音的?鸕/馬白額也/或/作</hi>?<hi>正音?馬/色也二</hi>
+<graphic n="KR0919" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0919.png" mimeType="image/png"/>
+                    <hi>俗</hi>馽<hi>正陟立反馬絆也二</hi>?<hi>音逼/??</hi>驆<hi>江西隨/函音必</hi>
+                    <graphic n="KR2341" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2341.png" mimeType="image/png"/>
+                    <hi>徒合反馺?馬行也</hi>
+<pb n="52b"/>
+︻　部第十一阜<hi>房九反陵?也釋名云厚也厚土曰?廣疋云土無石曰?又長也服也財厚也三同</hi>
+隆<hi>六中反中央?起也豐/也大也盛也四/俗</hi>?陀<hi>二正徒何反/?不平?下又丈/?反?/落也/音普何/反三</hi>陂<hi>彼為反禮記云澤畜水曰?穿地亭水曰池俗正徒刀反正也化也喜也又瓦/?官也又音/??/?也二</hi>階<hi>音皆?也級也登/堂道也又?陛也</hi>隄<hi>丁奚反/防也</hi>?<hi>音唐/隄也</hi>隍<hi>音皇池也無水曰?有水/曰池也/俗音/?/符支反城/上女墻也/俗</hi>隤<hi>正徒回反/下墜也二/俗</hi>隅<hi>正音愚四角/也<graphic n="KR1101" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1101.png" mimeType="image/png"/>也/二/於支反?氐縣名也/俗/正/仍反登也躋也上/也造也躋音祖西反二</hi>
+                    <graphic n="KR2666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2666.png" mimeType="image/png"/>
+                    <hi>部迷反牢也所以拘罪/人也又傍?反与陛同/俗音/昆</hi>隨<hi>音?從也行/也逐也又姓</hi>隋<hi>音?國名州名又徒果反落也/音豪?塹/也与壕同/正</hi>隑<hi>今五來反/企立也二</hi>?<hi>音洪/?也</hi>?<hi>博孤普孤二/反屋上平也/俗</hi>?<hi>正音小阜名也二/憶俱反陽/居澤名也/徐林反小/堆/阜也</hi>陯<hi>音輪山/阜/陷</hi>隇?<hi>上音威下音夷/??險阻/也/宅加反丘名也</hi>陑<hi>通</hi>?<lb/>
+<hi>二正音而地名又峻嶮也下又乃口反/?/也三/古辰反殿/階次序也</hi>阹<hi>去魚反/山谷/為牛馬?/也</hi>?<hi>去俱反?隅不/安也亦傾側也/俗</hi>?<hi>正許為反鄭地阪名/二</hi>?<hi>音丁/丘名/音貞/丘名/音無/地名</hi>隃<hi>音俞?麋古縣名又相俞式朱/二反北陵名又傷遇反鴈門也/俗</hi>阬<hi>今音坑?疋/云?也二或作/今直尼反/陵阪也二/俗音/憍</hi>?<hi>音周/亭名/去營反/反/也</hi>陬<hi>子侯反隅也又聚/居也又側/休反/俗</hi>隮<hi>正祖兮<pb n="53a"/>計二反升也登也二/俗力/反/二/俗/今音形連山中/?也又姓三/二俗徐延反正/作涎口液也二/与專反</hi>隳<hi>今</hi>
+隓<hi>正許規反毀也/二</hi>
+                    <graphic n="KR4688" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4688.png" mimeType="image/png"/>
+                    <hi>或/作</hi>陪<hi>今薄回反/??也二/二俗/音哀/新?作隅在/?僧傳上帙/音歸</hi>陎<hi>音殊?/<graphic n="KR1454" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1454.png" mimeType="image/png"/>縣名許?反?也/音風/地名</hi>隀<hi>音重/地名</hi>阬<hi>音/五?郡又姓/又魚?反/亦姓</hi>敶<hi>二古文/陳/字/二/俗/或作今丁戈反?堆也亦小崖也又上聲/四</hi>?<hi>音堂?/殿基也</hi>?<hi>舊?作陛/音因塞也</hi>
+                    <graphic n="KR2844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2844.png" mimeType="image/png"/>
+                    <hi>音崔?/崩隤也/古文丁兮反/又人/姓也</hi>阽<hi>余廉反臨危也音垂邊也</hi>
+                    <graphic n="KR1454" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1454.png" mimeType="image/png"/>
+                    <hi>樓縷二/音縣名/俗/正</hi>?<hi>今音音?/陽又姓三</hi>?<hi>音衣天/?縣名/俗去/王反/俗音曼</hi>?<lb/>
+<hi>於真反</hi>上聲險<hi>香檢反?/危阻難也</hi>陜<hi>失冉反古縣/今州名/也</hi>?<hi>普米反?堄女墻也与埤陴/四同/又避支反或作俾倪非女墻義也</hi>阤<lb/>
+<hi>施是反?也又直?反亦山?落/義或作陀陊二字</hi>阱<hi>疾井反/?也</hi>隴<hi>力勇反冢也又州/名亦天水大城也/於愍反墜/也落/也</hi>隒<hi>魚撿反山形如重甑也郭迻又檢斂二音/俗安古反/正作/鄔/二/俗/正傍?反/階?也三/昌善反魯/邑人/名/持?反道邊埤也埤音婢</hi>?<lb/>
+<hi>?雨反?/名/乃/反/亭/名</hi>?<hi>烏感反/闇也</hi>阪<hi>音反大陂/不平/也/胡買反山/名又險也/俗/正落猥反?果實垂又力追反都/猥反二/俗/正音?/??二</hi>陡?<hi>音斗?峻/也二同</hi>?<hi>都老反海/?与島同/都老反丘名又音受</hi>
+<pb n="53b"/>
+<pb n="53b"/>
+<hi>各同鄂</hi>隔<hi>音革/障也/隈界也二同/俗而?反又/新經作/字</hi>?<hi>古又/域字</hi>騭<hi>之日反馭馬/也又/定也/俗音/俗音竭俗音擲</hi>阞<hi>音勒地/?阜也/俗</hi>?<hi>三古胡甲/反隘也四/俗/或/作</hi>隰<hi>正音習濕也原?也亦州名又姓三</hi>
+阨<hi>今</hi>?<hi>正音厄限也礙也又危迫也二/普逼反地/裂也二同/今/或作音卜彭?/蠻夷/國名二/俗/正音危?也二</hi>?<hi>空谷反/大阜也/上五結反下五骨反不安也/又石山戴土也下又五回反/音急/階?/俗烏/甲反/俗他?反</hi>
+隙?<hi>三俗/正豈逆又/也/裂也孔也四</hi>
+︻?部第十二?<hi>魚撿反因巖為屋也</hi>?<hi>他丁反/平/?/舊?作麾音許?/反?也在弘明集第二大卷中</hi>麾<lb/>
+<hi>許?反旌?也/玉/篇/今音休庇?/樹?也/二/俗如/佳反</hi>
+                    <graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>
+                    <hi>麻摩二/音杯也</hi>犘<hi>音麻?牛重/千斤出巴西</hi>
+                    <graphic n="KR2730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2730.png" mimeType="image/png"/>
+                    <hi>音摩?食也</hi>?<hi>音摩/?</hi>?<hi>音摩/偏病/俗音/勞/口含胡甘/二反和也</hi>
+                    <graphic n="KR3449" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3449.png" mimeType="image/png"/>
+                    <hi>音深廕/大屋也</hi>?<hi>音還屋壯瓦名又音越</hi>
+　廔<hi>上郎奚反下郎侯反綺/?也/正/俗音斯?/祁地名二</hi>?<hi>度回反小/墜地/也</hi>庠<hi>音祥養也又/養老?也</hi>?<lb/>
+<hi>音雖屋邪/也</hi>庚<hi>古行反更也/償/也又甲也亦上聲/俗奴侯反正/作?/?子/俗音炎/熱?也/於容反和也又/?奴縣/名也</hi>廱<hi>於容反辟<pb n="54a"/>?天子教官也/音來/?也/古文/音聞</hi>?<hi>古文/音/音/堯/俗音/侯</hi>庸<hi>音容愚也常也用也功也次也和易也鄙也直連反居也市?也</hi>廉<hi>今</hi>?<hi>正力尖反清也斂/也/儉也又姓二/俗/正伊閻/反二/今</hi>廬<hi>正力居反/寄也止也?也又州名也二</hi>縻<hi>美為反/繫絆也/俗</hi>糜<hi>正美?反/?粥也二</hi>
+                    <graphic n="KR1291" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1291.png" mimeType="image/png"/>
+                    <hi>俗/今/正美?反穄/?名也三二或作徒回反/下重也</hi>廝<hi>音斯?也/使也養也</hi>?<hi>士加反屋欲?也又屋/下不可坐也又音/柴/音傾小/作堂也</hi>庍<hi>音/斯俗正疾羊反垣?也与墻同/二</hi>庖<hi>?交反/?食也/俗音/灰/二俗音戈/正/作/古文都?反?/撲物也今作</hi>庵<hi>烏含反小草?也/又烏合反亦舍也</hi>
+廞<hi>許金反興也亦陳車服也亦?巇山險?也又牛錦/許錦二反大喪囊也</hi>廊<hi>音??廡也又殿下/外屋也又??/也</hi>?<hi>音移/??/扃也/音笈/二俗都干他干二反/俗音/麻/俗音/裝/俗音</hi>?<hi>音盧/廡也/二俗/音遐/俗音/俗音身俗或/作</hi>廖<hi>正音印人名又姓又/力/救反亦人姓三/俗</hi>廜<hi>正音徒??/草/庵也二</hi>?<hi>音穌?廜洒元日/飲之可除?/氣</hi>?<hi>他丁反?庌也</hi>庨<hi>呼交反?豁/?殿形狀也</hi>庱<hi>丑仍反亭名在?/興也孫權射虎?/古文/音親/莫江反厚/也大/也/普官反/時居也/俗烏兮反正作/音/閻/二古文/音/聞/音/無/音/存</hi>上聲<hi>俗</hi>庾<hi>正羊主反/食?二</hi>
+<pb n="54b"/>
+<pb n="54b"/>
+<hi>都念反??也又?置也/俗昌制反/正作/<graphic n="KR2740" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2740.png" mimeType="image/png"/>/音線/也</hi>庛<hi>音次長也/反尺二反</hi>?<hi>古</hi>?<hi>今於證反以/言對也二五晏反?云孟春/之月鴟???二同/吾晏反/偽物</hi>?<hi>七賜反人/相依/?/誤新?作/?罽反埋也/誤音/扇/芳万反??二俗</hi>庰<hi>正防正蒲徑二/反?/僻無人?也又?也三</hi>廥<hi>古外反?/?/?也</hi>?<hi>音遇/屋也</hi>?<hi>扶未反?/也陋/也/二或作/音例二俗/正力救反屋/梁/也三/俗七/亂反/莫?反/塵也/古文/音?/音/?/音/字音</hi>
+入聲<hi>二俗</hi>廅<hi>正烏合反?山傍穴也/玉篇云?/例也三</hi>
+                    <graphic n="KR1676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1676.png" mimeType="image/png"/>
+                    <hi>俗/古/正音尺逐/也?也三/魚略反於葉於?二反面上?子/同上藏/?/也/同上女/字/也/同上?/伏也四/於葉/反?夢/?也又於琰反/今/正苦郭反?也又張小使大也/二/烏甲反鎮?/也從?者正/口合反/??也</hi>廙<hi>弋異二音/恭也敬也/或/作</hi>
+                    <graphic n="KR2463" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2463.png" mimeType="image/png"/>
+                    <hi>正盧口反庵也亦獄室也又七賜反亦偏??也二玉篇音莫空也</hi>庂<hi>俗阻/力反/尸約反/治病也/胡甲反/虎習?/胡郭反/廣/也</hi>?<hi>烏甲反/屋?也</hi>庢<hi>陟栗反/縣/名/烏葛反屋迫/蒲未反/?/也/音/炙</hi>廦<hi>北?反/室屋也</hi>廘<hi>音束/倉也/私列反鄙陋也俗其月反正作?倒也跳也三/俗音/?/俗徒/?反/俗音/哲</hi>?<hi>音/託/音則</hi>
+<pb n="55a"/>
+︻厂部第十三厂<hi>呼旱呼旦二反說文云/山之崖/巖也一曰?也</hi>厘<hi>二俗音?居/也正從/?/五佳反山邊/也或作字</hi>厜<lb/>
+<hi>宜反??山/狀</hi>?<hi>音危厜古/篇又音儀</hi>??<hi>音琴石地/也二/同/莫江反厚也/大也正作</hi>厧<hi>都年反/也</hi>?<hi>苫咸丘丸二反山崖空穴?也又?甘反</hi>?<hi>音斯<graphic n="KR2005" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2005.png" mimeType="image/png"/>也使也/養也正作/廝/苦回反?/器盂?/古文音奴/正/作拏</hi>?<hi>音敷石/門/也</hi>?<hi>玉篇音堆/都回反香嚴作?杜回反小墜也音支酒?/古文/音<graphic n="KR1285" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1285.png" mimeType="image/png"/>/古文/音憂/音/堯</hi>上聲靨<hi>伊染反?/?/子也</hi>厬<hi>音??泉又/盡也或作</hi>?<hi>都石二音美不也王篇古/也/俗音羽正作/宇/?也/床史反/繩/之是/反致也至也/均也平也又聲也二</hi>厏<hi>側下反?厊/不相著也二</hi>厊<hi>王下反厏/?不合</hi>
+<graphic n="KR2767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2767.png" mimeType="image/png"/>
+                    <hi>苦盛反岸也又吐敢/魚音二反??山崖狀/食尹反正作/盾字于/?/古文/音典/古文/音?/音/俟/音/厚</hi>?<hi>於點反山桑也</hi>
+去聲?<hi>音救馬?也与?同</hi>鴈?<hi>二俗五諫反/正從/?作</hi>厝<hi>倉故反置也又/倉各反礪石也/或作/疋賣/反水分流也</hi>厲<hi>力制反?也/亦嚴整也烈也猛也又姓</hi>?<hi>烏對反?翳也又於/?於豈二反亦?也/音界/到也</hi>
+                    <graphic n="KR1871" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1871.png" mimeType="image/png"/>
+                    <hi>或作音例正/作蠣蚌蛤?</hi>厞<hi>浮沸反?也/陋也正作?/居例反氈/類与/同</hi>?<hi>音夏?也/古文徒/亂/反</hi>?<hi>正/今五旦反/火色也二/古文/音願</hi>入聲<hi>鳥/名</hi>磿<hi>石/聲</hi>?<hi>瓦/器</hi>厤<hi>理也郎的反??強脂也?丁奚反/五</hi>?<hi>音?經?也次也數也近/相也轉/也行也/過也</hi>壓<hi>烏甲反鎮也笮/也?也笮音迮</hi>靨<hi>俗於/葉反</hi>?<hi>二俗</hi>斥<lb/>
+<pb n="55b"/>
+<hi>今通音尺?逐也正作/也三/五/俗</hi>厥<hi>正居月反其也/亦短也又姓六/或/作/正音側曰在/西方也/二</hi>仄<hi>音側?陋也又瘞埋也瘞音於例反/口合反閉?/聲也二同/或/作/正口合反山左/右有/岸也二</hi>?<hi>今苦盍反/崩損也/音弋田器也又星/里弋里二反石利也</hi>?<hi>盧合反石崩?落也</hi>
+                    <graphic n="KR3544" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3544.png" mimeType="image/png"/>
+                    <hi>之右反仄/也/也/侯?反/<graphic n="KR3544" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3544.png" mimeType="image/png"/>/也/音必見/毛詩/俗/正五?反石/地/?也二</hi>??<hi>陟革又張/?二同</hi>厔<lb/>
+<hi>俗陟栗反正作/庢/古文/音國/音/?/俗口合反正作/山左右岸也/音/亦/魚厥反</hi>
+︻?部第十四<hi>音?</hi>扇<hi>或迫反??又式/戰反舜作五明?</hi>扁<hi>芳連反小舟也又方典反?/署門?又/符典反?鵲也/音聊</hi>?<lb/>
+<hi>古營反?外閉關也</hi>扉<hi>音非/??/玉篇音移?外/也又古文居字/古又/音靈</hi>?<hi>音移?/戾也/音/靈</hi>上聲<hi>音?玉/篇又莫飽反又力酉/反</hi>扈<hi>音?/姓也/音?/護也</hi>扆<hi>於豈反屏風也以玉飾之曰玉/?珠藂曰天子施?於??也</hi>戺<graphic n="KR2646" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2646.png" mimeType="image/png"/>
+                    <hi>音仕砌也/閾也二同</hi>扂<hi>徒點反閉?也</hi>戽<hi>音/?斗舟/中水器/也</hi>?<hi>康?反/明星也/音?/杼也</hi>扊<hi>以冉反移也/???牡也</hi>去聲<hi>俗</hi>戾<hi>正郭計反曲也乖也很也立也待也利也至也/定也?也二</hi>?<hi>他計反輜車/也輜/音淄/音注直開/下??也/丑注反/直開上/音/淚/音漏屋泄?也七?反屋上也</hi>入聲<hi>所甲反/薄?/或/作</hi>?<hi>正口合古沓丘?三反皆/閉/?聲又音盍人姓也</hi>?<hi>音厄/灰也</hi>
+                    <graphic n="KR3177" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3177.png" mimeType="image/png"/>
+                    <hi>苦合/反</hi>?<hi>音及?/鍵也</hi>
+<pb n="56a"/>
+︻米部第十五?糧<hi>音良?食也二</hi>粳<hi>俗音更/正作/二俗/同上/作勞反/洒滓也</hi>粘<hi>俗女廉反/三作黏</hi>
+糠<hi>苦剛米皮也/新?作鱗在廣弘?集第卄/卷又俗音憐左大哀經第五/音侯?/?/也/俗音/豐</hi>??<hi>二/俗/正所臻反粉滓也三</hi>
+?<hi>正</hi>糊<hi>今音胡黏也与<graphic n="KR2914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2914.png" mimeType="image/png"/>亦同二</hi>?<hi>或作五堅反/正作揅/破</hi>?<hi>或作郎/異反?/也又姓又力脂反/二/俗</hi>粢<hi>正音/資祭?也三音膏?/粔/籹也</hi>?<hi>良?/反/或/作</hi>
+                    <graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>
+                    <hi>今音流???/也?/音散二/或/作</hi>?<hi>今音浮?/<graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>/也二/或作音煩/米汁也上音交下音周??米粉餅也/通/正之延之演/二反糜也二/或作之延/天今作</hi>?<hi>一/俗/或/作</hi>料<hi>今音聊?理也又力吊反?量計度/四</hi>番<hi>音盤?禾縣名又音潘/?禺縣名又音翻次也</hi>?<hi>誤新?/作/精/二/俗</hi>糖<hi>正</hi>?<hi>通音唐飴也??也飴音与之反四</hi>?<lb/>
+<hi>昆比二音/巨支反/赤米也/蚩盈/反/於交/反</hi>?<hi>或/作</hi>?<hi>正音紅陳/赤米也二/音/弓/班/二音/玉/篇音祈小食也</hi>
+?<hi>三俗丑反正作</hi>上聲粈<hi>人?反?/粽?也</hi>粗<hi>俗</hi>粗<hi>正昨古反?/也/?也二</hi>糗<hi>去?反/乾?也</hi>粔<hi>音巨?籹白團也正</hi>籹<hi>今音女粔?也/又人暑/反二</hi>?<hi>三/俗/或/作/正蘇感反/??也五</hi>?<hi>蘇感反/?木瓜也/蘇感反?也/二/俗</hi>糈<hi>二正私?反說文云梁米也/玉篇又祠神米也又音所四/七罪反/物粗也</hi>粿<hi>音果?/米也今</hi>粉<lb/>
+<pb n="56b"/>
+</p>
+<p>
+<pb n="57a"/>
+<hi>或作/正居六反兩手盛/物/也今作掬二</hi>糪<hi>?厄反?/半/生?/玉篇音曷白/米/也香嚴又火丸反</hi>?<hi>知革反/黏/?/音/屈/私列反?也音放也說/文六迸散也/俗同/上/或/作/俗/正音作米/精細也三</hi>粕<hi>疋各反</hi>
+︻雨部第十六?<hi>或作</hi>霏<hi>今芳非反/雪?也二/二/俗/正音埋風而雨土/曰?又悔也三</hi>
+                    <graphic n="KR2965" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2965.png" mimeType="image/png"/>
+                    <hi>通正土吟反雨聲也二</hi>
+                    <graphic n="KR2004" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2004.png" mimeType="image/png"/>
+                    <hi>音于請雨祭名也又?于反/?婁縣名上又俗音/二同/俗音/川</hi>?<hi>音提霽/雲/也</hi>霋<hi>音妻雨止也?加反曰氣赤黃雲/也又姓</hi>霓<hi>五兮反雌虹也又/五結五/?二反/俗</hi>霑<hi>正陟廉反?濡也小/濕也漬也溺也/二</hi>霖<hi>音林?/霪雨也</hi>霪<hi>与針反久雨也</hi>?<hi>二俗烏瓜反下/也正/從?二/二俗音星/正/作醒/俗</hi>?<hi>正普郎反?/霈大雨也二/二俗今</hi>霆<hi>正音庭雷?也又徒頂反亦疾/雷也四/蒙謀二音天氣下降地不應也又/莫用反下應也又地氣上天/也</hi>?<hi>音蒙/闇也/音蒙??小雨也</hi>霝<hi>郎丁反落也?也象/形字或作/零又姓/音零?/善/也/古/玉/名/音零器名/又人名三/或/作</hi>?<hi>正所江反雨?也今作?同也二/俗</hi>雰<hi>正芳文反西務也又/亦同不祥/氣二/素官反/小雨也/三俗/音盧通正音沉天?/也二/二俗居?反/正作羇寄也</hi>霺<hi>俗音/正作黴/乎加反/孔?也</hi>?<hi>俗音/晴/音</hi>?<hi>音周<pb n="57b"/>?風?音迸/音蜼小/雨?也</hi>霦<hi>府力反??/玉光色/?/丑庚反/雨下?/北朋反/大雨?/音廉久雨/也又音炎/或作芳非芳尾二反雲雨?也/或/作</hi>
+                    <graphic n="KR1268" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1268.png" mimeType="image/png"/>
+                    <hi>二正尖衫二/音小雨?三/俗/正音崖雨聲又音/吟雨不止/也二</hi>?<hi>音浮雨雪/之?也所咸反微雨也</hi>需<hi>相俞反/卦名也/正/二今音含/久雨也三</hi>
+                    <graphic n="KR2621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2621.png" mimeType="image/png"/>
+                    <hi>子斯反雨聲/也又疾/資反涔??雨也二同</hi>
+                    <graphic n="KR2822" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2822.png" mimeType="image/png"/>
+                    <hi>音尖/雨又霑也又縣名</hi>?<hi>音追/雷也/奴冬女容二反/露重/?也/二/誤</hi>霙<hi>正於京反雨/雪/雜也三</hi>?<hi>音羊上音蓬下音聾玉篇雨聲/徒昆反/大雨也</hi>?<hi>正/俗力丁反/女/字二</hi>?<hi>音零/三同/玉篇/他林反二同音夫/音終小/雨也</hi>?<hi>苦?反雨雪/也又許?反</hi>雽<hi>江西?函/紆于二音/音/窺/俗音/窺</hi>霠<hi>音喑雲覆曰?又姓</hi>
+?<hi>音雷同</hi>上聲靃<hi>息委反?靡草木柔/弱?又音霍地名也/俗烏/反/正/作窈</hi>?<hi>俗烏迴反正/作/又音營/俗亭了反正作窕/音掩?/雲狀也/二/俗/正于敏反齊人/胃雷為?也三/徒感反雨/對雲/?</hi>?<hi>音雨?/下?也/許鬼反震雷也</hi>?<hi>俗奴寡奴/?二反</hi>?<hi>俗音/古文/雨字/俗/正芳否反/霧/?二/而琰反/也/俗羊主反音魯同虜</hi>去聲?<hi>音注霖/?/也</hi>?<hi>二/俗</hi>霽<hi>正子計反晴/也雨止也三/俗</hi>霸<hi>正百嫁反把也把/持諸候之?也<pb n="58a"/>又長也又月始生魄也二/普?反三/?大雨也/四/俗</hi>?<hi>正徒對反黮?雲狀/也黮音徒感/反五</hi>雱<hi>俗</hi>霧<hi>正亡遇反?陽???也又地氣上天不應曰?也又昌也二</hi>霿<hi>莫弄反天氣下/地不應曰?也/或/作</hi>靄<hi>正於?反/雲狀也二/俗在/性反/俗普孝反古文七亂/反/俗</hi>?<hi>或作亦/小/雪/在蘇見反雨雪雜也又?星/也水雪相摶如星而散也三/蘇見反訓同上/又音斯小雨也俗正力救反中?神名也二/俗苦/對反/俗音?/正作甯/俗呼領反正作惛/亦平聲/忘/也/二俗音悟/正作</hi>?<hi>俗徒浪反正作宕洞屋/?/音盡海/?/也/通/正古侯反/大雨也二/音印氣/行/?/古外反大雨也</hi>?<hi>誤正直刃反雲?也二/乃?反/泥?也/都念反早/霜寒又陟/立反小濕也又丁/反</hi>?<hi>王遇反雨行/止也一名抒/俗去仲反/正/作?/莫?反</hi>
+?<hi>蒲迸反雷??聲也</hi>?<hi>皮證反?/雷大聲也/音豆水/?/也/副伏/二音/或作?器反見雨而止息曰?玉篇又許?苦?二反雨雪?力救反</hi>入聲?<hi>三/俗/三/古</hi>雹<hi>正蒲角反/雨?也七</hi>霹靂<hi>上普?反下音???者陽氣動作大/雷震也/俗音/?</hi>霩<hi>正/今音霍雲/消/也二</hi>?<hi>音革雨也又川韻/疋各反雨霑濡也</hi>?<hi>侯甲反古文今作洽</hi>霅<lb/>
+<hi>音匣?言聲又文甲反?陽縣名亦水名又蘇合/反雨?/?也</hi>
+                    <graphic n="KR3819" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3819.png" mimeType="image/png"/>
+                    <hi>音鹿大/雨?也/音洛/大/雨??也/二/俗</hi>?<hi>正胡郭反?大雨也三</hi>
+<pb n="58b"/>
+<pb n="58b"/>
+<hi>莫?反??/又葅/或/作</hi>醅<hi>今芳盃反酒/未/漉者二</hi>醧<hi>烏侯反/酒甘也</hi>
+                    <graphic n="KR4413" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4413.png" mimeType="image/png"/>
+                    <hi>息郎反/乳/酒</hi>酋<hi>字由反/長/也</hi>?<hi>俗徒/兼反</hi>?<hi>音迷醭?醬上白也醭音普木反郭迻又潘?二音/舊?/作鞞</hi>醙<hi>俗/通/正音?白/酒/也二/俗徂/丸反/誤</hi>
+                    <graphic n="KR0755" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0755.png" mimeType="image/png"/>
+                    <hi>正音移飲酒也/下/又音?二</hi>?<hi>?九反酒?与同/普萌/反</hi>上聲醆<hi>音盞?酒/濁微清也</hi>醴<hi>音??酒亦/?泉縣名也</hi>醜<hi>昌九反??也臭也如物/臭穢也又類也/竅/也</hi>?<hi>??反飲酒失度也/二/俗</hi>?<hi>或/作</hi>醢<hi>正音海/醬/也四/俗/正</hi>醑<hi>今私?反/美酒也三/他典反与腆同厚也</hi>?<lb/>
+<hi>三俗他典反也作/靦面?也/俗</hi>醹<hi>正音乳厚/酒也二/俗奴感反正/作腩?/也/俗/正也酉/?酒二/胡朗反?澤/也/与同二俗</hi>?<hi>正皮美反覆也或作/香/嚴/又許容反酒色也三</hi>釃<hi>所綺反/分也/俗/正?錦所斬二/反醋味甚也二</hi>?<hi>徒減反</hi>酩<lb/>
+酊<hi>上莫頂反下音頂??/酒過多也</hi>去聲?<hi>?問反/?/釀/女亮反/?酒也</hi>酵<hi>古孝反/酒?也/俗音祭/?祀也俗</hi>?<lb/>
+<hi>或作/正將類反酒/過惛?也三/音?酒/?/也</hi>醠<hi>烏浪反/酒?也</hi>釅<hi>魚欠反酒/醋味厚也/通</hi>?<hi>今蒲報反/酒多也二/或作</hi>醰<lb/>
+<hi>今徒紺反酒味不長也反上/聲二</hi>?<hi>音友/報也/正</hi>醟<hi>今為命反?/<graphic n="KR1196" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1196.png" mimeType="image/png"/>酒/也二</hi>?<hi>二或/作/今香句反/醉怒也三</hi>?<hi>烏/曠反醊?酒也</hi>
+醊<hi>陟衛陟劣二反?連祭也</hi>醼<hi>?見反/飲?也/半刃反酒/漱口/也/盧暫反?/<graphic n="KR1824" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1824.png" mimeType="image/png"/>嗜酒也</hi>釂<hi>子笑反飲/酒盡/也</hi>醮<hi>子笑反/奈?也/郎外反以<pb n="59a"/>酒?地也/側嫁反壓/酒具也/於念反/苦味也</hi>
+                    <graphic n="KR4198" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4198.png" mimeType="image/png"/>
+                    <hi>玉篇乎孝反/面上/瘡也/音制魚/子醬也</hi>酎<hi>直又反三/重釀酒也/舊?作皰疋?反面上生氣?</hi>入聲<hi>俗古?反正/作馘截耳也</hi>酢<hi>在落反酬?也/又醋錯二/音</hi>酪<hi>音落乳/?/也</hi>酌<hi>章若反?酒也又行也/益也取也霑也挹也通</hi>?<hi>正苦盍反酒?也与榼同又俗音/海二/俗/正普木反醋/生白?也二</hi>?<hi>許角反/醋味也/音末?/醏醬也</hi>醵<hi>或/作/今其虐其據二反合錢飲酒二/俗/正普末反/酒氣也二/二/正</hi>醳<hi>今音亦苦/酒也/三/音??/酪滓也/香嚴又力底反</hi>?<hi>俗正音覓酪滓香嚴又於金於南二反?聲也二/俗子荅所/甲二反</hi>酷<hi>苦沃反?急/也甚也虐也/俗居碧反</hi>
+︻齒部第十八齗齦<hi>語巾反齒根肉也下又康很反齧也又起限反齒聲也二/五佳反/?/齒不正?/士佳反?齒不正也三同二俗/或/作</hi>?<hi>正側加鋤加二反/?齖齒不正也四</hi>齖<hi>音牙?/?/也/五鞋反齒/不正/也/七何昨何二反/齒?/也</hi>
+                    <graphic n="KR1686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1686.png" mimeType="image/png"/>
+                    <hi>昨何反齒本也二/俗/或/作</hi>齝<hi>正詩癡二音?/?牛吐食也三/二/俗/正卓皆反/齧/也三</hi>齡<hi>音令?/年/也</hi>齬<hi>音魚齒不齊相值也又音語齟?不相/當也/今</hi>齠<hi>正音條小/兒?也二/俗羌/魚反/音?齒/不正也/俗</hi>?<hi>正音池齒/齗/也二</hi>
+                    <graphic n="KR2874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2874.png" mimeType="image/png"/>
+                    <hi>五咸反/齒差?/二俗音酸/或/作/正陟加反?聲/?音才笑反二</hi>?<hi>苦加反/犬齒也</hi>齵<hi>音/愚齒落重生/也又五婁反齱?/通</hi>齱<hi>正側求反?齵/齒偏也二<pb n="59b"/>或作</hi>齻<hi>正丁年反/齒未也二</hi>?<hi>其欺二/音齒也</hi>齤<hi>渠?反/齒曲也/音連/齒露</hi>?<hi>古哀反/牙/也/俗音/居/二俗徂/號反</hi>
+齙<hi>音包露齒/也/俗/正七羊反/齒/也二/隨?/音繒/俗音牙?/牙/者正</hi>上聲?<hi>五巧反/齧/也</hi>?<hi>同上又下巧反</hi>
+?<hi>或作</hi>齲<hi>正丘主反?也/齒病朽缺也二</hi>齟<hi>士?反?齬/也又才?反/魚綺反/齧/也/俗</hi>?<hi>正??反/齒/?二</hi>?齫<hi>魚粉/反?齒也二</hi>
+                    <graphic n="KR2605" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2605.png" mimeType="image/png"/>
+<hi>上士板反下五板反??齒不正也/俗</hi>齴<hi>正魚蹇反/齒露也二</hi>?<hi>其?反/齗腫也/俗于/彼反/俗人/勇反/音所傷/醋也魚蹇魚偃二反張口見齒也与齴/亦同/二/二俗神/?/反</hi>
+                    <graphic n="KR4371" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4371.png" mimeType="image/png"/>
+                    <hi>俗?/?反/或/作/正?引反/齒齊也二</hi>?<hi>其九反齒?胃老人齒如曰也/俗与/少反/俗?/礦反/音餅大/齒也/音蟻/齒也/俗五/巧反</hi>去聲齘<hi>胡戒五八五結三/反皆切齒/怒也</hi>?<hi>在詣反?也又?齧沒齒?也又俗陟皆反/音詣?/也/三/俗/或/作</hi>?<hi>今/正初靳初謹二/反?齒/也六/二俗??反俗力/制反/隨?去合作/?在/詣反</hi>?<graphic n="KR2874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2874.png" mimeType="image/png"/>
+                    <hi>魚欠反好齒?下又五/咸反亦齒/差?二同</hi>?<hi>渠禁反舌/下病/也/丁?反剔齒也</hi>
+入聲　嚙<hi>六俗</hi>齧<hi>正五結反噬/也淺?也七/二/俗/正五各反口中上?也三?瞎二音齧齒聲也又古軋反</hi>齰<hi>或/作</hi>?<hi>止鋤陌反/齒齧也二</hi>?<hi>初八反齒/利/聲也</hi>齷<hi>於角反/?<graphic n="KR1029" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1029.png" mimeType="image/png"/>也</hi>
+                    <graphic n="KR1029" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1029.png" mimeType="image/png"/>
+                    <hi>初六反?謹狀也又/測角反齒相近/聲</hi>齪<hi>測角<pb n="60a"/>反開孔具/也/補各反??也与/?同?音精入反/俗/正盧去反/齧聲也二</hi>?<hi>盧葛齧/聲也/俗</hi>?<hi>正胡刮反齒骨聲二俗昌折昌制二反正作掣/牽/也/俗其/略反</hi>齾<hi>五葛反獸食之餘曰?/也又五?反?缺也/俗/通</hi>齕<hi>正胡結胡?/二反齧也三俗</hi>
+齺<hi>正士角反齒相近?也二</hi>?<hi>苦洽反齧咋?又古洽反/喉聲又俗加咸反汗色也/俗于/六反/昨??栗二/反?/?也/陟栗反齧聲二俗胡骨反/齧也/侯閤反?齧/聲/也又他合反食也</hi>?<hi>胡谷反齒聲又古/沃反治象牙/也/二俗音昨/王作/鑿/音益?疋云麋鹿齝之異名也又音逸麋/鹿受食?也/直栗徒結二/反齧堅聲</hi>
+                    <graphic n="KR3825" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3825.png" mimeType="image/png"/>
+                    <hi>同/上/千結反?/齒也二同/私列反?疋云羊/曰?又羊/?反</hi>?<hi>初革/反齒相值也丁立反?齒也/俗轄瞎/二/音</hi>?<hi>音立齒聲/又俗音拉/俗</hi>
+                    <graphic n="KR1885" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1885.png" mimeType="image/png"/>
+                    <hi>正五轄反山中??也又/五結反??山危?二</hi>
+︻耳部第十九<hi>二俗</hi>??<hi>二正音?/?/聞明察也四/二俗他丁反又/去聲正作?字/通/正丁含反?耳也二通</hi>聸<hi>正都甘反?耳也二</hi>
+                    <graphic n="KR3614" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3614.png" mimeType="image/png"/>
+                    <hi>側交反耳/中鳴聲也</hi>?<hi>即由反/耳鳴也</hi>聆<hi>音令/?也</hi>聱<hi>五?五交二反与/同不?也二四俗</hi>?<hi>正音連?綴也又/?/綿不?也五/俗/或/作</hi>?<hi>正他甘反耳漫無輪/老子/名也又姓三</hi>?<hi>俗五兮反俗音?/俗音/聞/俗上七容/反下音容/俗女/加反/徒丁反耳/出?汁也/或/作</hi>?<hi>正他刀反/耳明也二</hi>聹<hi>音?耳枯<pb n="60b"/>又乃頂反/?/?樵二音/耳/鳴也/音聊耳/中鳴也/在焦反/耳鳴也/俗音/房</hi>耹<hi>音琴音也又/巨廉反地名/音工耳/聞鬼也/去?反側耳也又一隻也</hi>?<hi>音云耳/中/聲</hi>耾<hi>?萌反/耳語也/??而容反毛飾也郭/迻/俗妨非千芮二反/女江反耳/中/聲也</hi>?<hi>音精???也二古文聞/字/丁兼反耳/小/垂也/二俗強/俱/反/俗耶邪/二音/新?/作聊</hi>上聲聳<hi>息勇反?也毛堅也</hi>聜<hi>俗</hi>
+?<hi>正都?反耳患/膿也二/蘇走反?/?名/也/俗音/卷/四/俗/俗通丁果反/耳?也五俗音俗音耳</hi>耵<hi>音頂?聹/耳/垢也/之善反/耳門也</hi>?<hi>俱雨反張/耳/有聞</hi>睒<hi>俗失冉反/正/作/作海反半/聾/?也/?瓦反/地名俗或/作/正之忍反/告也三/二俗/音好</hi>恥<hi>正丑里反?/也/從心作</hi>?<hi>二俗同上</hi>去聲<lb/>
+<hi>三俗</hi>聵<hi>正五?反/聾也四/或作居位/反/慚也/俗</hi>毦<hi>正而志反羽/毛/飾也二/妨/也</hi>聘<hi>疋正反?/間也/二/俗所寄反二或作子貢反/仍吏反以牲告神/?欲?/曰?也/仍吏反?音/未/敢言也</hi>刵<hi>仍吏反/截耳也/誤莫候反正/作貿?易也</hi>?<hi>音注?/類也二或作</hi>?<hi>二今音細女夫/也与?同/四/盧對/反</hi>?<hi>疋妙反聽/纔/聞也/七計反/耳?也/俗</hi>?<hi>正音制入意也/一曰聞也二音患/他見反/塞/耳/才喻/反二/所嫁反/人/姓</hi>入聲耴<hi>魚乙反聲?魚鳥狀/也又音輒?耳國名</hi>聐<hi>五?反??無所聞</hi>
+<pb n="61a"/>
+<pb n="62a"/>
+<hi>恢灰二音/烏侯反/又音同</hi>?<hi>音當?/?/也</hi>?<hi>音唐/瓷?/音刑酒?似鍾/而長/頸二同/二/俗/正音圭甑下孔也三正今都昆反?/似甌瓿二</hi>?<hi>音銜乾/瓦屋也/音皆?瓦一曰/?也又莫八反</hi>?<hi>音亭/?也/音雷屋/棟瓦也/落紅反字董/築?榖也音?瓦??/音?/俗音/胡</hi>上聲瓿?<hi>上蒲口反下郎口/反??/<graphic n="KR1125" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1125.png" mimeType="image/png"/>?也</hi>瓬<hi>甫雨反瓦/也又音甫/俗/正?雨反半瓦也又?雨反?石?洗物也二</hi>甒<hi>音武/甖?</hi>?<hi>五口反盎名/盎音烏朗反/正</hi>?<hi>今音幸??/有耳瓶也二</hi>?<hi>所景反/??也</hi>?<hi>音拱/也</hi>?<hi>胡瓦反大口也徒果反甌也</hi>?<hi>音/?</hi>?<hi>音扳?瓦又/俗北/官反</hi>去聲<hi>或/作</hi>瓮<hi>二正烏貢/反瓶/江瓦之大者也三</hi>?<hi>二俗烏浪反正作盎盆也</hi>瓽<hi>丁浪反大甕一曰/井甃又大盆亦姓/俗</hi>甃<hi>正側救反/井?也二/楚?反/<graphic n="KR1125" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1125.png" mimeType="image/png"/>?也/俗</hi>甈<hi>正去例反?/疋云?也二/音帝?瓽大?也魚記反/大甖也</hi>?<hi>直正反/甖也/古縣反/底/孔也/胡?反/大盆也/俗/正土戰反/??也二/舊本作古文夜字力救反也</hi>入聲<hi>苦結反?瓶/受一/斗也</hi>甋<hi>音的瓴/??也/音?瓦/?也/二/俗/正良?盧?二反踏瓦聲也三正今普八反車破/聲又或同上二/二新/?/舊/?/江西?函古獲反瓦?也西川?函合/作甖烏耕反亦瓦?也在道/地經?</hi>?<hi>音百??井甃也正今郎的反有/?/鼎也二/俗音?正/作墼土?/俗苦結反正/作/?瓶也/或/作/正辛律反不/能/行也二/許勿反二<pb n="62b"/>俗正女刮反/也/亦刻出瓦也二/即葉反半/瓦曰?也/音/?/音/卓</hi>甓<hi>扶亦反瓴??塼也</hi>
+︻犬部第卄一猒<hi>俗正於閻反?飽也犬甘肉/心無?足也又去/聲二</hi>猜<hi>倉?反疑/也恨/也/於?反加也倚也長也施也/歎也美/也又上聲??</hi>
+狌<hi>或作</hi>猩<hi>正音生??能言/似猿聲如小兒二/俗</hi>?<hi>二正音袁大猢/也?猴之?三/舊?/作?</hi>?猴<hi>上音?下音侯猿猱之?</hi>猱<lb/>
+<hi>奴刀反猴?也</hi>?<hi>俗同/上/俗</hi>?<hi>正音吾猿/?也二</hi>獑猢<hi>上士咸士銜二反下/音胡??似猿而白</hi>猊<hi>上蘇官反下五兮反??食虎豹也即師子出西國</hi>
+??<hi>玉篇皆語斤反犬爭也又俗音狄二</hi>狺<hi>同/上/音胡?/也又姓</hi>?<hi>俗?包反/正作貓字/俗/正音加?豕/子路佩?二</hi>?<hi>或/作/正音加?玃也玉篇又音哥二/敕於反/獸名也/或/作/正音胡??/小犬也/二</hi>猷<hi>音由?也若/謀圖/道也/徒昆反/小?也</hi>狸<hi>力之反/野?也/俗音毗正作貔汝羊反戎?也</hi>狉<hi>二俗作疋悲反/狸子也今作?/通/正五?/反犬?/四尺者曰?也二</hi>猖<hi>音昌?/狂/也</hi>?<hi>音容?/獸名也/莫經反/小也</hi>
+?<hi>充山反也/音疑犬怒也/又音拳縣名</hi>獅<hi>音師/猛獸也/又犬生二子也/俗丁侯魚/訖二/反/通</hi>獳<hi>正音獳朱?獸名似狐而魚翼出則國有恐也又女溝反犬怒也二/古文音?/春獵也/俗</hi>?<hi>正音毫熊/虎/聲二</hi>?<hi>音夷狨/?/也</hi>狨<hi>音戎細/布/也</hi>?<hi>音盧韓/?犬名/必兮反?犴獸/也又牢獄也</hi>犴<hi>五干五二反与豻同胡地狗似狐而小又音寒/俗丑/知反/俗遭?/二/音/俗丁/年反/音煩?/犬?也</hi>
+                    <graphic n="KR0968" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0968.png" mimeType="image/png"/>
+                    <hi>音魂似/犬人面也/音/柴/其江反多<pb n="63a"/>毛亦作</hi>?<hi>音尤犬/吠聲也</hi>狙<hi>七余反/子也又/七慮反犬齧足也</hi>獶<hi>俗/正奴刀反獸名又/奴巧反犬驚也二</hi>?<hi>通/正奴刀女交二/反長毛犬也二</hi>猦<hi>音風?<graphic n="KR3278" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3278.png" mimeType="image/png"/>獸如猿逢人則叩頭/小打便死得風還/活也/音???兔走?又/丑戀反草中/走也/音連?猭犬走?/也又丑人反義同</hi>狑<hi>音零犬也二同/俗音毛或作/正音思辯獄相察/也又/息利反二</hi>獠<hi>音聊夜獵也又張絞盧/?二反西南夷?名也/許云反北方/胡名??也</hi>猵<hi>音邊/獺?</hi>猋<hi>必?反群/犬走也</hi>
+<graphic n="KR3081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3081.png" mimeType="image/png"/>
+                    <hi>乙咸乙?二反犬吠聲也/或/作</hi>?<hi>今徒丁反猱/?/猿也二/音窮獸似/虎食人也/五閑反/犬閒聲</hi>?<hi>薄交反獸名/目在腋下也俗</hi>獌<lb/>
+<hi>正莫還反狼?也二</hi>獚<hi>音黃/犬名</hi>犿獾<hi>呼官反野/豚也二同/俗都/聊反/俗</hi>獢<hi>正許憍反猲?/短喙/犬也二/俗音雄正作熊獸名或作音郎?毒藥名</hi>猑<hi>古渾反?/禽獸名也</hi>
+                    <graphic n="KR3935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3935.png" mimeType="image/png"/>
+                    <hi>音柴狼?/也二/同</hi>?<hi>於良/反</hi>峱<hi>奴刀反/山名也</hi>
+                    <graphic n="KR2401" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2401.png" mimeType="image/png"/>
+                    <hi>留?二音似?而大食竹根也</hi>上聲<lb/>
+猥<hi>烏?反穢雜也不正而濫曰?也說文?犬/吠也</hi>狔<hi>蟻反猗/?/也二/俗</hi>狡<hi>正古巧反疾也健/也/猾也狂也二/誤音/保</hi>
+                    <graphic n="KR1702" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1702.png" mimeType="image/png"/>
+                    <hi>力水反飛?獸也</hi>獎<hi>即兩反/狗/也/俗音/犬</hi>?<hi>蒲?反宋犬也/又扶文反羊名</hi>玁<hi>或/作</hi>獫<hi>正?撿反?狁玉篇云北狄也/下又廉斂二音犬長牙喙也二/音尹</hi>
+獮<hi>息淺反狄獵曰??殺也/或/竹</hi>?<hi>正所檻反??/犬吠/聲也二</hi>?<hi>下斬反/大囓聲也/一曰?犬吠不止也</hi>狗<hi>古口反犬/也二同</hi>獬<hi>胡買反亦?豸獸名</hi>
+<graphic n="KR3278" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3278.png" mimeType="image/png"/>
+                    <hi>莫口反猦?獸名也</hi>玀<hi>經音義作阿婆二字上烏可反下蒲/我反謂僂要而行也在樹提伽經中/或/作</hi>
+                    <graphic n="KR2579" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2579.png" mimeType="image/png"/>
+                    <hi>正神紙反/獸名似狐?則有兵也上又豕紙反二<pb n="63b"/>?豈反楚人呼?也又音/希/三俗羊苦常預/二反正作墅字/通</hi>?<hi>正奴巧反擾亂也又/下巧反事露/也二</hi>獷<hi>古猛反犬不可陌近也/又居?反?平縣名直?直買二反玉篇云似鹿一角也</hi>?<hi>側絞反/正作?</hi>
+                    <graphic n="KR2629" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2629.png" mimeType="image/png"/>
+                    <hi>二俗上音/巨下音?</hi>去聲狃<hi>女又反習也就也又狐/狸也又女九反相狎也</hi>
+                    <graphic n="KR1830" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1830.png" mimeType="image/png"/>
+                    <hi>??反夏后氏有澆?寒浞子名浞音士角反/二/俗/正五晏五見二/反逐虎犬也三/尺制反狂/犬?名也/三俗?/教/反/古縣古掾二反?急也</hi>
+狾猘<hi>居例尺制征例三反狂犬?名二同</hi>?<hi>莫嫁反/獸名也</hi>?<hi>俗徒/到反</hi>犽<hi>五嫁反/獸名也/或作音岸今/作犴/獸名</hi>?<hi>或/作/正古外反狡?小兒?也又古邁/反二/余又反/?猿也/古縣反躍/也疾跳也</hi>狽<hi>俗音/貝/呼貫反文彩明/?也又/姓也</hi>獟<hi>五吊反/狂犬也/俗</hi>狚<hi>正音旦獦?似狼也獦音葛二</hi>?　狠<hi>四俗音?/儀同也/俗</hi>狖狖<hi>二/正/今余救反獸/名似/猿四</hi>?<hi>俗余/救反/音?切韻/云車軾也/或作</hi>
+犺<hi>今苦浪反猰?不順也二</hi>狩<hi>書救反/冬獵也</hi>入聲　?<hi>上知格反下莫百反/??/驢父牛母也/俗亦鐸/二/音/俗烏/各反/俗女律反</hi>?<hi>七雀反玉篇獸/名又才/藥反</hi>?<hi>榖欲二音獨?獸/如赤豹/五尾也/俗音/適/七藥反宋/國良犬也/?洽反/犬食也/古文他/?/反</hi>?<hi>之若反獸名/二/俗</hi>??<hi>二今吐盍他合/二反犬食也四/音滑狡/?/也/二俗祖/葛/反/俗/二今古?反雜也又烏黠反?貐獸名龍首食人也又苦結反?抗不仁也貐音庾/或/作</hi>猲<hi>正許謁反?獢短喙/犬也又/許葛反二/俗/正音即犬/生三子也二/許月反獸名又走也<pb n="64a"/>舊?作獵/二/俗/正音?/?獸三</hi>狎<hi>胡甲反習/也近/也/俗/正村沒反?暴/疾也食?也二</hi>獵<hi>良?反捕?也四時之/田春曰狩夏曰苗秋曰捕冬曰/?/俗</hi>獦<hi>正音葛?狚似狼文質也/又俗音良?反狚音且二</hi>狹<hi>侯夾反隘也/隘厄介反</hi>狄<hi>音笛北?/也又姓</hi>?<hi>胡各反/狐?也俗</hi>玃<lb/>
+<hi>正居縳反大猿/?也二/二或/作/今書藥反犬/驚?/也三</hi>獺<hi>他?反/水?也/音博??獸名似牛九尾四/耳目在耳/後也?音?/二俗正勒沒反?篇射也三</hi>狊<hi>呼覓反犬目視又古覓反亦獸名猿?也</hi>
+︻豕部第卄二豕<hi>施是反??名也</hi>豬<hi>音/?/徒昆反/豕子也/同/上/音加雄?/也与猳同</hi>豯<hi>音兮豕生/三月也?吹反豶名也</hi>豶<hi>音墳野?/也又音煩</hi>豲<hi>音元/豕?</hi>?<hi>芳無芳遇疋候三反/豕聲也又豕息肉也/俗</hi>
+                    <graphic n="KR1595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1595.png" mimeType="image/png"/>
+                    <hi>正古???二/反豕四蹄白二/莫經反/小也</hi>
+豜<hi>俗或/作</hi>
+                    <graphic n="KR2210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2210.png" mimeType="image/png"/>
+                    <hi>正/音肩豕/三歲曰?三/許衣許豈/二反?也</hi>豵<hi>今/正子紅反豕/生三子也二/力屯反/獸名也</hi>?<hi>他端反/似豕而肥也又去聲音蒙似豕也</hi>豝<hi>音巴/豕也</hi>
+                    <graphic n="KR3805" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3805.png" mimeType="image/png"/>
+                    <hi>音同獸/似豕也</hi>豩<hi>古文百/貧/反/毗連反/?/也</hi>
+                    <graphic n="KR3870" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3870.png" mimeType="image/png"/>
+                    <hi>音雄豕/獸/名</hi>豱<hi>音?短/項豕名/蘇干反豕也</hi>?<lb/>
+<hi>或作/正云魚反/豕/?二/胡刀反??/也/亦州名/奴刀反/山名也</hi>上聲燹<hi>蘇典許位二/反野/火也/二/俗</hi>?<hi>正羊捶/羊委二反也又徒/?反??名也三</hi>豤<hi>康很反豕食?也/又去演反豕齧也/音母獸/名/也</hi>?<hi>力主反/?子也/切韻雖主反玉篇士/羽反小豬也二同</hi>去聲<lb/>
+<pb n="64b"/>
+<pb n="64b"/>
+<hi>音惱雌?也</hi>?<hi>音爪/??/之九反/猛獸也</hi>去聲?<hi>俗</hi>豹<hi>正包?反?似虎團文/花/?而小於虎上又呼構反二</hi>?<hi>二俗古</hi>?<hi>二正音?儀容也五</hi>貁<hi>余救反獸/名/似?/俗/俗通魚既反/果/?也二</hi>
+                    <graphic n="KR2128" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2128.png" mimeType="image/png"/>
+                    <hi>音四/狸子</hi>
+                    <graphic n="KR2328" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2328.png" mimeType="image/png"/>
+                    <hi>?/吏反/貉也二同</hi>?<hi>莫半反狼屬/竹用反/乳也/正/今皮/寄反二</hi>?<hi>舊藏作舜/在辯正論</hi>?<hi>音万獸/名似狸/俗古反</hi>入聲　<graphic n="KR3932" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3932.png" mimeType="image/png"/>
+<hi>二俗/二或/作/今</hi>?<hi>出說/文/出孝聲胡各/反??也七</hi>貊<hi>音陌蠻?/之邦/也</hi>貘<hi>音陌食?獸也似熊/??色出蜀中也</hi>貀<lb/>
+<hi>或作</hi>豽<hi>今女滑反獸/名似狸也二</hi>貜<hi>居縛反/大?也/音力遼東/犬/名也</hi>貉<hi>音陌北方獸/名又胡各反/地?反水狗/也与獺同</hi>
+︻　部第卄四<hi>胡刀反大呼也/也痛也</hi>號<hi>呼交反?呷也/又音豪?/也/今</hi>甝<hi>正胡甘反/白虎也二/直離反虎聲又竹燻名</hi>?<hi>音銀孟虎/爭/聲二/俗/正五閑胡犬二反/虎/怒/?也二/上音烏下音徒楚/人呼虎曰??也/或作音池胡交反/音同/?虎</hi>上聲<hi>二或/作/今胡/犬反獸名似犬多/力一曰對爭/?西海三/二俗或作音虎三</hi>去聲<hi>薄報反?虎無/杖手搏也二同/二或/作/今魚既反/虎息也三</hi>虥<hi>士?普患二反虎毛淺也二同</hi>入聲　?<hi>胡甲反虎/習/?二</hi>?<hi>音/索/音覓說文/云白虎?也/所責反虎驚/又/詐逆反/音革虎/聲也</hi>
+<pb n="65a"/>
+</p>
+<p>
+<pb n="65b"/>
+<hi>旱?也二/音/竹/俗章/欲反/音域小兒鬼也</hi>?<hi>音或鬼?/旋風也二/二俗/音<graphic n="KR2005" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2005.png" mimeType="image/png"/>
+                    </hi>
+︻走部第卄六<graphic n="KR2439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2439.png" mimeType="image/png"/>
+                    <hi>音俞越也過也又傷遇反馬?前也</hi>趍<hi>通/正七俞反走/也疾行也二/音希走/??也</hi>?<hi>居依反走?也丁年反走?也/許?反疾/走/?也/俗音/羊/疋昭反/行疾?/直離反輕/薄/?也</hi>趧<hi>音啼?鞻/四夷樂名/或/作/今取私反倉?也二/誤新蕆作/趄七余反</hi>趄<hi>七余反/??也</hi>?<hi>俗</hi>?<hi>正取私反?/趄不進也二/通</hi>?<hi>正母官反行/遲/?也二/彼?反許其許記二反/音/由/音余??/安行/?/?來反/?意也</hi>?<hi>渠?反/曲?也/音焉東/夷/舞</hi>?　?<hi>上二倉含反下一徒含反??走?也/音渠/走也</hi>趪<hi>音黃??舞?又/張設?/又音光</hi>?<hi>上博孤反下他胡反??/伏地?下又俗音/徒/俗</hi>趬<hi>正去堯反行輕?又去囂反亦起?二</hi>
+                    <graphic n="KR2545" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2545.png" mimeType="image/png"/>
+                    <hi>音/袁玉篇云/走也一曰各也/音湯走?也又/他曆反跳/?/俗</hi>趫<hi>正去?巨/二反/善走又?水也二</hi>?<hi>俗</hi>趟<hi>正上一陟交竹教二反下二竹知孟二反??跳躍也</hi>?<hi>綺二音玉篇云?/?鹿走?一曰行也/七廉/反/俗</hi>赹<hi>正渠營反獨行?/上又俗五?反二通正直連反移也又張連反同行/難也二/或/作/正音賢疾/走/?二</hi>趖<hi>蘇禾反/?疾也</hi>趯?<hi>二同音劬走顧之?/下又音憮健也/二</hi>?<hi>倉來反說文疑也七羊反/趍走也</hi>上聲赻<hi>二俗/音/渠委反与/跪同張?也</hi>
+                    <graphic n="KR4621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4621.png" mimeType="image/png"/>
+                    <hi>?斗/反俗</hi>趛<hi>牛錦反/頭疾行也</hi>?<hi>丘隱反跛行?</hi>
+<pb n="66a"/>
+?<hi>立弭反半?也舉一足曰?再舉曰?与跬同/安古反/走??/正</hi>?<hi>今余拱反行?一/曰頓走踏地也二</hi>?<hi>則散則且/反散走也/居許反/行?俗音了/音?/式也/二俗知/奄/反</hi>趡<hi>千水反/走/也</hi>趭<hi>子小反急也又子笑才/笑二反走?也又同上/立忍去刃/二反行?/音此淺渡也</hi>趁<lb/>
+<hi>尼展反踐也</hi>去聲趮<hi>則到反動也/擾也又疾也</hi>?<hi>芳遇反疾/行?/也/二或作北諍反散/?也正作迸/字/千夜/反??立也俗</hi>趠<hi>正??反行?也又敕角反?也二/俗音/教</hi>
+                    <graphic n="KR3924" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3924.png" mimeType="image/png"/>
+                    <hi>俗音/去</hi>趒<hi>他吊反越也又/他洞反雀行也/二/俗</hi>??<hi>三或作今芳遇疋候蒲北三反?/僵也六</hi>?<hi>俗/正他候反自/投下也/二/俗撫?反/正作</hi>
+                    <graphic n="KR3633" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3633.png" mimeType="image/png"/>
+                    <hi>香仲反/瞢/?</hi>?<hi>徒困/反/都計反/走?也渠院反/俗/正/今丁計反走也/一曰/窮也三/二或/作/今丑側反跳/也踰/也二/三俗</hi>趣<lb/>
+<hi>正七句反?向也又倉狗反?馬掌馬/官名也又七足七俱二/反四/音逝/踰也</hi>趐<hi>俗音/翅/俗丑戀反正作/猭犬走草中也/許縣反走?又居/聿反亦走急也俗音造</hi>赲<hi>二俗力/?/反/俗音/到/俗薄半反/正/作叛</hi>趥<hi>千仲反/行/?</hi>?<hi>疾亮反/行?也</hi>?<hi>丑刃反/逐也</hi>?<hi>音又走?音救</hi>?<hi>音/迅</hi>入聲<hi>俗/正于伐反超也逾/也揚/也又姓二</hi>?<hi>書藥反趯走/也又音?動也</hi>?<hi>音鹿??/小也又/音??/小兒行也/丑玉反?小/?/行?</hi>?<hi>千木反??/也又七玉反/俗/正丑律反/走/也二/二俗?/?反</hi>
+                    <graphic n="KR3192" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3192.png" mimeType="image/png"/>
+                    <hi>羊即反進/趣/?也/通</hi>?<hi>正其訖反<pb n="66b"/>行?也二</hi>赶<hi>其月反舉尾/走也又音?/音陌越也/今作驀</hi>?<hi>蒲末反同/旱?也/俗/正蒲末反行?也又/取私反倉?/也二/去吉反走?也音?/俗徒?反正/作/?/也</hi>?<hi>所?反/僵仆?/士洽反/行疾?/或/作/正丑格反/半?也二</hi>?<hi>音必玉篇/原行?切韻?行池也俗</hi>趯<hi>正他?反?跳?二/俗渠/<graphic n="KR2005" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2005.png" mimeType="image/png"/>反</hi>趌<hi>巨乙反直行也又/音吉?<graphic n="KR2596" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2596.png" mimeType="image/png"/>走?</hi>
+                    <graphic n="KR2596" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2596.png" mimeType="image/png"/>
+                    <hi>堅列反?<graphic n="KR3771" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3771.png" mimeType="image/png"/>跳?/又居謁反走/?</hi>赽<hi>正/今古穴反烏/疾/行也二</hi>
+                    <graphic n="KR3771" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3771.png" mimeType="image/png"/>
+                    <hi>居月反跳?也</hi>?<hi>音敕行/聲/也/或/作</hi>?<hi>今音佛走?/又普末反二</hi>?<hi>其月反/行越也</hi>趉<hi>九勿反/走?</hi>趜<hi>渠竹反?趍/體不/伸也/俗通正所六反趜/?二/俗</hi>?<hi>正才結反傍出前也/又音吉走意也二</hi>?<hi>知劣紀劣二反/小跳又走??/俗才恤反正/作/摧?/居聿反/走急也正</hi>?<lb/>
+<hi>今音歷?行/?也二/或/作</hi>?<hi>今/正七?反/??也三/正</hi>?<hi>今七雀反/行/?二</hi>?<hi>之欲反小/兒行?也/音結/走?/音疫</hi>
+︻羽部第卄七?<hi>音黃羽舞名又音王</hi>翴<hi>音連?翩/飛相及也</hi>羾<hi>二或/作/正音紅虫/飛?也三/蘇彫反羽/翼也芳無反?細毛也</hi>翪<hi>子紅反聳/翅/上?</hi>
+                    <graphic n="KR2119" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2119.png" mimeType="image/png"/>
+                    <hi>芳文反<graphic n="KR0813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0813.png" mimeType="image/png"/>/?飛/?/許么反/也</hi>翏<hi>正/今音聊?/飛?也二</hi>翁<hi>烏紅反老稱也亦鳥頭毛又姓疋?反飛?也</hi>?<hi>呼萌反群鳥/弄翅也二同</hi>翃<hi>?萌反/虫飛也/所臻反/羽多也</hi>翑<hi>其俱反鳥/羽也二同/其/俱反馬左足白也俗今巨嬌反/?飛?二/俗?亦/二/音</hi>翹<hi>渠/反舉也/也危也??也</hi>?翔<hi>上五高反下音祥??/逍?蟠?自在?/也</hi>翩<hi>上音篇下音?<pb n="67a"/>??飛也又翻覆也?翔?也</hi>翷<hi>通/正力?反分/羽飛?也二/許?反小/飛虫也</hi>翢<hi>他刀徒刀二/反羽葆幢也/俗</hi>翎<hi>正音零鳥/羽/也二</hi>翍<hi>普碑反?張之/?/胡郎反/??也/通</hi>
+                    <graphic n="KR3215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3215.png" mimeType="image/png"/>
+                    <hi>今許延反/飛?也二/渠支反?/?飛?也</hi>
+                    <graphic n="KR2878" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2878.png" mimeType="image/png"/>
+                    <hi>是支反/群飛也</hi>翬<hi>音暉飛?又/雉五色?也</hi>翲<hi>疋昭反鳥飛?</hi>
+?<hi>音暄飛來/也</hi>?<hi>俗音胡/人名也/俗</hi>翭<hi>正音侯/飛聲也又/羽?生又去聲二/音于飛/?二同</hi>
+                    <graphic n="KR2574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2574.png" mimeType="image/png"/>翑翵<hi>其俱反/鳥羽也又俱兩反曲羽也三同</hi>上聲?<hi>音保彩/羽也/正</hi>翦<hi>今音剪截/羽/也二</hi>去聲<hi>三俗</hi>翳<lb/>
+<hi>正於計反葆也/也障/也隱也奄也又平/聲四</hi>翡<hi>上扶未反赤羽雀也下七?/反音羽雀也雄曰翡雌曰翠/二/古</hi>翨<hi>三俗</hi>?<hi>通</hi>翅<lb/>
+<hi>正音施鳥兩羽也七</hi>翥<hi>之恕反飛/也/舉也</hi>
+                    <graphic n="KR1304" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1304.png" mimeType="image/png"/>
+                    <hi>呼?反/鳥飛也/二或/作</hi>羿<hi>正音詣能射人名/說文從羽/也三/二或作正羊制反鳥飛也三/或/作/正音惠六翮之末又/音?亦?六翮也二/二或/作/正徒到反舞/者/所執三/於?反?羽</hi>入聲<lb/>
+<hi>或作/今盧盍反?[莫-大+羽]/飛?起/?二/徒盍反/?/俗/今許聿反/飛/?二/俗/正疋各?各二/反/飛去也二/奴勒反虫名也</hi>[莫-大+羽]<hi>音塔飛/盛?也/音/押/音六与/戮同三</hi>?<hi>許月反/飛/?</hi>
+                    <graphic n="KR2181" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2181.png" mimeType="image/png"/>翼<hi>羊即反輔也翅也助/也美也恭也又州名又姓二</hi>
+翋<hi>俗</hi>翌<hi>正羊即反明曰也二/俗/或/作/正行革反鳥/羽/本也三/許逼反/羽聲也/音域飛/聲也</hi>翕<hi>許及反火炙也百起也又<pb n="67b"/>動也歛合合聚盛也</hi>?<hi>許及反人/姓名/也</hi>?<hi>音?水/上飛也</hi>?<hi>胡結反?/飛上下也/所甲反捷也又/色立反疾飛也</hi>翣<hi>所甲山洽二反棺/衣也形如扇以木為匡/呼角反/鳥肥也/甫勿反舞/者所執也/許考反小鳥/飛/也二同</hi>毣<hi>音木思?一曰濕毛/也又莫角反/好?/上盧合反下他合反???飛?也</hi>?<hi>羊即反?/?虫行?/虎伯反/飛疾?/誤徒合反/鳥/毛也</hi>︻皿部第卄八皿<hi>旻永反??也又盆?也</hi>盟<hi>音明誓約也又/音孟?津河也</hi>盂<hi>今/正音于盤?/?/?也二/苦?反?/?/?也/三/俗</hi>盩<hi>二切韻</hi>盩<hi>玉篇張流反水曲曰?又?厔縣名厔音/窒/六</hi>盅<hi>丑中直中二/反??也二/音?仁?/諸比類也/音雷/?也/俗/正音昭?也二奴冬反二</hi>?<hi>郎奚反以瓢/為飲/?也</hi>?<hi>俗/正堅反/醆也二</hi>盉<hi>和?二音調/五/味?也</hi>?<hi>上音安下音殘/??大?九</hi>
+<graphic n="KR2461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2461.png" mimeType="image/png"/>
+                    <hi>音羊杯也/古文布胡反今/作/餔晚食也</hi>上聲盪<hi>徒朗反條/??動/?又吐郎反?突也</hi>?<hi>有右二音抒水?也二同</hi>?<hi>俗</hi>
+簠<hi>正匍夫二音?簋祭?也/二/俗</hi>簋<hi>正音?/簠?祭?受/斗二/??外方也二</hi>?<hi>古文烏管反小/也今作?/音杜/?也/音猛</hi>?<lb/>
+<hi>相主反?負物几也又音所載醋也/其矩反??/負載?/也/俗</hi>盬<hi>今音古盬也?/也又不固也二/或/作/今音古/?也二俗</hi>?<lb/>
+<hi>今音雅酒?也/二/古巧反/?/也</hi>?<hi>古巧下巧二反?/?/也又?濁也/?/文/俗/二或作音海/?醬也四</hi>去聲?<lb/>
+<pb n="68a"/>
+</p>
+<p>
+<pb n="68b"/>
+</p>
+<p>
+<pb n="69a"/>
+上聲<hi>羊主反病也又微弱/也/奴?反傷/瓜/也二/力忝反/瓜名也/平表反/物落?/魚偃反/瓢也/音祖音禮/俗音/始/?瓦?/瓦二反/古文/?字</hi>去聲<hi>音/訓/二古文/音/愛/俗音練正作瓜?/於靳反所/依?也/於刃反今/作印/同</hi>入聲<hi>二俗居碧居縳二/反正合作攫字/蒲角/反瓜?也二</hi>
+                    <graphic n="KR1705" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1705.png" mimeType="image/png"/>
+<hi>徒結反瓜?從瓜正二/音弗香嚴又田/結反小瓜/也/音劣撮/取/也/二音/福/陟栗反/?/音陟甲反俗正莫必反不見?又貧字從此也二</hi>︻矢部第卅一矢<hi>式視反弓?又正也/直也施也陳也誓也/同/上</hi>矬<hi>?禾反?短也二/音?弋/射矢也/俗丑/知反/上必兮反下祖/兮反??短?/失羊七羊二/反傷也二同/於盈/反/呼官反俗音胡</hi>上聲矯<hi>居/反妄也詐/也從手/者正/三俗/音短/俗/或/作古</hi>?<hi>正</hi>矧<lb/>
+<hi>今失忍反詞也?也長也/五</hi>?<hi>刑頂反小/?/也二/於巳反/短?也</hi>矲<hi>上薄買反下苦騃/反??短?也</hi>去聲<lb/>
+<hi>音智/上兵吠反下牛吠/反??短小?也/俗音/患</hi>入聲?<hi>竹律反短?/也又知劣反</hi>矱<hi>王縳反</hi>
+︻黍部第卅二黍<hi>今</hi>黍<hi>正舒?反說文云孔子曰?可以為酒故從禾入水也二/正</hi>黐<hi>今丑知反黏也所/以捕鳥也二</hi>黏<lb/>
+<pb n="69b"/>
+<hi>正</hi>黏<hi>今女廉反相著固合也二/古文音胡今/作/黏也/音誅/黏?/或/作/正郎奚/反?也/又姓又力脂反二/音香</hi>上聲<lb/>
+<hi>井弭白賣二反黍屬也</hi>
+                    <graphic n="KR2899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2899.png" mimeType="image/png"/>
+                    <hi>正/今音汝?/黏也二/音謹黏/黍?/去阮反/黏/?/今/正苦典苦見二反穄別名也二</hi>
+?<hi>上奴董反下力延反???子多也</hi>去聲<hi>所賣反/不黏?</hi>入聲?<hi>俗</hi>?<hi>正尼質反/膠黏也二正</hi>
+?<hi>今蒲北反黍豆潰葉也又符逼反二/俗/正竹益反/黏也二/蒲結反正作/馝大香也</hi>︻　部第卅三<lb/>
+<hi>郎古反?薄也?/?也/音咸苦也/不淡/也/古文/同上/古/今才何反?/曰?/?二/竹咸反/味/七廉反水和?又古斬反/也/音懷戎/狄?也/乙懷反?也/亦作/字/音?戎狄/云?/也/音消/煎?/音矜苦也</hi>上聲<lb/>
+<hi>古斬反也/也/胡朗反/?澤也/薄犬反蜀/人呼?也</hi>去聲<hi>在細反/也同/<graphic n="KR1997" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1997.png" mimeType="image/png"/>/倉奏反南夷名?也</hi>入聲<lb/>
+<hi>音尺狩也又或音魯/音/接</hi>︻九部第卅四<hi>俗/正許交反/虎聲也二</hi>?厹<hi>音求地名下又人久反獸跡足蹂地之?也二/音/兼/音/求/俗烏光反/正作</hi>訄<hi>丘求二/音迫也/俗/正丸而二音/丸屬/也二</hi>
+                    <graphic n="KR2084" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2084.png" mimeType="image/png"/>
+                    <hi>渠追反鍾?辟?也俗</hi>馗<hi>正渠追反道/也二/音干/股也/烏光反香/嚴又音注</hi>上聲<hi>俗口/反正作/?/野死草也/俗時勇反足?/病也正作字</hi>
+<pb n="70a"/>
+<pb n="71a"/>
+<hi>古雅皮玉爵也二同/俗/?/正羊主反/量/也二</hi>斢?<hi>上天口反下郎斗反/??兵/奪人物也</hi>去聲<hi>或/作</hi>?<hi>今都豆反?也又角力走也又物之俱等也二</hi>入聲<hi>俗/正音角量也/平木斛也二/音的/量也/苦洽反/?斫</hi>
+︻　部第卅七<hi>舒?反雀?切韻小獸名善??易曰艮/??也/正/今音離小?/相銜行也二/音終豹/文?也正今音兮??也又甘口?所食之物至盡不痛也二/音唐/??/一月三易?也/音煩/??/音錐/?名/上音精下音劬/??小?也</hi>鼮<lb/>
+<hi>音亭?似?/豹文/音斯/??/通</hi>
+                    <graphic n="KR2332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2332.png" mimeType="image/png"/>
+                    <hi>今胡南反似/?旡耳也二</hi>鼯<hi>音吾/似?</hi>上聲<hi>正/今房粉反地中行??也又扶文扶門二反二</hi>鼴<hi>音偃??似?形大如/牛好偃河而飲水/也</hi>
+                    <graphic n="KR3332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3332.png" mimeType="image/png"/>
+                    <hi>音耳/?耳/而勇反/??也/音?似?而大</hi>去聲<lb/>
+<hi>二俗</hi>
+                    <graphic n="KR2408" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2408.png" mimeType="image/png"/>
+                    <hi>正子峻反石?出/蜀中毛可?筆三</hi>鼬<hi>余救反虫/名似/?/余救反/?/屬</hi>鼤<hi>而問/?名</hi>入聲驅<hi>正/今音博/?也二</hi>?<hi>音洛?名/也/?骨反鳥?同穴其鳥曰?其/?/曰??如?而短尾也?余徒二音</hi>鼫<hi>音石??/螻蛄也</hi>?<hi>的酌二音?名又才/藥反?似兔而小也/胡狄反名也/益厄二音/??/也</hi>︻　部第卅八<hi>許兩反獻也祭也臨也向/也歆也又奉上也二同章輪常輪二反/二/俗/通/正都昆反迫/也又/姓四/俗/正都昆反/?似甌瓿二/舊?作鶉常倫反</hi>
+<pb n="71b"/>
+</p>
+<p>
+<pb n="72a"/>
+<hi>宜利反/蘇浪反/亡也二</hi>入聲<hi>俗</hi>?<hi>正所立反不滑也/?四止与濇同二</hi>
+                    <graphic n="KR3403" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3403.png" mimeType="image/png"/>
+                    <hi>必亦反跛/也与躄同/所立反</hi>
+︻枲部第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>一枲<hi>息里反麻有子曰?無子曰苴也苴音七余反/俗/正子侯反/麻榦也二/昌真之忍/二反纑也/即由反聚也又束枲/也/郎到反麻/莖大/也/渠眷反?/?縫/也/音/代/直質反帆索也</hi>︻子部第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>二<lb/>
+孳<hi>子之反?息也</hi>孖<hi>子之反/雙/也</hi>?<hi>古文他哀/反今作胎</hi>孜<hi>音?厚也/亦篤愛也</hi>孥<hi>音奴妻/?/也</hi>?<hi>二俗苦閑反正作掔同也俗音齊/從?/二音</hi>?<hi>於盈反/孩兒也</hi>上聲?<hi>免晚二音子母/相/解?身也/二或/作</hi>?<hi>正擬燿二音多盛?也三/古文/音好/玉篇音?/保小兒也</hi>?<hi>古文/音子/?順/二音/音/子</hi>去聲<hi>俗/正/今而遇反少小?稚也又生也又姓三/古文/音季/竹用/反/俗蒼/反正/作/美女?/俗許既反正/作/息/也</hi>?<hi>音/寺</hi>?<hi>士戀反謹也/又立反戢?聚?音阻立反/同上郭氏/又音/啾</hi>?<hi>音制蝗/子/也/音/既/玉篇丑證反川/也香嚴/音孔/音字</hi>入聲<hi>俗通</hi>孛<hi>正?蒲昧二/反?星也/三</hi>?<hi>俗博厄反正作擘分?也</hi>︻?部第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>三?<lb/>
+<hi>通</hi>?<hi>今</hi>鼓<hi>正公?反鍾?也字從<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>/音叨從皮/者非也/三/於巾反/?聲也/正/今音同?/聲/也二/或作</hi>
+<pb n="72b"/>
+</p>
+<p>
+<pb n="73a"/>
+<hi>瓦?瓶也/三/徒含反瓦罌/?也与?同/下江反/甖?也/同/上/古/今音盧/瓦?也二/音浮小/缶/也/音雷??/酒?也音尊酒?也/音零似/瓶有耳/音崔玉篇/?/也香嚴素回反/俗/正音刑酒?也其/形似酒/鍾二同/音/?/於容反汲?也/音盧瓦/?/也/革鞋/反/古/今音由瓦/?也/二/疾資反瓦?/也与/瓷同</hi>上聲<hi>或作張?反盛米/?也/之酉反/?/也/徒?反?也/香嚴音/提/今芳武反/弓把巾也/玉篇子乳反/香嚴/同上</hi>去聲<hi>音貫汲水?也/二/俗/正呼嫁反孔/?破裂也三/時戰反/??也/呼貢反/孔?也/都念/反/音聖</hi>入聲<lb/>
+<hi>苦?反少也也破/也/古的反/吹?也</hi>︻老部第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>六<hi>呼昆反/也/音老</hi>
+<graphic n="KR2766" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2766.png" mimeType="image/png"/>
+                    <hi>////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////</hi>
+                    <pb n="73b"/>
+<hi>二音陷?也三</hi>汫<hi>口冷徂醒/二反??</hi>?<hi>俗/正烏?反/又音營二/古文?向反?也始/也懲也/音澄/必亦反/理/也/古反數也</hi>
+︻喜部第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>八　?<hi>皆古文古閑反?難今作艱四/古文奴干奴案二反/今作難?昜/艱?也</hi>嚭<hi>俗疋鄙反正作嚭大也/俗乙?反正作/?柔美大也</hi>︻古部第<graphic n="KR1920" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1920.png" mimeType="image/png"/>九<hi>俗</hi>辜<hi>正音孤罪也負也二古文同上/俗居/陵反/古文/音敦</hi>嘏<hi>古雅反大也/福也?也/隨函云誤合作/方/蹬反束棺/下之二/二古文音克勝也能也</hi>︻乃部第五十<hi>通?圭反/持也提也/二俗?圭許圭二反正作?角錐也俗子泉反又?圭反/俗/正丁果反/木垂?二</hi>?<hi>音古多/債利也/二/俗/古</hi>孕<hi>今羊證反懷?也四章刃反二/耐乃二音鼎/大者曰?也/俗音/勢/俗普?反正/作劈剖裂也/音/力/俗音卓</hi>
+︻里部第五十一<hi>俗正里之反福/也又理也二/干求反与/同結病也/二俗烏兮/反/正作水黑也俗音擎正作黥/俗烏閑反正/作/?色也/音/亡/俗巨炎反正/作/淺?色/音/毗/狸里/二音/俗烏奚反美/石?色也俗於?反/俗七感反/正/作/俗都感反正/作/垢/?/俗烏感反正/作黭?黮二/力巳/反/時證/反音</hi>
+<pb n="74a"/>
+<pb n="75a"/>
+<hi>坎?二音??/也/音迷?/似龜/不中食/音麻/子奚/反</hi>舁<hi>音余對/舉/也</hi>舀<hi>羊小反/也抒水也二</hi>舅<hi>渠?反母之兄弟也亦夫之父也又姓</hi>?<hi>徒朗反春也/待米精/也/持?/反/居許反共/輿/?也/之睡反/杵?也/之睡反/杵臼也</hi>?<hi>二/俗/正音伐/舂米又芳廢反?也/三/音昨穿?/也二/同/疋各反舂也/玉篇又音?/音昔履也又古文鵲字亦人姓</hi>
+︻也部第五十六<hi>音?又?葛反/音?又舊?作馳在/續?僧傳/第七卷</hi>?<hi>弋支羊/氏二反/卑也/反/丁也反足也反/并也/反/俗音/舐/成二/反二</hi>︻比部第五十七<hi>音毗小籠?也二同/音勞/二同/音毗?/齊/名/音/卑</hi>︻是部第五十八<hi>相承歸燥二音息淺反?寡也</hi>匙<hi>正/俗是支反/??也二</hi>
+                    <graphic n="KR2878" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2878.png" mimeType="image/png"/>
+                    <hi>是支反群/飛?/也</hi>韙<hi>于鬼反/是也/俗/正他?反撗首杖名二</hi>?<lb/>
+<hi>音弟小盆/也/音/取</hi>鶗<hi>徒了/反/之日/反二</hi>︻首部第五十九<hi>与之反与頤同?養也又也/音專?/?首也/俗</hi>?<hi>正音首人初/?子也/二/渠追反?龍又州名亦獸名似牛/一足無角聲如雷皮可為?也二俗/古文苦?反今作/也首至地也三/俗</hi>馘<hi>正音/截耳也又/獲也或作聝/二/俗音甫正作</hi>
+<pb n="75b"/>
+︻果部第六十<hi>郎果胡/果二反二</hi>夥<hi>胡果反楚人云/多又五果反/五果反又/同上二初瓦反下又所瓦反/二/側巧反</hi>
+龍　手鑑上聲卷第二<lb/>
+<pb n="76a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

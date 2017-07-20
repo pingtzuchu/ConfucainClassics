@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+　汗簡卷上　之二　第　二<lb/>
+　　　　　　　　　　　　<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>　凡<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>之?皆?<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>
+<hi>?見尚書/闅見?文</hi>
+　　　　　　　　　　　　目　凡目之?皆?目<lb/>
+<hi>視見石經/上同/睦/省並見/?文眣上同澤/營/郎/釋並出義雲章上周眩/衒/穆並林罕集綴睦願並碧/落文/眱張揖/古文/?/?荀邕集字</hi>
+<pb n="1b"/>
+　　　　　　　　　　　　　　　　　　　?　凡?之?皆　?　?<lb/>
+<hi>瞿見古周昜/嬰並義雲章</hi>
+　　　　　　　　　　　　　　　　　　　　盾　凡盾之?皆?盾<lb/>
+　　　　　　　　　　　　　　　　　　　自　凡自　之?皆?自<lb/>
+<hi>庸皇見/尚書/自見/?文/息義雲章</hi>
+　　　　　　　　　　　　　　　　　　　　白　凡白　之?皆?白<lb/>
+<hi>僭百/曹並/石經/億/庸並義雲章曷林罕集/香出碧落文</hi>
+<pb n="2a"/>
+　　　　　　　　　　鼻　凡鼻之?皆?鼻<lb/>
+<hi>鼻出摭古文劓</hi>
+　　　　　　　　　　皕<hi>音秘</hi>凡皕之?皆?皕<lb/>
+<hi>奭見尚書/?出義雲章</hi>
+　　　　　　　　　　習　凡習之?皆?習<lb/>
+　　　　　　　　　　羽　凡羽之?皆?羽<lb/>
+<hi>翦舞/披見/史書/翽/頡並義雲章</hi>
+　　　　　　　　　隹　凡隹之?皆?隹<lb/>
+<pb n="2b"/>
+<hi>難雉並/說文/雅/雞/勸並裴光?集鵙鶴/弋並義/雲章/難錐鴟歡孫強古文</hi>
+　　　　　　　?<hi>苦規切</hi>凡?之?皆??<lb/>
+<hi>奪古論語</hi>
+　　　　　　　萑<hi>胡官切</hi>凡雈之?皆?雈<lb/>
+　　　　　　　　<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>　凡<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>之?皆?<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>
+<hi>次良並出義雲章</hi>
+<pb n="3a"/>
+　　　　　　　　　　　　　　　　　　　　　　　苜　凡苜之?皆?苜<lb/>
+<hi>王存乂韻/薎出周書大傳</hi>
+　　　　　　　　　　　　　　　　　　　　　　　羊　凡羊之?皆??<lb/>
+<hi>羯見石經/苟/羑出林/罕集綴/義出墨翟書膳出義雲章</hi>
+　　　　　　　　　　　　　　　　　　　　　　　?　凡?之?皆??<lb/>
+　　　　　　　　　　　　　　　　　　　　　　　瞿　凡　瞿之?皆?瞿<lb/>
+<hi>矍出古周易/衢出李彤集字</hi>
+<pb n="3b"/>
+　　　　　　　　　雔<hi>上牛切</hi>凡雔之?皆?雔<lb/>
+<hi>霍見古爾雅/雒朱育/集字/讎郭顯卿字指</hi>
+　　　　　　　　　鳥　凡鳥之?皆?鳥<lb/>
+<hi>難並尚書/鴨出郭顯卿字指/後人轉音?檢切/鳳見說文鷃鷫出李尚隱集字</hi>
+　　　　　　　　　烏　凡烏之?皆?烏<lb/>
+<hi>烏上同/上同並出碧落文</hi>
+　　　　　　　　　　?<hi>方安切</hi>凡?之?皆??闕<lb/>
+<pb n="4a"/>
+　　　　　　　　　　　?　凡?之?皆??<lb/>
+<hi>嬰見石經/級王庶/子碑/珠碧落文</hi>
+　　　　　　　　　　<graphic n="KR1448" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1448.png" mimeType="image/png"/>
+                    <hi>幽見石經</hi>凡<graphic n="KR1448" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1448.png" mimeType="image/png"/>之?皆?<graphic n="KR1448" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1448.png" mimeType="image/png"/>
+<hi>?見說文/?林罕/集字/幾義雲章</hi>
+　　　　　　　　　　　冓<hi>古候切</hi>凡冓之?皆?冓<lb/>
+　　　　　　　　　　?<hi>上絹切亦古專字</hi>凡?之?皆??<lb/>
+<hi>躓見古詩/絹李尚/?字指/惠樊先生碑</hi>
+　　　　　　　　　　　玄　凡玄之?皆?玄<lb/>
+<pb n="4b"/>
+<hi>玄碧落文/玄華/岳碑/妙義雲章</hi>
+　　　　　　　　　　　　　　　　　　　予　凡予之?皆?予<lb/>
+<hi>幻?慣切見尚書/教/豫貝丘長碑</hi>
+　　　　　　　　　　　　　　　　　　　放　凡放之?皆?　放<lb/>
+<hi>敖見石經/?弋勺切/義雲章</hi>
+　　　　　　　　　　　　　　　　　　<graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>　凡<graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>之?皆?<graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>
+<hi>受見尚書/受見/石經/亂見說文</hi>
+　　　　　　　　　　　　　　　　　　　　　　　　　　凡　之?皆?<lb/>
+<pb n="5a"/>
+<hi>壑古?雅/?李彤集字</hi>
+　　　　　　　　　　歹<hi>五?切</hi>凡歹之?皆?歹<lb/>
+<hi>殂上同/辜/斁見/尚書禍朽並見林罕集綴</hi>
+　　　　　　　　　　死　凡死之?皆?死<lb/>
+<hi>死見石經/殂/殪/殊見/尚書/落林罕/集字</hi>
+　　　　　　　　　　　咼<hi>古瓦切</hi>凡咼之?皆?咼<lb/>
+<hi>禍</hi>
+<pb n="5b"/>
+　　　　　　　　　　　　　　　　　骨　凡骨之?皆?骨<lb/>
+<hi>惕古周易/委見/史書/髓茅君?傳文</hi>
+　　　　　　　　　　　　　　　　　肉　凡肉之?皆?肉<lb/>
+<hi>類孕/?並/尚書/泯出/?子渫上同頰並義/雲章/肥/尋瘠糟並出裴光?集字/祭王庶/子碑/微出碧/落文/胾/肩出徐邈古文</hi>
+　　　　　　　　　　　　　　　　　筋　凡筋之?皆?筋<lb/>
+　　　　　　　　　　　　　　　　　　刀　凡刀之?皆?刀<lb/>
+<pb n="6a"/>
+<hi>割刑/則/則並/尚書/列亦尚書?罰並/石經/制/?並/說文剔剫徒各切/?/鞹/上同上同刻並義雲章/列出/碧落文/則?文續添</hi>
+　　　　　　　　　　　　　　　　　　　　刃　凡刃之?皆?刃<lb/>
+<hi>訒古論語/創孫強/集字/軔出字略</hi>
+　　　　　　　　　　　　　　　　　　　　?<hi>口八切</hi>凡?之?皆??<lb/>
+<hi>屋亦握字出說文/握?朱育集字</hi>
+<pb n="6b"/>
+　　　　　　　　　　　　　　　　　　　耒　凡耒之?皆?耒<lb/>
+<hi>耤林罕集字/耘朱育集字</hi>
+　　　　　　　　　　　　　　　　　　　角　凡角之?皆?角<lb/>
+<hi>
+                        <graphic n="KR2823" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2823.png" mimeType="image/png"/>古/冗切/?/?王存乂切韻</hi>
+　　　　　　　　　　　　　　　　　　　　竹　凡竹之?皆?竹<lb/>
+<hi>皮篠/簜/簥箘典箕並/尚書/筍/筥築毒薇/並/演?文/彗/度箱<pb n="7a"/>筮簏/簿並林/罕集字/箸/等王庶子碑笈碧落文/笁楊大/夫碑/籠/朱/育集字/撰淮南王上升記</hi>
+　　　　　　　　　　　　　　　　其　凡其之?皆?其<lb/>
+<hi>箕上同並說文</hi>
+　　　　　　　　　　　　　　　　丌<hi>基</hi>凡　丌之?皆?丌<lb/>
+<hi>莊巽並/說文/亓出/史書/其出/碧落/巽亦撰字忌陳逸人碑文</hi>
+　　　　　　　　　　　　　　　　左　凡左之?皆?左<lb/>
+<pb n="7b"/>
+<hi>舉古論語/左林罕/集/字/差朱育集?字</hi>
+　　　　　　　　　　工　凡工之?皆?工<lb/>
+<hi>工疇/恐/巨並說文</hi>
+　　　　　　　　　　?<hi>展</hi>凡?之?皆??<lb/>
+<hi>塞古月令</hi>
+　　　　　　　　　　雥<hi>音雜</hi>凡雥之?皆?雥<lb/>
+　　　　　　　　　　巫　凡巫之?皆?巫<lb/>
+<pb n="8a"/>
+<pb n="9a"/>
+<hi>朽</hi>
+　　　　　　　　　　　　　　　　　　　　　　可　凡可之?皆?可<lb/>
+<hi>何碧落文/訶郭顯卿字指</hi>
+　　　　　　　　　　　　　　　　　　　　　　　?　凡?之?皆??<lb/>
+　　　　　　　　　　　　　　　　　　　　　　　于　凡于之?皆?于<lb/>
+<hi>?見石經/智/虧義/雲章/華王存乂切韻</hi>
+　　　　　　　　　　　　　　　　　　　　　　　?　凡?之?皆??<lb/>
+<hi>稽見尚書?孫強集字</hi>
+<pb n="9b"/>
+　　　　　　　　　　喜　凡喜之?皆?喜<lb/>
+<hi>艱見石經/赩喜/力切/喜義雲章</hi>
+　　　　　　　　　　壴<hi>竹句切</hi>凡壴之?皆?壴<lb/>
+<hi>鼜音戚古周易</hi>
+　　　　　　　　　　　鼓　凡鼓之?皆?鼓<lb/>
+<hi>鼓義雲章上同演說文</hi>
+　　　　　　　　　　豈<hi>他?切</hi>凡豈之?皆?豈<lb/>
+<hi>愷古孝經/幾碧落文</hi>
+<pb n="10a"/>
+　　　　　　　　　　　豆　凡豆之?皆?豆<lb/>
+<hi>登見古?雅</hi>
+　　　　　　　　　　豊<hi>了弟切</hi>凡豊之?皆?豊<lb/>
+　　　　　　　　　　　豐<hi>芳公切</hi>凡豐之?皆?豐<lb/>
+<hi>豐古周易/豐義雲章</hi>
+　　　　　　　　　　?　凡?之?皆??<lb/>
+　　　　　　　　　　虍　凡虍之?皆?虍<lb/>
+<hi>虐古論語/<graphic n="KR1607" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1607.png" mimeType="image/png"/>古樂章</hi>
+<pb n="10b"/>
+　　　　　　　　　　　　　　　　　　　　　虎　凡虎之?皆?虎<lb/>
+<hi>虎見說文虎義雲切韻</hi>
+　　　　　　　　　　　　　　　　　　　　　虤　凡虤之?皆?虤<lb/>
+　　　　　　　　　　　　　　　　　　　　　　血　凡血之?皆?血<lb/>
+<hi>蠲盍/?/餔/智天台碑文</hi>
+　　　　　　　　　　　　　　　　　　　　　　　皿　凡　皿之?皆?皿<lb/>
+<hi>沖見古老子/子詞切/出古?志益林罕集字</hi>
+　　　　　　　　　　　　　　　　　　　　　　?　凡　?之?皆??<lb/>
+<pb n="11a"/>
+　　　　　　　　　　去　凡去之?皆?去<lb/>
+<hi>朅見古詩/?出義雲章</hi>
+　　　　　　　　　　?<hi>竹父切</hi>凡?之?皆??<lb/>
+　　　　　　　　　　丹　凡丹之?皆?丹<lb/>
+<hi>丹見說文/丹出義/雲/章/雘裴光?集綴</hi>
+　　　　　　　　　　青　凡青之?皆?青<lb/>
+<hi>青一?作此字</hi>
+　　　　　　　　　　井　凡井之?皆?井<lb/>
+<pb n="11b"/>
+<hi>?說文/壁出義雲切韻</hi>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　?　凡　?之?皆??<lb/>
+　　　　　　　　　　　　　　　　　　　　　　　　　　鬯　凡鬯　之?皆?鬯<lb/>
+<hi>秬古?雅秬郭顯卿字指</hi>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　食　凡食之?皆?食<lb/>
+<hi>饑上同/粒/餉並出/尚書/飽出?文饐史書/上同/襗/蝕/飯並義雲章飽亦飫/饇裴光/?集綴/饡/餉饋</hi>
+<pb n="12a"/>
+<pb n="13a"/>
+<pb n="14a"/>
+<hi>?義雲切韻</hi>
+　　　　　　　　　　　　　　　　　　　　?<hi>坰</hi>凡?之?皆?　?<lb/>
+<hi>坰見說文/而出王庶子碑</hi>
+　　　　　　　　　　　　　　　　　　　　郭　凡　之?皆?<lb/>
+<hi>決出李彤字略/域?碧/落文/郭出鳳栖記</hi>
+　　　　　　　　　　　　　　　　　　　京　凡京之?皆?京<lb/>
+<hi>京出王庶子碑/掠/上同並出/義雲切韻/風出碧落文</hi>
+　　　　　　　　　　　　　　　　　　　?　凡?之?皆??<lb/>
+<pb n="14b"/>
+<pb n="14b"/>
+<hi>嗇見說文/牆出義雲切韻</hi>
+　　　　　　　　　來　凡來之?皆?來<lb/>
+<hi>來上同並出/義雲切韻/釐力之切出郭顯卿字旨</hi>
+　　　　　　　　　麥　凡麥之?皆?麥<lb/>
+<hi>闕麥出義雲切韻</hi>
+　　　　　　　　　舛<hi>充絹切</hi>凡舛之?皆?舛<lb/>
+<hi>見尚書</hi>凡　之?皆?<lb/>
+<hi>葟出李尚隱集字</hi>
+<pb n="15a"/>
+　　　　韋凡韋之?皆?韋<lb/>
+<hi>韣之欲切/闕/弟古/孝經/昆古論語</hi>
+　　　　?凡?之?皆??<lb/>
+<hi>姑見石經</hi>
+　　　　久凡久之?皆?久<lb/>
+<hi>久出碧落文</hi>
+　　　　桀凡桀之?皆?桀<lb/>
+<hi>闕乘出朱育字略</hi>
+<pb n="15b"/>
+　　　　　　兮　凡兮之?皆?兮<lb/>
+汗簡卷上之二第二<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

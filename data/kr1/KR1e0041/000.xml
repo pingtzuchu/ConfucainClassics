@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>左氏博議</head>
+    <p>
+<pb n="1a"/>
+欽定四庫全書　　　　經部五<lb/>
+　左氏博議　　　　　　春秋類<lb/>
+　　提要<lb/>
+　　　　<hi>臣</hi>等謹案左氏博議二十五?宋?祖謙撰<lb/>
+　　　　祖謙有東萊書?已?著?是書相傳祖謙<lb/>
+　　　　新娶一月之?所成今考自序稱屏處東陽<lb/>
+　　　　之武川居半?里中稍稍披蓬藋從予?談<lb/>
+　　　　餘語隙波及課試之文乃取左氏書理亂得<lb/>
+<pb n="1b"/>
+　　　　失之?疏其?於下旬儲月積浸就篇帙又<lb/>
+　　　　考祖謙年譜其初娶韓元吉女乃紹興二十<lb/>
+　　　　七年在信州不在東陽後乾道三年五月持<lb/>
+　　　　母喪居明招山學子有來講習者四年已成<lb/>
+　　　　左氏博議五年二月除母服五月乃繼娶韓<lb/>
+　　　　氏女弟則是書之成寔在喪制之中安有新<lb/>
+　　　　娶之事流俗所傳誤也書凡一百六十八篇<lb/>
+　　　　通考載作二十卷與此本不同?此本?題<lb/>
+<pb n="2a"/>
+　　　　之下附載左氏傳文中間?引典故亦?注<lb/>
+　　　　釋故析為二十五卷其注不知何人作觀其<lb/>
+　　　　標題板式?麻沙所?考宋史藝文志有祖<lb/>
+　　　　謙門人張成招標注左氏博議綱目一卷疑<lb/>
+　　　　當時書肆以成招標注散入各篇也楊士?<lb/>
+　　　　稱?有一本十五卷題曰精選?虞稷稱明<lb/>
+　　　　正?中有二十卷?本今皆未見坊間所鬻<lb/>
+　　　　之本僅十二?非惟篇目不完併字句亦多<lb/>
+<pb n="2b"/>
+　　　　妄削世久不見全書此本有董其昌名字二<lb/>
+　　　　印又有朱?尊收藏印亦舊帙之可?者矣<lb/>
+　　　　乾隆四十三年九月恭校上<lb/>
+　　　　　　　總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<lb/>
+　　　　　　　　總　校　官　<hi>臣</hi>　陸　費　墀<lb/>
+<pb n="3a"/>
+左氏博議原序<lb/>
+左氏博議者為諸生課試之作也始予屏處東陽之武<lb/>
+川仰林俯壑出?而望目盡無來人居半?里中稍稍<lb/>
+披蓬藋從予?談餘語隙波及課試之文予思有以佐<lb/>
+其筆端乃取左氏書理亂得失之蹟?其說於下旬儲<lb/>
+月積浸就編帙諸生?時休沐必抄寘楮中解其歸裝<lb/>
+無虛者並舍?黨復從而廣之曼衍四出漫不可?客<lb/>
+或咎予之易其言予徐應之曰子亦聞鄉?之求醫者<lb/>
+<pb n="3b"/>
+乎深痼?疾人所羞道而諱稱者揭之大塗惟恐行者<lb/>
+不閱閱者不播彼豈<graphic n="KR0804" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0804.png" mimeType="image/png"/>然忘?哉德欲蓄而病欲彰也<lb/>
+予離?而索居有年矣過而莫予輔也跌而莫予挽也<lb/>
+心術之差見聞之誤而莫予正也幸因是書而胸中所<lb/>
+存所操所識所習毫愆髮謬隨筆呈露舉無留藏又幸<lb/>
+而假課試以為媒借逢掖以為郵?致於諸公長者之<lb/>
+側或矜而鐫或?而?或侮而譙一語聞則一病瘳其<lb/>
+獲不既豐矣乎傳愈博病愈白益愈?於予也奚損遂<lb/>
+<pb n="4a"/>
+次第其語以諗觀者凡春秋經??不敢僣論而枝辭<lb/>
+贅喻則舉子所以資課試者也東萊?祖謙伯恭序<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

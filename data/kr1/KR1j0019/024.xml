@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>大霓繞斗星而生?帝顓頊母感?光賁月而生顓頊也?意息正反/神農居姜水因以?姓從女羊?九?反/?帝居姬水因水?/姓從女臣?居而反/?帝之後伯?姓也后稷妃家從女吉?臣鍇曰春秋左傳姞吉人也后稷之元妃也伯鯈南燕伯也巨乙反/帝少?之姓也從女羸省?以征氏虞舜居姚?因以?姓從女兆?或以?姚嬈也史篇以?姚易也延朝反/人姓也從女然?年霓反/虞舜居?汭因以為/姓從女為?俱為反/祝融之後姓也從女云?羽文反?文妘從/殷諸侯為亂疑姓也從女先?春秋傳曰?有姺邳思典反也從女田??書曰無有作<graphic n="KR2315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2315.png" mimeType="image/png"/>吼號反/人姓也從女其?杜林說娸醜也或曰讀若近遣之反<pb n="1b"/>少女也?女乇?張迓反/謀也謀合二姓從/女某?莫堆反/酌也斟酌二姓也從女勺?臣鍇按毛詩注曰媒妁之言是也實削反/女適人從女/家?干乍反/取婦也從女取?七駐反/婦家也從女昏禮娶婦以昏/時婦人?故曰婚喧盆反/?文婚如此?家也女之所因故曰姻從女因?伊倫反/?文姻/從<graphic n="KR1570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1570.png" mimeType="image/png"/>/婦與巳齊者也/從女從<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>從又又持事妻職也<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>?七低反臣次/立按徐鉉曰<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>進也齊之義也/古文妻從/女古文?字服也從女持帚灑掃也臣鍇曰自此以上通論詳矣符九反/匹也從女巳?芳非反妃也從女?匹計反/孕也從女壬壬/亦?而沈反/女妊身動也/從女春<pb n="2a"/>秋傳曰后緡方娠一曰官婢女?曰娠章信反/婦人妊身也從女芻?周書曰至媰婦臣鍇曰今尚書曰至于?婦側秀反/生子齊均也從女/?讀若幡符販反臣次立按說文曰從女從生免?婗也從女??幽雞反/嫛婗也從女兒?一曰婦??/臣鍇曰嫛婗嬰兒?也擬西反/牧也從女象懷子形一曰象乳臣鍇曰通論詳矣莫厚反/母也從女區/?迓注反/母老偁也從女??讀若?武威有?闈縣晏考反/嫗也?女句?臣鍇曰史/記?娥姁?后也?成反/蜀人謂母曰姐淮南謂之社從女且?讀若左即瓦反/夫母也從女/古?古呼反/姑也從女戌?律曰婦告威姑臣鍇曰借為威權也迂歸反臣次立按說文曰從女從戍徐鍇曰土盛于戍土?之主也故從戍</hi>
+<pb n="2b"/>
+<pb n="2b"/>
+<hi>神潢?捋反/女?也從女奚?臣鍇按周/禮曰奚八人借奚字賢迷反/女之卑者從女卑卑亦?臣鍇曰?意頻旨反/婦官也從女/弋?以即反/奴婢皆古?人從女又?周禮曰其奴男人于??女人于春??都反臣次立曰又非?按徐鉉云又手也持事者也當云從反/古文奴?人甘氏星經曰太白號上公妻曰女媊居南牛食厲天下祭之謂之明星從女前?臣鍇曰甘氏史記張耳傳所謂甘公太白?也故為上公妻山海經西王母司天之厲厲癘气也即然反/古之神聖女化萬物者也從女咼?古雖反/?文媧/從/帝高辛之妃?母號也從女戎?詩曰有娀方將臣鍇曰?氏春秋女娀高辛之妃?燕?所生契也昔中反/帝堯之女舜妻娥皇也從女我?秦?謂好曰</hi>
+<pb n="3a"/>
+<pb n="4a"/>
+<hi>也從女耳?然侍反/女之?也從女台?臣鍇按易曰有天地然後有萬物然後有夫婦有夫婦然後有上下人曰至哉坤元萬物資始坤母道也?意施起反/說也從女?/?容至反/媚也?女無?臣鍇曰相如上林賦曰嫵媚冉弱然柱反/色好也從女/??免鄙反/媚也從女畜?許郁反南楚之外謂好曰?/從女隋省?吐破反/好也從女朱/?尺朱反/?也?女子臣鍇曰子者男子之?稱也?意蒿老反/說也從女興/?香孕反/好也從女厭?于?反好也從女殳?詩曰?女其/<graphic n="KR2673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2673.png" mimeType="image/png"/>臣鍇曰今詩作妹尺朱反/好也從女交?臣鍇按史記曰秦後有長姣?人根卵反/好也從女/?讀若蜀郡布名臣鍇曰此今人所書娟字也于旋反<pb n="4b"/>好也從女??吐祋反/目裏好也從女/苖?夢梢反/?好也從女畫?麾獲反體德好也從女官?讀若楚卻宛宛桓反/長好也從女/巠?擬鏗反/白好也?女??或曰不謹也箭鴈反/順也從女<graphic n="KR1798" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1798.png" mimeType="image/png"/>?詩曰/婉兮<graphic n="KR3640" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3640.png" mimeType="image/png"/>兮蔞遣反/?文<graphic n="KR3640" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3640.png" mimeType="image/png"/>/如此/順也從女宛?春秋傳太子痤婉蔚?反/婉也從女夗/?迓券反/項直?也從女同?它奉反長?也從女焉?臣鍇曰漢有韓嫣倚?反/弱長?從女/??柔撿反/?也從女弱?臣鍇按楚辭曰嫋兮秋風禰了反/?細也從女/韱?先?反/嬰嫇也從女冥?一曰嫇嫇小人?民甹反/曲肩行?從女/?延朝反/材緊也從女??春秋傳曰嬛嫁在疚臣<pb n="5a"/>鍇曰張衡賦所謂嬛材也虛全反/閑体行<graphic n="KR1773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1773.png" mimeType="image/png"/>
+                        <graphic n="KR1773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1773.png" mimeType="image/png"/>也從女危?臣鍇曰閑體體閑放也丑果反
+                        <graphic n="KR1773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1773.png" mimeType="image/png"/>也從女果?一曰果敢也一曰女侍曰婐讀若/騧一曰若委孟軻曰舜?天子二女婐烏禍反/委隨也?女禾?臣鍇按春秋左傳曰女子從人者也?累反臣次立曰禾菲?按徐鉉曰委曲也敢禾榖垂穗委而之?當云?禾/婐<graphic n="KR1773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1773.png" mimeType="image/png"/>也一曰弱也從女??/臣鍇曰?音一果反奴埵反/小弱也從女占?一曰女輕薄善走讀若占一曰多技藝齒摺反/妗也從女沾/?敕淹反/妗也從女今?一曰善笑?處占反/竦身也從女簋?讀若/詩曰糾糾葛履巳少反/竦立也從女??一曰有才讀若韭菁臣鍇按劉向列女傳齊有女婧此併反/?也從女并/?從性反/婦人?從女乏<pb n="5b"/>?匹之反/好女也從女/旋?旋延反/材也從女齊/?子泥反/?醜也從/女<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>??刮反/直好?從女翟?/一曰嬈也徒了反/媞也從女??讀若癸秦/?謂細要曰蚪葵反諦也?女是?一曰研黠也一曰江淮之間謂母曰媞善?反/不繇也從女??勿赴反雅也從女閒?臣鍇曰謂閑雅逶迤若女子也候艱反/說樂也從女??臣鍇按春秋左傳鄭有公子媐軒其反/樂也從女吳/?元于反/也從女矣?一曰卑賤名也過在反樂也從女甚?/貪反/順也從女尾?/讀若媚亡斐反/孎也從女啻?顛狄反謹也從如??讀若人不孫為不孎輟蜀反/宴<graphic n="KR4020" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4020.png" mimeType="image/png"/>也從女/冤?迂眷反/女有心媕</hi>
+<pb n="6a"/>
+<pb n="7a"/>
+<hi>市也婆婆先多反/耦也從女有?/讀若佑延救反/姷或/從人/鈞適也謂男女併也從女旬?讀若旬堅鄰反/婦人小物也從女此?/詩曰屢舞??即?反/婦人小物也從女??讀若跋行臣鍇曰物猶言人物也強倚反/頸飾也?女賏賏其連也臣鍇曰?意又女曰嬰通論詳矣伊貞反/三女?/?也?女/?臣鍇按國語人三/??女三??物也今借粲字七?反?女也人所欲援也從女爰?詩曰邦之媛兮臣鍇曰援援助也王化之基始于?德也干?反問也從女專?扁令反/隨從也從女/??劣束反/飾也從女?省?臣鍇曰今俗作粧側羊反/慕也從女<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>/?蔞遣反/?也從女?/?和列反/媟?也從女賣<pb n="7b"/>?陀谷反/短?也從女/?詄貀反/便辟也愛也從女辟?臣鍇按春秋左傳云嬖人之子也辟桂反/難也從女毄/?起賣反/妒也從女介/?恒艾反/婦妒夫也?女??得兔反/夫妒婦也從女胃?讀若胞一曰梅目相視也臣鍇按史記曰妒媦生患莫號反巧也詩曰桃之<graphic n="KR3070" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3070.png" mimeType="image/png"/>
+                        <graphic n="KR3070" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3070.png" mimeType="image/png"/>女子笑?從女/芺?臣鍇曰少而速壯也殷喬反/巧??材也?女仁?年徑反臣次立曰仁非?按說文曰從信省徐鉉曰女子之信近于佞也/小心態也從女熒省?恩行反婟也從女翏??到反/嫪也?女固/?渾素反/態也從女次?子私反驕也從女??臣鍇按嵇康詩曰母兄鞠育有慈無威恃受肆?不訓不師借姐字也即絮反<pb n="8a"/>害也?女方臣鍇曰若女之性相妨也弗?反/亂也從女亡/?聞誰反/巧黠也從女俞?臣鍇按春秋左傳趙孟??媮甚矣忒婁反/鹵貪也從女/??渾素反/小小侵也從女肖?息約反/量也?女?/??果反/動也?女由?臣鍇曰詩曰憂心且妯甲溺反不平于心也從女兼?一曰疑也臣鍇曰女子多嫌疑賢兼反/?也從女省?臣鍇按?之推家訓作此[女*省]字息永反/不順也?女若?春/秋有叔孫婼?芍反/狠也一曰見親從女幸?楚詞曰鯀嬌直賢頂反/昜使怒也從女敝?/讀若?擊/劣反/好枝格人語也一曰靳也?女善?方闡反/疾悍也從女??/讀若唾誅/反/含怒也一曰難知也?女酓?詩曰碩大且?<pb n="8b"/>臣鍇曰今詩云碩大且儼此當云讀若也丑感反/媕?也從女/阿??何反/技也一曰不省?事也?女??一曰難侵讀若研一曰慧也一曰安也禦堅反/圜深目?也?女圭?或曰?楚之間謂好娃臣鍇曰吳有館娃?娃?深意也思崖反/不<graphic n="KR0945" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0945.png" mimeType="image/png"/>前?/?女陜?臣鍇曰乍進乍退無姿製也收儼反/鼻目間克?女夬?讀/若煙火蚗炔縈節反/愚戇多態也從女巂?讀若隓式垂反不??也從女/恚?于?反/怒?也從女/??亨勒反/輕也從女成?于厥反輕也從女?/?片祅反/訬疾也從女/垔?古多反/女人自稱姎我也從女央?晏亢反/不說?恣也後/女韋?字歸反/如?姿也一曰醜也從女惟?翾惟反<pb n="9a"/>有守也從女弦?形先反/輕?也從女/扁?僻連反/悔昜也從女/曼?謀患反/疾言失次也從女臿?讀若懾丑輒反/弱也一曰不妻也/?女需?四于反/不肖也從女否?讀若竹皮箬浦吼反/?鈍也?女臺?闒/嬯亦如此田咍反/下志貪頑也?女覃?讀若深乃簟反/婪也從女參/?此嗿反/貪也?女林?杜林說卜者黨相許驗為婪讀若譚臣鍇田女性多貪婁參反/懈怠也從女??一曰?食/臣鍇曰女性多怠也勒但反/空也從母中女婁空之意也一曰婁務愚也臣鍇曰毋一作毋皆無也口中空也女心無事者也務婁愚故?女勒?反?文婁?人中女曰?/古文婁/如此/??也?女/折?許列反/得志??也從</hi>
+<pb n="9b"/>
+<pb n="9b"/>
+<hi>除也從女并?漢律曰齊人與妻婢姦曰姘披彭反/犯?從女干干亦?臣鍇曰春秋左傳曰臣奸旗鼓奸不以犯道也骨安反/婦人?見也從女半?漢律曰見姅變不得侍祠晡漫反女出病也從女廷?笛頲反/女病也從女/卓?獰教反/諉也從女?竹至反有所恨痛也從女省?今汝南人有所恨言大/?臣鍇曰事過而好恨痛者婦人之性也奴道反/?也從女鬼?臣鍇曰易?媿女子也短遂反/媿或從/恥省/訟也從二/女女還反/私也從三女箇山反/古文姦/從旱心/?也?女??苦間切</hi>
+　　　文二百五十八　重十四<lb/>
+<pb n="10a"/>
+<pb n="11a"/>
+<hi>右戾也象左引之形凡?之?皆從?臣鍇曰其為文舉首而申體也夭字從此依必反芟艸也從相交臣鍇/曰象刈草之刀形偶喙反/乂或/從刀/撟也從韋省從臣鍇曰弗者違也分勿反/左戾從反/讀與弗同皮?反</hi>
+　　　文四　重　一<lb/>
+<hi>抴也明也象抴引之形凡<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>之?皆從<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>虒字從/此臣鍇曰?物形象<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>而不舉首也延世反?也象折木銳?著形<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>象物挂之也/臣鍇按爾雅?謂之?弋也以即反</hi>
+　　　文二<lb/>
+<pb n="11b"/>
+<pb n="11b"/>
+<pb n="11b"/>
+<hi>上諱擊也臣鍇曰後漢孝和帝名也當言始也故從戈??池沼反/兵也從戈古文甲字臣鍇曰?意如融反/周制侍臣執戣立于東垂/兵也從戈癸?揆推反/盾也從戈旱?侯玩反有枝兵也從戈??周/禮?長丈六尺巳逆反/?也從戈百讀若棘根察反販也從戈則?臣鍇曰販猶害也殘忒反/守?也從人持戈臣/鍇曰會意失格反/?也從戈單?正?反/三軍之偏也一曰兵也從戈虞?/臣鍇曰史記所謂戲下也忻智反/利也一曰剔也從戈呈?臣鍇曰山海經有氏國/不續不耕服也不稼不穡食也亭結反/邦也從口戈以守一一地也臣鍇曰口音圍此?意于抑反/或或/從土/?也從戈雀/?情鐵反/殺也<pb n="12a"/>從戈今??書曰西伯既黎/臣鍇曰爾雅堪殺也慳南反/槍也他國臣來?君曰戕從戈爿?臣鍇按春秋左傳邾人戕鄫子賤忘反/殺也從戈翏/?栗菊反/刺也從戈甚?臣鍇曰今以此為<graphic n="KR2617" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2617.png" mimeType="image/png"/>也/慳南反/長槍也從戈寅?春/秋傳有擣戭異展反/傷也從戈才?臣鍇曰哉?裁載?之類字從此走該反/滅也從戈??詩曰/實始?商子善反/?也從?持戈一曰田器古文讀若咸一曰讀若詩云??女手臣鍇曰從二人也?意韱從此精?反/楚?王曰夫武定功戢兵故止戈為武文甫反/藏兵也從戈咠?詩/曰載戢干戈臻邑反/闕職從此古職字古之職役皆執于戈臣鍇曰闕者不知所以從音也章直反/賊也從二戈周書曰戔戔巧言臣鍇曰兵多則殘也?意自閑<pb n="12b"/>反</hi>
+　　　文二十六　重　一<lb/>
+<hi>大斧也從戈?司馬法曰夏執玄戊殷執白戚周/左杖?戉右記白旄凡戉之?皆從戉臣鍇曰音厥今作鉞鉞音劌于厥反戉也從戉??千益反</hi>
+　　　文　二<lb/>
+<hi>施身自謂也或說我頃頓也從戈古文垂也一曰古文殺字凡我之?皆從我臣鍇曰所以從戈者<pb n="13a"/>取戈自持也或說則為傾側之俄故云垂也?左反古文我/已之威儀也從我從羊臣/鍇曰通論詳矣魚智反/墨翟書義從弗魏郡有羛陽鄉讀若錡今?鄴本丙?北二十里?也</hi>
+　　　文三　重　一<lb/>
+<hi>?逆者謂之?象形凡?之?皆從?讀若臣鍇曰鉤喙之曲芒今曰逆?從此翟月反鉤識也從反?讀若?臣鍇曰?柄之表識戉從此俱越反</hi>
+　　　文　二<lb/>
+<pb n="13b"/>
+<hi>禁也神農所作洞越練朱五弦周加二弦象形也凡?之?皆從?臣鍇曰君子所以自禁制也越竅也巨今反古文?從金/庖?所作弦樂也從?必?臣鍇曰弘廣也?扎觀樂曰聖人之弘也史記?帝使素女鼓五十弦??帝悲乃分之為二十五弦然則五十弦庖?所為也師訖反/古文瑟</hi>
+　　　文　二　重　二<lb/>
+<hi>匿也象<graphic n="KR3222" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3222.png" mimeType="image/png"/>曲?蔽形凡/之/?皆從讀若?依謹反正見也從十目臣鍇曰/隱也今十目所見是直也春秋左傳曰叔向古之遺直也?意陳力反<pb n="14a"/>古文直或從木如此</hi>
+　　　文　二　重　一<lb/>
+<hi>逃也從入凡?之?皆從?臣鍇曰<graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>音隱魯昭公逃于齊稱?人也?意勿強反止也一曰?也從?一一有所礙也臣鍇曰出?得一則止暫止也指事愁亞反/??在外望其還也從?望省?臣鍇曰望音望聞誑反/?字無通于?者虛無道也王育說天屈西北為?臣鍇曰?者??也無者對有之稱自有而無?謂萬物之始未始有有始也道者蒙帝之先道者始?之為也實無也無則不容立言故強名之曰道強者非得意而樂受之言欲明其趣故強引而名之以為立言之本夫天地之?天</hi>
+<pb n="14b"/>
+<pb n="14b"/>
+<pb n="14b"/>
+<hi>籀文?/木工也從匚斤斤/所作器也自障反/椷藏也從匚夾?輕帖反?或從竹/飯器也筥也從?/?/臣鍇曰/音皇區昌反/匡或/從竹/盝米籔也從匚算?臣鍇曰藪水中盝米竹器也蘇纂反/小杯也從匚/贛?<graphic n="KR2790" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2790.png" mimeType="image/png"/>控反/?或/從木/如篋從匚非?逸周書曰實玄?于匪斧尾反/古器也從匚/倉?竊陽反/田器也從匚攸?笛遼反田器也從匚異?以即反/古器也從匚/?臣/鍇曰/音忽呼兀反/甌?器也從匚俞?持婁反/匣也從匚?/?求位反/匱也從匚甲/?侯甲反/匱也從匚賣??谷反/器也從匚淮/?苦罪反/棺也從匚木/??其?反/?文柩如此臣鍇曰</hi>
+<pb n="15a"/>
+<pb n="16a"/>
+<hi>古文甾/<graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>也古田器從甾疌?臣鍇按爾雅<graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>謂之疀注謂今俗?與此異楚貶反蒲器也?所以盛/種從甾并??忖反/忣也從甾井?杜林以為竹器揚雄以為蒲器讀若軿車頻丁反/甀也從甾虍?讀若盧同/臣鍇曰盧字從此論孤反/?文如此篆文</hi>
+　　　　文五　重　三<lb/>
+<hi>土器巳燒之?名象形也凡瓦之?皆從瓦臣鍇曰象乙乙交相任受也五寡反周家摶埴之工也從瓦方?讀若抸破之抸臣鍇曰摶團也埴黏土也周禮摶埴之工陶也?也陶人為<pb n="16b"/>甗?人為簋夫兩反/匋也從瓦垔?臣鍇/曰甄化之也居然反/屋棟也從瓦夢省?臣鍇曰所以承瓦也沒彭反/甗也從瓦?/?子孕反/籀文甑/從/甑也從瓦鬳?一曰穿也讀若言臣鍇曰春秋左傳紀公之甗擬件反/甌瓿謂之瓵從瓦台?臣鍇曰按史記寅之反大盆也從瓦尚?晏亢反/小盆也從瓦/區?殷婁反/<graphic n="KR1125" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1125.png" mimeType="image/png"/>也從瓦公?彎桐反似<graphic n="KR0902" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0902.png" mimeType="image/png"/>長頸受十升從/瓦工讀若翁侯降反/小盂也從瓦/夗?烏管反/甕也以瓶從瓦令?臣鍇曰史記云?屋之上建瓴水也連丁反/罌謂之?從瓦/卑?頻兮反/以小瓿大口而卑從瓦扁?辟?反/甂也從瓦?/?盆慕反/器也從瓦容/?與封反/瓴甋<pb n="17a"/>也從瓦?詩云中唐有甓/讀若檗臣鍇曰塼也萍覓反/井壁也從瓦/秋?側秀反/康瓠破罌也從瓦臬?臣鍇曰康之言倥也破則空也賈誼曰?康瓠魚滅反/甈或/從/磋垢瓦石也從瓦爽?臣鍇曰以碎瓦石?去瓶?垢山海經有玄磢又爽反/蹈瓦?也從瓦耎?零帖反治橐輪也從瓦今?侯貪反/碎也從瓦卒/?蘇?反/敗瓦也從瓦反??綰反</hi>
+　　　文二十五　重二<lb/>
+<hi>以近窮?也象形古者揮作弓周禮六弓王弓弧弓以?甲革甚質夾弓庾弓以?干侯鳥獸唐弓大弓以授學?者凡弓之?皆從弓臣鍇曰揮?帝臣也周禮弓?體多?體寡謂之?庾之?合五成?此弱弓也?<pb n="17b"/>體寡來体多謂之弓之?合九而成?強弓也?体?体若一謂之唐弓之?利射深合七而成?也堅終反畫弓也從弓<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>?臣鍇/曰所謂雕弓也淂昏反/弓無?可以解?紛者從弓耳?臣鍇曰?者綵纏飾之也春秋左傳右執鞭弭?侈反/弭或/從兒/角弓也雒陽名弩曰?從弓??火玄反木弓也?弓瓜?一曰?體寡?体多曰弧臣鍇曰昜曰弦木?弧魂徒反/弓反也從弓召?詩曰彤弓弨兮臣鍇曰弓弛強而体反也充招反/弓曲也從弓/瞿?衢?反/弓弩端弦所居也?弓區?可留反/弓便利也從弓/?讀若燒延朝反/施弓弦也從弓長?竹陽反弓急張也?弓矍?俱縳反/弓彊?/從弓/朋?普?反/弓有力也從弓??<pb n="18a"/>其央反/持弓關矢也?弓<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>?臣鍇曰春/秋左傳曰將注則又關矣烏關反/開弓也從弓??臣鍇曰?音?以矧反/滿弓有所?也?弓于?臣鍇曰山海經曰人有方?弓??蛇哀都反弓?也從弓?臣鍇/曰/?字也?明反/弓解也從弓也?臣鍇曰去弦也書爾反弛或從虒/弓衣也從弓??垂?與?同意臣鍇按春秋左傳曰中項伏弢偷?反弓有臂者從弓奴?周禮四弩夾弩庾弩唐弩大弩挼?反/張弩也從弓??臣鍇曰漢金吾彀騎騎執弓矢也弩待射而?亂又山海經曰非仁莫能上與/盪舟之/?/為主射之官居此官者不一也格漚反滿弩也從弓??讀若郭昆霍反/?也從弓畢?楚辭曰/夫焉彃曰也卑聿反<pb n="18b"/>行丸也從弓單?特丹反/或說彈從弓/打丸如此/帝嚳?官也夏少康?之從弓幵?論語曰善?/逆桂反/?發也從弓/癹?方伐切/弛弓也?弓璽?斯民切</hi>
+　　　　　文二　十　七　重三<lb/>
+<hi>彊也從二弓凡?之?皆從?闕其繈反輔也重也從???臣鍇曰西皮?反臣次立按說文引徐鍇云?舌也非?舌柔而?剛以柔從剛輔
+                        <graphic n="KR3190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3190.png" mimeType="image/png"/>之/意/古文<graphic n="KR3190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3190.png" mimeType="image/png"/>/如此/亦古/文<graphic n="KR3190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3190.png" mimeType="image/png"/>/<graphic n="KR3190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3190.png" mimeType="image/png"/>或如此</hi>
+　　　　　文二　重三<lb/>
+<pb n="19a"/>
+<hi>弓弦也從弓象絲軫之形凡弦之?皆從弦臣鍇曰軫重也形先反
+                        <graphic n="KR3190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3190.png" mimeType="image/png"/>戾也從弦省從盩盩引戾之也讀若/戾臣鍇按漢書用此為戾字婁惠反/急戾也從弦省少?于堯反/不成遂急戾也從弦省曷?讀若瘞葬于計反</hi>
+　　　　文四<lb/>
+<hi>繫也從系??凡系之?皆從系臣鍇曰?音曳異契反?文系從瓜絲/系或從/<graphic n="KR0795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0795.png" mimeType="image/png"/>處/子之子也從子系續也臣鍇曰?意素昆反??也從系帛名連反/從隨也從系?延朝反</hi>
+<pb n="19b"/>
+　　文四　重二<lb/>
+說文解字繫傳卷第二十四<lb/>
+<pb n="20a"/>
+<pb n="21a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

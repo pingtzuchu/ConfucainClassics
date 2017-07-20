@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>雨也?水蒙別作霥非<折 t="33"/>
+                        <graphic n="KR3013" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3013.png" mimeType="image/png"/>生衣也?酉?別作?非?多遽??也?心?別作?非倉紅切?斂足也??兇別作/非祖紅切文四<折 t="33"/>稯布之八十縷也?禾?別作?非<折 t="33"/>?種也?土?別作?非</hi>
+<pb n="1b"/>
+<pb n="1b"/>
+<pb n="1b"/>
+<hi>沖涌?也?水中別作?种?非直弓切腫血也?血?省或作膿別作?非奴冬切衝通道也?行童別作衝非昌容切襛衣厚??衣?別作穠非尼容切龍鱗蟲之長?肉飛之形童省別作龍?非力鍾切<pb n="2a"/>?兵耑也?金逢別作鋒非敷容切文四<折 t="33"/>?燧候表也?火逢別作烽非<折 t="33"/>?飛蟲螫人者??逢別作蜂非<折 t="33"/>使也?彳/夆別作非雝雝<graphic n="KR3893" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3893.png" mimeType="image/png"/>也?隹邕別作雍噰嗈?非於容切文三邕四方有水自邕城池者?川邑別作壅非<折 t="33"/>癰腫<pb n="2b"/>也??雝別作臃非?器也?瓦容別作非餘封切文三<折 t="33"/>墉城垣也?土庸別作?非<折 t="33"/>猛獸也?豸庸別作?非邛地名也?邑工別作笻非渠容切逢遇也???省別作逄非符容切又?江切<pb n="3a"/>鏦矛也?金從或作?別作非七恭切又楚江切杠石橋也?木工別作矼非古雙切腔肉空也?肉空?作?非苦江切雙隹二枚也?雔又持之作雙?非所江切邦國也?邑丰別作邦非博江切<pb n="3b"/>?在屋曰?或作窗??作?非楚江切橦帳極也?木童別作幢俗宅江切胑體四胑也?肉只或作肢別作?非章移切?司人也?見它別作?非式支切文四?也??也別作<graphic n="KR4256" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4256.png" mimeType="image/png"/>??非<折 t="33"/>?粗緒也?糸璽別作絁<pb n="4a"/>非<折 t="33"/>鉈短矛也?金它別作/??非又食遮切?竹器也?竹麗別作篩非所宜切斯析也?斤其別作廝??非息移切
+                        <graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>不相值也?左<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>別作差?匕非又楚?切文二
+                        <graphic n="KR1686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1686.png" mimeType="image/png"/>齒參<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>也?/齒<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>別作非</hi>
+<pb n="4b"/>
+<pb n="4b"/>
+<hi>周行也?网米或作<折 t="33"/>同武移切別作?音深?突也文二?久長也?長爾別作彌非鬻鍵也??米武悲切今別作粥音之六切以鬻音余六切訓賣也別以麋??麋字?麋鹿屬也糜糝也?米麻別作<graphic n="KR2730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2730.png" mimeType="image/png"/>/?非靡為切文二<折 t="33"/>
+                        <graphic n="KR1265" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1265.png" mimeType="image/png"/>穄<pb n="5a"/>也?黍麻別作麇非跂足多指也?足支別作歧非巨移切隓敗城<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>
+                        <折 t="33"/>或/作<graphic n="KR2330" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2330.png" mimeType="image/png"/>別作墮非許規切規有法度也?夫見別作?槼?非均窺切文二巂周燕也?隹<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>?別作雉鳺?非又?圭切<pb n="5b"/>窺小視也?穴規別作?非去隓切踦一足也?<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>?又旅寓也別作羇非去?切齍黍稷在器以祀者?皿齊別作璾非即夷切旌旗指<折 t="33"/>也?手靡別作麾非許?切虧气損也???或作虧別作虧非去為切<pb n="6a"/>葰?屬?艸俊別作荽荾?非息遺切墀涂地也?土犀別作非直尼切尼從後近之?尸匕別作非女夷切
+                        <graphic n="KR3393" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3393.png" mimeType="image/png"/>
+                        <折 t="33"/>也?隹氐別/作非處脂切胝腄也?肉氐別作???非張尼切<pb n="6b"/>鬌髮隋也?髟隋省別作非直追切纍綴得理也一曰大索?糸畾別作縲非力追切文二欙山行所?者?木纍別作樏非夔神魖如龍一足??象形?作非渠追切文二戣周禮侍臣執戣?戈癸別作?非</hi>
+<pb n="7a"/>
+<pb n="8a"/>
+<hi>欹持去也?支奇別作欹非去奇切齝吐而?也?齒台別作非丑之切?耒耑也?木台別作/非盈之切文三<折 t="33"/>飴米煎也別作?<graphic n="KR0961" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0961.png" mimeType="image/png"/>?非<折 t="33"/>詒相欺詒一曰遺也別作貽俗醫治病工也?惡姿也一曰病聲?酉酒所以治病也別作毉?巫</hi>
+<pb n="8b"/>
+<pb n="8b"/>
+<hi>束也?<graphic n="KR3182" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3182.png" mimeType="image/png"/>韋俗作?束非于非切
+                        <graphic n="KR2304" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2304.png" mimeType="image/png"/>以血有所刉祭也別作禨非渠稀切?大丘也?丘虍別作墟非丘如切又朽居切岨石山戴土也?山且別作砠非七余切文二<折 t="33"/>?蠅乳肉中也?肉且別作蛆非<pb n="9a"/>?王?也?鳥且別作睢非鉏立薅所用也?金且別作鋤非七魚切豬豕也?豕者又水所停者別作?瀦?非陟魚切?通也??<折 t="33"/>別作?非所菹切摴舒也又摴蒲戲也?手雩別作攄非丑居切文二<pb n="9b"/>?木也<折 t="33"/>一曰惡木也?木虖今作?乎化切與檴同以其皮裹松脂者?布也?寸甫別作?非芳無切文二<折 t="33"/>左扶風縣也?邑麃作鄜非余語之舒也?八舍省以諸成遮二切別作予非文二輿車也?車舁?作轝非<pb n="10a"/>?舒鳧鶩也?鳥几俗作??几非房無切臞少肉也俗肉瞿俗作?非其居切文七<折 t="33"/>鴝鵒也?鳥句別作?非<折 t="33"/>躍行??足瞿別作?非?夭寒足??<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>句別作跼非<折 t="33"/>??屬也?金瞿別作瞿非<折 t="33"/>斪斫也?斤/句別作非<pb n="10b"/>走顧??走瞿別作?非柎?足也?木付別作跗趺?非甫無切吁驚也?口于又冕也殷曰吁別作/<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>?非?于切須面毛也<折 t="33"/>?頁?借?所須字別作/鬚非相俞切又作須荒?切與沬同芻刈艸也象包束艸之形別作?並非?俞切</hi>
+<pb n="11a"/>
+<pb n="12a"/>
+<hi>?茗此即今之茶字鑪方鑪也?金盧別作爐非洛乎切也?黍古或作?別作糊?非?吳切烏考鳥也象形別作嗚非哀都切麤行超?也?三鹿此非精粗字別作?非倉胡切文三<pb n="12b"/>粗?也?米且別作麆觕?非又徂古切穌把取<折 t="33"/>禾器也?禾魚一曰/死而更生別作甦非素孤切利也?金<折 t="33"/>別/作非徂奚切氐至也?氏下一一地也一曰下也都兮切又丁禮切/別作低非古文二隄塘也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>是俗用堤非堤音丁禮切滯也</hi>
+<pb n="13a"/>
+<pb n="14a"/>
+<hi>谿山瀆無所通者?谷奚別作溪非苦兮切麑狻麑也?鹿兒別作猊非五雞切
+                        <graphic n="KR1290" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1290.png" mimeType="image/png"/>反手擊也?手別作批非匹齊切
+                        <graphic n="KR2666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2666.png" mimeType="image/png"/>牢也所以拘非也?非陛/省別作狴?非?兮切非聲也?言斯省別作嘶非先稽切</hi>
+<pb n="14b"/>
+<pb n="14b"/>
+<hi>咼口戾不正也?口?別作喎?非苦媧切柴小木?材?木此師行野次豎木?區落名曰柴蘺後人語?轉入去聲別作寨者非士皆切階陛也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>皆別作?非古諧切椑<折 t="33"/>籍也?木卑別作牌非部皆切/又?迷切圜榼也?<graphic n="KR2026" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2026.png" mimeType="image/png"/>切親身棺也<pb n="15a"/>????也薶瘞也?艸貍別作埋非莫皆切回轉也?口中象回轉之形別作徊??非?恢切文二?腹中長蟲也?虫有別作蛔非灰死火餘<折 t="33"/>也?火又別作灰?厂非呼恢切</hi>
+<pb n="15b"/>
+<pb n="15b"/>
+<hi>?婦孕一月也?肉不別作胚非朘赤子?也?肉?或?血別作非子回切曲?也?頁不別作????非蒲枚切臺觀四方而?者?至?之?高省別作?非徒哀切文二?水衣也?艸治別作苔非<pb n="16a"/>思容也又頷也?囟?心別作腮???非穌?切又息玆切?僊人變形而登天也?匕?目?<graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>八所?載也別作真非側鄰切謓恚也?言?昌意切別作嗔非嗔他年切水渡也?水<graphic n="KR2638" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2638.png" mimeType="image/png"/>別/作津俗將鄰切文二<折 t="33"/>璉石之似玉者?玉進別作?非<pb n="16b"/>瀕水?人所?附頻戚不前而止?頁??作?非符?切文三?大萍也?艸賓別作蘋非<折 t="33"/>玭珠也?玉比或作別作非份文質倫也?人分古文作彬別作斌以文配武過??淺又作贇音頵亦於義無取悲申切</hi>
+<pb n="17a"/>
+<pb n="18a"/>
+<pb n="19a"/>
+<hi>筋肉之力也?力?肉?竹別作?非居銀切?犬吠聲?犬斤別作狺非語巾切麇?也?鹿囷省籀文不省別作?非居筠切文錯畫也象交文別作紋非無分切文二<折 t="33"/>低目視也又?名?<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>門/別作閿?非<pb n="19b"/>
+                        <graphic n="KR1846" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1846.png" mimeType="image/png"/>除田間薉也?耒員或/作別作耘俗羽文切?馬尾飾也?糸每別作繁俗附袁切文二<折 t="33"/>?燒田也?火?別作焚非又符分切壎樂器也以土?之六孔?土熏別作塤非況袁切文三煖?也?火爰別作暄非<折 t="33"/>?驚呼也</hi>
+<pb n="20a"/>
+<pb n="21a"/>
+<hi>?<折 t="33"/>也?巾軍或作褌/別作?非古渾切文二<折 t="33"/>?蟲之總名?二虫別作?非炮肉也以微火?肉?火衣作?非烏痕切奔走也?夭賁省別作?非博昆切豚小豕也?彖省象形?又持肉或作豚同別作?非徒魂切文二<pb n="21b"/>髀也?尸下丌几或作脽?同別作?非奠酒器也?酉廾以奉之或?寸俗?尊卑之尊別作?撙?非祖昆切?地名也?邑屯別作村非此尊切怒也詆也大也勉也又一成?敦立江東呼地高堆?別作?<pb n="22a"/>非都昆切虋赤苗嘉榖也?艸釁?作<graphic n="KR1666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1666.png" mimeType="image/png"/>非莫奔切豻胡地野犬名?豸干或作犴別作?犴?非河干切乾出上也?乙??別作?漧?非古寒渠焉二切單大也??卑?聲卑闕都寒切又上演切別作非<pb n="22b"/>闌門遮也?門柬別作欄攔?非洛干切?屋大也??莧別作??非苦官切冠絭也弁冕之?名???元?寸別作冠非古丸切攢積竹杖<折 t="33"/>也?木贊別/作??手非才官切文二<折 t="33"/>菆麻烝也一曰蓐也?艸取案周禮?塗菆字別用?非又側鳩切<pb n="23a"/>彎持弓關矢也?弓<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>別作灣非烏關切鍰鋝也?金爰虞書曰?百鍰別作鐶非胡關切文二環璧也玉好若一謂之環別作鐶非?駁文也?文?今用班?與刀分瑞玉也別作斑非逋還切髮??髟?別作鬘非莫班切又莫賢切<pb n="23b"/>掔固也?手?別作慳非苦?切文二<折 t="33"/>
+                        <graphic n="KR3454" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3454.png" mimeType="image/png"/>狠視也?二見肩別作?非</hi>
+　　　下平聲<lb/>
+<hi>箋表識書也?竹戔別作牋非則前切?不行而進謂之??止在舟上?作前昨先切</hi>
+<pb n="24a"/>
+<pb n="25a"/>
+<hi>賢多才也?貝?別作?非胡田切文二<折 t="33"/>弓弦也?弓?<graphic n="KR0975" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0975.png" mimeType="image/png"/>象形別作絃非豜三歲豕肩相及者?豕?別作<graphic n="KR2210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2210.png" mimeType="image/png"/>非古賢切?麥莖也?禾?別作非古玄切縣繫也?系持<graphic n="KR3649" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3649.png" mimeType="image/png"/>借?州縣之縣別作懸加心非胡?切<pb n="25b"/>長生<折 t="33"/>去?人別作仙非相然切遷登也??<折 t="33"/>別作/??非七然切?慕欲口液口?水欠別作涎非?連切然燒也?火?別作燃非如延切廛一?半一家之居?厂?里?八?土別作???非直延切<pb n="26a"/>攐摳衣也?手褰別作攓非去?切文三<折 t="33"/>愆過也?心衍或作??別作愆非<折 t="33"/>褰?<折 t="33"/>也?衣/寒省別作非?聯微也?系帛別作綿非武延切仝完也?入工或作玉純玉曰仝道書以仝?同字疾?切銓衡也?金全別作?拴?非此?切</hi>
+<pb n="26b"/>
+<pb n="26b"/>
+<hi>圜天體也?囗?王權切俗用圓非圓王問切鷙鳥也?鳥?別作鳶鶚?非與專切又五各切捲气勢也?手卷國語曰有捲勇一曰收也巨?切今俗作居轉切以?舒捲之捲文三<折 t="33"/>曲角也?角/?作非?行?逯也一曰行曲脊??走雚別作非<pb n="27a"/>貂鼠屬大而??出胡丁零國?豸召別作?非都僚切
+                        <graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>斛旁有<graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>?斗<折 t="33"/>一曰突也一/曰利也爾雅曰<graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>謂之疀古田器也別作<graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>??/非土雕切文二<折 t="33"/>佻愉也?人?兆別作恌非
+                        <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>艸木實垂<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                        <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>然象形徒遼切別作卣非又由酉二音<pb n="27b"/>?匽?也?黽?旦或作?別作晁非直?切?穿也?穴?別作寮非洛簫切猋犬走??三犬爾雅貝居陸曰猋在水曰蜬別作贆非甫?切?動也?手?別作颻非余招切文四<折 t="33"/>繇隨從也?系??別作繇繇?非<折 t="33"/>?徒歌也?/言?作謠</hi>
+<pb n="28a"/>
+<pb n="29a"/>
+<hi>?莍也?艸?別作椒非子寮切?水朝省?作潮俗直?切肴啖也?肉爻別作餚非胡茅切茅菅也?艸矛別作茆非莫交切文二貓狸屬?豸苗別作?非<pb n="29b"/>巢鳥在木上曰巢在穴曰窠?木???<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>象形別作非鉏交切?飯器也?竹捎別作筲非所交切豕?如筆管者?<折 t="33"/>?高籀文作豪又九江郡古鍾離國隋改作州別作濠毫?非乎刀切鈔又取也?金少別作抄非楚交切又楚教切</hi>
+<pb n="30a"/>
+<pb n="31a"/>
+<hi>夒貪獸也一曰母猴?人?頁已止?象形別作猱非奴刀切
+                        <graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>獄之兩曹也?日???作曹俗作?非昨牢切丁反<折 t="33"/>?也?气欲<折 t="33"/>舒出<折 t="33"/>上礙於一也反?气己舒也別作呵非虎何切詑欺也?言它別作訑?非徒何切文三<折 t="33"/>它虫也象形或作佗負何也別作他?人也非<折 t="33"/>蛇本與它<pb n="31b"/>同或?虫它俗作食遮切別作?非衰艸雨衣也?衣象形別作蓑非穌和切?沛國縣也?邑?昨何切今以???陽恐非?音作管切聚也百家??文三<折 t="33"/>鹹也?鹵差省/?作別作醝非目小也?目堊元首叢叢猶細碎也作脞非</hi>
+<pb n="32a"/>
+<pb n="33a"/>
+<hi>媻奢也?女般別作婆非薄波切捼手相摩也?手委別作挼撋?非奴禾切又儒垂切?驢父馬母?馬<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>或作別作騾非洛戈切文三也?金?別作鏍非<折 t="33"/>蠃蜾屬也蜾蠃也一曰蚌屬?虫<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>別作螺非<pb n="33b"/>鞮屬?革<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>別/作靴非許切沙水?石也?水?少別作砂紗?非所加切
+                        <graphic n="KR4385" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4385.png" mimeType="image/png"/>箠也?竹朵別作撾檛?非陟瓜切瑕小赤玉也?玉?一曰赤雲气後人俗別作霞乎加切文三徦至也?彳?一曰?也後人別作遐又古雅切<pb n="34a"/>?履也?韋?別作非邪琅邪郡?邑牙別作琊耶?非以遮切文二<折 t="33"/>?鏌?也?金牙別作?非麚牡鹿也?鹿?夏至解角別作?非古牙切文三痂疥也??加別作/非<折 t="33"/>
+                        <graphic n="KR3135" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3135.png" mimeType="image/png"/>互令不得行也??枷<pb n="34b"/>別作迦俗牙牡齒也象上下相錯之形一曰古者軍行有牙尊者所在後人因以所治?牙今別用衙非五加切
+                        <graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>榮也?艸<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>別作花/非?瓜呼瓜二切文二<折 t="33"/>?兩?<折 t="33"/>?木<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>象形或作釫別作鏵非<pb n="35a"/>雅楚鳥也?隹牙別作?鴉?非烏加切又五下切窊汙?下也?穴瓜烏瓜切又作窳以主切汙窬也別作溛非柤木閑也?木且別作查楂?非側加切咨也?言<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>別/作非子邪切瑲玉聲也?王倉又管磬<折 t="33"/>當用鳥獸牄牄當用牄別作鏘?非七?切<pb n="35b"/>漿酢漿也?水將省?作漿即良切牆垣蔽也?嗇爿別作墻非才良切?外知?也?冏章省別作商非式陽切倡樂也?人昌別作娼非尺良切?傷也???一刀有兩利者或作創別作瘡非楚良切<pb n="36a"/>?麋屬也?鹿章別作獐非諸良切鷞鷫鷞也?鳥爽別作?非所莊切莊?艸壯別作莊??非側羊切文二<折 t="33"/>妝飾也?女?省別作?非?安身之坐者?木爿爿則?之省至於牆壯戕狀之屬?當??</hi>
+<pb n="36b"/>
+<pb n="36b"/>
+<hi>?禦溼之菜也?艸彊?作薑非居良切文三<折 t="33"/>?界也???三其界畫也或作彊別作?非<折 t="33"/>?馬紲也?系?別作韁非強蚚也?虫弘弘???與同別作???口?非巨良切芳也?黍甘?作杳俗許良切<pb n="37a"/>唐大言也?口庚一曰隄也別作塘俗徒郎切郎魯亭也?邑良一作東西序也後人俗別作廊魯當切鼞鼓聲也?鼓堂別作??非土郎切臧善也匿也?戕臣別作<折 t="33"/>非又作藏俗則郎切又昨郎切芒艸耑也?艸?又<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>
+                        <graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>廣大?/又蒼<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>也別作茫忙?非武方切<pb n="37b"/>山<折 t="33"/>也?山网?作岡別作崗罡非古郎切
+                        <graphic n="KR2246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2246.png" mimeType="image/png"/>方舟也?方亢大夫方舟別作航非胡郎切大也?自王自始也始<折 t="33"/>者/三大君也別作凰非胡光切庚位西方也庚承已象人齎又鳥名黃倉庚別作鶊非古行切文二?稻屬也?禾亢或作?別作粳非</hi>
+<pb n="38a"/>
+<pb n="39a"/>
+<hi>
+                        <graphic n="KR2358" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2358.png" mimeType="image/png"/>門?祭先祖所以徬徨?示彭或作祊別作閍非補盲切樘?柱也?木堂別作?非丑庚切莔貝母也?艸?省別作非武庚切平語平舒也???八八分也別作評非蒲兵切黥墨形在面也??京或作?別作?非渠京切</hi>
+<pb n="39b"/>
+<pb n="39b"/>
+<pb n="39b"/>
+<hi>精擇也?米青又目童也別作睛非子盈切?雨而夜除星見也?夕生別作晴非疾盈切觲用角低仰便也?羊牛角別作?非息營切文三馬赤色也?馬觲省別作騂非<折 t="33"/>?赤剛土也?土觲省別作垶非</hi>
+<pb n="40a"/>
+<pb n="41a"/>
+<hi>甹亟詞也俠也??由別作非普丁切聽聆也?耳?壬古者治官處謂之聽事後人別作?非他丁切文二<折 t="33"/>綎糸綬也?系廷別作???非亭民所安定?高?丁省俗作停特丁切靈巫以玉事神?王霝或作靈?巫後人作齡俗?作??非郎<pb n="41b"/>丁切文三<折 t="33"/>蛉蜻蛉也?虫令別作/蜓音徒典切蝘蜓也?大羊細角?鹿霝別作羚非升十龠也?斗象形後人作昇俗別作陞非識蒸切稱銓也?禾?別作秤非處陵切驚聲也?乃省?西一曰?也如?切別作?音奴亥切非<pb n="42a"/>馮馬行疾?馬?一曰依也別作憑非皮?切又房戎切
+                        <graphic n="KR0697" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0697.png" mimeType="image/png"/>清也?水?省別作澄非直陵切蔆芰也?艸淩或作同別作菱非力膺切競也?二兄丰一曰敬也?作兢俗居陵切禮器也?廾持肉在豆土別作登??非都滕切文二<pb n="42b"/>鐙錠也?金登別作燈非棱柧棱也?夌木別作稜楞?非魯登切古鳳字鳳飛?鳥從以萬數故以?朋黨字?作朋?朋切文二鵬亦古文鳳字?作鵬字矰隿射矢也?矢曾別作非作滕切<pb n="43a"/>弘弓聲也?弓??古文肱別作弘弘?非胡肱切?贅也?肉尤別作疣非羽求切休息止也?人依木或作庥別作茠烋?非許尤切文二?黍也?黍髟別作髹非甹木生條也??由今俗作由非以周切文四<pb n="43b"/>攸行水也???人水省別作攸??非修等字皆?攸氣行??乃省?<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>別作/??<graphic n="KR1214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1214.png" mimeType="image/png"/>非猶玃屬也弋道若也別作猷非櫌摩田器?木憂別作耰非於求切文三<折 t="33"/>憂和之行也??<折 t="33"/>詩曰布/政憂憂別作/非<折 t="33"/>嚘語未定<pb n="44a"/>??口憂一曰<折 t="33"/>嚘氣逆也老子終日號而不嚘別作?嗄?非
+                        <graphic n="KR4635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4635.png" mimeType="image/png"/>耕治之田也?田象耕屈之/形或作<graphic n="KR3363" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3363.png" mimeType="image/png"/>?作疇直由切文二禪帳也?巾<graphic n="KR3363" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3363.png" mimeType="image/png"/>俗作禂音都牢切?也?作幬別作<折 t="33"/>非又重朱切脩脯也一曰長也?肉攸別作翛?非思邀切又思留切</hi>
+<pb n="44b"/>
+<pb n="44b"/>
+<pb n="44b"/>
+<hi>盩引擊也?幸?見血也扶風有盩厔縣俗作盩?執非張流切棄也??<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>周書以?討詩/云無我兮別作?非市流切兔罝也?网否?作罘俗縛牟切餱乾食也?食?別作非乎溝切?髮??髟?作非?矛切文二<折 t="33"/>衣博/?衣<graphic n="KR3185" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3185.png" mimeType="image/png"/>
+                    <pb n="45a"/>省一曰聚也別作裒??非又博毛也牟牛鳴也?牛象其聲气?口出?作牟??非又目童子謂之牟別作眸非文二<折 t="33"/>?彊也北燕之外相勉努力謂之???矛作?非又?遇切兜鍪首鎧也?<折 t="33"/>??/省別作非當侯切<pb n="45b"/>媮巧黠也?女俞通用愉別作偷非託?切句曲也?口?別作勾非古?切又古候九遇二切?漸進也?人又持帚若埽之進又手也?作侵七林切繹理也?工口又寸?工口亂也寸分理之又度人兩臂?八尺也別作尋非徐林切<pb n="46a"/>鍼所以縫也?金咸別作針非職深切?商星也?晶?或作別作參非所今切文二?人?藥艸?艸<graphic n="KR1171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1171.png" mimeType="image/png"/>別作非砧石柎也?石占別作枮碪椹?非知林切??也?王湥省別作非丑林切</hi>
+<pb n="46b"/>
+<pb n="46b"/>
+<hi>?衽也?衣金別作襟非<折 t="33"/>紟衣系也?系今古作?別作衿非?禁也神農所作象形?作琴俗巨今切文二<折 t="33"/>?急持衣?也?手金或作?同別作擒非[邱-丘+覃]國也?邑<折 t="33"/>覃俗作譚非說文注義有譚長疑後人傳?之誤徒含切</hi>
+<pb n="47a"/>
+<pb n="48a"/>
+<pb n="49a"/>
+<hi>燅於湯中爚肉也?炎熱省或作別作燖非徐鹽切
+                        <graphic n="KR1046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1046.png" mimeType="image/png"/>頰須也?須<折 t="33"/>別/作髯非汝鹽切文三<折 t="33"/>梅也?木<折 t="33"/>別/作楠非<折 t="33"/>多語也?/言別作喃非?鏡?也?竹歛別作奩??非力鹽切黏相箸也?黍占作粘非女廉切<pb n="49b"/>沾水名一曰益也?水占別作添非他廉切嗛口有所?也?口兼別作<graphic n="KR0742" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0742.png" mimeType="image/png"/>非?監切?<折 t="33"/>石之次玉者?玉今別作瑊非古咸切麙山羊而大者細角?鹿咸別作羬非胡?切?木也?木煔別作杉非所?切文二<折 t="33"/>旌旗之<pb n="50a"/>游也一曰衣也?糸別作衫後人所加凡最括也?二二偶也?<graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>
+                        <graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>古文及別作?非浮咸切文二颿馬疾?也?馬風別作帆?非</hi>
+　　　上聲<lb/>
+<hi>董艸名一曰蕅根一曰正也督也?艸童別作董非多動切</hi>
+<pb n="50b"/>
+<pb n="50b"/>
+<pb n="50b"/>
+<pb n="50b"/>
+<hi>直項??女同別作非他孔切?不明也?心夢別作懵非武總切又武?切總聚束也?糸?別作????非作孔切澒丹砂所化?水銀?水項別作汞非呼孔切脛气足腫??童或作別作?非豎勇切<pb n="51a"/>穴?也?人在?下別作冗非而勇切文二毛盛也?毛隼書曰鳥獸毛別作氄非
+                        <graphic n="KR0719" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0719.png" mimeType="image/png"/>懼也?心雙省別/作悚非息拱切文二<折 t="33"/>生而聾曰<折 t="33"/>?耳?從省?作聳不省奉承也?手廾?<折 t="33"/>別作捧俸?非扶勇撫勇房用三切</hi>
+<pb n="51b"/>
+<pb n="51b"/>
+<hi>虫丰別作?非紙絮一苫也?糸氏別作?非諸氏切弛弓解也?弓也或作同別作?非施氏切?廣也??侈別作??並非尺氏切邇近也??爾別作?非兒氏切<pb n="52a"/>?舞履也?<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>麗或作同別作蹝非所綺切文三
+                        <graphic n="KR2572" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2572.png" mimeType="image/png"/>鞮屬?革/徙別作屣非<折 t="33"/>纚冠織也?糸/麗別作縰非繠垂也一曰艸木<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>繠?惢糸別作?俗玉篇作?同如壘切小兒?人囟別作佌非斯氏切
+                        <graphic n="KR4024" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4024.png" mimeType="image/png"/>骨中脂也?骨隓別作髓非息委切<pb n="52b"/>識也藏也玉篇云鳥喙也?此朿遵誄切別作觜音遵?切鴟舊頭上觜角也一曰星名將支切迆?行也???也別作迤非移?切?半?也?走圭別作跬非丘弭切螘蚍蜉也?虫豈別作蟻非魚綺切文二<折 t="33"/>檥幹也又<pb n="53a"/>泊舟也?木義別作艤非又魚羈切戺本古熙字俗音?史切以?階戺之地?鳴也?羊象聲气與牟同意別作咩非?婢切旨美也?甘匕古文作別作非職稚切
+                        <graphic n="KR2522" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2522.png" mimeType="image/png"/>糞也?艸<折 t="33"/>省別作屎非式視切<pb n="53b"/>
+                        <graphic n="KR3369" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3369.png" mimeType="image/png"/>野牛而青象形古文/作兕別作非徐姊切絫增也???糸絫十黍之重也別作累非力軌切讄禱也?言畾或作/同別作非唯諾也?口隹別作非以水切秕不成粟也?禾比別作?非卑履切</hi>
+<pb n="54a"/>
+<pb n="55a"/>
+<pb n="56a"/>
+<hi>非?里切又苦亥切?痛聲也?心依孝經曰哀不?別作偯非於豈切巨?巨也<折 t="33"/>?工象手持之或作?者其中正也別作矩非其?切文四苣束葦?也?艸巨別作炬非<折 t="33"/>?止也一曰搶也一曰超也?止巨別作拒非<折 t="33"/>鐘鼓之<pb n="56b"/>柎也飾?猛獸?虍異象其下足或作<graphic n="KR3461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3461.png" mimeType="image/png"/>鐻同別作<graphic n="KR3461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3461.png" mimeType="image/png"/>?非野郊外也?里予古作?別作墅非羊者切又承與切旅軍之五百人?旅????又禾自生也別作櫓梠?非力舉切
+                        <graphic n="KR2197" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2197.png" mimeType="image/png"/>麋鹿?口相聚??口虞別作麌非魚矩切傴僂也?人區俗別作非於武切<pb n="57a"/>欨吹也一曰笑意?欠句別作呴非火羽切又?于切府文書藏也??付別作腑非方矩切文二<折 t="33"/>頫低頭也?頁逃省又作俛同別作俯非?鸚能言鳥也?鳥母別作鵡非文甫切主鐙中火主也?<折 t="33"/>象形形亦聲別作炷非之庾切<pb n="57b"/>豎立也??豆別作?非臣庾切庾水槽倉也??臾別作?非以主切文四<折 t="33"/>斞量也?斗<graphic n="KR4092" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4092.png" mimeType="image/png"/>別/作斔??非<折 t="33"/>瘉病瘳也??俞別作愈非<折 t="33"/>窳?窬也?穴?別作窪非又窳渾邑名虜獲也?母?力虍俗作虜?男別作擄?非郎古切文四<pb n="58a"/>鹵西方鹹地也?西省象鹽形別作滷??非櫓大盾也一曰所以進船也或作?別作艣非鐪煎膠器?金虜別作鏀非汻水?也?水午別作滸非呼古切鼓郭也春分之音?壴<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>/別作??非公?切<pb n="58b"/>芐地?也?艸下別作?非?五切?小障也一曰庳城?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>烏別作塢非安古切鮆飲而不食刀魚也?魚此別作鱭非徂禮切?繡文如聚細米也?糸米別作非莫?切牴觸也?牛氐別作觝非都?切<pb n="59a"/>體?十二屬也?骨豊別作???非土?切欚江中大船名?木蠡別作<graphic n="KR4045" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4045.png" mimeType="image/png"/>非盧?切髮??髟爾別作非奴?切文四<折 t="33"/>檷絡絲檷也?木爾別作鑈非<折 t="33"/>禰親廟也?示爾?作?非?智少力劣也?門爾別作<graphic n="KR4610" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4610.png" mimeType="image/png"/>非鬥音都豈切</hi>
+<pb n="59b"/>
+<pb n="59b"/>
+<pb n="59b"/>
+<pb n="59b"/>
+<hi>盡器中空也?皿?慈忍切又即忍切禮記曰虛坐盡前別作儘非祳社肉盛<折 t="33"/>以蜃故謂之祳天子所以/親遺同姓?示辰別作脤非時忍切筍竹胎也?竹旬又筍虡所以縣鐘鼓也別作?/??非思允切準平也?水隼別作准非之允切
+                        <graphic n="KR2635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2635.png" mimeType="image/png"/>?耑也?骨賓/別作非毗忍切<pb n="60a"/>閔弟者在門也?門文別作憫非眉殞切文二<折 t="33"/>愍痛也?心敃別作愍非紖牛系也?系引別作絼非直引切?謹身有所承?巴丞別作?非居隱切隱蔽也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>?又安也別用穩非於謹切又音烏本切<pb n="60b"/>薀積也?艸?別作?非於殞切??也?火耎別作暖非乃管切?粉也又摶也?米卷?作?非去阮切輓引之也?車免別作挽非武?切文二<折 t="33"/>?生子免身也?子免說文<折 t="33"/>無免字疑<折 t="33"/>此字/?省通用?解免之免本音芳萬切<pb n="61a"/>?中道也?<折 t="33"/>象?垣道上/之形別作非苦本切文二棞門?也?木囷別作閫非鯀魚也?魚系又禹父名也別作<graphic n="KR1360" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1360.png" mimeType="image/png"/>非古本切繜衣狀如??者?系尊楊倞注荀子云繜與撙同或作僔說文作墫?士俗作撙?手非祖本切<pb n="61b"/>?切孰肉?於血中和也?肉員別作<graphic n="KR0871" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0871.png" mimeType="image/png"/>非穌本切??也判竹圜以盛穀也?竹?屯別作囤非徒損切侃剛直也??<折 t="33"/>?古文信字?川取其不舍晝夜也別作?非空旱切皯面黑气也?皮干別作??非古旱切?小盂也?瓦夗或作?同別作?非烏管切</hi>
+<pb n="62a"/>
+<pb n="63a"/>
+<hi>面?赤也??<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>二音人善切/俗作赧?<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>與<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>少異?音服??又??尸又別作?非女版切版判也?片反別作板?木非布綰切阪坡也一曰澤障一曰山脅也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>反別作?非部版切又府?切限阻也一曰閾也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>/艮別作非下簡切<pb n="63b"/>柬分別簡之也?束八別作揀非古限切撚執也一曰操也?手然別作捵非乃殄切繭?衣也?糸?虫別作?非古典切文二小束也?束幵別作非鞙大車縳軶靼也?革肙一曰佩玉?別作???非胡犬切<pb n="64a"/>
+                        <graphic n="KR4056" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4056.png" mimeType="image/png"/>秋田也?犬璽/別作獮非文二<折 t="33"/>尟是少也?是少別作?非俴淺也史記能薄而材俴?人?戔別作譾非慈衍切具食也?肉<graphic n="KR3415" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3415.png" mimeType="image/png"/>別/作?非常衍切文二<折 t="33"/>?魚名似?者戰國?曰蠶似蜀?似??魚單別作鱔非<pb n="64b"/>?好??女耎而沇切案切韻又奴困切別作軟??非僎具也?人巽或作譔同別作撰非士免切槤瑚槤也?木連別作璉非里典切緬微絲也?糸面別作<graphic n="KR1210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1210.png" mimeType="image/png"/>非彌沇切文五<折 t="33"/>勒靼也?革面別作/非<折 t="33"/>愐勉也?心/面別作<graphic n="KR2300" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2300.png" mimeType="image/png"/>非<pb n="65a"/>黽?黽也?它象形一曰勉也別作僶??非湎沈於酒也?水面別作??非辯治也?言在?之間別作?非平免切轢也車所踐也?車?別作碾非尼展切沇水名?水允別作??非以轉切<pb n="65b"/>蹇跛也?足寒省別作謇非九輦切文二<折 t="33"/>?拔取也南楚語?手寒別作搴<graphic n="KR2081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2081.png" mimeType="image/png"/>並非甗甑也?瓦鬳一曰山形似甑曰甗別作巘非魚蹇切卷?曲也??<折 t="33"/>居轉切別作捲?舒捲之捲非棬音巨員切訓气勢也<pb n="66a"/>筱箭屬小竹也?竹攸別作篠非先杳切熬也??芻別作炒?非尺沼切擾煩也?手夒別作擾非而沼切文二<折 t="33"/>繞纏也?糸堯別作遶非
+                        <graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>物<折 t="33"/>落上下相付也一曰餓死曰/<graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>?爪又別作殍<graphic n="KR2299" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2299.png" mimeType="image/png"/>莩?非平小切<pb n="66b"/>上衣也<折 t="33"/>?衣?毛古者衣裘<折 t="33"/>以/毛?一曰明也識也?作表彼小切交灼木也?火教省?作非古巧切?齧也?齒交別作咬非古巧切顥白??頁景別作皓非胡老切文二<折 t="33"/>昦春天也?日?別作昊非<pb n="67a"/>袌褱也?衣包薄保切別作抱非埽棄也?土帚別作掃非穌老切文二<折 t="33"/>?兄妻也?女?別作?非?也?曰在甲上?作早子浩切文二<折 t="33"/>棗?重朿別作<折 t="33"/>?兩耒非<pb n="67b"/>手搥也?手<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>別作搗非都皓切斗櫟實也一曰象斗子?艸早自保切俗以?艸木之艸別作皁字?黑色之皁案櫟實可染帛?黑色故通用?草棧字俗書皁?白?十或?白?七皆無意義無以下筆?頭<折 t="33"/>也?匕匕相<graphic n="KR0901" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0901.png" mimeType="image/png"/>箸?象髮囟象?別作腦非奴皓切文二<pb n="68a"/>?有所恨也?女??省別作惱?心非
+                        <graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>手也象形臧可切別作左音則箇切奲?奲奲??奢單別作嚲非丁可切果木實也?木象形在木上別作?非古火切?盛膏器?木?咼別作輠<graphic n="KR2824" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2824.png" mimeType="image/png"/>?非?果切</hi>
+<pb n="68b"/>
+<pb n="68b"/>
+<hi>但也?衣<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>或作裸同別作?非郎果切寫置物也??舄別作?非悉也切藏魚也?魚<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>省別作鮓非側下切市居也???<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>象屋口象築也一曰釋也或作捨別作??吉非始野切</hi>
+<pb n="69a"/>
+<pb n="70a"/>
+<hi>角也象形別作丱音慣束髮?義當用<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>
+                    樣栩實也?木羕別作橡??非徐兩切仿相似也?人方別作髣非甫兩切文二<折 t="33"/>放效也逐也??方別作倣非?曲也?木?作枉俗迂?切<pb n="70b"/>之也?彳<折 t="33"/>音汪?作?俗羽兩切?觕纇也?糸?別作鏹非居兩切?所以輔弓弩?木??盲切又北孟切進船也又北朗切木片也別作牓非?慨也?心亢別作慷非苦浪切又苦朗切<pb n="71a"/>?所以几器也?木廣一曰帷屏風之屬別作幌非胡廣切磺銅鐵樸石?石?古作?作礦?非古猛切螷陛也脩?螷圜?<graphic n="KR1748" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1748.png" mimeType="image/png"/>?虫/庳別作<graphic n="KR2707" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2707.png" mimeType="image/png"/>蠯?非蒲孟切景光也?曰京居影切案影者光景之類也合通用景非毛髮藻飾之事不當??文二<折 t="33"/>竟疆也一曰樂曲盡?竟後人<pb n="71b"/>別作境俗又居慶切吉而免凶也???夭?作幸別作倖?非胡耿切?上舉也?手升或作撜同別作拯非蒸上聲?可也?肉<折 t="33"/>省?作肯非苦等切
+                        <graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>大陸山無石者象形/別作阜非房九切文二<折 t="33"/>負恃<pb n="72a"/>也?人守貝有所恃也別作負非帚糞也?又持巾埽??別作?非支手切煣屈申木也?火柔別作揉非人九切粈雜飯也?米丑或作同別作糅<graphic n="KR4082" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4082.png" mimeType="image/png"/>?非女九切韭菜名一穜而久者別作?舉友切</hi>
+<pb n="72b"/>
+<pb n="72b"/>
+<hi>歐吐也?欠區別作嘔非蕅芙蕖根也?艸水禺別作藕非五厚切??百也?田每或作?同別作?非莫厚切缶瓦器所以盛酒漿秦人鼓之以節歌別作?非方九切?老也?又??或作<graphic n="KR1566" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1566.png" mimeType="image/png"/>同別作叟非穌厚切</hi>
+<pb n="73a"/>
+<pb n="74a"/>
+<pb n="75a"/>
+<hi>紞冕冠塞耳也?糸冘別作髧非都感切血醢也?血?別作醓非他感切
+                        <graphic n="KR2303" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2303.png" mimeType="image/png"/>芙蓉<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>未發?菡<graphic n="KR2303" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2303.png" mimeType="image/png"/>?艸閻作?非徒感切啖?啖也?口炎別作噉非徒敢切又作啗音徒監切?撮持也?手監別作攬非盧敢切</hi>
+<pb n="75b"/>
+<pb n="75b"/>
+<hi>?蘆葉裹米也?米?別作粽非作弄切瓮罌也?瓦公別作甕非烏貢切蟲食物也?三虫別作?非直?切又直弓切湩乳汁也?水重別作?非多貢切里中道?<graphic n="KR2257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2257.png" mimeType="image/png"/>?共皆在邑中所共也或作?同別作巷非胡絳切</hi>
+<pb n="76a"/>
+<pb n="77a"/>
+<hi>?疲極也?危支別作?非又去其切??也戲三軍之偏也?戈?別作?非香義切質至也周書曰大命不質孟子曰出疆必載質?貝??或作<graphic n="KR2504" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2504.png" mimeType="image/png"/>同別作贄非脂利切又之日切以物相贅者也文二蓋杠絲也?革旨別作<graphic n="KR3502" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3502.png" mimeType="image/png"/>非<pb n="77b"/>諡行之?也?<折 t="33"/>言兮皿俗作謚非神至切別作謚音伊昔切又呼狄切
+                        <graphic n="KR2370" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2370.png" mimeType="image/png"/>塞上亭守?火者或作同別作燧非徐醉切抵也?車埶別作輊非陟利切??禾也?禾屖別作稚非直利切?臨也?立?別作?非力至切</hi>
+<pb n="78a"/>
+<pb n="79a"/>
+<hi>備慎也?人葡別作?非平秘切文二<折 t="33"/>滿也??<折 t="33"/>別/作非蒔更別種也?艸時別作??非時吏切司臣司事外者?反后又候望也後人作伺俗別作覗非又息?切?糧也?人食或作食同別作飼非祥吏切<pb n="79b"/>??也?<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>非別作/剕非扶味切文四<折 t="33"/>隱也?厂非別作陫?非<折 t="33"/>臭蟲負蠜也?非蟲或作蜚別作?非<折 t="33"/>痱風病??非別/作非又蒲罪切气雲气象形或作氣饋客芻米也別作?非去?切妄怒也?殳<折 t="33"/>又有決也別作毅非魚?切文二<pb n="80a"/>煎茱?也?艸別作藙非榖府也?<折 t="33"/>肉象形?作胃?田非云貴切文二虫似豪豬?省作蝟同隸作?非?上案下也?<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>又持火以申繒也別作熨非於胃切巍?也?嵬委本?威切今人省山以?魏國之魏虞貴切<pb n="80b"/>御使馬也?彳?或作馭同別作?缶非牛據切燕食也?食芺別作飫非依據切據杖持也?手豦別作?非居遇切助也?力非慮別作勴非良倨切箸飯欹也一曰置也附也?竹者陟慮切又?倨切又陟?切又直<pb n="81a"/>?切又陳如切別作??著躇?非?止也得几而止?几?或作處?虍別作?非昌據切又昌與切豫象之大者不害?物?象予一曰安也先也後人別作預俗羊茹切文二<折 t="33"/>
+                        <graphic n="KR2207" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2207.png" mimeType="image/png"/>鳥名卑居也?/鳥與別作非翥飛舉也?羽者別作?非章庶切<pb n="81b"/>?醉醟也?酉句別作酗非香遇切諭告也?言俞一曰曉也別作喻非羊戍切赴趨也?走仆省別作訃非芳遇切?地气發天不應?雨俗作霧?遇切
+                        <graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>人之足<折 t="33"/>也在下?止口<折 t="33"/>即玉切/又遵遇切一曰足恭便僻?別作非<pb n="82a"/>注灌也一曰解也釋也?水主作註非之戍切裋豎使布長襦?衣豆別作非常句切孺乳子也一曰輸也?子需別作<g n="孑*_焉-正+?">]□</g>非而遇切莫日且冥也?日在茻中別作暮非莫故切布枲織也?巾父?作布?<graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>非博故切<pb n="82b"/>?行也?止<折 t="33"/>相背<折 t="33"/>音撻別作??少非薄故切白緻繒也?糸<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>一曰埏土象物也?作素俗別作塑?並非桑故切酢?也?酉乍倉故切今作醋音在各切作起也?人乍別作做非宗祚切又則洛切胙祭福肉也?肉乍別作祚非昨誤切</hi>
+<pb n="83a"/>
+<pb n="84a"/>
+<hi>誤謬也?言?別作?非五故切文三<折 t="33"/>啎逆也?午吾別作忤非<折 t="33"/>遻遇也??遻別作迕俉並非又五各切相遇驚也紬微也?糸囟?作細?田非思計切文二<折 t="33"/>?夫也?士胥或?女別作非<pb n="84b"/>閉闔門也?門才所以?門也作閉非博計切蔕瓜當也?艸帶別作蒂非都計切?廢一偏下也??白或?曰或作替同別作?非他計切文三?<graphic n="KR1678" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1678.png" mimeType="image/png"/>髮也?髟/弟別作剃非<折 t="33"/>洟鼻液也?水夷今作涕?水弟他?切泣也<pb n="85a"/>弟韋束之次弟也?古字之象作第非特計切沴水不利也?水?別作?非郎計切薊芙也?艸?別作?非古詣切瘞幽埋也?土?別作非於計切之<折 t="33"/>風亦古諸侯一曰射/師?幵別作羿非五計切<pb n="85b"/>祭祀也?示以手持肉別作祭祭?非子例切歲木星也越曆二十八宿宣??陽十二月一次??戌別作?歲?非相銳切?小耎易斷也?肉?省別作脆非此芮切埶盛力權也一曰種也?坴丮持而種之一曰技能也別作勢蓺藝<pb n="86a"/>?非始制魚祭二切易卦用蓍也?竹古文巫字?作筮時制切觢一角卬也?角契省別作掣非尺制切文二<折 t="33"/>
+                        <graphic n="KR2740" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2740.png" mimeType="image/png"/>引縱曰<graphic n="KR2740" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2740.png" mimeType="image/png"/>?手瘛省別作痸非愒息也?心曷別作?非去例切</hi>
+<pb n="86b"/>
+<pb n="86b"/>
+<hi>抴捈也?手世別作拽非<折 t="33"/>
+                        <graphic n="KR1939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1939.png" mimeType="image/png"/>石之似玉者別作玴非勩勞也?力貰別作/?非<折 t="33"/>
+                        <graphic n="KR1957" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1957.png" mimeType="image/png"/>習也?心曳別作?非餟祭酹也?食?別作醊非陟衛切叡深明也通也?<graphic n="KR3010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3010.png" mimeType="image/png"/>?目?谷/省或作<graphic n="KR1078" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1078.png" mimeType="image/png"/>同別作非以芮切<pb n="87a"/>泰滑?廾?水大古文作?同?作汰非他?切文二大天大地大人亦大象形別作太非又徒蓋切賴贏也?貝剌別作賴??非洛帶切文三<折 t="33"/>癘惡疾??蠆省別作癩非<折 t="33"/>?粟重一??十六斗大斗半舂?米一斛曰?別作糲非<pb n="87b"/>柰果也?木示別作奈??非奴帶切??行獵跋也?<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>貝別作狽非博?切兌說也?儿?別作??公非大外切繼旐之旗沛然而垂????別作??巾非蒲蓋切妎妒也?女介別作非胡?切</hi>
+<pb n="88a"/>
+<pb n="89a"/>
+<hi>頭也?糸圭?作罣罫?非?界也象田四界聿所以畫之別作畫非胡卦切又胡麥切陋也?<graphic n="KR2342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2342.png" mimeType="image/png"/>
+                        <折 t="33"/>籀文嗌字或作隘同別作?非烏懈切派別水也?水<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>別作?非匹賣切怪異也?心圣別作?非古壞切<pb n="89b"/>
+                        <graphic n="KR3628" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3628.png" mimeType="image/png"/>艸也姓也?艸?別作蒯非苦怪切介畫也?八?人俗別作?字書所無不知所?無以下筆明堂左右?者明堂旁室也當作介古拜切文二<折 t="33"/>屆行不便也一曰極也?尸<graphic n="KR1176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1176.png" mimeType="image/png"/>
+                        <graphic n="KR1176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1176.png" mimeType="image/png"/>與塊同別作??由非?菜也?韭?別作?非胡戒切<pb n="90a"/>也?心葡或作同別作<graphic n="KR0629" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0629.png" mimeType="image/png"/>非蒲拜切殺戮也又疾也?殳?別作閷煞?非所介切?合?善言也?言<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>籀文?言?別作話?舌者非胡快切?陊也?石?徒對切又直類切後人俗作墜
+                        <graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>膺無方也?<折 t="33"/>?口?寸漢文帝以?責對而?言多非誠對故<pb n="90b"/>去其口以?士也都隊切?也一曰行過也?彳?曰??或作納同?作退俗他?切輩若軍發車百兩?一輩?車?非別作?非補妹切佩大帶佩也?人?凡?巾別作珮非補妹切沬洒面也?水未古作??水頁別作??非荒?切文二<pb n="91a"/>?膽气滿聲?言自別作非
+                        <graphic n="KR2202" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2202.png" mimeType="image/png"/>忽也?心介別作恝非呼介切瘥瘉也??<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>楚懈切又才他/切今以差?非差不相值也?畫眉也??朕別作黛非徒耐切文二<折 t="33"/>毒瑁也一曰厚也?<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>?毐別作玳??非又徒沃切<pb n="91b"/>逮唐逮及也????或作迨同別作逯音盧谷切?惠也?心旡古文作<折 t="33"/>篆文作??既省今作??旡?烏代切薉蕪也?艸歲別作穢非於廢切訒頓也一曰識也?言刃別作認非而振切瞚開闔目數?也?目寅別作瞬非舒閏切<pb n="92a"/>?進也?日臸二至之日?陽之進也?作?俗即刃切?火餘也?火聿別作燼非徐刃切文二<折 t="33"/>賮會禮也?貝?別作贐非敶列也??陳通用陳字別作陣非直刃切俊材千人也?人?別作?非子竣切<pb n="92b"/>兵死及牛馬之血?<折 t="33"/>鬼火/也?炎別作燐非良刃切文二吝恨惜也?口文別作???非齔?齒也男八月生八歲而齔女七月生七歲而齔?齒七別作?非初覲切疢熱病也??火俗作疹非別作疹籀文胗字音之忍切<pb n="93a"/>行示也?彳勻一曰求也順也歸也別作殉徇?非詞閏切憖問也謹敬也?心?猌別作?非魚覲切又五分切釁血祭也?爨省?酉酉所以祭也?分分布別作?璺舋?非?振切又文運切玉器破也韻味也?音員裴光?云古與均同別作?非王問切</hi>
+<pb n="93b"/>
+<pb n="93b"/>
+<hi>潠含水噴也?水巽別作噀非穌囷切駻馬突也?馬旱別作馯非?旰切文五<折 t="33"/>豻胡地野狗也?豸干或作犴別作?非也<折 t="33"/>扞快也?手干別作捍非<折 t="33"/>?止也??旱別作?非釬臂鎧也?金干一曰固金藥別作銲非<pb n="94a"/>榦築牆耑木也?木?別作幹非古案切濯衣垢也?水<折 t="33"/>或作浣同別作澣非胡玩切掔手掔也?手?別作腕??非烏貫切判分也?刀半別作拌拚?非普半切文二<折 t="33"/>泮諸侯?射之宮一曰?釋也?水半別作泮??非</hi>
+<pb n="94b"/>
+<pb n="94b"/>
+<pb n="94b"/>
+<hi>袒衣縫解也?衣旦別作綻非丈莧切相詐惑也?反予<graphic n="KR0674" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0674.png" mimeType="image/png"/>作幻胡辦切荐薦<折 t="33"/>也?艸存一曰再也別作洊非才甸切見視也?几?目別作現非古甸切又賢遍切燕玄鳥也象形一曰合語也合飲也別作鷰讌醼並非於甸切文二<pb n="95a"/>咽嗌也又吞也?口因別作嚥非又於前切
+                        <graphic n="KR3641" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3641.png" mimeType="image/png"/>行且賣也?行言或作衒別作?非?絢切面?前也?百象形別作?非?箭切文二<折 t="33"/>?麥末也?麥丏別作麵非淺不深也一曰水激也?水戔別作濺非子賤切又亡衍切</hi>
+<pb n="95b"/>
+<pb n="95b"/>
+<hi>??也?彳扁別作遍非比見切?勞也?力卷省俗作倦同別作惓非渠卷切弁冕也或作?同別作卞非皮變切文四<折 t="33"/>拚拊手也?手弁別作抃非<折 t="33"/>?喜樂??曰弁別作忭非汳水受陳留浚儀?溝至蒙?雝水東入于泗?水<pb n="96a"/>反別作汴非偃僵也一曰障水也?人匽別作堰非於扇切又於幰切問終也?人持弓別作吊非多嘯切?艸田器也?艸條省別作蓧俗徒切人小便也???水或用溺同別作尿非奴切</hi>
+<pb n="96b"/>
+<pb n="96b"/>
+<pb n="96b"/>
+<pb n="96b"/>
+<hi>?晞也?日出卄米別作曝非薄報切?小兒蠻夷頭衣也???二別作?非莫報切文二年九十曰<折 t="33"/>?老蒿省別作耄非喿?鳥鳴也?品在木上別作噪非穌到切趮疾也?走喿別作躁非則到切<pb n="97a"/>盜私利物也??皿別作??次非文三徒到切翳也所以舞也?羽?/別作翢翿纛?非溥覆照也?火壽別作幬非幬正作禪帳也音直由重朱二切?不靜也?<折 t="33"/>?鬥別/作?非奴?切箇竹枚也?竹固?作?非古賀切<pb n="97b"/>馱負物也?馬大別作?非唐佐切?石磑也?石靡別作磨非摸?切正也?土留省土所止也與留同意古人作坐同別作座??非徂臥切不均也?糸嬴別作纙非力臥切<pb n="98a"/>?稻名也?禾耎別作糯非奴臥切笮迫也在瓦之下棼上一曰酒簏也別作醡榨?非側駕側格二切蜡蠅?也?虫昔又索也合聚萬物索饗百神也別作??示非鉏駕切文二<折 t="33"/>?語也?言/作別作非吒噴也叱怒也?口乇別作?非陟駕切</hi>
+<pb n="98b"/>
+<pb n="98b"/>
+<hi>樗木也以其皮裹松脂?木雩或作檴別作樺乎化切文二山在弘農華??山<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>省今俗用華盬也?肉?酉別作醬俗即亮切障隔也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>章別作嶂非之亮切刱造法刱業也?丼?初亮切別作創音楚良切與?同</hi>
+<pb n="99a"/>
+<pb n="100a"/>
+<hi>事有不善言<折 t="33"/>也爾雅薄也別作亮非力讓切?國離邑民所封?也一曰對也?<graphic n="KR2257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2257.png" mimeType="image/png"/>?別作向北出牖也俗作嚮非許亮切又許良切暀光美也?日?別作旺非于放切況寒水也一曰矧也?水兄別作?非許訪切<pb n="100b"/>彊語也一曰逐也??二人?作競渠慶切徑步道也?彳巠別作逕非居正切冥幽也?日?六?日數十十六日而月始虧幽也別作暝非莫定切又莫經切甯所願也?用寍省別作?非乃定切<pb n="101a"/>賸物相增加也?貝<折 t="33"/>一曰送也副也別作?非石證切又以證切文三<折 t="33"/>送也?人/省別作媵非褢子也?子几几音市朱切別作孕?乃非?止馬也?手夌別作/非里切?仰也?<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>登別作嶝磴?非都鄧切<pb n="101b"/>?不明也?心?別作懵非武?切?以鼻就臭?鼻?臭別作嗅非許救切?貧病也??久別作疚非居又切文二<折 t="33"/>?馬舍也????亦音別作??既非舊<graphic n="KR3393" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3393.png" mimeType="image/png"/>舊舊留也?萑臼一曰故也/或作鵂同?作舊?非巨救切<pb n="102a"/>貁?屬善旋?豸穴別作狖非余救切文三<折 t="33"/>鼬如?赤?而大食?者別作/非<折 t="33"/>褎袂也?衣采一曰盛飾?或作袖同別作?非又似又切?實也有實之象下垂?禾几別作秀?乃非息救切文二?石之次玉者?玉莠作琇非<pb n="102b"/>祝祭主贊詞者一曰詛也?示?人?口一曰?兌省別作?非之秀切又之六切
+                        <graphic n="KR0888" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0888.png" mimeType="image/png"/>臞也???別作瘦非所又切鷇鳥子生哺者?鳥?別作非口豆切鬥兩士相對兵杖在後象鬥之形或作??鬥斲遇也別作???<pb n="103a"/>非都豆切?媷田器也?木辱或?金別作耨非奴豆切?擊也??句苦候切別作扣非扣音苦后切牽馬也?水名?水<折 t="33"/>一曰漬也別作浸非子鴆切蔭艸?也?艸?別作廕非於禁切<pb n="103b"/>闞望也一曰邑名一曰姓也?門敢古濫切又許濫切獸怒聲別作非暫不久也?日斬別作蹔非藏濫切?好而長也?豐豐大也??作?非以贍切塹阬也?土斬別作?非七?切</hi>
+<pb n="104a"/>
+<pb n="105a"/>
+<pb n="106a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

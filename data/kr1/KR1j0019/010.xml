@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+說文解字通釋卷第十<lb/>
+　　　　　　繫傳十<lb/>
+　　　文林郎守祕書省校書郎臣徐鍇傳釋<lb/>
+　　　朝散大夫行祕書省校書郎臣朱?反切<lb/>
+　　　三十二部　二百二十四文重六十八<lb/>
+<hi>有所?止?而識之也凡?之屬皆從?臣鍇曰?猶點柱之柱若漢武讀書止?乙其處也輟乳反鐙中火主也從象形從??亦聲臣鍇曰即脂燭也鐙瓦豆也郭璞曰即膏鐙古?以人執燭後易之<pb n="1b"/>以鐙物為主令人作炷蘭膏明燭華燈拙庾反/相與語唾而不受也從否從?否亦聲臣鍇曰唾而不受止其言也?柱止也故從?棓部倍陪菩?從此他豆反/?或從豆欠</hi>
+　　　　文三　重一<lb/>
+<hi>巴越之赤右也象采丹井丹形也凡丹之屬皆從丹臣鍇曰史記曰寡婦清其先得丹穴而?也穴即井也荀卿曰南有?青丹子山海經有曰丹?丹丹以赤為主?白皆丹之類非正丹也得干反古文丹/亦古/文丹/善丹也從丹?聲周書曰惟其/<graphic n="KR1423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1423.png" mimeType="image/png"/>丹雘讀若同臣鍇案山海經衡山出丹雘鳥郭反/丹飾也從丹??其畫?亦聲臣鍇曰尚書有彤几杜紅反</hi>
+<pb n="2a"/>
+　　　　文三　重二<lb/>
+<hi>東方色也木生火從生丹丹青之信言必然凡青之屬皆從青臣鍇曰凡?視之明莫若丹與青?則昧矣阮籍詠懷詩曰丹青著盟誓言若丹青之分明也猶詩云有如皎日倉經反古文青/審也從青爭聲臣鍇曰丹青明審也又音清寂逞反</hi>
+　　　　文二　重一<lb/>
+<hi>八家一井象構形<graphic n="KR1805" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1805.png" mimeType="image/png"/>象也古者伯益?作井凡井/之屬皆從井臣鍇曰井垣也周禮謂之井樹古者以瓶甕汲故易曰繘井羸其瓶?子漢?文人抱甕而出准南子曰益作井而籠登天言知鑿之不已也即頃反</hi>
+<pb n="2b"/>
+<pb n="2b"/>
+<hi>鍇曰春秋傳曰日有食之既盡食之也居意反/飯剛柔不調相著從??聲讀若適失易反</hi>
+　　　　文四<lb/>
+<hi>?秬釀?艸芬芳攸服?降神也從凵凵?也中象米匕所以扱之易曰不?匙鬯凡鬯之屬皆從鬯臣鍇曰秬?黍也服服事也周人尚臭灌用鬱鬯乂象中秬反鬱形丑向反芳艸也十葉為貫百廾貫築以?之為鬱從曰?缶鬯?其飾也一曰鬱鬯百艸之華?方鬱人所貢芳艸合釀之?降神鬱今鬱材郡臣鍇曰築春也周禮宗伯屬鬱人掌和鬱以實?注鬱為草若蘭也??之飾也古或飾以羽故逸詩曰羽觴隨波迂拂反/禮器也象爵之形中有鬯酒又持之也所?飲器象爵者取其<pb n="3a"/>鳴節節足足也臣鍇曰小象爵頭<graphic n="KR3654" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3654.png" mimeType="image/png"/>其盛酒處<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>其尾柄也即約反/古文爵如此象形臣鍇曰爵正居形其後尾?其翅也/?黍也一桴二米?釀從鬯矩聲臣鍇曰春秋左傳?牡秬黍以享司寒分?作秬求許反/或/從禾/列也從鬯吏聲讀若迅臣鍇/曰<graphic n="KR2345" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2345.png" mimeType="image/png"/>猶纚也羅列意色?反</hi>
+　　　　文五　重二<lb/>
+<hi>一米也從?今或說??也凡食之屬皆從食讀若粒臣鍇曰?音集食食也卞食字音飯神隻反滫飯也從食聲臣鍇曰/音/詩曰泂酌彼行潦挹/彼注?可以饙饎水滫之也翻云反臣次立按說文徐鉉云非聲/疑/字之?/或/從賁/或/從/飯气蒸也從食?聲良秀反</hi>
+<pb n="3b"/>
+<pb n="3b"/>
+<hi>書峙乃餱粻臣鍇曰乾餱以愆今人謂飯乾為餱何溝反/餱也從食非聲陳楚之間相謁而食麥飯曰餥斧尾反/酒食也從食喜聲詩/曰可?饙饎昌意反/饎或從臣臣鍇曰/周禮有人字作此饎或從米臣鍇曰商頌/曰大?是承作此字/具食也從食算聲臣鍇按漢書饌堂或如此助箭反/?或/從巽/供養也從食/羊聲以像反/古文/養/食也從食反聲服萬反/雜飯也從食/丑聲女有反/糧也從食/人慈例反/?羹澆飯也從食?聲臣鍇曰今人云饡飯也箭鴈反/畫食也從食/象聲式文反/<graphic n="KR3377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3377.png" mimeType="image/png"/>或/從/餔也從夕食素昆反/日加申時食也從/食甫聲不吾反/?文餔從皿浦聲臣鍇曰皿所以食也</hi>
+<pb n="4a"/>
+<pb n="5a"/>
+<hi>其香臣鍇曰飶猶苾苾頻必反/燕食也從食芙聲詩曰飲酒之/臣鍇曰詩曰如食?於橡反猒也從食包聲?巧反/古文飽從/聲/臣鍇曰/音保/亦古文飽從卯聲猒也從食肙聲烏縣反/饒飽也從食/堯聲耳焦反/饒也從食余聲臣鍇曰老子曰餘食贅行以?反/食臭也從食艾聲爾雅/曰饅請之喙海艾反/送去也從食戔聲詩曰顯父餞之臣鍇曰以酒食送也餞猶羡也引也寂羡反/野饋曰餫從食軍聲臣鍇曰春秋左傳宣伯餫諸?于問反/客?也從食官聲周禮五十里有市/有館館有積?待朝聘之客古翰反/貪也從食號聲偷勞反/?文饕/從號省/俗饕從/口刀聲/貪也從食?聲春秋傳是謂饕<pb n="5b"/>?聽切反/飯傷熱也從食/?聲?廢反/飯傷溼也從食/壹聲乙器反/飯餲也從食曷聲論語曰食饐而餲厄介反/榖不熟為饑從/食幾聲居希反/?不熟為饉從食堇聲其吝反/飢也從食?聲讀若/楚人言恚人晏革反/飢也從食委聲一曰魚敗曰餧也那漼反餓也從食几聲居希反/飢也從食我/聲岸播反/?人謂祭曰餽從食鬼鬼亦聲矩遂反/祭酹也從食/?聲誅稅反/小餟也從食/兌聲輸?反/馬食榖多气流四下也從食夌聲輦孕反/食馬榖也從食末聲臣鍇按詩曰芻之?之借秣字門撥反</hi>
+　　　　文六十二　重十九<lb/>
+<pb n="6a"/>
+<hi>三合也從入一象三合之形凡?之屬皆從?讀若集牆揖反合口也從?從口臣鍇曰?口合口也?意後閤反/皆也從?從?從?虞書曰僉曰伯夷臣鍇曰僉曰?共言之也?集也從相從也?意七占反/思也從?從?臣鍇曰思思理也?冊書也?集?書也?意?辰反/?文/侖/是時也從?<graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>
+                        <graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>古文及/臣鍇曰?<graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>皆今也?意居斟反/市居曰?從?<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>象屋也口象築也臣鍇曰?/?集也<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>立柱栭梲之形口音圍?意詩夜反</hi>
+　　　文六　重一<lb/>
+<hi>合也從?從?省?益世凡?之屬皆從???反</hi>
+<pb n="6b"/>
+<pb n="6b"/>
+<hi>?也象從上俱下也凡入之屬皆從入臣鍇曰從土俱下入而散也?陽气入地則流散而集反入也從?自外而入也臣鍇曰?音垌?意能未反/入山之深也從山從入闕臣鍇曰?意助吟反/市?也從入?臣鍇曰春秋左/傳請糴於宋?陳鄭田溺反/完也從入工臣鍇曰工所為也?意族延反/篆文仝從玉曰全臣鍇按周禮玉人之事圭天子用全注純用王也?意古文仝/二入也兩從此闕里養反</hi>
+　　　　文六　重二<lb/>
+<hi>瓦器所?盛酒漿秦人?之以節?象形凡缶之屬皆從缶臣鍇曰史記黽池之?藺相如進盆缶曰竊</hi>
+<pb n="7a"/>
+<pb n="8a"/>
+<hi>謂鐙為釭本作此字侯邦反/瓦器也從缶/或聲于逼反/瓦器也從缶薦聲失見反瓦?也從缶肉聲臣鍇曰??從此延秋反/瓦?也從缶/霝聲連丁反/缺也從缶占聲丁念反器破也從缶?/省聲傾穴反/裂也從缶虖聲缶燒菩裂也臣鍇曰爾雅翥醜罅注罅剖背而生虖音呼吼迓反/器中空也從缶?聲詩/云缾之罄矣苦定反/器中盡也/從缶<graphic n="KR0795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0795.png" mimeType="image/png"/>聲溪細反/受錢器也從缶后聲古?瓦今以竹臣鍇曰漢書趙廣漢傳曰投缿謂入而不能出之器也限蚌反</hi>
+　　　　文二十一　重一<lb/>
+<pb n="8b"/>
+<hi>弓弩矢也從入象鏑括羽之形古者夷牟?作矢凡矢之屬皆從矢臣鍇按?氏春秋夷羿作弓弓矢當同時<graphic n="KR1398" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1398.png" mimeType="image/png"/>象括羽周禮矢人謂枉矢絜矢利矢鍭矢矰矢茀矢恒矢庳矢失止反弓弩發於身而中於?從矢身臣鍇曰?者身平?正然后能中也神隻反/篆文射從寸寸法度也亦手也/楺箭箱也從矢喬聲臣鍇曰矯以矢之曲也故曰矯枉梁庾肩吾詩曰騰?疑矯箭己少反隿?矢也從矢?聲臣鍇曰/矰矢亦曰田矢也前?反/春饗所??也/從人從<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>象張矢在其下天子?熊虎豹服猛也諸侯?熊豕虎大夫?麋惑也士?鹿為田除害也其祝曰母若不寧侯不朝于王所故抗而?汝也臣鍇曰周禮梓人為侯張皮侯而樓鵠則春以功張五采之侯則?國屬張獸侯則王以燕息<pb n="9a"/>注天子以九?節侯九十弓弓二寸侯以布?之鵠以度又曰王大?則供虎侯熊侯豹侯諸侯供熊侯豹侯卿大夫供麋侯麋示討迷惑也儀禮曰天子熊侯白質諸侯麋侯赤質大夫布畫虎豹士布畫鹿豕祭侯之禮以酒脯醢其辭曰惟若寧侯母惑若不寧侯不?于王所故抗而?汝強飲強食詒爾曾孫諸侯百福若汝也寧安也或有也屬朝?也抗舉也河溝反/古文/?/傷也從矢易/聲式陽反/有所長短?矢?正從矢豆聲臣鍇曰若以弓?度也都?反/?也詞也從矢引省聲從矢取詞之所之如矢也臣鍇按尚書曰矧乃外庶子訓人諸侯族乃?如矢之疾也矢引反/詞也從口矢臣鍇曰凡知理之速如矢之疾也?意珍移反/語已詞也從矢?聲臣鍇曰矢气直疾今試言矣則口出气直而疾也?意延耳反</hi>
+<pb n="9b"/>
+　　　文十　重二<lb/>
+<hi>崇也象臺觀高之形從?口與倉?同意凡高之?皆從高臣鍇按易曰崇效天卑法地崇高口音韋與倉?同意謂皆室屋垣墻周?之意家豪反小堂也從高省?聲去挺反/高或從/?頃/民所安定也亭有樓從高省丁聲臣鍇按漢書百官表曰大率十里一亭十亭一?天子亭凡二萬九千六百三十五也曰丁反/京兆杜陵亭也從高省乇聲臣鍇曰按湯都亳杜預釋例在梁國?澤縣比薄城中有湯?凡三亳也盆鄂反</hi>
+　　　文四　重一<lb/>
+<pb n="10a"/>
+<hi>邑外謂之郊郊外謂之野野外謂之林林外謂之?象?界也凡?之屬皆從?臣鍇曰此皆爾雅之言也注云假令百里之國五十里之界界各十里之界禮注王者近郊五十里?郊百里又引司馬法王國百里為郊二百里州三百里野四百里縣五百里都?爾雅所言諸侯之國也又周禮載師職國地無征則地諸侯之邑也圜?二十而稅一則近郊也近郊十一則野也?郊二十而三則林也稍旬縣都皆無過十二則?也居屏反古又?象國邑從口也臣鍇曰從此/?或/從土/買賣所之也市有垣從?了象物相及也之者聲了古文及也臣鍇曰?意辰止反/??行貌也從人出?臣鍇曰九?字人也?意也沈??耽抌從此移今反/中央也從大在?之?大人也與旁同意一曰?臣鍇曰凡大字皆象人之正立也<pb n="10b"/>故央字從大取其正中也旁字象四出故曰與旁同?意殷強反/高至也從隹上欲出?易曰夫乾?然臣鍇曰隹鳥也?外也?然高簡故也胡僕反</hi>
+　　　文五　重二<lb/>
+<hi>度也民所度居也從回象城之重兩亭相對也或/但從口/凡/之屬皆從/臣鍇曰重城也城外亭也昆霍反缺也古者城闕其南方謂之從史聲讀若?物為夾引也傾雪反</hi>
+　　　　文二<lb/>
+<pb n="11a"/>
+<pb n="12a"/>
+<pb n="13a"/>
+<pb n="14a"/>
+<hi>聲臣鍇曰又厚也多但反/嗇也從口??受也臣鍇曰口音韋周韋周干也入皆受之?而復口之為嗇吝積而不散也兵几反/古文?如此</hi>
+　　　文四　重二<lb/>
+<hi>愛?也從來?聲來者?而藏之故田夫謂之<graphic n="KR1931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1931.png" mimeType="image/png"/>夫一/曰棘省聲凡<graphic n="KR1931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1931.png" mimeType="image/png"/>之屬皆/從<graphic n="KR1931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1931.png" mimeType="image/png"/>臣鍇曰音瀝漢百官表卿有秋<graphic n="KR1931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1931.png" mimeType="image/png"/>夫職?訟收賦稅也?意?憶反古文<graphic n="KR1931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1931.png" mimeType="image/png"/>/從田/垣蔽也從<graphic n="KR1931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1931.png" mimeType="image/png"/>爿聲臣鍇曰亦當言/?省牆?愛<graphic n="KR1931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1931.png" mimeType="image/png"/>自護也賤忘反?文牆從二禾/?文亦從二來</hi>
+<pb n="14b"/>
+　　　文二　重三<lb/>
+<hi>周所受瑞麥來麰一來二縫象其芒來之形天所來也故為行來之來詩曰貽我來麰凡來之屬皆從來臣鍇曰今小麥也婁才反詩曰不不來從來矣聲臣鍇曰此爾/雅之言也不可俟是不復來也鉏耳反/或從彳</hi>
+　　　　文二　重一<lb/>
+<hi>芒榖秋穜厚薶故謂之麥麥金也金王而生火王而死從來有?者從?凡麥之屬皆從麥臣鍇曰麥之言幕也理之意?若穗自後?之也莫獲反<pb n="15a"/>來麰麥也從麥牟聲臣鍇曰今大麥也莫浮反/麰或/從艸/堅麥也從麥气聲臣鍇曰麥之磨不碎者舂磨之?而堅老也佷沒反/小麥屑之覈從麥<graphic n="KR2639" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2639.png" mimeType="image/png"/>聲臣鍇曰覈亦屑中滓不細者猶果核也先火反/?麥也從麥<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>聲/一曰擣也殘阤反/小麥屑皮也從麥夫聲甫殳反麩或從甫/麥末也從麥/丐聲彌釧反/麥覈屑也十斤為三/斗從麥啻聲遲夕反/?麥也從麥豐聲讀若馮臣鍇按周禮籩豆之實有麷蕡注曰熬麥曰麷麻曰蕡稻曰白黍曰?臣鍇以為麷糗類也糗磨之麷不磨也鄭玄云河間以此?麥賣之名曰麷孚空反/麥甘鬻從麥去聲臣鍇按劉熹釋名曰?麥曰麮麮之言也/?熟/?遣舉反/餅<graphic n="KR3013" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3013.png" mimeType="image/png"/>也徒夌?聲/讀若庫??反/餅/也從麥穴<pb n="15b"/>聲呼八反/餅/也從麥才聲錢來反</hi>
+　　　　文十三　重　三<lb/>
+<hi>行遲???象人兩脛有所?也凡?之屬皆從?斯唯反行??也從?允聲一曰倨也臣鍇曰??舒遲也故從?俊浚從此七?反/行故道也從??省聲臣鍇曰易曰七曰來復之義復複從此伐六反/越也從?/高大也/一曰夌<graphic n="KR3022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3022.png" mimeType="image/png"/>也臣鍇曰越超越也音陸<graphic n="KR3022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3022.png" mimeType="image/png"/>音?麥<graphic n="KR3022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3022.png" mimeType="image/png"/>漸卑迆也史記曰?/山之高跛牂牧其上<graphic n="KR3022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3022.png" mimeType="image/png"/>夌故也今作陵?功<graphic n="KR0574" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0574.png" mimeType="image/png"/>反/送詣也從?從至臣鍇曰春秋左傳叔孫如宋致女?齊使來致郈皆送致之也?意陟利反/和之行也從?<pb n="16a"/>息聲詩曰布政優優臣鍇曰?行也和布也古憂心字作息故以憂?和?憂心也不尤反/行?也從??聲臣鍇曰古以??慈愛故以此?行?晏再反/行/也從?闕讀若僕臣鍇曰不知元之義也又卜反/繇也舞也樂有章從?從章從?詩曰竷竷舞我臣鍇曰?猶降也今作坎坎假借此會意口糝反/?蓋也象皮包覆?下有兩臂而?在下讀若范臣鍇曰漢制?輿馬金??在馬頭上如金華義出此此亦象形明范反/中國之人也從?頁從曰曰兩手?兩足也臣鍇曰象有威儀文飾備具行紓?也?意恨具反/古文/憂/治稼畟畟進也從田人從?詩曰畟畟良耜臣鍇按爾雅畟畟耜也稷從此察色反/歛足也鵲鵙醜其飛也?從?兇聲臣鍇曰?其手足臣鍇曰爾雅之言也稷?從</hi>
+<pb n="16b"/>
+<pb n="16b"/>
+<hi>臣鍇按詩間關車之牽兮所以礙車轂之出也閑刮反</hi>
+　　　文三　重二<lb/>
+<hi>艸也楚謂之葍秦謂之藑蔓地連華象形從舛亦聲凡?之屬皆從?臣鍇曰藑茅也詩曰?如蕣華在艸部失閏反古文舜/華榮也從?生聲讀若皇/爾雅曰/華也?荒反/或從艸皇</hi>
+　　　文二　重二<lb/>
+<hi>相背也從舛口聲獸皮之韋可?束枉戾相韋背故偕??皮韋氏韋之屬皆從韋臣鍇曰皮柔孰?韋</hi>
+<pb n="17a"/>
+<pb n="18a"/>
+<hi>韘或從弓/弓衣也從韋蜀聲臣鍇按禮/月令曰帶以弓韣專玉反/弓衣也?韋長聲詩曰交韔二弓丑向反/履也從韋?聲臣鍇/曰帖後跟也?加反/履後帖也從韋?聲都伴反?或/從糸/足衣也從韋蔑聲臣鉉等/曰今俗作?非是?發反/軌裏也從韋?聲普惡反/革中辨謂之韏從韋/聲臣鍇曰爾雅之言也/革中?謂之辨中?皮也韏者復半分也音眷區怨反/牧東也從韋<graphic n="KR2532" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2532.png" mimeType="image/png"/>聲讀若酋臣鍇/按漢書律曆志杕<graphic n="KR1195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1195.png" mimeType="image/png"/>也即由反/<graphic n="KR1195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1195.png" mimeType="image/png"/>或從要
+                        <graphic n="KR1195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1195.png" mimeType="image/png"/>或從/秋手/井垣也從韋取其市也?聲?安反</hi>
+　　　　　　文十六　重五<lb/>
+<pb n="18b"/>
+<hi>韋束之次第也從古字之象凡弟之屬皆?弟臣鍇曰積之而順不相戾者莫近於韋故取名於韋束之次弟笛計反古文弟從韋省古文韋聲臣鍇曰?音?/周人謂兄曰/從弟?臣/鍇曰?音沓沓弟為?意古論反</hi>
+　　　　文二　重一<lb/>
+<hi>從後至也象人兩脛後有致之者凡?之屬皆從?讀若黹胝雉反相遮要害也從?丰聲南陽新野有?亭臣鍇曰丰音械手蓋反/牾也從?丰聲讀若縫臣<pb n="19a"/>鍇曰牾相逆牾也逢?從此甫蛩反/服也從??相承不敢?也臣鍇曰?服文也?意侯邦反秦曰市買多得為夃從了從?益至也詩曰我夃酌彼金罍臣鍇曰今詩作姑盈字從此古乎反跨?也從反?<graphic n="KR3085" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3085.png" mimeType="image/png"/>從此臣鍇曰?闊?也反屯是不致閡故反?為跨口瓦反</hi>
+　　　文六<lb/>
+<hi>從後灸之象人兩脛後有距也周禮曰?諸牆以觀其橈凡?之屬皆從?臣鍇曰今言炙以艾注之也周禮廬人試廬炙諸牆以視其橈之均廬茅?柄也謂柱於兩牆輓而?之本末勝負可知言?本貫未勁也炙爰疚從此幾柳反</hi>
+<pb n="19b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

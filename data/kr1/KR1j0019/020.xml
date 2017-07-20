@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+<hi>兩髀之間從大圭?臣鍇按爾雅釋草云茥蒛盆奎亦人蒛盆骨天文奎亦取象也穹圭反持也從大俠二人苟掐反/覆也大有餘也又欠也從大申申展也臣鍇按詩奄有?繹?意依漸反奢也從大于?臣鍇按老子曰服文采帶利?是謂?夸焉瓜反/空大也從大??讀若詩施罟歡活反/大也從大/?讀若詩<graphic n="KR2582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2582.png" mimeType="image/png"/>
+                        <graphic n="KR2582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2582.png" mimeType="image/png"/>大猷臣鍇曰/今詩借秩又按山海經海外東有<graphic n="KR2582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2582.png" mimeType="image/png"/>國又曰民不績衣不耕食也?從此遲匹反/奢/也從大/???寒反/大也從大爪?烏瓜反大也從大卯?臣鍇曰又地名漢公孫賀封南奅侯匹孝反/大也從大云?/讀若于惲反大也從大氐?讀者氐的齊反/大也從大介?/讀若蓋苟差反/大也從大此?七</hi>
+<pb n="1b"/>
+<pb n="1b"/>
+<hi>?竊?物也從亦有所持俗謂人俾夾是也弘農陜字從此臣鍇曰入入字也牧儼反</hi>
+　　　　文二<lb/>
+<hi>傾頭也從大象形凡矢之?皆從矢臣鍇曰矢傾其首也齊食反頭傾也從矢吉?讀若孑臣鍇按春秋左傳齊有慶/字?亦用此為結字也經節反/頭斜骫奊態也從矢圭?臣鍇曰骫音委羊截反/姓也亦郡也?大言也從矢/口臣鍇曰大言故矢口以出?也詩頌曰不吳不揚不告于?今寫詩者擅??作?又音作華其謬甚矣?意阮孤反/古文如此日西也從天日?臣鍇按易曰日昊之離作此字?意齊食反</hi>
+<pb n="2a"/>
+　　　文五　重二<lb/>
+<hi>屈也從大象形凡夭之?皆從夭臣鍇曰夭矯其頭頸也依少反?而曲也從夭從高省臣鍇曰按爾雅木上句曰喬上曲也故詩曰南有喬木不可休息?意伎昭反吉而免凶也從?從夭夭死之事故謂死之不臣鍇曰國語曰偷居幸生春秋左傳曰幸而不死猶可??反也反夭不夭也故曰/?吾逆?意恨耿反/走也從夭卉?走同意俱從夭臣鍇曰夭曲也走則夭其趾故走從夭芔非/?疑走于艸芔於坤反</hi>
+　　　文四<lb/>
+<pb n="2b"/>
+<hi>交脛也從大象交形凡交之屬皆從交加肴反?也從交韋?臣鍇曰所謂僻違宇歸反/縊也從交系?臣鍇曰春秋左傳絞縊以戮?意根卯反</hi>
+　　　文二<lb/>
+<hi>跛曲脛也從大象偏曲之形凡?之?皆從?臣鍇曰大一足破曲也烏光反古文從臣鍇曰春秋/左傳焚巫/音皇/膝病從?骨骨/亦?胡兀反/蹇也從?皮?臣鍇曰春秋公羊曰?使?俗作跛晡顆反/??行不正從?左?/臣鍇曰行左則箇反<pb n="3a"/>行不正也從???讀若曜臣鍇曰?音杳力照反/不正也從?/兼?干咸反/<graphic n="KR3982" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3982.png" mimeType="image/png"/>/<graphic n="KR3331" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3331.png" mimeType="image/png"/>
+                    也從?介?苟差反/行脛相交也從/?勺?力照反/?不能行?人所引/曰從?爪是?臣鍇曰詩曰言提之耳的齊反/也從?從/爪嶲?勺迷反/股?也從?于?臣鍇曰股曲也沉于反/膝中疾也從?羸?魯坐反</hi>
+　　　文十二　重一<lb/>
+<hi>昆吾圜器也象形從大象其蓋也凡?之屬皆從?臣鍇曰昆吾紂臣作瓦器大掩之也魂孤反壹?也從凶從?不得泄凶也易曰天地壹?臣鍇曰气擁<graphic n="KR1273" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1273.png" mimeType="image/png"/>也今易作絪??意迂分反</hi>
+<pb n="3b"/>
+<pb n="3b"/>
+<hi>司視也從?目從?令吏?目捕罪人也臣鍇曰澤繹懌釋驛圛從此?意移赤反/捕罪人也從丮??亦?臣鍇曰丮音掬持也?意之習反/囹圉所以拘罪人從口?臣鍇曰?意疑舉反引?也從??見血也扶風有盩屋縣臣鍇曰?音撲?也盩字從此?意陟求反/當罪也從?從<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>
+                        <graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>服罪也臣鍇曰尚書曰報以庶尤史記/曰張湯爰書論訊鞠報<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>音展服也?意?號反窮理罪人也從?人言竹?臣鍇曰以言/之也漢書音義/窮也居?反/或省言</hi>
+　　　文七　重一<lb/>
+<hi>張也從大者?凡奢之屬皆從奢申嗟反<pb n="4a"/>?文/當奲奲?從奢單?臣鍇曰謂重而垂也當去??果反</hi>
+　　　文二　重一<lb/>
+<hi>人頸也從大省象頸?形凡亢之屬皆從亢臣鍇曰亢喉嚨也故鮑昭舞鶴賦曰引員吭之纖婉本作此字格康反或從頁作/直項莽/?從亢從??倨也亢亦?解黨反</hi>
+　　　文二　重一<lb/>
+<hi>進趨也從大十大十猶兼十人也凡之屬皆從讀若滔臣鍇曰大奄有之義也?意偷?反<pb n="4b"/>疾也從卉?/拜從此呼兀反/疾有所趣也從/臣鍇曰暴曬暴字與此?盆操反進也從屮從允?易曰/升/大吉臣鍇曰今易作允與?反/奏進也從/從艸從屮屮上進義臣鍇曰史記曰藺相如前奏??意則漚反/古/文/亦古/文/气?白之進也從白從禮祝曰?登?曰奏故?奏同從/周禮曰詔來??舞?吉之也臣鍇曰?猶?也家豪反</hi>
+　　　　文六　重二<lb/>
+<hi>放也從大而入分也凡?之屬皆從?臣鍇曰大人也分舒散也?意姦皓反舉目驚然也從?從?臣鍇曰/禮曰見似目瞿?此字九遇反/嫚也從<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>從??亦?虞<pb n="5a"/>書曰者丹朱奡讀若傲論語奡盪舟臣鍇曰今文尚書作傲五號反/春?昦天元气昦昦從日??亦?臣鍇曰舒和廣夫??意候抱反/驚走也一曰???從?臦周書書曰伯臩古文臦古文囧字也臣鍇曰臦背也今文尚書作具?反</hi>
+　　　文五<lb/>
+<hi>?文大?古文亦象人形凡大之屬皆從大臣鍇曰中作八字象與大殊也他末反大也從大亦?詩曰奕奕梁山臣鍇曰新廟奕奕移赤反/駔大也從大壯?臣鍇曰亦見爾雅勒泱反/大白澤也從大白古文以?澤字/臣鍇曰澤/和潤也?意姦皓反/大腹也從/大省?<pb n="5b"/>縣古文系字臣鍇曰亦羌名賢迷反/稍前大也從大而?讀/若畏?之?爾件反/大?從大
+                        <graphic n="KR4386" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4386.png" mimeType="image/png"/>?或曰拳勇字讀若傿/臣鍇曰願字從此其獻反/牡大也從三大三目二目/為<graphic n="KR4386" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4386.png" mimeType="image/png"/>三目為益大也一曰也讀若易虙羲氏詩曰/不醉而怒謂之辨利反</hi>
+　　　文八<lb/>
+<hi>大夫也從大一以象?也周制以八寸為尺十尺為丈人長八尺故曰丈夫凡夫之屬皆從夫臣鍇曰通論詳矣甫殳反有也從夫見?臣鍇曰言為可聞行為可見言有規矩也?意堅隨反/並行也從二夫輦字<pb n="6a"/>從此讀若伴?之伴臣鍇曰?意?滿反</hi>
+　　　文三<lb/>
+<hi>住也從大立一之上凡立之?皆從立臣鍇按周禮注云古借此為位字里汲反臨也從立??臣鍇曰春秋左傳如齊?盟今俗作?借也?音逮柳嗜反/磊?重聚也從立<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>?臣鍇<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>/音純都罪反/直也從立耑?臣鍇曰春秋左傳曰太伯端委端委禮衣之幅正者?歡反等也從立專?春秋國/語曰?本?末職件反/敬也從立束束自申束也亦?臣鍇曰立自竦也?意思奉反/亭安也從立爭?臣鍇/曰亭孤直也寂逞反/立/也從立??一曰細<pb n="6b"/>?寂逞反/待也從立矣?臣鍇曰/立而待之也特史反/或從/巳/?也一曰匠也從立句?讀若齲逸周書有竘匠臣鍇曰蒟從此也俱取反/不正也從立<graphic n="KR3630" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3630.png" mimeType="image/png"/>?臣/鍇曰<graphic n="KR3630" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3630.png" mimeType="image/png"/>音過昆柴反負舉也從立曷?臣鍇曰負而立也其熱反/待也從立須?臣鍇曰立而待也春秋左傳寡君<graphic n="KR1220" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1220.png" mimeType="image/png"/>矣/四于反/或從/芻/痿也從立<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>/?魯坐反/偓竣也從立??國語曰有司巳事而竣臣鍇曰退立也七?反/見鬼??從立???文?字讀若虙羲氏之虙音伏臣鍇曰??代六反/驚?從立?/?七削反/短人立???從/立卑?傍把反/北地高樓無屋者從立??臣鍇曰立?高也作滕反</hi>
+<pb n="7a"/>
+　　　文十九　重二<lb/>
+<hi>併也從兩立凡?之屬皆從?也頻靜反廢一偏下也從?白?臣鍇曰並立而一下也白音自他計反/或從曰臣鍇曰曰音越或從兟</hi>
+　　　文二　重二<lb/>
+<hi>頭??蓋也象形凡囟之屬皆從囟臣鍇曰頭囟也思震反古文囟字/或從/宰肉/毛?象形?在囟上及毛??/?之形此與?文字同臣鍇</hi>
+<pb n="7b"/>
+<pb n="7b"/>
+<hi>鍇按曰虎通人之六情所以扶成五性喜怒哀樂??也自成反/人之陽气性善者也從心生?臣鍇曰五性仁義禮知信?陽所以五五陽數情屬?所以六六?數息令反/意也從心之?職吏切志也察言而知意也從心音?臣鍇曰通論詳矣乙記反/意也從心旨?臣鍇曰指手指也旨甘?也准此?意恉字古今假借多致紛雜職美反/外得於人?得于己從直從心臣鍇曰通論詳矣多則反/古/文/當也從心/?臣鍇/曰/鷹字于陵反/謹也從心??臣鍇曰通論詳矣時印反/古/文/敬也從心中/??蒙反/謹也從心??刻學反美也從心??臣鍇曰爾雅曰借藐字尨璞反/喜也從心夬/?苦夬反/康也從心<pb n="8a"/>豈?臣鍇按詩曰愷樂飲酒刻海反/快也從心/?臣鍇/曰今多作?輕帖反/常思也從心今?臣鍇按尚書曰我念爾祖常念之也??反/思也從心付?/臣鍇曰甫殳反/敏也從心目害省?臣鍇按禮曰發慮憲目與心應?敏希建反/平也從心登?臣鍇曰北史有薛?纏陵反敬也從心難?臣鍇曰今詩作熯我孔熯矣尼綰反/闓也從心斤?司馬法曰善者忻民之善閉民之惡希斤反/重厚也從心/軍?迂吻反/厚也從心<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>/?得昏反/慨也從心亢?一曰易?龍有悔看浪反/?慨壯士不得志也從心??臣鍇曰?自高亢憤激也苦蓋反愊也從心囷?苦?反/誠志也從心/??坡式反/謹也從心原?臣鍇曰尚書愿<pb n="8b"/>而和魚怨反/儇也從心彗?臣鍇/曰儇敏也?桂反/慧也從心??臣鍇按詩曰佼人憭兮?曉反/憭也從心交?臣鍇曰/佼人本此字根卯反/靜也從心??臣鍇曰列女傳曰后婉瘱伊閉反/敬也從心折?臣鍇曰古/以此字為哲字知苦反/樂也從心宗?臣鍇曰謝惠連詩曰瞻涂意小悰存公反/安也從心甜省?臣鍇曰/?子曰以恬養智亭嫌反/大也從心夾?臣鍇老子曰天網恢恢庫推反/肅也從心共?臣鍇/曰通論詳矣矩容反/敬也從心敬敬亦?巳皿反/仁也從心如/?失箸反/古/文/和也從心台?寅之反愛也從心??秦思反/愛也從心氏?臣鍇按/爾雅忯忯愛也翹移反/謹也從心全?七?<pb n="9a"/>反惠也從心因/?愛根反/高也從心帶?一曰極也一曰困劣臣鍇按禮曰音沾?笛計反問也謹敬也從心猌?一曰說也一曰甘也春秋傳曰昊天不憖又曰兩君之士皆未憖臣鍇曰猌音牛吝反皆未?皆未甘也言意未甘止也魚?反/闊也一曰廣也大也從心廣廣亦?一曰?也臣鍇按漢書武帝詔曰?僚???意困盎反/飾也從心戒?司馬法曰有虞氏悈于中國苟差反謹也從心?臣鍇曰/爰穩隱字從此於靳反/行賀人也從心?吉禮以鹿皮為摯臣鍇曰?行也?意丘病反/?嫺心腹?從心宣?/詩曰赫兮愃兮呼?反/順也從心孫?唐書曰五品不愻臣鍇曰今文尚書作遜蘇困反/實也從心塞省?虞書曰剛而塞臣鍇按詩曰其心?泉今皆<pb n="9b"/>作塞借也四再反/信心也從心旬?臣鍇曰詩恂/?旦都信?也今借洵息寅反/誠也從心冘?詩曰天命匪忱是吟反/思也從心隹/?與追反/念思也從心褱?臣鍇曰褱音懷抱也?埋反/欲知之?從心/侖??存反/冀思也從心相?臣鍇曰希冀所思之故史記司馬遷曰讀其書想見其為人息仰反/深也從心?/?夕位反/起也從心畜?詩曰能不我慉臣鍇曰與起同許郁反/滿也從心啻?一曰千萬曰/啻臣鍇曰/從此依色反/?文又省憂也從心官?古翰反/摎然也從心/翏?梨桃反/敬也從心客?春秋傳曰以陳備三?臣鍇曰經義三恪在二王後之上其禮轉降示敬而已今皆作恪客各反/懼也從心雙音?春<pb n="10a"/>秋傳曰駟氏愯臣鍇按漢書刑法志曰愯之以思奉反/恐也從心瞿/??芋反/古文恃也從心古?桓土反/?也從心恃/?辰上反/慮也從心曹?存公反覺也從心吾?頑乎反/古文/悟/愛也韓鄭曰憮一曰不動從心無?臣鍇曰今爾雅作憮勿撫反/惠也從心旡?臣鍇曰愛/字從此先音既晏再反/古/文/知也從心胥?臣鍇曰有才智也仙?反/安也從心/?一/曰恚怒也迂胃反/謹也從心?讀若毳臣鍇曰音/山芮反此芮反/箸也從心/?臣鍇曰/悲回思慮之也陳收反/朗也從心由?詩曰憂心且怞長宥反/<graphic n="KR2359" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2359.png" mimeType="image/png"/>撫也從心某?讀若侮/臣鍇曰撫愛之也勿撫反/強也從心<pb n="10b"/>文?臣鍇曰自強也眉均反/勉也從心莫?臣鍇按爾/雅注自勉強也莫度反/勉也從心面?彌件反/習也從心?/?余制反/勉也從心楙?虞書曰惟時懋哉臣鍇曰楙音茂莫透反/或/省/習也從心莫?臣鍇/曰通論詳矣莫度反/止也從心?七?反肆也從心??他沒反/趣???從心與?臣/鍇曰??美也尹女反/說也從心舀?臣鍇按春秋左傳曰日不悛以樂慆憂偷?反/安也從心厭?詩曰??夜飲臣鍇曰今詩作厭於?反/安也從心詹?臣鍇曰梁/有蕭憺梁武兄弟徒?反/無為也從心白?臣鍇曰按相如子?賦曰怕乎無為憺乎自持潘客反/憂也收也從心血?臣/鍇曰通論詳矣相聿反/極也從心<pb n="11a"/>干?骨安反/喜?也從心雚?爾雅曰<graphic n="KR0794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0794.png" mimeType="image/png"/>
+                        <graphic n="KR0794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0794.png" mimeType="image/png"/>愮愮憂也臣鍇按爾雅注賢者憂懼無所告也古翰反
+                        <graphic n="KR0794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0794.png" mimeType="image/png"/>也琅琊朱虛有?/亭從心禹?元無反/飢餓也從心叔?一曰憂/也詩曰惄如朝飢?反?也從心郤?臣鍇曰<graphic n="KR4067" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4067.png" mimeType="image/png"/>猶郤也其雀反/憸詖也憸利于上佞人也從心僉?七廉反息也從心曷?臣鍇曰愒猶憩豈例反/精戇也從心/毳?呼骨反/疾利口也從心冊?詩曰相時<graphic n="KR2548" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2548.png" mimeType="image/png"/>民臣鍇曰今皆/作憸冊所言?也/?意先廉反/褊也從心及?飢泣反憂也從心??一曰急必撚反/疾也從心亟?一曰/謹重/?已力反/急也從心瞏?讀若絹臣鍇曰?音珣均戰反/恨也從心巠/?其頸反/急也從心弦?河南/?縣有亭形先反</hi>
+<pb n="11b"/>
+<pb n="11b"/>
+<pb n="11b"/>
+<pb n="11b"/>
+<pb n="11b"/>
+<pb n="11b"/>
+<hi>悔恨也從心??虎配反/小怒也從心壴?臣/鍇曰壴音駐唱?反/忿也從心肙?一曰憂臣鍇曰悁猶狷也于旋反/?/文/不服懟也從心/央??唱反/煩也從心滿?免困反/懣也從心賁?臣鍇曰孔子曰不/憤不?俟其滿乃?之也符訓反/懣也從心門?免困反/失意也從心/周?丑羞反/望/恨也從/心長?田向反/太息也從心氣氣亦?詩曰愾我寤歎許意反/愁不安也從心喿?詩/曰念子懆懆此誥反/傷也從心倉?初訪反/<graphic n="KR0579" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0579.png" mimeType="image/png"/>也從心旦?臣鍇曰宋玉/風流賦曰中心<graphic n="KR0579" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0579.png" mimeType="image/png"/>怛多幹反/從心且詩曰信誓
+                        <graphic n="KR1556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1556.png" mimeType="image/png"/>
+                        <graphic n="KR1556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1556.png" mimeType="image/png"/>臣鍇曰今/詩作旦冕散反/痛也從心?/?七感切/毒也從心參?此嗿反<pb n="12a"/>痛也從心妻?七低反/痛也從心同?一曰呻吟臣/鍇按詩曰神罔時恫土蒙反/痛也從心非?府眉反/痛也從心則/?蔡色反/痛也從心?/?思益反/痛也從心敃?眉引反/痛也從心殷?臣鍇按詩曰/憂心殷殷本作此字意斤反/痛?也從心依?孝經曰哭不?臣鍇曰?之曲引也今孝經作偯殷豈反/?存也從心簡省?讀若簡臣鍇曰若尚書云簡在上帝之心艮限反/動也從心蚤?/曰起也素叨反/動人心也從心咸?臣鍇按易曰聖人感人心而天下和平詩曰無感我帨兮感動也苟坎反/不動也從心尢?讀若祐延救反??不憂事也從心虒?讀若移書爾反/怨仇也從心咎?臣鍇曰若春秋左傳楚人以咎子上伎酒反<pb n="12b"/>憂?也從心??羽文反/憂?從心?/?伊紏反/憂也從心羊?胤亮反憂也從心介??介反/憂懼也從心耑?詩/曰惴惴其慄支瑞反/憂也從心鈞?常倫反/憂也從心丙?詩曰/憂心怲怲兵永反/憂也從心炎?詩曰憂心如惔臣鍇曰如火熱也憂而心熱也秋南反/憂也從心??詩曰憂心惙/惙一曰意不定也誅劣反/憂也從心殤省?庶錫反/憂也從心秋/?燀搜反/憂?從心弱?讀與惄同泥?反憂困也從心舀?苦感切/憂也從心攸?臣鍇按春秋左傳曰悠悠乎深思而淺謀深思而憂也延秋反憂也從心卒?讀與易萃卦同奉醉反/憂也從心圂?一曰擾臣鍇按春秋左傳曰主不恩<pb n="13a"/>?胡頓反/楚潁之間謂憂曰/從心<graphic n="KR2773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2773.png" mimeType="image/png"/>/?臣鍇曰<graphic n="KR2773" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2773.png" mimeType="image/png"/>音釐柳嗜反/憂也從心于?讀若吁?于反/憂也從心中?詩曰憂心忡忡/臣鍇曰憂而心動也敕戎反/憂也從心肖?詩曰憂心悄悄臣鍇曰憂思低下也干眇反/憂也從心戚?臣鍇曰春秋左傳?人戚憂以重我憂近心之切也今作戚同干僻反/愁也從心頁?<graphic n="KR2147" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2147.png" mimeType="image/png"/>心形于??故從頁臣鍇曰一本愁憂字憂從此與憂別衣仇反憂也從心上貫??亦?臣鍇曰通論詳矣?慣反/古文從/關省/亦古文/從<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>心怯也從心匡匡亦?區王反/思?從心夾/?去?反/火气也從心聶?一曰服也?聶反/忌難也從心單?/一曰難也徒岸反/懼也從心卓?陳楚謂懼曰悼徒號反</hi>
+<pb n="13b"/>
+<pb n="13b"/>
+<pb n="13b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

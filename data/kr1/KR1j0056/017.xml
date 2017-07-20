@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益?玉篇卷第十七<hi>凡十四部</hi>
+︻　部二百五十五<hi>三十八字/於蹇切說文旌旗之斿?蹇之?又?蹇舞?今?偃</hi>
+旚<hi>匹?切旍旗旚?之?</hi>旖<hi>於我於蟻二/切旖旎旗?</hi>旎<hi>女綺切/上注</hi>?<hi>普皮切/旗靡也</hi>旞<hi>似醉切周?/至羽?旞/同上</hi>
+旐<hi>除矯切周?龜蛇?旐</hi>旆<hi>蒲具切?雅/?旐曰旆/居起切/失容也/於險切/旗也</hi>旅<hi>力与切?也/五百人?旅/古文</hi>
+旟<hi>弋於切周?馬集?旟/於業於嚴/二切掩光也</hi>?<hi>許非切動/也亦作揮</hi>?<hi>於了切/旗?名</hi>旃<hi>之延切周?/通帛?<graphic n="KR0999" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0999.png" mimeType="image/png"/>
+                    </hi>?<hi>同上</hi>
+?<hi>与昭切旌旗之旒名</hi>旒<hi>力周切旌旗/上綴垂者</hi>旛<hi>妨園切旌/旗?/名</hi>於<hi>?閭切居也又/倚乎切歎?/古/文/古文</hi>
+旄<hi>莫力切旄牛尾也/者持</hi>旝<hi>胡外切左傳/旝動而?</hi>旓<hi>所交切旌/旗?斿</hi>施<hi>舒移切施張也又弋鼓切施予也以枝切施二自得也必姚切旌旗飛揚?</hi>旌<hi>子盈切周?/析羽?旌</hi>旍<hi>同上見/?記</hi>旗<hi>巨基切熊虎?之旗也又旗亭市門?表也</hi>
+<graphic n="KR3813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3813.png" mimeType="image/png"/>
+                    <hi>文屈切切里所建旗亦/作勿</hi>旋<hi>徐?切周/旋?虧也</hi>族<hi>徂鹿切類/也又宗族</hi>旂<hi>渠衣切縣/旌於竿</hi>斿<hi>弋周切旌旗之未垂一作游</hi>
+︻勿部二百五十六<hi>凡三字</hi>勿<hi>?弗切非/也又旗也</hi>昜<hi>弋章切/飛也/?至切銛也快也古文利</hi>
+︻矢部二百五十七<hi>凡三十字</hi>矢<hi>尸視切箭也古/者牟夷作矢/同上/俗</hi>?<hi>時祜時益二切射弓也今作射又亦夜切</hi>
+短<hi>丁緩切長短也不長曰短/口羊且羊/二切傷也/孚法切/矢也/於巳切/短也</hi>矩<hi>枸羽切法也?/曰規方曰矩</hi>?<hi>同上</hi>
+矯<hi>凡兆切強也詐也揉也/丘吠切/嫁短小?</hi>?<hi>呼吠切/上注</hi>侯<hi>胡鉤切公侯/爵也又射侯/古/文</hi>?<hi>同上</hi>
+<pb n="1b"/>
+矰<hi>子登切結繳於矢也/必兮切/?短小?/子兮切/上注</hi>?<hi>尸忍切侃也</hi>矧<hi>同/上/同上</hi>
+?<hi>職劣切??短也</hi>矣<hi>諧凡切矣/巳語?/呼官切/短也</hi>矨<hi>牙冷切/小?</hi>知<hi>豬移切識也?也豬至切心術也</hi>
+矬<hi>才戈切矬然短也</hi>矲<hi>蒲楷切/矲短也</hi>?<hi>丁?切/犬短尾/徒了切矢名</hi>
+︻弓部二百五十八<hi>七十五字</hi>弓<hi>居雄切兵器?/帝臣楎作弓/乎計午悌二切語善射亦作羿</hi>
+?<hi>丁?丁昆二切天子弓名</hi>弤<hi>同上畫弓也又/丁?切舜弓名</hi>?<hi>火玄切/角弓名</hi>弨<hi>尺?切/弓弛?</hi>彉<hi>古鑊切張也/說文滿弩也</hi>?<hi>同上</hi>
+弧<hi>?都切弓?名又木弓/渠?切/切曲也/弋招切/弓利便</hi>?<hi>??切/施也</hi>?<hi>卑結卑計二/切弓戾也/同上</hi>
+彄<hi>苦侯切弓弩端弦所居也</hi>引<hi>余忍以振二切/開弓也援/也/羊忍切/挽弓也/与魚切/弓也/平忙切/弦急也/同上</hi>
+張<hi>陟良切開也施弓絃也</hi>彎<hi>於?切引/也曲也</hi>?<hi>居掾切/也</hi>弦<hi>奚堅切/弓弦繩</hi>弛<hi>尺?切去離/也弓解也/同上</hi>
+弘<hi>胡肱切大也語人能弘道</hi>?<hi>皮?切??/所以張弩也</hi>?<hi>女恚切/上注</hi>彌<hi>亡支切大也/?也甚也</hi>瓕<hi>同/上/同上</hi>
+彀<hi>古豆切張弓弩也弓滿也</hi>彏<hi>九縛切張/弓急也</hi>彃<hi>比溢切/射也</hi>彈<hi>?旦切又?丹/二切糾也擊也/同/上/同上</hi>
+弸<hi>悲矜切弓強也又普耕切</hi>?<hi>?葉切弓/??名/去堯切/引也</hi>弭<hi>亡爾切息也忘也止也/安也?也切弓無?也/同上</hi>
+<graphic n="KR0758" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0758.png" mimeType="image/png"/>
+                    <hi>他刀切弓衣所以藏弓也</hi>弩<hi>奴?切弓/有臂者/徒東切/弓飾</hi>彊<hi>巨章切弓堅也又其兩/切勉彊也說文弓有力</hi>強<hi>同上</hi>
+彋<hi>禹萌切弸彋帷帳趐?</hi>弰<hi>山交切弓/使箭也/同俊切/?也</hi>弝<hi>必罵切/弓弝也</hi>發<hi>甫越切明也進也駕車也生也</hi>
+<pb n="2a"/>
+<graphic n="KR3183" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3183.png" mimeType="image/png"/>
+                    <hi>於玄切弓上下曲中/普庚切又/作絣義同</hi>?<hi>之忍切/弓強也</hi>?<hi>五責切/束弓弩</hi>弮<hi>居阮切又去?切古縣名</hi>
+?<hi>先?切弭頭謂之?</hi>弶<hi>巨尚切施/置於道也/余章切/弓曲也/切兩切/弓曲也</hi>?<hi>??切佩袋囊或作韘</hi>
+?<hi>胡旦切史記拒??之口</hi>?<hi>巨魚切弓/力強?/古穴切/矢發也</hi>?<hi>巨勿切/強勇也</hi>弣<hi>孚主芳夫二切弓名也?吏切青州謂?為/吝女切/弓衣/必耕切/弓也</hi>?<hi>殂敢切/弓弝也</hi>?<hi>都狄切射中?又作的</hi>
+?<hi>於孤口孤二切弓蒲也持也指麾也引也張也亦作/陟迸切引榜也</hi>
+︻?部二百五十九<hi>凡六字</hi>?<hi>渠良切彊也又/巨兩切勉也/弋粥切育也又扶袁切養生也</hi>
+<graphic n="KR3190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3190.png" mimeType="image/png"/>
+                    <hi>皮密切捕弼也正也助也同上</hi>?<hi>古文</hi>弼<hi>今文</hi>
+︻斤部二百六十<hi>凡三十一字</hi>斤<hi>居?切斫木也/又十六兩為斤</hi>?<hi>竹角切斫/也雕也/同上</hi>
+斧<hi>方禹切兵利器刀斧也</hi>斨<hi>且羊切方/銎斧也/力可切/擊也/博稜切/斸也</hi>斯<hi>思移切析/也此也/古文</hi>
+斫<hi>之若切刀斫斬截也</hi>斪<hi>巨俱切器/名鋤?</hi>?<hi>魚斤切/二斤也/其愚切/斫也/又刮又芮/二切?也</hi>?<hi>同上</hi>
+斮<hi>側?切斬也?也削也</hi>斸<hi>竹足切斫/也或作钃/他彫切/斫也</hi>斷<hi>丁?徒?二切截/也又丁?切?也/古/文</hi>?<hi>俗用</hi>
+斬<hi>??切?也伐也斫也/思的切破/也分也</hi>釿<hi>牛引切/?也/枯婁切/也</hi>所<hi>師?切伐木?也又?所俗作所</hi>
+新<hi>思人切初也新鮮也美也/古額切殺/也亦作/時?切古/文誓字</hi>
+                    <graphic n="KR3768" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3768.png" mimeType="image/png"/>
+                    <hi>如略切/破也/知朔切刻也截也彫也</hi>
+<pb n="2b"/>
+︻矛部二百六十一<hi>二十八字</hi>矛<hi>莫侯切酋矛長/二丈建兵車/古/文</hi>矠<hi>又白側白二切兵器矛?力當切兵器矛?/口大切兵/器矛?</hi>?<hi>女六切/刺也/几偃切/矛?名</hi>
+                    <graphic n="KR1483" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1483.png" mimeType="image/png"/>
+                    <hi>千喚切兵/器鋋?/同上</hi>
+<graphic n="KR1689" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1689.png" mimeType="image/png"/>
+                    <hi>渠巾切矛柄也</hi>矜<hi>同上又居陵/切自賢也/呼的切/長矛名</hi>
+                    <graphic n="KR2559" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2559.png" mimeType="image/png"/>
+                    <hi>呼役切/矛?名/扶容切/<graphic n="KR2709" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2709.png" mimeType="image/png"/>/矛有二柄/同上</hi>
+<graphic n="KR2709" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2709.png" mimeType="image/png"/>
+                    <hi>如容切<graphic n="KR2709" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2709.png" mimeType="image/png"/>見上注/文買切/矛名</hi>?<hi>山卓切/矛柄名</hi>?<hi>犬冬切/刺矛也/時奢切短矛也亦作?子心切錐?名</hi>?<hi>居縛切/鉏?名/尺鍾切/短矛名/楚雙切/矛名</hi>?<hi>胡鉤切矛?也式之切矛也/說迸切/矛也</hi>?<hi>去的切矛也</hi>
+︻戈部二百六十二<hi>五十一字</hi>戈<hi>古禾切平頭?/長六尺六寸</hi>戎<hi>如終切兵也/說文作<graphic n="KR1967" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1967.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR1967" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1967.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+戛<hi>古?切?也常也擊也</hi>戣<hi>渠佳切兵/器??/古寒切/盾?名</hi>?<hi>居逆切三刃?也雄也/說文作?有枝兵也/同上</hi>
+戍<hi>舒樹切守也遏也人荷戈</hi>戰<hi>之膳切以兵/?謂之戰/之力切/歛也</hi>賊<hi>在則切?也傷害人/也說文作賊敗也/同上</hi>
+戕<hi>在良七良二切殘也殺也</hi>?<hi>他矯切長/也始也</hi>
+                    <graphic n="KR2617" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2617.png" mimeType="image/png"/>
+                    <hi>苦耽切/殺也/賊安切/多也</hi>?<hi>徒結切利也常也?名也在三苗東</hi>
+戩<hi>子踐切福也又伐?也</hi>或<hi>胡?切有/疑之?</hi>?<hi>古額切/?也/与章切/戈也</hi>戲<hi>折義切兵也又戲笑又??切古獲字割耳也与馘同</hi>
+                    <graphic n="KR2392" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2392.png" mimeType="image/png"/>
+                    <hi>子來切說/文傷也</hi>?<hi>如欲切/?也</hi>戙<hi>徒弄切/船杈木</hi>
+                    <graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>
+                    <hi>在節切齊也治也?也今作截</hi>
+戔<hi>在安切傷也賊也多也/莫侯切古/文矛字</hi>?<hi>音誅/戈也/各何切/戮也</hi>?<hi>詞立切古襲字輕師不備也一</hi>
+<pb n="3a"/>
+<pb n="4a"/>
+?<hi>孚至切刀握也或?弣</hi>?<hi>五各切鋒也/刀?刃也</hi>削<hi>思略切刻治也又思/妙切所以貯乃?刃</hi>則<hi>子得切/法也/古/文</hi>
+                    <graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+刈<hi>魚廢切獲也殺也取也</hi>刌<hi>?混切以/刀切?也</hi>釗<hi>之姚切?也剽也又/周康王名又古堯切</hi>剞<hi>名蟻切/刃曲也/同上</hi>
+利<hi>力至切銛也善也得財也</hi>剆<hi>力可切擊/也亦作</hi>切<hi>妻結切治骨也?也急/也又七計切一切也</hi>
+                    <graphic n="KR1403" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1403.png" mimeType="image/png"/>
+                    <hi>九勿九月二/切剞<graphic n="KR1403" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1403.png" mimeType="image/png"/>也</hi>劂<hi>同上</hi>
+?<hi>楚乙切傷割又割?</hi>?<hi>普未切刺/也斫也/古花切/割也</hi>
+                    <graphic n="KR4070" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4070.png" mimeType="image/png"/>
+                    <hi>下千切/剄也</hi>刻<hi>苦則切鏤也/怠也割也/古文</hi>
+剸<hi>徒官切截也旨?切切片</hi>
+                    <graphic n="KR3097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3097.png" mimeType="image/png"/>
+                    <hi>子本切?/也?也</hi>?<hi>古穴切/剔也/於景切/刺也</hi>割<hi>柯曷切/截也</hi>?<hi>古文</hi>
+剃<hi>他計切除?亦作?</hi>?<hi>力珍切削/也刮也/他彫切/剔也</hi>?<hi>而?切/刺也</hi>列<hi>力泄切說文/作<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>分解也</hi>
+                    <graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+<graphic n="KR1479" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1479.png" mimeType="image/png"/>
+                    <hi>俗列切尺律切割/也?也</hi>剜<hi>於丸切/削也/於嚴切/刑名也</hi>?<hi>於玄切桃/也剜也/古文</hi>
+刉<hi>九祈切刺也公外切?也</hi>?<hi>時正切餘/也不啻也</hi>?<hi>丁?切/琢也</hi>?<hi>居言切/剔也</hi>剺<hi>力咨切/?也</hi>?<hi>同上</hi>
+劉<hi>力牛切鉞殺也陳也又姓/楚佳切/刺也/所鑑切/刀/也</hi>?<hi>思錄切/細切也</hi>劃<hi>手麥切以刀/劃破物也</hi>劃<hi>古文</hi>
+?<hi>口干切削也定也除也</hi>刮<hi>古猾切麾/也削也</hi>?<hi>匹銳切/鉤也</hi>?<hi>力各切/剔也</hi>刲<hi>口圭切屠/也刺也</hi>
+                    <graphic n="KR2687" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2687.png" mimeType="image/png"/>
+                    <hi>同上</hi>
+刎<hi>亡粉切割也自刑也剄也</hi>?<hi>力向切奪/也亦作掠</hi>刓<hi>五九切/削也</hi>剴<hi>多九切/齊也</hi>劋<hi>子小切/?也</hi>剿<hi>同上</hi>
+刡<hi>莫忍切草?切刡削也/尺庸切刺/也亦作種</hi>劌<hi>居衛切/利傷也</hi>?<hi>?八切/?柱也</hi>制<hi>之?切法度也/裁也折也?也/古文</hi>
+刜<hi>扶弗孚弗二切斫也擊也</hi>剛<hi>古郎切不/柔也強也</hi>?<hi>七見切/切也</hi>劁<hi>才焦切/刈穫也</hi>劓<hi>魚器切割也/五刑截鼻者</hi>?<hi>同上</hi>
+<pb n="4b"/>
+判<hi>普半切分散也書判也/?治切刀/切物?</hi>?<hi>音監?/聚細切/力計切/割也</hi>刑<hi>?丁切法也/罰?名也</hi>?<hi>同上</hi>
+刖<hi>五?五刮二切?足/徂感切/也刺也</hi>
+                    <graphic n="KR3955" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3955.png" mimeType="image/png"/>
+                    <hi>力?切/?削也</hi>?<hi>古紅切/銍也/力一切?/也削也/同上所刮切剪也剃也又拭也</hi>?<hi>又?又芮/二切?也</hi>
+                    <graphic n="KR1833" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1833.png" mimeType="image/png"/>
+                    <hi>古火切/割也</hi>?<hi>丁盍切/?<graphic n="KR2505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2505.png" mimeType="image/png"/>也</hi>
+                    <graphic n="KR1184" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1184.png" mimeType="image/png"/>
+                    <hi>口號口郭二/切解也分割/籀文</hi>
+剫<hi>?各切治木也分剫也</hi>劑<hi>才細切剪/?也合?/而/切/削也</hi>?<hi>於溝切/剜也</hi>?<hi>比角切削也說/文裂也又卦名</hi>忉<hi>同上北角切与?字同</hi>
+                    <graphic n="KR3141" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3141.png" mimeType="image/png"/>
+                    <hi>魚劫七葉/二切接續/七鳩切/剋也</hi>
+                    <graphic n="KR3184" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3184.png" mimeType="image/png"/>
+                    <hi>先活切/割也/丁?切/?取也</hi>?<hi>同上</hi>
+劊<hi>古活切?也又古?/切</hi>剋<hi>口得切勝/也除也</hi>?<hi>之善切/伐擊也</hi>劇<hi>巨?切/甚也</hi>副<hi>普逼切拆也破/也芳?切二也</hi>?<hi>籀文</hi>
+刺<hi>目利切殺也七亦切針刺</hi>剄<hi>古今切以/刀割頸也</hi>
+                    <graphic n="KR2319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2319.png" mimeType="image/png"/>
+                    <hi>乙牙切/刎也</hi>?<hi>呼鑊切/裂也</hi>剒<hi>且落切?雅治犀謂之剒亦作錯</hi>
+剌<hi>力?切戾也恥也</hi>?<hi>丁?切細/切斫也</hi>
+                    <graphic n="KR2528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2528.png" mimeType="image/png"/>
+                    <hi>匹迷切/削也/魚乙切/?也</hi>
+                    <graphic n="KR3060" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3060.png" mimeType="image/png"/>
+                    <hi>仕?切<graphic n="KR3060" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3060.png" mimeType="image/png"/>草刀也又直吐切</hi>
+剡<hi>以冉切削也又剡剡光?</hi>?<hi>胡圭切?/也削也</hi>?<hi>徒溝切/?剜也</hi>?<hi>莫鹿切?桑也</hi>剽<hi>孚妙切史記行剽/殺人也削也<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>也</hi>
+?<hi>唯芮切?文銳字</hi>?<hi>丑全切削/也去枝也/力之切/直破也</hi>
+                    <graphic n="KR3642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3642.png" mimeType="image/png"/>
+                    <hi>盧?切/穿也/匹奚匹計二切斫也又方蔑切</hi>
+創<hi>楚良切傷也楚亮切始也</hi>劙<hi>力支切解/也分割也</hi>劘<hi>莫何切/削也</hi>刨<hi>薄茅切刨削也</hi>划<hi>公臥公禍二切/鐮也又刈<graphic n="KR2505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2505.png" mimeType="image/png"/>
+                    </hi>
+剴<hi>公哀五哀二切摩也切也</hi>?<hi>楚簡切削/也除也/力九切/割也/所罵切/刺也</hi>刳<hi>口孤力破腹也/空物腸也易刳木?舟</hi>
+?<hi>山俱公節二切刀割也</hi>劀<hi>公八切去/血也割也</hi>初<hi>楚居切/始?也/旨善切/攻也</hi>
+                    <graphic n="KR1524" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1524.png" mimeType="image/png"/>
+                    <hi>子踐子九二切剃髮也?也切也或作揃</hi>
+<pb n="5a"/>
+罰<hi>扶發切刑罰罪罰也</hi>剔<hi>他狄切解/骨也刮也/同上/屠也</hi>?<hi>符碑切/?也</hi>?<hi>歷低切姓氏又力脂切割也</hi>
+刪<hi>所奸切削也定也剟也</hi>?<hi>都忝切缺/也或作坫</hi>
+                    <graphic n="KR3766" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3766.png" mimeType="image/png"/>
+                    <hi>烏玄切/与?同/?護切裁刀也</hi>
+                    <graphic n="KR3025" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3025.png" mimeType="image/png"/>
+                    <hi>??切地理志/<graphic n="KR2172" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2172.png" mimeType="image/png"/>
+                        <graphic n="KR3025" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3025.png" mimeType="image/png"/>縣在武威</hi>
+刵<hi>而至切五刑耳曰/慈牋切古/文前字</hi>剭<hi>乙角切/刑也</hi>剕<hi>符沸切/刖也</hi>剮<hi>古瓦切刀剔肉值骨也說文作咼</hi>
+劍<hi>居欠切籀文?字/都?切古/文?字/北朋切/斫也</hi>?<hi>丁侯切/小裂也</hi>辨<hi>皮莧切具也亦辨論又/音片?雅革中?辨</hi>
+劈<hi>普辟切裂破也析也</hi>?<hi>先列魚乙/二切?也</hi>?<hi>下奚切/?也/口怪切/?也</hi>剖<hi>普后切破也中分也又析也五骨切船在水不安曰</hi>?<hi>郎石切劙/開也分割</hi>
+                    <graphic n="KR3922" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3922.png" mimeType="image/png"/>
+                    <hi>力活切/削也</hi>剟<hi>竹劣切/削也</hi>剉<hi>子?士?二切斫也去芒角也古滑切去惡肉也俗劀字</hi>?<hi>才侯切?/也細切也</hi>?<hi>口八切/与劫同</hi>?<hi>丘万切/契書</hi>?<hi>貞角切/刑也</hi>剪<hi>俗文翦字</hi>
+劖<hi>士咸切?也</hi>?<hi>仕弓切器/名鍤屬</hi>
+                    <graphic n="KR2505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2505.png" mimeType="image/png"/>
+                    <hi>古侯切/鐮<graphic n="KR2505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2505.png" mimeType="image/png"/>也</hi>刐<hi>得草切/割也</hi>?<hi>力竹切/削也/音瑣切也</hi>
+<graphic n="KR2634" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2634.png" mimeType="image/png"/>
+                    <hi>?丈切<graphic n="KR2634" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2634.png" mimeType="image/png"/>皮也/魚弔切/削也/去近切/削也</hi>?<hi>素奚切/皮也/丁盍切/著也/所流切刈也</hi>
+︻　部二百六十七<hi>凡四字/口八切佳/也巧/也</hi>栔<hi>苦結切開也?也其約即作契力灼切今作略籀文?/公八切骱刷刮也</hi>
+︻刃部二百六十八<hi>凡六字</hi>刃<hi>如振切刀/刃尖銛者/徒木切/刀傷也</hi>?<hi>居欠切軍器所帶兵也楚良切刀傷未合或作創</hi>?<hi>布角切古/文?字</hi>?<hi>楚良切說文傷也</hi>︻玉篇十七卷<hi>終</hi>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

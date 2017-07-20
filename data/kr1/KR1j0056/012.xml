@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+大廣益?玉篇卷第十二<hi>凡五部</hi>
+︻木部一百五十七<hi>八百二十二字</hi>木<hi>莫穀切位居東方甲乙也燧人氏?出火也說/文冒也冒地而生東方之行?<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>下象其根</hi>
+?<hi>而?切紅藍一曰棗似?</hi>橙<hi>除耕切木/果橘?</hi>橪<hi>於堅切橪皮香艸又/而善切酸卜棗也</hi>楷<hi>口駭切木名又楷式也又音皆</hi>
+?<hi>徒彫切柚?亦作條</hi>條<hi>徒彫切枝/條小枝也</hi>枸<hi>俱禹切其子可作醬/出蜀中亦作蒟字</hi>柅<hi>女几奴?二切木名又絡絲具</hi>
+栵<hi>力制力薛二切栵栭也</hi>
+                    <graphic n="KR0964" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0964.png" mimeType="image/png"/>
+                    <hi>鋤几切赤/?果也</hi>?<hi>古和切車缸盛膏/者又枋車收絲具</hi>末<hi>莫曷切端也盡也木上曰未</hi>
+棪<hi>餘冉切赤?似柰可食</hi>?<hi>居責切大/車軛也</hi>權<hi>具?切黃英木也/又稱鍾亦作</hi>榑<hi>附俱切榑桑神木日所?也</hi>
+李<hi>力子切果也左傳行李也</hi>杍<hi>古文李又/音子木工</hi>果<hi>古禍切草木實也/又果敢也信也</hi>朸<hi>旅得切木理也平原有朸縣</hi>
+梒<hi>胡諳切櫻桃亦作含</hi>櫻<hi>於耕切含/桃曰櫻桃</hi>榦<hi>柯旦切柘也又楨?/築垣版也又柄也</hi>栭<hi>如之切栭栗也又屋枅上標也</hi>
+桃<hi>??切桃李毛果也</hi>榹<hi>息移切山/桃似桃小</hi>標<hi>俾饒切木未也又/標?也又卑小切</hi>楨<hi>知京切堅木又楨幹築垣版也</hi>
+桂<hi>古惠切木名桂枝?名</hi>桋<hi>余脂切木/名?桋也</hi>欃<hi>仕杉切木蘭也/又楚咸切說也/同上又音托落也與籜同</hi>
+?<hi>所黠切木名子似茱?</hi>?<hi>力軌切/木名</hi>櫐<hi>同上/籀文</hi>栲<hi>苦道切木/名山?也/同上似荀切木名可?鉏柄</hi>柀<hi>碑詭切杉/木埋不腐</hi>?<hi>所咸切/木名</hi>杉<hi>同上</hi>梓<hi>?里切木名/桐梓琴材</hi>?<hi>同上</hi>
+栘<hi>余支成兮二切棠棣也</hi>栟<hi>俾名切木/名耕櫚也</hi>榛<hi>仕銀切/木叢生/子賤切/木名</hi>檟<hi>柯雅切山/楸木也</hi>榎<hi>同上</hi>
+<pb n="1b"/>
+枳<hi>居?諸氏二切果似橘</hi>楸<hi>且留切木/名梓?</hi>欏<hi>力多切/檖木也</hi>橞<hi>胡桂切/木名</hi>?<hi>辛兩切相/木實也</hi>橡<hi>同上</hi>
+楝<hi>來見切木也子可浣衣</hi>椅<hi>於?切椅/桐木楸也</hi>?<hi>如陵切/木也</hi>樲<hi>如至切/酸棗也</hi>楮<hi>丑?切楮/木可造?</hi>?<hi>同上</hi>
+槆<hi>相倫切杶也又丑倫切</hi>椿<hi>丑倫切木/名出莊子</hi>杶<hi>敕倫切/木似?</hi>?<hi>同上</hi>檴<hi>胡?胡郭/二切木名</hi>樗<hi>同上</hi>
+檜<hi>古?切木名?葉松身/於力切木/名梓?</hi>栺<hi>至而切/木名</hi>?<hi>補白切/松?也</hi>松<hi>徐容切木/名松?也</hi>?<hi>古文</hi>
+樅<hi>子庸七恭二切松葉?身</hi>棫<hi>胡逼切棫/木白桵也</hi>?<hi>婢?切/木名/里計切/木名</hi>某<hi>莫目切酸果/又音母我也</hi>?<hi>古文</hi>
+榮<hi>?明切榮華也又桐木/丘貴切木/也可?杖</hi>?<hi>俾質切/木名</hi>楋<hi>力?切/木名</hi>本<hi>??切始也/說文木下果</hi>?<hi>古文</hi>
+梔<hi>之移切木生?實可染/時渚切柔/栩今作杼/?革切/黃木名</hi>榶<hi>徒郎切/棣木也/口寒切書/隨山/木</hi>?<hi>同上</hi>
+栯<hi>餘六禹九二切木葉如梨</hi>杙<hi>余力切果/名又?也</hi>榖<hi>古斛切/惡木也</hi>檀<hi>?丹切/香名</hi>?<hi>時葉切豆/名虎櫐也/同上</hi>
+榣<hi>餘招切木名又樹動?</hi>枇<hi>婢脂切果/名枇杷也</hi>梂<hi>渠鳩切/??/徐?切/稔棗也</hi>樛<hi>居秋切木/下曲曰樛</hi>朻<hi>同上</hi>
+梗<hi>柯杏切梗直也又桔梗</hi>桔<hi>居屑切桔/梗?名</hi>梧<hi>午徒切/梧桐木</hi>桐<hi>徒東切/梓木也</hi>槸<hi>魚制切木/相摩也/同上</hi>
+?<hi>之夜舒預二切大木也</hi>柞<hi>才落子各/二切木名</hi>梇<hi>力棟切/木名</hi>?<hi>如振切/木名</hi>?<hi>苦道切木/枯?也</hi>槁<hi>同上</hi>
+?<hi>去諸切?极?上負版</hi>?<hi>力說力活/二切木名</hi>杈<hi>楚加切/枝也</hi>梃<hi>?頂切/梃木也</hi>
+                    <graphic n="KR2190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2190.png" mimeType="image/png"/>
+                    <hi>他洛切擊/木又作析</hi>柝<hi>同上</hi>
+槭<hi>子六切木名可作車?</hi>楛<hi>胡古切木/中作矢笴</hi>杏<hi>胡梗切/果名</hi>橚<hi>息六切/木長?</hi>模<hi>莫奴切法/也規也</hi>?<hi>同上</hi>
+<pb n="2a"/>
+朱<hi>之瑜切赤心木松?屬</hi>櫟<hi>來的切木名又舒灼/余灼二切櫟陽縣名</hi>植<hi>時職切根生之?又種/也又除吏切養蠶氣也</hi>?<hi>同上</hi>
+?<hi>子力切木名似松有刺</hi>杝<hi>直?切詩析薪杝矣謂/隨其理也又音移木名/思野切/案?名</hi>樹<hi>時注切木/緦名曰樹/?文</hi>
+?<hi>五浪五郎二切繫馬柱</hi>楂<hi>側加切水中浮木/也柴門也亦作查</hi>櫍<hi>之逸切/椹也</hi>朵<hi>都果切木上/垂又枝?也</hi>?<hi>同上</hi>
+枵<hi>許朝切玄枵十二辰名</hi>枕<hi>之稔切?頭所薦也又/車後?木又之賃切</hi>栻<hi>丑力切/局也</hi>柄<hi>必命切柯柄/可把又權也</hi>?<hi>同上</hi>
+橈<hi>奴教切曲木如昭切小楫</hi>欘<hi>知?切枝上曲一曰/斤柄又斫也或作斸/力桃切/木名</hi>梁<hi>音良梁棟/又水橋也</hi>渿<hi>古文</hi>
+枎<hi>輔虞切扶?木四布也</hi>?<hi>胡廣切所以支器也/一曰惟?屏風屬</hi>樇<hi>息流切/木名</hi>?<hi>仕良切几安身及坐具也</hi>床<hi>俗</hi>
+格<hi>柯額切式也量也至也</hi>棈<hi>才見切木/名亦作</hi>?<hi>所臻切/?盛?</hi>?<hi>下板切/大木?</hi>樘<hi>?郎丑庚二切/柱也又音橖</hi>橕<hi>同上</hi>
+樸<hi>普角切木素普卜切叢木</hi>梢<hi>所交切木/未小柴也</hi>?<hi>子了切/木忽?</hi>?<hi>何格切/角械也</hi>檐<hi>余?切屋/檐前也</hi>?<hi>同上</hi>
+柔<hi>如周切軟弱而不剛也</hi>椇<hi>俱禹切木/名枳椇也/呼骨切/?也/同上</hi>榍<hi>先結切木名/說文限也/同上</hi>
+杲<hi>公老切杲杲明也白也</hi>枌<hi>扶云切枌/木白榆也</hi>杕<hi>徒計切/木盛?</hi>槏<hi>去咸切/?也</hi>櫝<hi>徒穀切匱也/木名又小棺</hi>?<hi>同上</hi>
+杳<hi>於鳥切深也杳冥也</hi>枋<hi>甫亡切木/可作車</hi>櫙<hi>於侯切/木名</hi>樓<hi>落侯切/重屋也</hi>櫛<hi>側瑟切梳/枇之?名</hi>楖<hi>同上</hi>
+楊<hi>余章切楊?枝直不垂</hi>柳<hi>力酒切楊/柳垂條木</hi>?<hi>說文/柳字</hi>檉<hi>敕貞切說/文河柳</hi>?<hi>詳里切重/也與耜曰</hi>梩<hi>同上</hi>
+<graphic n="KR1712" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1712.png" mimeType="image/png"/>
+                    <hi>武官莫昆二切木名又音/朗</hi>欒<hi>魯官切木/名似欄</hi>?<hi>奴遘切/器也</hi>?<hi>烏角切/木帳也</hi>?<hi>弋之切耒端/木也亦作鈶/?文</hi>
+<pb n="2b"/>
+栽<hi>子來切築牆版又昨代切</hi>棣<hi>徒計切唐/棣栘也</hi>?<hi>故詣切?/枸相也</hi>欀<hi>人向切/道木也</hi>桮<hi>?回切?/也桮棬也</hi>杯<hi>同上</hi>
+檥<hi>義?儀倚二切整舟也</hi>?<hi>思漬切/肉几名</hi>?<hi>同上又/思井切/同上</hi>槃<hi>?干切器也/或作盤?</hi>柈<hi>同上</hi>
+?<hi>力同切房室之疏亦作櫳</hi>柘<hi>之夜切桑/柘亦作?</hi>?<hi>於簟切/山桑</hi>朽<hi>?柳切/腐也</hi>椷<hi>古咸胡緘二切/木名杯也篋也/同上</hi>
+楔<hi>革?切門房木又先結切/千栗切木/也可為杖</hi>?<hi>居媛切/牛鼻?</hi>?<hi>楚愁切/牛?也</hi>楥<hi>吁萬切履法楥履具</hi>楦<hi>俗</hi>
+桓<hi>胡端切木名又桓柦武?</hi>橎<hi>甫袁甫?/二切木名/去狂切/棺?門</hi>?<hi>先葛切/??也</hi>栒<hi>思尹切縣鍾/?者亦作簨/同上</hi>
+桯<hi>?經它丁二切?前几也</hi>榆<hi>庾朱切榆/木白枌也</hi>棻<hi>妨云切/香木也</hi>村<hi>千昆切/坊市也/先刀切舡/名或作艘</hi>?<hi>同上</hi>
+?<hi>於?切?溏木又?器也</hi>樵<hi>昨焦切木/薪燔火者/占?切/篋也/上支切/確衡也</hi>杻<hi>敕九切杻/械獄具也</hi>杽<hi>同上</hi>
+?<hi>居業公荅渠業三切?柙</hi>机<hi>飢雉切木/出蜀中</hi>欋<hi>具俱切/四齒杞</hi>?<hi>待骨/植也</hi>?<hi>古莫切?/棺謂之?</hi>槨<hi>同上</hi>
+櫺<hi>力庭切屋招也楯間子也</hi>楰<hi>俞主切耕/器楸?</hi>桭<hi>之仁切/屋梠也</hi>?<hi>同上</hi>椒<hi>子姚切<graphic n="KR3384" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3384.png" mimeType="image/png"/>/也?椒也/同上</hi>
+榙<hi>胡荅切果名又音荅</hi>
+                    <graphic n="KR3279" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3279.png" mimeType="image/png"/>
+                    <hi>杜荅切榙/<graphic n="KR3279" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3279.png" mimeType="image/png"/>木似李</hi>?<hi>五各切/?也</hi>柍<hi>於兩切/木實了</hi>枻<hi>余?切枻/柁楫也</hi>?<hi>同上</hi>
+案<hi>於旦切几屬又食器也</hi>?<hi>余舟切木/名可為器</hi>?<hi>似宣切/圜案也</hi>梜<hi>公洽切/?柙也</hi>?<hi>亡質切香木/斫?乃香出</hi>榓<hi>同上</hi>
+梋<hi>古玄切盂?詞玄切木名</hi>柢<hi>丁計切柢/木根也</hi>
+                    <graphic n="KR3282" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3282.png" mimeType="image/png"/>
+                    <hi>口頓切/古文困</hi>榰<hi>之移切/材也</hi>杴<hi>計嚴切耕/士具鍬屬/同上</hi>
+柱<hi>雉縷切楹也株主切塞也</hi>?<hi>於靳切棼/也棟也</hi>棟<hi>都貢切/屋極也</hi>楹<hi>余成切/柱也</hi>
+                    <graphic n="KR4221" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4221.png" mimeType="image/png"/>
+                    <hi>古祀乖買二/切老人杖也</hi>柺<hi>同上</hi>
+<pb n="3a"/>
+株<hi>陟俱切根株木根也</hi>根<hi>柯恩切木/根生入地</hi>
+                    <graphic n="KR1712" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1712.png" mimeType="image/png"/>
+                    <hi>皮祕切木名?蜀中</hi>?<hi>補木普木二切堅也苞也又?/卜切?<graphic n="KR0554" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0554.png" mimeType="image/png"/>小木亦作樸又縣名</hi>
+枝<hi>之移切木枝枝梢也</hi>朴<hi>普角普木/二切本也</hi>枚<hi>莫回切枝/也又箇也</hi>枒<hi>魚嫁切木名又丈?切木?/交??千丈葉在其末也</hi>
+栠<hi>如甚切栠栠木/?</hi>?<hi>於嬌切?/?木盛?</hi>桹<hi>力唐切桹/然?木也</hi>槮<hi>所錦切木實作罧同?取魚者又楚今史今二切木長?</hi>
+柚<hi>羊宙切果似橘而大</hi>?<hi>時昭切?/?樹相?</hi>枉<hi>紆往切裏/曲又冤枉</hi>桴<hi>方無扶留二切屋隱也又語?桴浮于海注編竹木小者曰桴</hi>
+梴<hi>丑連切梴梴木長?</hi>築<hi>?六切檮/也古作</hi>構<hi>古候切架/屋也造也</hi>極<hi>渠億切棟也皇極極中也又至也盡也?也?也</hi>
+楶<hi>子結切欂櫨?也</hi>梀<hi>山革切赤/梀木也/莫到切門/樞?梁也</hi>檹<hi>於?切木長賈侍中說?郎椅也又檹柂不正?</hi>
+欂<hi>補各弼?二切?也</hi>楗<hi>渠偃切?/楗與鍵同</hi>?<hi>子廉切偰/也或作?</hi>槶<hi>古誨切/筐也</hi>枰<hi>皮兵皮柄二切枰仲木名又博局也</hi>
+柵<hi>楚洛切編?木為欄/徒紅切竿/也或作憧</hi>杠<hi>古厖切長/杠旗竿也</hi>
+                    <graphic n="KR3031" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3031.png" mimeType="image/png"/>
+                    <hi>所銀切/杠也</hi>柮<hi>當骨切榾柮木頭又五滑切?也</hi>
+榻<hi>恥獵切床狹而長</hi>梳<hi>所於切可/理?具也</hi>
+                    <graphic n="KR3917" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3917.png" mimeType="image/png"/>
+                    <hi>胡的胡革/二切燒麥</hi>柭<hi>蒲葛切/矢箭未</hi>樏<hi>力追切山行所?又力詭切扁榼也</hi>
+柶<hi>思至切柶角匕也</hi>杵<hi>齒與切杵/?舂具也</hi>桱<hi>公定切桯/也又木名</hi>?<hi>武?切/木名</hi>?<hi>皮?切門柱上欂櫨亦作閞</hi>
+櫑<hi>力回切木器亦作</hi>椑<hi>薄雞切斧/柯又圓榼/俱錄切器/舉食者</hi>楟<hi>徒丁切/柰果名</hi>杓<hi>甫?都?二切斗柄又市若切</hi>
+檕<hi>公悌切繘耑木也</hi>槌<hi>紂愧切植/也?槌也</hi>?<hi>余章于郎/二切槌也</hi>椓<hi>都角切/擊?也</hi>橢<hi>敕果切狹長也車笒中橢器也</hi>
+梯<hi>它奚切竹木階也</hi>棖<hi>宅行切門/西傍木也</hi>椎<hi>直追切木/器椎也</hi>?<hi>?恩切/平量也</hi>橇<hi>丘喬切行泥?者/亦作又子?切</hi>
+<pb n="3b"/>
+楱<hi>且豆切果木也橘?</hi>杭<hi>胡剛切州/名又槽?/胡懶切以/輔木轉也</hi>棉<hi>?羶切/木名同上</hi>?<hi>同上</hi>
+椵<hi>大館切瑕木似楊</hi>?<hi>距於切藩/落篱也</hi>棴<hi>扶木切木/名出崑崙</hi>楓<hi>甫紅切/香木</hi>?<hi>居?切/格也</hi>?<hi>子忍切盂也</hi>
+檣<hi>才羊切舡檣帆枉也/附俱切草/木子房</hi>?<hi>丁了切木/也與蔦同</hi>椈<hi>居六切/?椈也</hi>?<hi>古刀切/桔?也</hi>梑<hi>徒的切梑?也</hi>
+?<hi>於管切小盂亦?器</hi>楺<hi>如酉切楺/屈木也</hi>樟<hi>之楊切木/名豫樟也</hi>櫫<hi>竹余切/楬也</hi>
+                    <graphic n="KR3693" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3693.png" mimeType="image/png"/>
+                    <hi>女閭切/杷<graphic n="KR3693" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3693.png" mimeType="image/png"/>也</hi>?<hi>普庚切木弩也</hi>
+棝<hi>公路切?斗可射?</hi>?<hi>牛狄切?/舟亦作艗/於可切/橠木盛?</hi>橠<hi>乃可切/橠</hi>?<hi>因廉切/木細葉</hi>?<hi>倚儉切柰也</hi>
+桄<hi>古?切桄楖木名</hi>朾<hi>徒丁切橦/也又音汀</hi>橫<hi>胡觥胡孟/二切閑木</hi>槳<hi>子?切/楫屬</hi>櫂<hi>馳效切?也</hi>棹<hi>同上</hi>
+?<hi>遵?子遂二切地名</hi>槎<hi>仕雅切斫/也與查同</hi>榾<hi>古忽切枸/榾木中箭</hi>榽<hi>遐雞切/橀木名</hi>橀<hi>呼溪切/榽橀/同上俗</hi>
+柧<hi>古胡切柧棱木名</hi>棱<hi>力?切柧/棱木也</hi>梡<hi>口管胡管/二切木名</hi>欓<hi>多朗切/茱?也</hi>栓<hi>山全切/木釘也/巨列切木釘也</hi>
+?<hi>胡本切木未破也/古部切竟/也今作旦</hi>樔<hi>仕交切澤/中守草?</hi>椊<hi>昨骨切/柱頭?</hi>槦<hi>余鍾切/木名</hi>?<hi>丁格切?櫨也</hi>
+休<hi>?鳩切休息也養也</hi>棲<hi>思奚切鳥/棲亦作栖</hi>櫪<hi>力狄切櫪/?柙指也</hi>?<hi>先奚切/櫪?也</hi>?<hi>子田切/古文牋/午載切與礙同</hi>
+械<hi>亥誡切器仗也桎梏</hi>桎<hi>之實切在/足曰桎</hi>梏<hi>古篤切在/手曰梏/他力切/古文直/且接切/飯臿也/?感切木名</hi>
+櫳<hi>力東切檻也牢也</hi>柙<hi>胡里切木/柙檻也</hi>檻<hi>下[黑*敢]切闌/也檻楯也</hi>枔<hi>才心切/木葉</hi>杬<hi>魚袁切/木名</hi>?<hi>所角切木名</hi>
+櫬<hi>楚?切親身棺也</hi>楬<hi>渠列切有/耒識之稱</hi>?<hi>瞿龍切小/舟亦作<graphic n="KR4699" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4699.png" mimeType="image/png"/>
+                    </hi>橏<hi>之善切/木榴也</hi>?<hi>立結切/木索也</hi>?<hi>公八切?鼓也</hi>
+<pb n="4a"/>
+櫨<hi>來都切木名又柱上柎也</hi>楣<hi>母悲切屋/?櫋也/終栗切/也</hi>椽<hi>馳宣切/榱椽也</hi>桷<hi>古?切/榱也</hi>橑<hi>梁道切榱也</hi>
+枅<hi>結奚結賢二切方木也/?聖切屋/櫋?也</hi>椳<hi>郁?切/?樞也</hi>榱<hi>所龜切/桷椽也/弼?切/壁柱也</hi>榼<hi>苦閣切酒?</hi>
+?<hi>婢脂椑抵二切屋梠也</hi>梠<hi>力語切梠/楣持也</hi>?<hi>七紅切/尖頭檐</hi>?<hi>?項切/?棒也</hi>棒<hi>同上</hi>棓<hi>同上又枷連也</hi>
+橝<hi>大玷切梠也大/切木名</hi>樀<hi>都?切檐/屋梠也</hi>棦<hi>?耕切/木束也/力追切/木實也</hi>檭<hi>魚巾切/木名</hi>榕<hi>余鍾切木名</hi>
+杗<hi>武方莫當二切屋大梁</hi>樞<hi>齒朱切?/樞又機也</hi>棡<hi>古郎切/?木也</hi>槻<hi>吉雖切/木名</hi>?<hi>作蒿也/木名/必厖切木名</hi>
+梀<hi>丑足七足二切短椽又木名</hi>楯<hi>時允切欄/?亦作盾</hi>?<hi>莫耕切/木心</hi>橩<hi>巨營切/木名</hi>棈<hi>七精切/木名/則此切木名</hi>
+槾<hi>莫干莫旦二切杆槾也</hi>杵<hi>於胡切杆/槾塗也</hi>?<hi>于軍切/木文也/主營切/木名</hi>?<hi>詞林切/木名</hi>椼<hi>余闡切木名</hi>
+楎<hi>呼?切栻也又?轅頭也</hi>梱<hi>苦本切門/橛梱也</hi>栦<hi>時?切/栦木也/力舟切/木名/息邪切/木名</hi>樉<hi>色?切木名</hi>
+?<hi>胡瓜切?刃臿也亦作鏵</hi>柌<hi>似咨切柌/鎌柄也/句?切/?臿也</hi>枮<hi>思尖切/木名</hi>?<hi>都勞切/木名</hi>?<hi>式荏切木名</hi>
+櫌<hi>於求切摩田?也椎也</hi>柫<hi>甫物切連/枷打穀者</hi>杷<hi>?牙切/取麥?/胡昆切/木名</hi>桍<hi>苦胡切/木名</hi>?<hi>昨官切木叢</hi>
+?<hi>柯?切乎斗解也又梗?</hi>杚<hi>同上又古/?切平也</hi>栚<hi>直荏切/?槌也</hi>?<hi>於?切/木名/時春切/木名/如累切木名</hi>
+?<hi>陟革切槌?木?西謂之?</hi>?<hi>同上/古文</hi>?<hi>而諸切/木名</hi>檯<hi>徒來切/木名</hi>椔<hi>側師切木枯死</hi>
+檷<hi>奴底切木也絡絲柎也</hi>?<hi>下交切?/桃梔子也</hi>棯<hi>而審切/果木名/竹旨切/枝/也</hi>檑<hi>力推切木名</hi>
+                    <graphic n="KR1498" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1498.png" mimeType="image/png"/>
+                    <hi>所還切/木<graphic n="KR1498" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1498.png" mimeType="image/png"/>
+                    </hi>
+<pb n="4b"/>
+機<hi>居衣切弩平又樞機機權/先和切織/具亦作梭</hi>槽<hi>徂毫切/馬槽也</hi>楮<hi>丑?切/穀也</hi>?<hi>紀?切山行所?以?施屐下又丘喬切</hi>
+?<hi>詩證切機持經者</hi>杼<hi>持?切機/?緯者</hi>?<hi>扶?切機/持繪者</hi>
+                    <graphic n="KR2503" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2503.png" mimeType="image/png"/>
+                    <hi>力掌切/松脂也</hi>棑<hi>皮拜切舡後棑木又?街切筏也</hi>
+棚<hi>皮莖部登二切閣棧也</hi>檓<hi>欣詭切大/椒謂之檓</hi>枓<hi>都口切/栱枓/?巧切/?名</hi>樺<hi>胡化切木名皮可?燭又?瓜切</hi>
+核<hi>?革?骨二切果實中也</hi>榭<hi>詞夜切臺/有木曰榭</hi>柁<hi>徒可切/上舡木</hi>柅<hi>与支切/舡名</hi>槱<hi>於宙切燎木以祭天也與楢同</hi>
+栫<hi>在見切木也柴木壅水也</hi>?<hi>力制切木/名子如栗</hi>橖<hi>徒郎切/車橖也/呼改切/酒?名</hi>棸<hi>直流側鳩二切姓也又士?切木名</hi>
+樴<hi>之力徒得二切係牛杙也</hi>?<hi>巨月居身/二切門梱</hi>柧<hi>側孝切/木刺名</hi>椸<hi>音移衣/架也</hi>?<hi>魚稽切車轅持衡木也與?字同</hi>
+棧<hi>仕板切棚也一曰竹木車</hi>梐<hi>蒲?切梐/枑/牢具</hi>枑<hi>胡故切/梐枑</hi>?<hi>盧可切/?椏</hi>椏<hi>於加切木椏杈又烏可切?椏樹斜</hi>
+槿<hi>渠巾切柄也居隱切木名/思計切/陽山名</hi>楘<hi>音木車/??也</hi>檢<hi>居險切/書署也</hi>桲<hi>蒲骨切令連枷打榖者又?桲果名</hi>
+?<hi>乙交切相也皆鎌柄也</hi>枘<hi>而銳切柄/也枘鑿也</hi>?<hi>於皮切/田?</hi>榤<hi>音桀/杙也</hi>椹<hi>?金切?椹斫木櫍或作?時枕切桑子</hi>
+棤<hi>思亦切棤皵皮甲錯也</hi>?<hi>所六切櫪/也飼馬具</hi>?<hi>丑利切/?柄也/同上又/女几切</hi>棬<hi>去權切屈木盂又居媛切拘牛鼻亦作?</hi>
+?<hi>時燭切木名大葉似?</hi>?<hi>古穴切?/也亦盂也/宋說切/栭也</hi>檮<hi>徒勞切/?木</hi>杌<hi>五骨切樹無枝又傳曰檮杌</hi>
+?<hi>無?切車?也與輞同</hi>?<hi>卑民切木/名?榔也</hi>?<hi>?狄切/鐘?也/徂活切/木錐也</hi>欐<hi>力底力計二切小舡又梁棟名又所?切弋周切木更生也與由同</hi>楩<hi>鼻綿切木/名似豫樟</hi>寨<hi>柴夬切/軍宿?</hi>棐<hi>方尾切/輔也</hi>?<hi>居奉居辱二切?手同?亦作拲</hi>
+<pb n="5a"/>
+?<hi>時聿切穀也直律切?名</hi>棜<hi>於據切棜/?也几?</hi>柛<hi>始神切/木自斃</hi>?<hi>魚割切/餘也</hi>
+                    <graphic n="KR2305" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2305.png" mimeType="image/png"/>　??<hi>並同上</hi>
+橋<hi>巨嬌切梁也又居召切</hi>榷<hi>吉?切水/上?木渡</hi>梌<hi>丈加切/刺木也</hi>杆<hi>公旦切/檀木也</hi>?<hi>力葉弋?二切柶大端也</hi>
+?<hi>??切海中木舡亦作</hi>?<hi>是支切匕/名今作匙</hi>?<hi>色盞切/木名/吉忍切/木也</hi>欄<hi>力寒切欄檻以木為之</hi>
+欚<hi>力底切江中大舡又作<graphic n="KR4045" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4045.png" mimeType="image/png"/>
+                    </hi>檡<hi>舒亦切徒/革切棗也</hi>檖<hi>夕醉切/木名/同上</hi>桅<hi>具彼切木名五回切舡竿</hi>
+楫<hi>才立子葉二切行舟具也</hi>?<hi>?胡切木/枝四布</hi>?<hi>息進切/木名</hi>?<hi>胡貫切/木名</hi>檛<hi>竹華切?也椎也與簻同</hi>
+析<hi>思狄切分也破木曰析薪</hi>橨<hi>扶云切枰/仲木?名</hi>檔<hi>都郎切床/也又木名</hi>?<hi>子眠切/小栗名</hi>?<hi>古換切木叢生也今作權</hi>
+棷<hi>側尤?垢二切木也柴也</hi>?<hi>古勞切所/以進舡</hi>梫<hi>亡任予禁/二切木名</hi>?<hi>口練切/木名</hi>樾<hi>禹月切?樹交?之下</hi>
+楪<hi>余陟切牖也又楪榆縣名</hi>?<hi>同上又与/?切薄也</hi>榪<hi>莫?切床/頭?木/烏縣切/木曲</hi>栺<hi>五計切枍栺又音脂栭木</hi>
+楄<hi>扶田切楄柎也又方木也</hi>樽<hi>子昆切酒/?亦作?/側吏切/木名/式志切/木名/力戈切木也材中箭笴</hi>
+楅<hi>甫六切持牛木又音逼</hi>?<hi>?孤切棗/也亦作?</hi>?<hi>他念切/木杖也</hi>栝<hi>說文/同上</hi>橛<hi>渠月切橛株山名亦作?</hi>
+榬<hi>禹煩切絡絲具或作/弋之切舡/戽斗曰</hi>?<hi>言戀切木/也皮似絹</hi>
+                    <graphic n="KR3721" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3721.png" mimeType="image/png"/>
+                    <hi>郎?切/木名</hi>?<hi>於渾切柱也於勃切果也</hi>
+校<hi>胡教切械也古效切檢也</hi>?<hi>公棟切小/柸亦作</hi>?<hi>力度切/桐木也</hi>?<hi>力篤切/木名</hi>杺<hi>思林切木名又車鉤心木</hi>
+采<hi>且在切色也采取也事也</hi>?<hi>於胡切?槦/木中箭笴/薄計切/木名</hi>?<hi>式閏切/木名</hi>楞<hi>力登切木楞也亦作稜</hi>
+<pb n="5b"/>
+柿<hi>蒲?孚吠二切枝附也</hi>?<hi>力?切木/中箭笴者</hi>?<hi>尼革切/木名</hi>杪<hi>彌紹切/木未也</hi>棎<hi>時占切果名似奈而酸</hi>
+棺<hi>古丸切棺?古?切歛也</hi>樍<hi>子狄切檉/木別名</hi>?<hi>符目切/木梁?</hi>椌<hi>口江切/?器</hi>杋<hi>扶嚴切此木皮俗呼水桴</hi>
+槄<hi>他刀他活二切山榎也</hi>橔<hi>大?切棺/?覆也/他?切/杖指也</hi>柎<hi>方?切/花?足</hi>?<hi>祖東切?櫚也一曰蒲葵</hi>
+橭<hi>古胡切木名木四布也</hi>枃<hi>子吝切織/者梳絲具</hi>?<hi>音其博/弈?也</hi>?<hi>下江切/?雙也</hi>櫚<hi>力居切?櫚木耕櫚也</hi>
+櫰<hi>古回?乖二切與槐同</hi>檞<hi>佳買切松/?木也/胡甲切/檻/也</hi>?<hi>直舌切/棗也</hi>樁<hi>陟江切橛也書容切橦也</hi>
+栱<hi>居?渠恭二切杙大者/於兮切弩/楔木也</hi>檅<hi>息銳切/小棺</hi>朳<hi>兵?切/無齒杷</hi>?<hi>彌連切木也有子似栗</hi>
+橧<hi>才陵切豕所?又子登切</hi>榯<hi>是之切樹/木立也</hi>榨<hi>側嫁切/打油具</hi>柆<hi>力合切木/也析木也</hi>?<hi>多連切木梢之忍切木?</hi>
+?<hi>?本切軬車也亦車弓也/子移切?榪/木?可食</hi>欈<hi>俞規切/欈</hi>檎<hi>其吟切/林檎果</hi>
+                    <graphic n="KR2491" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2491.png" mimeType="image/png"/>
+                    <hi>居言切<graphic n="KR2491" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2491.png" mimeType="image/png"/>子樗蒲采也</hi>
+板<hi>補簡切木片也與版同</hi>橄<hi>古覽切果/木橄?也</hi>欖<hi>盧敢切/橄欖</hi>朹<hi>渠鳩切果/名朹繫梅</hi>枹<hi>縛謀切鼓槌又百交切</hi>
+柩<hi>渠救切只在棺其棺曰柩/都憒切車/亦作</hi>柲<hi>筆媚切/?柄也</hi>
+                    <graphic n="KR2002" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2002.png" mimeType="image/png"/>
+                    <hi>丈加切苦/<graphic n="KR2002" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2002.png" mimeType="image/png"/>名也</hi>榜<hi>蒲萌切輪弩又北孟切</hi>
+槤<hi>力前切木名又??木也</hi>?<hi>力預切似/葛而?大</hi>?<hi>古?切/杖也</hi>榠<hi>亡零切/榠果木也</hi>材<hi>昨來切木梃也又材幹也</hi>
+槍<hi>千羊切岠也木?頭銳也柢也又楚庚切欃槍星</hi>櫡<hi>陟略切/斫也</hi>柉<hi>扶嚴切木/皮可?索/吉口切/??名本作枸</hi>
+槥<hi>?綴木芮二切漢書槥師古云小棺又音歲</hi>?<hi>於謹切/?栝也</hi>?<hi>如神切屋/上間?也</hi>橉<hi>力進力盡二切木名又門限</hi>
+<pb n="6a"/>
+桾<hi>居云切桾櫏木出交趾</hi>櫏<hi>且連切木/名桾櫏/同上</hi>栴<hi>章延切梅/檀香木也</hi>?<hi>子回切木?節也</hi>
+桁<hi>下庚切屋桁胡剛切大械</hi>?<hi>都和切木/之未也</hi>?<hi>公節切?/?以汲水</hi>槐<hi>?灰?乖二切槐木</hi>
+                    <graphic n="KR2714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2714.png" mimeType="image/png"/>
+                    <hi>??切杓也/??<graphic n="KR2714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2714.png" mimeType="image/png"/>也</hi>
+?<hi>息典切木也俗曰雷鳴子</hi>櫧<hi>之餘切木/冬不凋者</hi>檽<hi>乃豆切木/名皮可染</hi>?<hi>余遮切?/子木名也</hi>櫯<hi>先胡切櫯木可染緋以整切棗也似柿而小</hi>櫞<hi>尹全切果/木似橘者</hi>楉<hi>如灼切木/名楉榴也</hi>枕<hi>于牛切枕木樟屬</hi>
+                    <graphic n="KR3899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3899.png" mimeType="image/png"/>
+                    <hi>力舟切扶/<graphic n="KR3899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3899.png" mimeType="image/png"/>藤名</hi>
+?<hi>唐左切船尾小梢與柁同</hi>榴<hi>力周切果/木石榴也</hi>檬<hi>亡公切木/名似槐也</hi>欞<hi>朗丁切/長木</hi>?<hi>詞倫切木名亦柄</hi>
+柴<hi>仕皆切小木散材可燔者</hi>桸<hi>?衣切木/名汁可食</hi>枌<hi>於計切枍/栺?名</hi>榩<hi>渠言切椹/也?也/子回切節木亦作?</hi>
+?<hi>扶支切??木下枝又方奚切</hi>?<hi>斯兮切/??/弋占切木/膠可作香</hi>?<hi>??切棹/舡羽也/息咨切木析?柴也</hi>
+棨<hi>音?兵也/又傳信也/才戈切?/李亦作?/奴多切或/作?同</hi>?<hi>呼覽切胡/黤切彊也</hi>?<hi>居羽切與矩同方器</hi>
+杖<hi>音杖木竹可?持者?名</hi>桶<hi>它董切木/桶器也</hi>桻<hi>芳容切木/上謂之桻</hi>櫸<hi>居語切櫸/柳木也</hi>?<hi>于丙切?木可?笏</hi>
+槧<hi>才敢切櫝也七?切垣也</hi>极<hi>其?切驢/上負版也</hi>橿<hi>寄良切柌/橿鉏柄也</hi>?<hi>苦角切枳/木?似柚</hi>榥<hi>胡廣切讀書床</hi>
+櫓<hi>力?切城樓說文大盾也</hi>?<hi>力古切彭/棑又同上</hi>楒<hi>自茲切相/楒木也</hi>櫃<hi>巨位切櫃/篋盛物者</hi>?<hi>力帝切木果似枇杷</hi>
+栝<hi>古活切木也柏葉松身</hi>?<hi>上同說/文?也</hi>枯<hi>苦胡切乾/也?也</hi>枷<hi>音加囚具/又持榖者</hi>柯<hi>音哥枝也又斧柄</hi>
+檄<hi>?狄切符檄二尺書也</hi>柷<hi>昌六切柷/敔?器也</hi>杰<hi>渠薛切梁/四公子名</hi>椄<hi>子捷切椄/木續木也</hi>橘<hi>規述切果木又果名</hi>
+<pb n="6b"/>
+柣<hi>馳栗切門限也又音切</hi>?<hi>音酉柞木/?木也</hi>樈<hi>渠京切鑿/柄木也</hi>榞<hi>魚袁切木/皮可食者</hi>梮<hi>居錄切/食器也又士文車也</hi>
+梣<hi>昨今切木名青皮木也</hi>?<hi>並同/上/亦同上/又音岑</hi>檍<hi>於力切/木名</hi>樝<hi>側加切似/梨而酸</hi>柤<hi>同上</hi>
+椯<hi>市專切木名又丁果切/並同/上</hi>槢<hi>似立切/堅木也</hi>樆<hi>力枝切/山梨也</hi>?<hi>力之切/果名</hi>梨<hi>同上</hi>
+?<hi>所加切果木名?棠也</hi>棠<hi>?郎切棠/梨果木也</hi>樿<hi>之善切/木名/芳味切/木名</hi>柟<hi>奴含而?而剡三切?雅梅柟</hi>楠<hi>俗</hi>
+椐<hi>京於正於二切樻木也</hi>杜<hi>徒古切赤/棠又塞也</hi>棆<hi>埋均切/木名</hi>?<hi>椅明切/?梅也</hi>梅<hi>莫回切說/文柟也</hi>?<hi>同上</hi>
+栩<hi>可羽切柔木又栩木實</hi>椲<hi>禹鬼切木/名皮如韋</hi>楈<hi>先?切/木名</hi>?<hi>敕於切/惡木也</hi>柰<hi>那?切果名/亦柰何也</hi>?<hi>同上</hi>
+楢<hi>以周赤沼二切柔木也</hi>?<hi>渠容切柜/??木也</hi>柜<hi>居旅切/柜?也</hi>?<hi>祛己切/?苟杞/側詵切/果似小?</hi>榛<hi>同上</hi>
+柃<hi>力丁力井二切木名可染</hi>柊<hi>之戎切柊/楑椎也</hi>楑<hi>渠惟切/柊楑</hi>桵<hi>如佳切/小木名</hi>?<hi>莫刀切/冬桃也</hi>枆<hi>同上</hi>
+椵<hi>加馬切木也可作床凡</hi>棶<hi>力才切棶/木椋也/公道切/木名</hi>椆<hi>之?切/木名</hi>
+                    <graphic n="KR2793" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2793.png" mimeType="image/png"/>
+                    <hi>疾貲切無/<graphic n="KR2793" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2793.png" mimeType="image/png"/>木名/同上</hi>
+櫅<hi>子兮切白棗木也</hi>椋<hi>力?切材/中車輪也</hi>棌<hi>于代切木/採檞也</hi>槲<hi>胡木切/槲?木</hi>?<hi>桑屋切樸/樕小木也</hi>樕<hi>同上</hi>
+梭<hi>且泉切木名蘇和切織具</hi>楀<hi>俱禹于矩/二切木名</hi>?<hi>余脂切/木名/胡勞切/木名</hi>棳<hi>之?切梁/上楹也</hi>梲<hi>同上</hi>
+︻東部一百五十八<hi>凡二字</hi>東<hi>德紅切四/方春方也</hi>?<hi>昨遭切說又曰二東也曹字則?此</hi>
+︻林部一百五十九<hi>凡十八字</hi>林<hi>力金切說文平/士有叢木曰林</hi>森<hi>所今切長木?或作槮又?也</hi>
+<pb n="7a"/>
+楚<hi>??切叢木也又?名</hi>鬱<hi>於屈切木/叢生茂?</hi>?<hi>俗</hi>埜<hi>移者切/古文野/烏候切地名又市由切</hi>
+棼<hi>扶云切複屋棟又地名</hi>?<hi>巨尤切?/?亭名</hi>檒<hi>甫弓切/古文風/且?切/古文蔡/文甫切繁/豐盛也今作?為有無字</hi>
+楙<hi>音茂木盛又木瓜亦作茂</hi>棽<hi>敕林切枝/條棽<graphic n="KR0904" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0904.png" mimeType="image/png"/>?</hi>?<hi>指?切/木盛也</hi>梵<hi>扶風扶乏二切木得風?</hi>
+麓<hi>力木切山足又守山林吏</hi>?<hi>古文</hi>
+︻巢部一百六十<hi>凡二字</hi>巢<hi>仕交切鳥在/木上曰巢</hi>
+                    <graphic n="KR3416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3416.png" mimeType="image/png"/>
+                    <hi>悲儉切貶損也與貶同</hi>
+︻?部一百六十一<hi>凡五字</hi>?<hi>而灼切說文曰日出東方/晹谷/登/桑?木也?文</hi>
+桑<hi>思郎切?所食葉俗作?/丑利切/?</hi>?<hi>力見切??</hi>
+大廣益?玉篇卷第十二<lb/>
+<pb n="7b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

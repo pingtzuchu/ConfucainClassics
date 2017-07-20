@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+廣韻下平聲卷第二<lb/>
+<hi>蘇前</hi>先第一<hi>仙同用/相然</hi>仙第二<lb/>
+<hi>蘇凋</hi>蕭第三<hi>宵同用/相焦</hi>宵第四<lb/>
+<hi>胡茅</hi>肴第五<hi>獨用/胡刀</hi>豪第六<hi>獨用古俄</hi>歌第七<hi>戈同用/古和</hi>戈第八<lb/>
+<hi>莫霞</hi>麻第九<hi>獨用/與章</hi>陽第十<hi>唐同用徒郎</hi>唐第十一<hi>古行</hi>庚第十二<hi>耕?同用古莖</hi>耕第十三<hi>七情</hi>?第十四<lb/>
+<hi>倉經</hi>青第十五<hi>獨用/?仍</hi>蒸第十六<hi>登同用都滕</hi>登第十七<hi>羽求</hi>尤第十八<hi>侯幽同用<pb n="1b"/>胡鉤</hi>侯第十九<hi>於虯</hi>幽第二十<lb/>
+<hi>七林</hi>侵第二十一<hi>獨用/徒含</hi>覃第二十二<hi>談同用徒甘</hi>談第二十三<hi>余廉</hi>鹽第二十四<hi>添同用他兼</hi>添第二十五<hi>胡讒</hi>咸第二十六<hi>銜同用?監</hi>銜第二十七<hi>語</hi>嚴第二十八<hi>凡同用符咸</hi>凡第二十九<lb/>
+一先<hi>先後也又姓左傳晉有先軫蘇前切又蘇薦切四</hi>躚<hi>蹁躚旋/行?</hi>?<hi>上/同</hi>
+                    <graphic n="KR2711" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2711.png" mimeType="image/png"/>
+                    <hi>石次玉也</hi>
+前<hi>先也昨先切六</hi>?<hi>古/文</hi>騚<hi>馬四蹄/皆白也</hi>湔<hi>湔葫/藥名</hi>
+                    <graphic n="KR3796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3796.png" mimeType="image/png"/>
+                    <hi>說文曰蔽絮簀也或作上同</hi>千<hi>十百也又漢複姓有千?/氏出何氏姓苑蒼先切九</hi>?<hi>三里/??</hi>阡<hi>阡陌南北?阡東西?陌</hi>?<lb/>
+<hi>水名</hi>仟<hi>千人長也又/仟眠廣?也</hi>芊<hi>草/盛</hi>?<hi>說文曰望山/谷之?青也</hi>?<hi>伺候也進也又?葬又標記也</hi>
+<pb n="2a"/>
+?<hi>木名</hi>箋<hi>說文曰表識書/也則前切十五</hi>牋<hi>上/同</hi>?<hi>古/文</hi>瀳<hi>水名說文曰水至也又才薦切</hi>
+帴<hi>小兒藉也</hi>韉<hi>鞍/韉</hi>淺<hi>淺淺流疾?/又倉翦切</hi>湔<hi>水名出蜀/郡玉壘山/旛幟小栗名趙魏閒語也</hi>轃<hi>大車/簀也</hi>濺<hi>濺疾流?/又子賤切</hi>籛<hi>楚人革馬簻鞍韉又彭祖姓</hi>
+?<hi>香木/埤蒼云至也說/文云自進極也</hi>天<hi>上玄也說文曰?也至?無上?一大也爾雅曰春?蒼天夏?昊天秋?旻/天冬?上天他前切六</hi>
+                    <graphic n="KR1337" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1337.png" mimeType="image/png"/>?<hi>並古/文</hi>
+                    <graphic n="KR2613" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2613.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2613" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2613.png" mimeType="image/png"/>
+                        <graphic n="KR2575" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2575.png" mimeType="image/png"/>語/不正也</hi>吞<hi>姓也漢有吞景雲又湯門切</hi>?<hi>?訶/?</hi>堅<hi>固也長也強也又姓漢二十八將有/揚化將軍潁川堅鐔古賢切十七</hi>鋻<lb/>
+<hi>剛也又古宴切/縣名在東/萊又音弦</hi>?<hi>布/名</hi>幵<hi>說文曰平也兩干對舉又羌名今作?同又音牽</hi>
+肩<hi>項下又任也克也作也媵也又姓出姓苑</hi>鳽<hi>鵁鳽鳥名又五/革五堅二切</hi>豜<hi>大豕也一曰豕三?</hi>
+<graphic n="KR2210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2210.png" mimeType="image/png"/>
+                    <hi>上同</hi>猏<hi>俗</hi>菺<hi>茙葵也/今蜀葵/鹿有力/又音牽</hi>麉<hi>上/同</hi>鵳<hi>鶙鵳鷂屬</hi>鰹<lb/>
+<hi>鮦大曰鰹小曰鮵鮵音奪</hi>?<hi>說文曰龍鬐/脊上??</hi>?<hi>緊/也</hi>賢<hi>善也能也大也亦姓胡田切十<pb n="2b"/>七</hi>?<hi>古文又口閒切</hi>弦<hi>弓弦五經文字曰其琴瑟亦用此字作/絃者非說文作又姓風俗通云弦子後左傳鄭有商人弦?晉有弦超</hi>絃<hi>俗見/上注</hi>舷<hi>?/舷</hi>胘<hi>肚胘牛/百葉也</hi>蚿<hi>馬蚿蟲一名百足亭名在密縣/說文云急也</hi>
+                    <graphic n="KR4070" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4070.png" mimeType="image/png"/>
+                    <hi>自刎/頸也</hi>伭<hi>說文作/很也/縣名又音堅草名</hi>?<hi>婦人/守志/疾/走</hi>礥<hi>艱險又/剛強也</hi>?<hi>?癖/病</hi>?<hi>難/也</hi>煙<hi>火氣也烏前切十二</hi>?<hi>上/同/古/文/籀/文</hi>燕<hi>國名亦州又姓邵公奭封燕?秦所滅子孫以國?氏漢有燕倉又於薦切</hi>咽<hi>咽/喉</hi>橪<hi>橪支/香草</hi>驠<hi>馬竅/白</hi>湮<hi>爾雅云落也又音因</hi>胭<lb/>
+<hi>胭頂/竹/名</hi>閼<hi>閼氏單于適/妻也氏音支</hi>蓮<hi>爾雅云荷芙蕖其/實蓮落賢切八</hi>憐<hi>愛也又哀矜也</hi>怜<hi>俗</hi>嗹<hi>嗹嘍言語/?絮?</hi>縺<hi>縺縷/寒具</hi>
+                    <graphic n="KR2193" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2193.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2193" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2193.png" mimeType="image/png"/>
+                        <graphic n="KR1979" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1979.png" mimeType="image/png"/>/餅也/<graphic n="KR1454" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1454.png" mimeType="image/png"/>縣在交趾</hi>零<hi>漢書云先零西/羌也本力丁切</hi>田<hi>釋名曰土已耕者曰田田?也五稼?滿其中也又姓出北平敬仲自陳適齊後改田氏九代遂有齊國徒年切/十九</hi>佃<hi>作田也說文云中也春秋傳曰?中佃一<pb n="3a"/>轅車古輕車也又音甸</hi>畋<hi>取禽獸也/又音甸</hi>盷<hi>地名/在絳</hi>?<hi>塞也加也滿也又陟陳切</hi>寘<lb/>
+<hi>上同字統云寘?府在北州</hi>闐<hi>轟轟闐/闐盛?</hi>?<hi>蹋地/聲</hi>
+                    <graphic n="KR2575" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2575.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2575" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2575.png" mimeType="image/png"/>
+                        <graphic n="KR2613" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2613.png" mimeType="image/png"/>語不正也又他丹切</hi>鈿<lb/>
+<hi>金花又音甸</hi>?<hi>???/車聲</hi>沺<hi>字林云沺沺水勢/廣大無際之?</hi>磌<hi>柱/礎</hi>?<hi>蚊母鳥也</hi>
+嗔<hi>說文曰盛气也</hi>
+                    <graphic n="KR1715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1715.png" mimeType="image/png"/>
+                    <hi>?氏春秋云天子<graphic n="KR1715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1715.png" mimeType="image/png"/>
+                        <graphic n="KR1715" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1715.png" mimeType="image/png"/>/??莫不載??音軫</hi>滇<hi>滇?次水?又都年切</hi>貚<lb/>
+<hi>貙屬</hi>搷<hi>擊/也</hi>?<hi>榖熟曰?/奴?切三</hi>年<hi>上/同/?名在/馮翊</hi>?<hi>頂也又姓左傳晉有?頡都年切十五</hi>?<hi>上/同</hi>齻<hi>牙齻儀禮曰右齻左/齻鄭玄云齒堅也</hi>
+                    <graphic n="KR1516" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1516.png" mimeType="image/png"/>
+                    <hi>馬額白今戴星馬</hi>?<lb/>
+<hi>木上</hi>瘨<hi>病/也</hi>癲<hi>上/同</hi>滇<hi>滇池在/?寧</hi>
+                    <graphic n="KR2054" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2054.png" mimeType="image/png"/>
+                    <hi>走/頓</hi>?<hi>山頂/也</hi>驒<hi>驒騱野馬隕也又倒也</hi>傎<hi>上/同</hi>蹎<hi>蹎仆說/文跋也</hi>厧<hi>厧/冢</hi>牽<hi>引也挽也連也亦姓晉有牽秀何氏姓苑云武邑人苦堅切九</hi>縴<hi>縴<graphic n="KR2967" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2967.png" mimeType="image/png"/>/惡絮</hi>邢<hi>地名在/河?</hi>
+                    <graphic n="KR0648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0648.png" mimeType="image/png"/>
+                    <hi>水名在安定說文曰水出扶風西北入渭爾雅云<graphic n="KR0648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0648.png" mimeType="image/png"/>出不流/又苦薦切</hi>?<hi>螢火又古奚切/鹿之?有力/者亦作麉</hi>掔<hi>固也厚也持也又音慳</hi>
+<pb n="3b"/>
+岍<hi>山名在京兆書曰導岍及?</hi>雃<hi>說文曰石鳥一名雝<graphic n="KR1445" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1445.png" mimeType="image/png"/>一/曰精<graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>又秦公子名士雃</hi>妍<hi>?也美也好也五堅切八</hi>鳽<hi>鵁鶄也又古/賢五革二切</hi>研<hi>磨/也</hi>
+                    <graphic n="KR1165" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1165.png" mimeType="image/png"/>
+                    <hi>上/同</hi>揅<hi>破/醆也</hi>趼<lb/>
+<hi>獸跡</hi>俓<hi>急也又/牛耕切</hi>眠<hi>寐也莫/賢切七</hi>瞑<hi>上同說文曰翕/目也又音麵</hi>?<hi>埤蒼云注意而聽也</hi>矏<hi>爾雅曰/密也/上/同</hi>?<hi>燒煙/畫眉</hi>?<hi>不/見</hi>蹁<hi>蹁?旋行?部田切十二</hi>蠙<lb/>
+<hi>蠙珠</hi>骿<hi>骿/肋</hi>軿<hi>四面屏蔽婦人/車又房丁切</hi>駢<hi>并駕/二馬</hi>?<hi>?瓜/名</hi>胼<hi>胼胝皮上堅也</hi>跰<hi>上/同</hi>楄<hi>木名食不噎又杜預/云楄部棺中露?也</hi>?<hi>益/也</hi>玭<hi>班珠或與蠙同</hi>?<lb/>
+<hi>上同</hi>淵<hi>深也管子曰水?而不流曰淵又/姓?本有齊大夫淵湫烏玄切十</hi>
+                    <graphic n="KR3766" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3766.png" mimeType="image/png"/>
+                    <hi>上/同</hi>?<hi>古文</hi>?<lb/>
+<hi>骨節疼也</hi>?<hi>弓/勢</hi>?<hi>曲/翦</hi>鼘<hi>鼓/聲/行/?</hi>?<hi>鳥/?</hi>蜎<hi>蜎蠉又歐泫切</hi>?<lb/>
+<hi>說文曰小流也又姓列仙傳有齊人?子古玄切八</hi>睊<hi>視/?</hi>蠲<hi>除也潔也明也說文曰馬蠲蟲明堂月令曰腐草?蠲/草/名</hi>?<hi>麥/莖</hi>?<hi>杜?/鳥</hi>焆<hi>明/也</hi>鞙<hi>鞙馬尾也/又胡犬切</hi>鋗<hi>銅銚<pb n="4a"/>火玄切五</hi>駽<hi>爾雅曰青驪駽郭/璞云今之??</hi>?<hi>規也又/辭?切</hi>梋<hi>?/屬</hi>矎<hi>直視</hi>邊<lb/>
+<hi>畔也又邊陲也近也?也方也又姓出陳留北平二望陳留風俗傳云祖干宋平公布玄切十四</hi>籩<hi>竹器水名出?侯山</hi>甂<hi>小/盆</hi>蝙<hi>蝙蝠仙?/又名伏翼</hi>猵<hi>獺/屬/籬上豆也/又北典切</hi>編<hi>次也又方泫切</hi>萹<hi>萹竹草又/北泫切</hi>
+                    <graphic n="KR3711" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3711.png" mimeType="image/png"/>
+                    <hi>足趾/不正/身不/正也</hi>?<hi>?上/版也</hi>?<hi>說文走意</hi>
+蹁<hi>行不正?又薄邊切</hi>玄<hi>?也寂也幽?也又姓列仙傳有/玄俗河間人無影胡?切十三</hi>縣<hi>說文云繫也相承借?州縣字</hi>懸<hi>俗今/通用</hi>眩<hi>亂也又/胡練切</hi>?<hi>馬一/?</hi>玹<hi>石次玉</hi>?<lb/>
+<hi>說文曰?也春秋傳曰何故使君水?本亦音滋按本經只作滋/?王次/子名/目童子也說文很也</hi>盷<hi>目大/?</hi>胘<hi>牛百葉/又音弦</hi>訇<hi>說文云漢中/西城有訇?</hi>祅<hi>胡神官品令有祅正呼煙切二</hi>?<hi>訶也/怒也/獸似豹而少/文崇玄切一</hi>︻二仙<hi>神仙釋名曰老而不死曰仙仙遷也遷入山也故字從人旁山相然切十二</hi>僊<hi>上同又僊/僊舞?/古/文/?/罽也</hi>?<hi>竹名<pb n="4b"/>又音癬</hi>?<hi>草名/似莞</hi>躚<hi>舞/?</hi>秈<hi>秈/稻</hi>鮮<hi>鮮?也善也又鮮卑山因?國?亦水名水經曰北鮮之山鮮水出焉又姓後蜀?李壽司空鮮思明又漢複姓鮮于氏</hi>?<hi>?繒/石也</hi>?<hi>說文曰新魚精也</hi>廯<lb/>
+<hi>倉廩</hi>錢<hi>周禮注云錢泉也其藏曰泉其行曰布取名流行無不?也又姓晉有歷陽太守錢?昨仙切二</hi>
+                    <graphic n="KR3087" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3087.png" mimeType="image/png"/>
+<hi>方言云鳴蟬也</hi>遷<hi>去下之?也詩云遷/于喬木七然切八/古/文/上/同</hi>
+                    <graphic n="KR4077" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4077.png" mimeType="image/png"/>
+                    <hi>地名</hi>櫏<lb/>
+<hi>桾櫏木名</hi>?<hi>??/竹名</hi>韆<hi>鞦韆/繩戲</hi>?<hi>痛/也</hi>煎<hi>熟?子/仙切四</hi>湔<hi>洗也一曰水名出蜀玉壘山</hi>?<hi>草茂?/出字林</hi>鬋<hi>女鬢/垂?</hi>然<hi>語助又如也是也說文曰燒也俗作燃又姓左傳楚有然舟何氏姓苑云今蒼梧人如延切九</hi>燃<hi>俗見/上注</hi>
+                    <graphic n="KR1738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1738.png" mimeType="image/png"/>
+                    <hi>猓<graphic n="KR1738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1738.png" mimeType="image/png"/>獸名似/猿白質?文</hi>?<hi>姓/也</hi>?<hi>犬肉</hi>
+?<hi>絲勞?/竹/名</hi>?<hi>草/名/陸佐公石闕銘/云刑酷/炭</hi>延<hi>稅也?也進也長也陳也言也亦州漢?如縣取延川?延安郡又姓漢有延篤南陽人?京兆尹殺梁?使者以然切十三</hi>埏<hi>際也地也又墓道亦地有八極八埏又音羶</hi>筵<hi>席也鋪陳曰/筵藉之曰席</hi>狿<hi>獌狿大/獸名</hi>郔<hi>地名在鄭</hi>綖<lb/>
+<pb n="5a"/>
+<hi>冠上覆也</hi>蜒<hi>?/蜒</hi>?<hi>??牛/領上衣</hi>鋋<hi>小矛又/市連切</hi>?<hi>相顧/視也/上同</hi>?<lb/>
+<hi>行?</hi>莚<hi>草/名</hi>
+                    <graphic n="KR0673" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0673.png" mimeType="image/png"/>
+                    <hi>厚粥也諸/延切八</hi>饘<hi>上/同</hi>旃<hi>之也爾雅曰因草?旃郭璞云以帛練?旒因其文章不復畫之也?本曰?帝作旃亦曲/旗以招士?也或作?又姓出姓苑</hi>?<hi>上/同</hi>栴<hi>栴檀香木</hi>氈<lb/>
+<hi>席也周禮曰秋斂皮冬斂革供其毳毛?氈</hi>鸇<hi>晨風/鳥</hi>
+                    <graphic n="KR3573" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3573.png" mimeType="image/png"/>
+                    <hi>江湘間人/謂額也</hi>甄<hi>察也一曰免也居延切又章鄰切三</hi>薽<hi>草名一曰豕/首又名彘盧</hi>籈<hi>竹/器</hi>邅<hi>迍邅也又移也張連切又直連雉戰二切五同行難也說文曰/?也又直然切</hi>驙<hi>馬載重行難又白馬/?脊曰驙又徒安切</hi>鱣<hi>詩云鱣鮪發發江東呼?黃魚/上/同</hi>潺<hi>潺湲水流?/士連切五</hi>孱<hi>不肖也漢書曰吾王孱王也小鑿</hi>?<hi>軒/輞/門/聚</hi>羶<hi>羊臭也式/連切八</hi>埏<hi>打瓦也老子/注云和也</hi>挻<hi>柔也繫也和也取也長也或作煽</hi>扇<hi>扇涼又/式戰切</hi>煽<hi>火盛也又/式戰切</hi>?<hi>魚/醬</hi>?<hi>生肉醬又丑延切</hi>?<hi>??牛領上衣又音延</hi>?<hi>魚醢也說文云/肉醬丑延切四</hi>梴<hi>木/長</hi>鏈<hi>鉛礦也又力延<pb n="5b"/>切</hi>?<hi>說文曰安???也</hi>鋋<hi>小矛方言曰五湖之間謂矛/?鋋市連切又以然切九</hi>單<hi>單于又丹善二音</hi>蟬<hi>蜩也禮記仲夏之月蟬始鳴季秋之月/寒蟬鳴援神契曰蟬無力故不食也</hi>撣<hi>撣援牽引</hi>儃<lb/>
+<hi>態也</hi>僤<hi>上/同</hi>禪<hi>?也又/市戰切</hi>澶<hi>杜預云澶淵地名在/頓丘縣南又音纏</hi>嬋<hi>嬋?好?</hi>纏<lb/>
+<hi>繞也又姓漢書藝文志有?子著書直連切十</hi>?<hi>俗餘皆/倣此</hi>躔<hi>日月行也說/文曰踐也</hi>瀍<hi>水名在河南</hi>?<hi>市/?/市/門/移也又/張連切</hi>
+                    <graphic n="KR2786" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2786.png" mimeType="image/png"/>
+                    <hi>守?/?名</hi>廛<hi>居也說文曰一晦半也一家之居也</hi>?<hi>上/同</hi>嘕<hi>笑?許/延切四</hi>仚<hi>輕舉?說文曰/人在山上也</hi>嫣<hi>長?好?又於?於?二切</hi>
+                    <graphic n="KR3215" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3215.png" mimeType="image/png"/>
+                    <hi>飛/?</hi>連<hi>合也續也還也又姓左傳齊有連稱又虜複姓六氏西秦丞相出連乞都後魏書官氏志云南方宥連氏後改?雲氏是連氏改?連氏費連氏改?費氏綦連氏改?綦氏又有赫連氏力延切十三</hi>?<hi>?綿不?說文作?</hi>漣<hi>漣漪風/動水?</hi>翴<hi>翴翩飛/相及?</hi>鰱<hi>魚/名</hi>?<hi>?猭兔/走?</hi>令<hi>漢書云金城郡有令居縣?師古又音零</hi>鏈<hi>鉛礦又/丑延切</hi>?<hi>上/同</hi>?<hi>說文曰/泣下也</hi>槤<hi>簃也又?<pb n="6a"/>關柱又木名/齒露/也</hi>?<hi>?水名出/王屋山</hi>篇<hi>篇什也又姓周大夫史篇之後芳連切七</hi>偏<lb/>
+<hi>不正也鄙也?也又姓急就章有偏?張</hi>翩<hi>飛/?</hi>媥<hi>身輕/便?</hi>?<hi>身/枯</hi>扁<hi>小/舟</hi>萹<hi>萹茿可食又補殄切</hi>便<hi>辯也僻也安也又姓漢有少/府便樂成房連切又去聲九</hi>緶<hi>縫/也</hi>楩<hi>木名</hi>平<lb/>
+<hi>書傳云平平辨治也又皮明切</hi>諞<hi>巧言又/符蹇切</hi>?<hi>??/美好</hi>箯<hi>竹/輿</hi>
+                    <graphic n="KR3417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3417.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3417" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3417.png" mimeType="image/png"/>?沙蝨也亦作</hi>
+楄<hi>木名食之不咽</hi>?<hi>精曰?麤曰絮說文曰?微也又姓/晉張方以綿思?腹心武延切十七</hi>綿<hi>上同</hi>
+棉<hi>屋?棉又木棉樹名??云其實如酒杯中有棉如?綿可作布又名曰繅羅浮山記曰正月花如芙蓉結子方生葉子?綿至?成即熟廣州記云枝似桐枝葉如胡桃葉而稍大也</hi>謾<hi>欺/也</hi>矊<hi>瞳子?又矊眇?視</hi>蝒<lb/>
+<hi>馬蜩蟬中最大/上同說文曰/<graphic n="KR2212" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2212.png" mimeType="image/png"/>蚗蟬屬</hi>矏<hi>密緻/?/忘/也</hi>?<hi>說文曰相當也今人賭物相折謂之?</hi>?<hi>深/屋</hi>?<hi>雙/生</hi>櫋<hi>說文曰屋/?櫋也/木/名</hi>?<hi>視?之?</hi>?<lb/>
+<hi>木名/密/也</hi>全<hi>完也具也又姓?有大/司馬全琮疾?切七</hi>仝<hi>上同見/說文</hi>泉<hi>水源<pb n="6b"/>也又錢別名/貝也白/質?文</hi>牷<hi>牛全色書傳/云體完曰牷</hi>?<hi>目眇/視?</hi>?<hi>
+                        <graphic n="KR3104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3104.png" mimeType="image/png"/>?草也</hi>宣<lb/>
+<hi>布也明也?也通也緩也散也須?切九</hi>揎<hi>手發/衣也</hi>?<hi>上/同</hi>?<hi>?小鳥/音旬</hi>愃<hi>?人語快說文曰?<graphic n="KR0570" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0570.png" mimeType="image/png"/>心腹?/面?/也/頭?/也</hi>瑄<hi>爾雅曰璧大六寸謂之瑄郭璞曰漢書所云?玉是也</hi>?<hi>?/額</hi>鐫<hi>?也?也/子泉切四</hi>鋑<hi>古/文</hi>朘<hi>縮/肭</hi>?<hi>
+                        <graphic n="KR3922" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3922.png" mimeType="image/png"/>也又丑全切</hi>翾<lb/>
+<hi>小飛許?切九</hi>儇<hi>智也疾也利也/慧也又舞?</hi>?<hi>角弓/?</hi>蠉<hi>蟲行/?/疾走?</hi>嬛<lb/>
+<hi>便嬛輕麗?又音?音瓊</hi>?<hi>智/也</hi>頨<hi>頨妍/美頭/目童/子也</hi>堧<hi>江河邊地又廟垣或從需餘同而?切六</hi>?<hi>促衣/縫也</hi>[田*耎]<hi>城下/田也</hi>?<hi>??也/士佩也</hi>撋<hi>摧物/也</hi>?<hi>?絲難理</hi>穿<lb/>
+<hi>通也孔也昌?切三</hi>川<hi>山川也蔡邕月令章句曰?流注海/曰川釋名曰川者穿也穿地而流也</hi>灥<hi>三泉</hi>沿<lb/>
+<hi>從流而下也與專切十二</hi>?<hi>上/同</hi>鉛<hi>說文曰青金也/一曰錫之類也</hi>鈆<hi>上/同</hi>櫞<hi>拘櫞樹皮可作粽埤蒼云果名似橘</hi>捐<hi>?/也</hi>鳶<hi>鴟類/也</hi>蝝<hi>蝗子一/曰蟻子</hi>?<hi>?由又/羊絹切</hi>?<hi>魚名</hi>
+<pb n="7a"/>
+<pb n="8a"/>
+<pb n="9a"/>
+<hi>檀也單也政也誠也獨也自是也亦姓?刺客專諸職?切十二</hi>?<hi>?瓦古吏考/曰烏曹作?</hi>顓<hi>顓頊又姓神仙傳有太玄女姓顓頊名和</hi>篿<hi>楚詞云索瓊茅以筵篿王/逸云折竹卜曰篿又音團</hi>嫥<hi>可愛之?</hi>諯<lb/>
+<hi>說文曰數也一曰相讓又尺絹市專二切</hi>湍<hi>水名在鄧/州又音煓</hi>膞<hi>膞鳥/胃也</hi>鱄<hi>魚名專諸?刺客或作鱄</hi>鷒<hi>鳥名又/徒端切/斷首/出玉篇</hi>鄟<hi>邾?/邑名</hi>遄<hi>速也疾也/市?切八</hi>?<hi>說文曰以判竹圜以盛榖也</hi>圌<hi>上/同</hi>諯<hi>又職?尺/絹二切</hi>輲<hi>無輪/車名</hi>輇<hi>上/同</hi>椯<hi>木名</hi>
+歂<hi>字林云口氣引也又姓史記有歂師</hi>?<hi>說文作員物數也王/權切又云連二音四</hi>圜<hi>天體</hi>?<lb/>
+<hi>上同</hi>湲<hi>潺/湲</hi>恮<hi>曲卷也莊/?切四</hi>跧<hi>屈也伏/也蹴也</hi>?<hi>目眇/視也</hi>蟤<hi>蜿蟤蛇名</hi>栓<lb/>
+<hi>木丁也山?切二/車/軸也</hi>猭<hi>?猭兔走?/丑?切二</hi>?<hi>去木/枝也</hi>乾<hi>天也君也堅也渠焉切又音干九</hi>虔<hi>恭也固也殺也說文曰虎行?又/姓陳留風俗傳云虔氏祖於?帝</hi>犍<hi>犍?縣在嘉州</hi>
+鰬<hi>魚名/聚名在河/東聞喜也</hi>騝<hi>騮馬/?脊</hi>榩<hi>廩也構/木?之</hi>鍵<hi>鑰也又音件</hi>揵<lb/>
+<pb n="9b"/>
+<hi>小鑿</hi>?<hi>鶚?/名</hi>?<hi>說文/暫也</hi>酣<hi>酣飲應劭曰洽也張晏曰中/酒曰酣又樂也胡甘切八</hi>甝<hi>白虎</hi>?<lb/>
+<hi>桑蟲</hi>魽<hi>蛤/也/和也又口含/古三二切</hi>煔<hi>火上/行?</hi>?<hi>上/同</hi>邯<hi>江湘人言/也又音寒</hi>姏<hi>老女稱武酣切一長面?昨三切一</hi>蚶<hi>蚌屬爾雅曰魁陸本草云魁狀如海蛤?而厚外有文縱?即今蚶也亦作魽呼談切五戲乞人物亦作歛</hi>?<hi>貪妄又/一含切</hi>歛<hi>欲/也</hi>憨<hi>癡/也</hi>二十四鹽<hi>說文曰鹹也古者宿沙初作?海?鹽亦州近北鹽池因以名之又姓魯國先賢傳有/北海相鹽津余廉切十五</hi>?<hi>俗/木/名</hi>閻<hi>里中門又姓出天水河南二望</hi>
+　壛<hi>壛榻也說文同上</hi>阽<hi>臨/危</hi>檐<hi>屋檐說文/曰檐?也</hi>簷<hi>上/同</hi>?<hi>亦/同/步/長/廊也</hi>?<hi>說文云海岱之閒謂相汙曰?/離鳥自/?牝牡也</hi>?<hi>語林云大夫向?而立說/文曰?謂之樀樀廟門也</hi>?<hi>病走進也</hi>廉<hi>廉儉也釋名曰廉斂也自檢斂/也亦姓趙有廉頗力鹽切二十</hi>鐮<hi>刀鐮也釋名曰鐮廉也薄其所刈似廉也</hi>鎌<lb/>
+<hi>上同/久/雨</hi>?<hi>??/帷也</hi>簾<hi>簾箔/釋名曰簾廉也自障/蔽?廉恥也三秦記曰明光?以金玉珠璣?簾箔</hi>薕<lb/>
+<hi>薑也說文蒹也</hi>薟<hi>白薟藥/又音斂</hi>蘞<hi>蔓/草說文/同上又音斂</hi>?<hi>盛香器也又鏡/?也俗作奩</hi>?<hi>上同</hi>
+<pb n="10a"/>
+<pb n="11a"/>
+<hi>挑撥</hi>朓<hi>月出西方/又吐了切</hi>恌<hi>轉/薄</hi>
+                    <graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>
+                    <hi>斗旁耳又爾雅云<graphic n="KR1857" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1857.png" mimeType="image/png"/>謂/之疀古田器也郭音?</hi>庣<hi>不滿之?</hi>銚<hi>田/器</hi>趒<hi>雀行又/他弔切</hi>?<hi>耳/疾</hi>蓧<hi>苗/也</hi>貂<hi>?屬出東北夷又姓出姓苑都聊切二十二</hi>?<hi>小兒/留髮/斷/穗</hi>刁<hi>軍器纂文曰刁斗持時鈴也又姓出渤海風俗通云齊大夫豎刁之後俗作刀</hi>琱<hi>琱/琢</hi>凋<hi>凋/落</hi>鯛<hi>魚/名</hi>?<hi>短尾/犬也</hi>雕<hi>鶚屬又姓漢武帝功臣表有雕延年</hi>
+鵰<hi>?文</hi>蛁<hi>蛁蟟茆/中小蟲</hi>彫<hi>彫刻亦/作雕/說文云/短衣也/死人衣</hi>?<lb/>
+<hi>葦華也又音調/葫/茭實</hi>
+                    <graphic n="KR0657" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0657.png" mimeType="image/png"/>
+                    <hi>?/船/鷯剖葦求蟲/食似雀青班色</hi>?<hi>大也多也</hi>?<lb/>
+<hi>上同</hi>?<hi>天子弓也說文曰畫弓/也詩又作敦又丁昆切</hi>瞗<hi>熟/視</hi>迢<hi>迢遰徒聊/切二十二</hi>條<hi>小枝也貫也教也爾雅云柚條似橙而實酸又姓左傳殷人七族有條氏後趙?冉閔司空條攸姓苑云安定人</hi>?<hi>柚條或從木</hi>髫<hi>小兒?/俗行齠</hi>跳<hi>躍/也</hi>?<hi>紖頭/銅飾</hi>?<hi>??狀如?蛇魚翼出入有光見則大旱出山海經</hi>
+蜩<hi>大蟬</hi>佻<hi>獨行?詩曰/佻佻公子</hi>趒<hi>說文曰/雀行也</hi>苕<hi>苕菜詩云/?有旨苕</hi>芀<hi>葦華</hi>調<lb/>
+<pb n="11b"/>
+<hi>和也又姓周禮有調人其後氏焉又徒料切</hi>鮡<hi>魚/名</hi>岧<hi>岧?山/??</hi>?<hi>多??又音凋音綢</hi>?<lb/>
+<hi>革轡詩云?革沖沖</hi>嬥<hi>聲類云/細腰?/田/器/?毛?</hi>
+                    <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                    <hi>草木實垂/<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                        <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>然也</hi>鰷<lb/>
+<hi>白鰷魚名</hi>驍<hi>驍武也古/堯切九</hi>梟<hi>說文云不孝鳥也故日至捕梟磔之?鳥頭在木上人姓隋煬帝誅楊玄感改其姓?梟氏/到懸首漢書曰三族令先黥劓斬/左右趾/首?其骨謂之具五刑</hi>澆<hi>沃也薄也</hi>憿<lb/>
+<hi>憿幸或作儌又作僥倖</hi>釗<hi>覿也?也亦弩關一云周/康王名又作?又指?切</hi>邀<hi>遮也又於宵切</hi>蟂<lb/>
+<hi>水蟲似蛇四足能害人也</hi>徼<hi>求也抄也/又音?</hi>聊<hi>語助也亦姓風俗通有聊倉?漢侍中著子書又有聊氏?穎川太守著萬姓譜落蕭切四十二/耳中鳴也/又力刀切</hi>膋<hi>腸間/脂也</hi>膫<hi>上/同</hi>飉<hi>風也</hi>
+遼<hi>?也又水名</hi>憀<hi>無憀/賴也</hi>?<hi>穿/也</hi>寥<hi>空也又寂寥/也寥廓也</hi>料<hi>料理也量也又郎弔切</hi>?<hi>周/垣</hi>橑<hi>蓋骨亦椽也/又力道切</hi>撩<hi>取物又/理也</hi>摷<hi>擊也又側交切</hi>廖<lb/>
+<hi>人名左傳有辛伯廖又力救切</hi>僚<hi>同官?僚又姓左傳/晉陽氏大夫僚安</hi>寮<hi>上/同</hi>鐐<hi>有孔鑪又紫磨<pb n="12a"/>金也爾雅曰白金曰銀其美謂之鐐</hi>簝<hi>宗廟盛肉/方竹器</hi>豂<hi>空/谷</hi>鷯<hi>鷦/鷯</hi>
+                    <graphic n="KR1696" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1696.png" mimeType="image/png"/>
+                    <hi>竹名</hi>?<lb/>
+<hi>玉名</hi>嫽<hi>相嫽戲也/又力弔切</hi>漻<hi>水清/也</hi>蟟<hi>蛁/蟟</hi>膫<hi>目明/也</hi>?<hi>谷/名/草木?莖/細/長</hi>嶚<hi>嶚<graphic n="KR2418" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2418.png" mimeType="image/png"/>/山?</hi>翏<hi>高飛/?</hi>繚<hi>繚綾經絲/出字林</hi>憭<hi>空/?</hi>獠<hi>夜獵也又知卯盧皓二切</hi>?<hi>臗骨/名</hi>
+                    <graphic n="KR2191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2191.png" mimeType="image/png"/>
+                    <hi>崖/?</hi>蟧<hi>馬蟧/大蟬/草器又/力戈切</hi>
+                    <graphic n="KR3124" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3124.png" mimeType="image/png"/>
+                    <hi>?擇</hi>嘹<lb/>
+<hi>嘹亮聞?聲又力弔切</hi>?<hi>說文曰/火?</hi>堯<hi>至?之?謚法曰翊善/傳聖曰堯五聊切五</hi>嶢<hi>嶕嶢山危</hi>僥<hi>僬僥國名人長一/尺五寸一云三尺</hi>垚<hi>土?/?</hi>顤<hi>頭?/長?</hi>膮<hi>豕美也詐?切七</hi>
+嘵<hi>懼聲詩曰子維音之嘵嘵</hi>憢<hi>憢憢/懼也</hi>?<hi>長大/?/臉/腫/欲潰也</hi>?<hi>?毛?</hi>
+?<hi>大額又去?切</hi>?<hi>?麼小也/於堯切五</hi>怮<hi>怮怮憂也/又一蚪切</hi>葽<hi>草盛/?</hi>?<hi>魚名望?也</hi>鄡<hi>鄡陽縣名在鄱陽又姓/出何氏姓苑苦?切五/縣名在/鉅鹿郡/玉篇云擊也</hi>墽<hi>地名說文磽也/寥/空也</hi>︻四宵<hi>夜也相邀/切二十</hi>消<hi>滅也盡也息也</hi>霄<lb/>
+<pb n="12b"/>
+<hi>近天氣也</hi>捎<hi>?捎動也/又使交切</hi>逍<hi>逍/?</hi>痟<hi>痟?病也司/馬相如所患</hi>綃<hi>生絲繒也</hi>銷<lb/>
+<hi>鑠也</hi>?<hi>上/同</hi>硝<hi>硭蛸/藥名</hi>蛸<hi>螵蛸蟲也爾雅注云一名<graphic n="KR2159" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2159.png" mimeType="image/png"/>蟭亦姓南齊武帝改其子巴東王子響?蛸氏又所交切</hi>莦<hi>草名又/使交切</hi>哨<hi>口不正也/又七笑切/鳥毛/羽也</hi>鮹<hi>魚名又所交切</hi>
+                    <graphic n="KR3916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3916.png" mimeType="image/png"/>
+<hi>狂也出文字集略</hi>?<hi>煎/鹽</hi>揱<hi>長?又/色/交色角二切</hi>?<hi>張羽又/先準切</hi>魈<hi>山魈出汀州獨足鬼</hi>
+超<hi>說文曰跳也又姓漢有太僕超喜敕肖切六</hi>怊<hi>悵/恨</hi>?<hi>健/也/細/絲/鳴/也</hi>?<hi>?風</hi>朝<lb/>
+<hi>早也又旦至食時?終朝又朝鮮國名亦姓左傳有蔡大夫朝?陟?切又直?切二/古/文</hi>
+                    <graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>
+                    <hi>蒼頡篇云蟲名亦姓風俗通云?大夫史<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>之/後漢有<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>錯直?切又陟?切五</hi>晁<hi>上同</hi>?<hi>古/文</hi>朝<hi>朝廷也禮記曰諸侯於天子五年一朝又姓唐有拾遺朝?</hi>潮<hi>潮/水</hi>?<hi>喧也許嬌切/又五刀切十</hi>枵<hi>玄枵?危之次</hi>歊<hi>熱氣說文曰/歊歊氣出?</hi>毊<hi>犬磬也爾雅注云形如?/錧以玉石?之又音喬</hi>獢<hi>猲獢短喙犬也/犬?/白色</hi>藃<hi>草?又/火交切</hi>呺<hi>?然/大?/炊/氣</hi>虈<hi>白芷/?名</hi>樵<hi>柴也<pb n="13a"/>說文木也昨焦切十五/上/同</hi>劁<hi>刈/草</hi>憔<hi>憔悴/瘦也</hi>?<hi>上/同</hi>?<hi>耳中聲又音曹</hi>譙<lb/>
+<hi>國名又姓蜀有譙周</hi>嶕<hi>嶕/嶢</hi>
+                    <graphic n="KR2418" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2418.png" mimeType="image/png"/>
+                    <hi>嶚巢山?/?又音巢</hi>鐎<hi>又音/焦</hi>
+                    <graphic n="KR3868" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3868.png" mimeType="image/png"/>
+                    <hi>縣/名</hi>僬<hi>又音焦</hi>
+?<hi>面枯?又音焦</hi>?<hi>取/也</hi>菬<hi>草/名</hi>驕<hi>馬?六尺/舉喬切九</hi>嬌<hi>女字/亦態</hi>憍<hi>憐也恣也本亦作驕</hi>穚<hi>禾/秀</hi>鷮<hi>鷮似雉而小/走鳴長尾</hi>蕎<hi>藥名一/名大?</hi>喬<hi>爾雅云句如羽喬郭璞曰樹枝曲卷似鳥毛羽</hi>簥<hi>大管/名也</hi>撟<hi>舉/手</hi>焦<hi>傷火也又姓周武王封神農之後於焦後以國?氏出南安即消切十七/籀/文</hi>?<hi>?鍪上/毛飾</hi>蕉<hi>芭/蕉</hi>膲<hi>人之/三膲</hi>鷦<hi>鷦鵬南方神鳥似?又鷦鷯小鳥/上/同</hi>椒<hi>木名爾雅云檓大椒又椒?醜莍莍實也應劭漢官儀曰皇后稱椒房以椒塗壁取其?也又山?亦姓楚有大夫椒舉</hi>?<hi>上/同</hi>?<hi>啁?/聲</hi>鐎<hi>刀斗也?器三足而有柄</hi>蟭<lb/>
+<hi>
+                        <graphic n="KR2159" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2159.png" mimeType="image/png"/>蟭螗/蜋卵也</hi>?<hi>面?枯也/灼龜不兆/也亦作龜</hi>僬<hi>義見/僥字</hi>燋<hi>傷火說文曰所以然持火也</hi>?<hi>生枲也</hi>饒<hi>益也飽也餘也又姓風俗通云漢/有饒斌?漁陽太守如招切六</hi>橈<hi>楫也又女<pb n="13b"/>教也</hi>襓<hi>?/衣/牛馴伏又/而紹切</hi>蟯<hi>人腹/中蟲</hi>蕘<hi>?/蕘</hi>燒<hi>火也然也式招切又式照切二/瓜/名</hi>?<hi>?也行也餘/昭切三十六</hi>媱<hi>美/好</hi>傜<hi>使也役也又/喜也或作</hi>繇<hi>於也由也喜也詩云我歌且繇</hi>颻<hi>飄/颻/氣出/?</hi>窯<hi>燒瓦/窯也</hi>?<hi>上/同</hi>?<hi>蒲葉也又草也芅萇楚今羊桃也爾雅作銚</hi>珧<hi>玉珧/蜃甲</hi>鰩<hi>文鰩魚鳥翼能飛白首赤喙常游西海夜飛向北海</hi>
+銚<hi>燒器亦古田器又姓後漢衛尉潁川銚期又徒弔切</hi>姚<hi>姚?美好?又舜姓今出?興南安二望左傳有鄭大夫姚句耳</hi>?<hi>動也作也又姓東/越王?句踐之後</hi>?<hi>?歌也爾雅云/徒歌謂之?</hi>軺<hi>說文曰小車也又音韶</hi>愮<hi>憂也悸也/邪也惑也</hi>恌<hi>上/同/疾行又音/由或作繇</hi>陶<hi>?陶舜臣又徒刀切</hi>
+?<hi>草茂也又音由/瓜/也</hi>鷂<hi>大雉名爾雅云青質五彩/皆備成章曰鷂又音曜</hi>洮<hi>五湖名風土記云陽羡縣西有洮湖?名長塘湖義興記曰太湖射湖貴湖陽湖洮湖是?五湖</hi>烑<hi>光/也/座也弓利</hi>?<hi>旗/旒</hi>榣<hi>木/名</hi>嗂<hi>樂也說/又喜也</hi>?<hi>跳?行/??</hi>?<hi>?/玉</hi>猺<hi>獸名又?<pb n="14a"/>猺狗種也</hi>?<hi>?餌/食</hi>褕<hi>褕狄后衣/亦作榆</hi>韶<hi>舜樂也紹也/市昭切十</hi>?<hi>上同</hi>?<lb/>
+<hi>廟?穆也或作昭父昭子穆孝經?云昭明也穆敬也故昭南向穆北向孫從父坐又市沼切/草/名/卜問</hi>
+玿<hi>美玉/擊/也</hi>軺<hi>使車又/音?</hi>?<hi>說文曰樹?/又射的也</hi>?<hi>???名</hi>昭<lb/>
+<hi>明也光也著也覿也又姓楚詞昭屈景三族戰國?楚有昭奚恤止?切七</hi>鵃<hi>鶻鵃鳥也/又竹交切</hi>鉊<hi>淮南呼鎌</hi>招<hi>招呼也來也又姓/漢有大鴻臚招猛</hi>釗<hi>?也見也勉也亦/弩牙又周康王名</hi>盄<hi>玉篇器也</hi>皽<lb/>
+<hi>皮上膜</hi>?<hi>風也俗作?/甫?切十五</hi>標<hi>舉也又木杪/也又必小切</hi>猋<hi>群犬/走?</hi>杓<hi>北斗柄星天文志云一至四?魁五志七?杓又音漂</hi>瘭<hi>瘭疸/病名</hi>?<hi>頭上/幟也</hi>熛<hi>飛/火</hi>?<hi>山?輕行</hi>蔈<hi>爾雅曰?華蔈郭璞/云苕華色異名也</hi>驫<hi>?馬/走?/腫/欲潰也/旌飛揚?</hi>贆<hi>貝居陸也</hi>髟<hi>?長?又/所銜切</hi>鑣<hi>馬銜甫/嬌切七/上/同</hi>臕<hi>脂臕肥?</hi>儦<lb/>
+<hi>行?詩云行人儦儦</hi>瀌<hi>雪?詩云/雨雪瀌瀌</hi>
+                    <graphic n="KR3442" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3442.png" mimeType="image/png"/>
+                    <hi>除田薉也/亦作穮</hi>藨<hi>萑葦秀爾雅云猋蔍芀</hi>瓢<lb/>
+<pb n="14b"/>
+<hi>瓠也方言云蠡或謂之瓢論語曰一瓢飲符霄切六</hi>飄<hi>老子曰飄風不終/朝注云疾風也</hi>剽<hi>爾雅云中鏞謂之剽又小輕也或作</hi>薸<hi>方言云江東/謂浮萍?薸/?也又/公浪切</hi>螵<hi>螵蛸蟲名又撫招切</hi>蜱<lb/>
+<hi>蟲名彌?切五</hi>?<hi>?初/生也</hi>篻<hi>竹/名</hi>?<hi>玉篇云/細網也/工/雀</hi>苗<hi>田苗亦夏獵曰苗又求也?也未秀也亦姓風俗通云楚大夫伯棼之後賁皇奔晉食采於苗因而氏焉武儦切五</hi>描<hi>描畫也又音茅</hi>?<lb/>
+<hi>說文曰旄絲也</hi>貓<hi>獸捕?又爾雅曰虎竊/毛謂之??又武交切</hi>?<hi>俗</hi>要<hi>俗言要勒說文曰身中也象人要?由之形今作腰又姓?人要離之後漢有河南令要兢於霄切又一笑切九</hi>腰<hi>見上注亦作腰</hi>葽<lb/>
+<hi>秀葽草也</hi>喓<hi>蟲/聲/蛇/名</hi>?<hi>?/襻</hi>邀<hi>邀遮又/音梟</hi>?<hi>鳥名似山?而長尾</hi>蟯<lb/>
+<hi>腹中蟲又如消切</hi>鴞<hi>鴟鴞于/嬌切二/?名在/淯陽</hi>喬<hi>?也說文曰?而曲也又虜姓前代?云匈奴貴姓喬氏代?輔相巨嬌切十六</hi>橋<hi>水梁也又姓出梁國/後漢有太尉橋玄</hi>趫<hi>善走又去?切</hi>僑<lb/>
+<hi>寄也客也</hi>?<hi>上/同</hi>?<hi>似鼎/長足</hi>鷮<hi>雉名又/音驕</hi>?<hi>亦作嶠山銳而?又其廟切</hi>毊<lb/>
+<pb n="15a"/>
+<hi>大磬又?驕切</hi>轎<hi>小/車</hi>嬌<hi>廣雅云禹妃/之名又音驕</hi>蕎<hi>蕎麥又/音驕</hi>蟜<hi>蠪蟜螘也蠪音龍</hi>
+蹻<hi>驕也慢也又巨虐切/飛/?</hi>?<hi>盂/也</hi>?<hi>臿也亦作<graphic n="KR3032" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3032.png" mimeType="image/png"/>/七?切七</hi>鐰<hi>上同</hi>?<lb/>
+<hi>吹竹?又音秋</hi>幧<hi>歛髮謂之幧/頭亦作幓</hi>?<hi>上/同/生/麻/抄飯/匙</hi>妖<hi>妖豔也說文作<graphic n="KR3070" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3070.png" mimeType="image/png"/>巧也今從/夭餘同於喬切五</hi>祅<hi>祅災</hi>?<hi>說文云木盛?詩云/桃之??本亦作夭</hi>訞<hi>巧言?</hi>
+夭<hi>和舒之?又乙矯切</hi>蹻<hi>舉足?去?切/又其略切六</hi>繑<hi>說文云/?紐也</hi>趬<hi>行輕?</hi>蹺<lb/>
+<hi>揭足</hi>?<hi>額大?又/火?切</hi>?<hi>長大?又/火條切</hi>怊<hi>奢也尺招切/又敕朝切二</hi>弨<hi>弓弛?詩云彤弓弨兮/說文曰火飛也周禮注云輕/土地/之輕?也今作票同撫招切二十一</hi>漂<hi>浮也亦作</hi>
+杓<hi>北斗柄星/<graphic n="KR2397" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2397.png" mimeType="image/png"/>風/吹?</hi>嫖<hi>身輕/便?</hi>旚<hi>旌旗/動?</hi>犥<hi>牛?白色也又敷沼切</hi>
+鏢<hi>刀?鞘下飾也</hi>僄<hi>輕也又/匹妙切</hi>
+                    <graphic n="KR1870" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1870.png" mimeType="image/png"/>
+                    <hi>鳥/飛</hi>飄<hi>飄/颻</hi>慓<hi>急/也</hi>彯<hi>彯彯長組之?</hi>
+摽<hi>字統云擊也/說文曰/輕行也/上/同</hi>翲<hi>鳥/飛</hi>瞟<hi>瞟睽/明視</hi>螵<hi>螵蛸</hi>嘌<lb/>
+<pb n="15b"/>
+<hi>疾吹之?/腫/欲潰也</hi>翹<hi>舉也懸也危也又/鳥尾也渠?切六</hi>荍<hi>草名今/?葵也蓮草也</hi>嘺<hi>不/知</hi>?<hi>側/飛/凡/也</hi>燎<hi>庭火也力昭切/又力照切二</hi>?<hi>髖骨也又音聊</hi>趫<lb/>
+<hi>善走又?木也起?切又巨憍切四</hi>憍<hi>紆/也</hi>橇<hi>蹋樀行又/禹所?也</hi>?<hi>上/同</hi>︻五肴<hi>骨醴也又葅也凡非榖而食曰肴亦啖也胡茅切十九</hi>餚<hi>上/同</hi>崤<hi>崤函山名/在弘農/茅根</hi>殽<lb/>
+<hi>溷殽雜也和也亂也</hi>洨<hi>水名出常山又/縣名在沛郡</hi>筊<hi>竹/索</hi>姣<hi>姣/媱</hi>猇<hi>虎聲又縣名在濟南又直支切</hi>?<hi>?桃/梔子</hi>爻<hi>易卦/六爻</hi>淆<hi>混淆/濁水</hi>笅<hi>小簫一/十六管</hi>?<hi>字書云?聲也</hi>
+<graphic n="KR3990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3990.png" mimeType="image/png"/>
+                    <hi>沽也</hi>?<hi>?/色</hi>?<hi>痛/聲</hi>?<hi>快/也</hi>?<hi>石/名</hi>交<hi>戾也共也合也領也古肴切二十二</hi>
+蛟<hi>龍屬漢書曰武帝元封五年自於?陽浮江親射蛟江中獲之</hi>茭<hi>說文曰乾芻也又爾雅曰茭牛蘄郭璞云今馬蘄葉細銳似芹亦可食</hi>鵁<hi>鵁鶄/鳥</hi>膠<hi>膠漆亦大學也又/姓史記紂臣膠鬲</hi>鮫<hi>魚名皮有文可飾刀</hi>咬<hi>鳥/聲</hi>郊<hi>邑外/曰郊</hi>?<hi>樂器以土?之/雙相黏??也</hi>轇<hi>轇轕/?形</hi>漻<hi>??水?</hi>
+<pb n="16a"/>
+?<hi>說文?也</hi>?<hi>效也又/古孝切</hi>?<hi>竹圍/索名/米餅</hi>摎<hi>束也撓也又音留</hi>鉸<lb/>
+<hi>鉸刀又古卯切</hi>佼<hi>交也又/古卯切</hi>?<hi>秦?/藥名</hi>詨<hi>誇語也/又音哮</hi>嘐<hi>詩云雞鳴嘐嘐囊也</hi>巢<hi>說文曰鳥在木上曰巢在穴曰窠爾雅曰大笙謂之巢又縣名在廬江亦姓有巢氏之後左傳楚有巢牛臣鉏交切八</hi>轈<hi>兵車若巢/以望敵也</hi>勦<hi>輕捷也又/子小切</hi>
+                    <graphic n="KR2418" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2418.png" mimeType="image/png"/>
+                    <hi>山?/?/蒜/束</hi>樔<hi>說文曰澤中守艸樓</hi>
+                    <graphic n="KR3286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3286.png" mimeType="image/png"/>
+                    <hi>地名在/聊城</hi>鄛<hi>鄉名在/南郡</hi>鐃<hi>鐃似鈴無舌/女交切九</hi>呶<hi>喧呶</hi>譊<lb/>
+<hi>爭也又恚呼也</hi>怓<hi>心/亂</hi>?<hi>鳭?鳥名/也鳭音嘲/沙/藥名/上/同</hi>
+                    <graphic n="KR3852" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3852.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3852" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3852.png" mimeType="image/png"/>捽也</hi>?<lb/>
+<hi>犬多毛又奴刀切</hi>梢<hi>船舵尾也又枝梢/也所交切十七</hi>捎<hi>蒲捎良馬名也/亦芟也又音霄</hi>髾<hi>髮尾</hi>
+輎<hi>兵車</hi>旓<hi>旌旗/旒也</hi>弰<hi>弓/弰</hi>?<hi>飯/帚</hi>筲<hi>斗筲/竹器</hi>鞘<hi>鞭/鞘</hi>蛸<hi>蠨蛸喜子</hi>
+鮹<hi>海魚形如鞭鞘</hi>?<hi>衣/?</hi>綃<hi>帆維又/音宵</hi>?<hi>風/聲</hi>莦<hi>說文惡草?又音消</hi>?<lb/>
+<hi>小?偷也</hi>
+                    <graphic n="KR3623" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3623.png" mimeType="image/png"/>
+                    <hi>齊人/呼姊</hi>茅<hi>草名左氏傳曰前茅慮無明又/姓史記秦有茅焦莫交切八</hi>蝥<hi>?蝥蟲名</hi>
+<pb n="16b"/>
+貓<hi>又武瀌切</hi>犛<hi>牛名又/力之切</hi>罞<hi>麋罟/也</hi>鶜<hi>鶜鴟/鳥也</hi>描<hi>打也出玉篇</hi>媌<lb/>
+<hi>美好?</hi>虓<hi>虎聲許交/切十六</hi>猇<hi>上/同</hi>髇<hi>髇/箭</hi>藃<hi>禾傷肥/又音?</hi>穘<hi>上同</hi>窙<lb/>
+<hi>?氣</hi>嗃<hi>嗃謈/恚也</hi>?<hi>風?/?也</hi>哮<hi>哮/闞</hi>庨<hi>庨豁?/殿形狀</hi>灱<hi>乾也又熱也</hi>涍<lb/>
+<hi>水名在南</hi>嘐<hi>誇語/也</hi>顤<hi>?顤胡/人面也/鴟/似鳧腳/近後不能行</hi>?<hi>豕/驚</hi>包<hi>包裹亦姓楚大夫申包胥之後後漢有大鴻臚包咸布交切五</hi>胞<hi>胞胎又/匹交切</hi>枹<hi>爾雅注曰樹木叢生枝節盤結詩云枹有三?又楊枹菜</hi>苞<hi>叢生也豐也茂/也又苞筍又姓</hi>?<hi>包也象/曲身?</hi>胞<hi>胞胎匹交切九邑名說文布交切地名</hi>?<hi>覆車網也/又縛謀切</hi>脬<hi>腹中/水府</hi>拋<hi>拋/擲</hi>泡<hi>水上浮漚說文曰水出山陽平樂東北入泗又音庖</hi>
+                    <graphic n="KR2763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2763.png" mimeType="image/png"/>
+                    <hi>盛/也/擊/也/藥/名</hi>?<hi>擊頭也口/交切十一</hi>跤<hi>脛骨近足細處</hi>骹<hi>上/同</hi>膠<hi>面不/平也</hi>?<hi>??伏/態?</hi>磽<hi>石/地</hi>?<hi>?礉戍名今濟州是也出音譜</hi>礉<hi>上/同</hi>鄗<hi>邑名又杜預云山名在/滎陽縣西北又音郝</hi>墝<hi>墝埆/塉土</hi>頝<hi>頝?頭不媚也</hi>
+<pb n="17a"/>
+聱<hi>不聽也五交切又五勞切語彪切四</hi>謷<hi>不肖也又/五勞切</hi>磝<hi>?/磝/蒼頡篇云擊也</hi>
+                    <graphic n="KR3614" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3614.png" mimeType="image/png"/>
+<hi>耳中聲側交切五</hi>罺<hi>抄/網</hi>
+                    <graphic n="KR0946" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0946.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR0946" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0946.png" mimeType="image/png"/>/掐/小兒/聲</hi>摷<hi>擊/也</hi>嘲<hi>言相調也陟交切五</hi>?<lb/>
+<hi>?趟跳躍趟竹窅切</hi>啁<hi>說文曰/啁嘐也</hi>鳭<hi>鳭?/?鳥</hi>鵃<hi>鶻鵃似山鵲而小短尾至春多聲</hi>?<lb/>
+<hi>代人說也楚交切六</hi>抄<hi>略也又/初?切</hi>鈔<hi>上/同</hi>
+                    <graphic n="KR2879" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2879.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2879" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2879.png" mimeType="image/png"/>/取</hi>訬<hi>?/也</hi>?<hi>疾/?</hi>庖<hi>食?也薄交切十七</hi>咆<hi>咆虓熊/虎聲</hi>匏<hi>瓠也可/?笙竽</hi>炮<hi>合毛炙物也/一曰裹物燒</hi>炰<hi>上同</hi>鉋<lb/>
+<hi>鉋刷</hi>瓟<hi>似瓠可/?飲器</hi>麃<hi>獸名/似鹿</hi>掊<hi>手/掊</hi>颮<hi>風/聲</hi>鞄<hi>鞄皮說文云柔革工也</hi>?<lb/>
+<hi>獸名羊身人面目在腋下</hi>跑<hi>足跑/地也</hi>捊<hi>引取亦/作抱</hi>尥<hi>牛脛相交也/又力釣切</hi>泡<hi>水名又匹交切</hi>?<hi>赤?/之漆</hi>?<hi>頭凹也於/交切九</hi>?<hi>?咋/多聲</hi>坳<hi>地不/平也</hi>窅<hi>深目?又烏了切</hi>?<hi>?軋??/文車聲也</hi>眑<hi>?目不平/又於糾切</hi>咬<hi>?/聲</hi>?<hi>?柌/鐮柄/目深</hi>
+?<hi>熱風敕交切二</hi>嘮<hi>嘮呶/讙也</hi>顟<hi>顤顟胡人面/狀力嘲切四</hi>
+                    <graphic n="KR2763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2763.png" mimeType="image/png"/>
+                    <hi>盛/也</hi>窌<hi>深空之?</hi>?<lb/>
+<pb n="17b"/>
+<hi>謎語云錢又力絞切</hi>?<hi>禾穭生直交/切穭音?一</hi>︻六豪<hi>豪俠說文曰豕鬣如筆管者亦州名屬九江郡古鍾離國與?爭桑而滅隋改?州山海經云渠?之山多豪魚赤尾赤喙有羽胡刀切十三</hi>號<hi>大呼也又哭也詩云或號或呼易云先號咷而後笑又乎到切</hi>毫<hi>長/毛</hi>?<hi>熊虎/聲</hi>?<hi>上/同</hi>濠<hi>城濠又水名</hi>壕<lb/>
+<hi>上同/大面/?/音刀/木/名</hi>崤<hi>山名在弘農/又胡交切/?名在南陽</hi>
+                    <graphic n="KR2893" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2893.png" mimeType="image/png"/>
+<hi>俊健/壑</hi>?<hi>上也崇也?也敬也又姓齊太公之後食采於?因氏焉出渤海漁陽遼東廣陵河南五望又漢複姓?堂氏出泰山古勞切二十一</hi>膏<hi>脂也元命包曰膏者神/之液也又澤也肥也</hi>?<hi>?也局也澤也詩云鶴鳴九?言九折澤也又姓?陶之後左傳有越大夫?如</hi>皋<hi>上/同</hi>羔<hi>羊/子</hi>?<hi>?糜
+                        <graphic n="KR2028" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2028.png" mimeType="image/png"/>?/古亭</hi>櫜<hi>韜也一曰車上囊</hi>咎<hi>?陶舜臣/古作咎繇</hi>鼛<hi>役事車?長丈二尺詩曰?鐘伐鼛傳云鼛大鼓也</hi>?<hi>
+                        <graphic n="KR1991" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1991.png" mimeType="image/png"/>?/鳥名</hi>篙<hi>進船/竿</hi>?<hi>桔/?/見/也/葛之/白花</hi>?<hi>知也局也</hi>
+?<hi>今之??曰?</hi>格<hi>木/名</hi>?<hi>毀/也</hi>?<hi>白?草食/之不飢/?名在范陽</hi>勞<lb/>
+<pb n="18a"/>
+<pb n="19a"/>
+<hi>羌又清汰也</hi>韜<hi>藏也?也說/文曰?衣也</hi>縚<hi>上/同</hi>?<hi>疑/也</hi>滔<hi>漫也又/水流?</hi>叨<hi>叨濫</hi>
+弢<hi>弓衣/馬行/?</hi>?<hi>牛羊無子/又昌來切/牛行/??</hi>慆<hi>?/樂</hi>絛<hi>編絲繩也</hi>
+幍<hi>上同</hi>?<hi>目通/白也</hi>槄<hi>木名爾雅云槄/山櫌今山楸也</hi>蜪<hi>爾雅曰蝝蝮蜪郭璞曰蝗子未有翅者又音陶</hi>?<hi>說文曰進趣也?大十/大十者猶兼十人也/上/同</hi>綢<hi>爾雅曰素錦綢杠郭璞曰以白地錦韜旗之竿又音紬</hi>搯<hi>搯?周書云師乃/搯??烏活切</hi>翢<hi>羽葆幢又/徒刀切</hi>?<hi>玉名</hi>
+                    <graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>
+<hi>
+                        <graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>滑也又腰/?大頭名</hi>?<hi>牛<graphic n="KR1952" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1952.png" mimeType="image/png"/>/古/器</hi>?<hi>??言/不節</hi>挑<hi>挑達往來相見?詩曰挑兮達兮又條了切</hi>刀<hi>釋名曰刀到也以斬伐到其/所也說文云兵也都牢切七</hi>魛<hi>魚/名</hi>忉<hi>憂心?</hi>裯<lb/>
+<hi>說文曰袛裯短衣又直流切襌被也</hi>舠<hi>小/船/大/面?</hi>?<hi>木/心</hi>騷<hi>愁也蘇遭切十三</hi>
+搔<hi>?刮</hi>繅<hi>繹繭/?絲</hi>繰<hi>上同俗又作/縿縿本音杉</hi>臊<hi>腥/臊</hi>?<hi>魚/名</hi>溞<hi>淅米</hi>颾<lb/>
+<hi>風聲</hi>鱢<hi>?/臭/說文曰船?/名也亦作搜</hi>?<hi>上同亦/作艘/驕/也</hi>慅<hi>恐懼</hi>袍<lb/>
+<pb n="19b"/>
+<hi>長襦也薄?切三</hi>袌<hi>上/同</hi>?<hi>戾也又/車軫也</hi>?<hi>進揚美也說文作/衣博裾也又姓禹後因國?氏博毛切四</hi>褒<hi>俗/?主四子/字名盟也/地/名</hi>陶<hi>陶甄尸子曰夏桀臣昆吾作陶周書神農作瓦器又陶正官名齊職儀曰左右甄官署掌塼瓦之任也又喜也正也化也亦姓陶唐之後今出丹陽徒刀切二十五</hi>?<lb/>
+<hi>??言不節說文曰往來言也一曰小兒未能正言也一曰祝也</hi>?<hi>上/同</hi>咷<hi>號/咷</hi>桃<hi>果木名鄴中記石虎苑中有句鼻桃重二斤又姓何氏姓苑云今西陽人後趙石勒將有桃豹</hi>綯<hi>爾雅曰綯絞也謂糾絞繩索也</hi>燾<lb/>
+<hi>覆燾也又徒到切</hi>逃<hi>去也避/也亡也</hi>?<hi>大者謂之麻小者謂/之料又小鼓著柄者</hi>鞀?<hi>並上同</hi>濤<hi>波濤</hi>掏<hi>掏/擇</hi>檮<hi>春秋傳云檮杌杜預/曰凶頑無儔匹之?</hi>騊<hi>說文曰騊駼北野之良馬又山海經曰北海有獸狀如馬名騊駼</hi>萄<hi>蒲/萄</hi>翿<hi>纛也亦作翢舞者/所執也又音導</hi>?<hi>大風</hi>匋<lb/>
+<hi>養也</hi>啕<hi>多/言</hi>翢<hi>羽葆幢/又音<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>
+                    </hi>錭<hi>錭鈍/也</hi>駣<hi>馬四/?也</hi>蜪<hi>蝗/子</hi>?<hi>橘?衣袖</hi>
+糟<hi>粕也作曹切九</hi>
+                    <graphic n="KR1636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1636.png" mimeType="image/png"/>
+                    <hi>上/同</hi>?<hi>俗</hi>遭<hi>遭/逢</hi>?<hi>火餘/木也</hi>槽<hi>果華實相半也又才<pb n="20a"/>刀切</hi>傮<hi>終/也/上/同</hi>?<hi>藉/也</hi>敖<hi>?也說文作<graphic n="KR2589" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2589.png" mimeType="image/png"/>亦姓顓頊大敖之後或作遨五勞切二十五</hi>
+遨<hi>上同</hi>?<hi>?/翔</hi>聱<hi>不聽又/五交切</hi>驁<hi>駿/馬</hi>熬<hi>煎/也</hi>?<hi>山多/小石</hi>獒<hi>犬?匹尺</hi>滶<hi>水名出南/陽魯陽縣</hi>蔜<hi>?縷蔓生或/曰雞腸草也</hi>?<hi>不祥鳥白/身赤口也</hi>鼇<hi>海中大鼇</hi>
+螯<hi>蟹屬</hi>謷<hi>不省語也又/哭不止悲</hi>?<hi>?口/愁也</hi>嗷<hi>上/同</hi>?<hi>?頭/也</hi>
+                    <graphic n="KR3528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3528.png" mimeType="image/png"/>
+                    <hi>戟鋒</hi>
+摮<hi>擊?</hi>?<hi>慢/也</hi>?<hi>長大/?/船接/頭木/上/同</hi>
+                    <graphic n="KR1722" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1722.png" mimeType="image/png"/>
+                    <hi>蟹大/腳也</hi>鰲<hi>魚名</hi>
+曹<hi>曹局也又輩也?也群也亦州名蓋取古國以名之又姓本自顓頊玄孫陸終之子六安是?曹姓周武王封曹挾於邾故邾曹姓也魏武作家傳自云曹叔振鐸之後周武王封母弟振鐸於曹後以國?氏出譙國彭城?平鉅鹿四望昨勞切十四</hi>
+                    <graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>
+                    <hi>古/文</hi>槽<hi>馬/槽</hi>螬<hi>蠐螬/蟲</hi>嘈<hi>喧/嘈</hi>鐰<hi>?剛/折也</hi>?<hi>祭也先也</hi>艚<lb/>
+<hi>船艚</hi>?<hi>耳/鳴/?/也</hi>?<hi>?/?</hi>?<hi>草/名</hi>漕<hi>?邑名又水運/曰漕又昨到切</hi>?<hi>?也</hi>
+<graphic n="KR2057" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2057.png" mimeType="image/png"/>
+                    <hi>埋物灰中令熟於刀切三</hi>?<hi>銅?說文/云?器也</hi>鏖<hi>上/同</hi>猱<hi>猴也奴/刀切八</hi>?<hi>長毛<pb n="20b"/>大又音鐃/上/同</hi>?<hi>山/名</hi>嶩<hi>平嶩山名在/齊出地理志</hi>峱<hi>上/同/玉/名</hi>獿<hi>獸名</hi>
+尻<hi>說文脽也苦刀切二</hi>訄<hi>戲/言</hi>操<hi>操持七刀切/又七到切四</hi>幧<hi>所以裹髻又七?切</hi>
+                    <graphic n="KR1780" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1780.png" mimeType="image/png"/>
+<hi>平持</hi>?<hi>藉/也</hi>?<hi>囊張大?/普枹切四</hi>藨<hi>醋莓/可食</hi>?<hi>輕/?/毛起?出聲譜</hi>
+︻七歌<hi>禮記曰舜作五弦之琴以歌南風釋名曰人聲曰歌歌者柯也以聲吟詠上下如草木之有柯葉?冀言歌聲如柯古俄切十一</hi>?<hi>上/同</hi>柯<hi>枝柯又斧柯又姓?公子柯盧之後何氏姓苑云?人也又虜姓後魏書柯拔氏後改?柯氏望在河南</hi>?<hi>女師以/?女子</hi>?<hi>法也/棤也</hi>菏<hi>澤水在山/陽湖陵縣</hi>牁<hi>所以繫舟又牂牁郡名</hi>戕<hi>陸云/上同</hi>滒<hi>多/汁</hi>哥<hi>古作歌字今/呼?兄也</hi>?<hi>?/鵝</hi>蹉<hi>蹉跌也七何切七</hi>瑳<hi>玉色鮮白也/又七可切</hi>搓<hi>手搓/碎也</hi>磋<hi>治象牙/曰磋</hi>溠<hi>水名在義陽</hi>
+傞<hi>舞不止?又素何切/齒/跌/出字統</hi>多<hi>?也重也又貝多樹名葉如枇杷葉得何切三姓也漢有/宗/上/同</hi>娑<hi>婆娑舞者之容/素何切十一</hi>?<hi>摩/?</hi>挲<hi>上/同</hi>傞<hi>舞不止?<pb n="21a"/>又千何切</hi>
+                    <graphic n="KR3510" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3510.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3510" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3510.png" mimeType="image/png"/>鞄樂器/亦謂馬尾</hi>獻<hi>獻鐏見禮/記亦作?</hi>?<hi>??草/木盛?/行也又舞不正</hi>
+桫<hi>桫?木名出??山</hi>?<hi>?鑼/銅器</hi>渻<hi>偷視/也</hi>駝<hi>駱駝外國圖云大秦國人長一丈五尺好騎駱駝俗從?餘同徒河切三十三</hi>?<hi>俗</hi>鼉<hi>說文曰水蟲也/似蜥蜴而長大</hi>
+                    <graphic n="KR4232" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4232.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR4232" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4232.png" mimeType="image/png"/>/?</hi>紽<hi>絲數詩云素絲五紽</hi>鮀<hi>魚/名</hi>陀<hi>陂陀不平之/?陂普何切</hi>驒<hi>連錢?說文曰驒騱野馬也又丁年切</hi>?<lb/>
+<hi>似羊四耳九尾</hi>沱<hi>滂沱大雨也詩云月離于畢俾滂沱矣/又爾雅云江?沱謂江水出??沱也</hi>跎<hi>蹉跎</hi>詑<lb/>
+<hi>欺也</hi>池<hi>虖池水名在并州/界出周禮又音馳</hi>酡<hi>飲酒朱/??</hi>?<hi>瓦/?</hi>?<hi>?騎也</hi>?<lb/>
+<hi>逶?行?</hi>?<hi>?名又/託何切</hi>袉<hi>裾也又/達可切/緧</hi>?<hi>疾/馳</hi>
+                    <graphic n="KR2416" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2416.png" mimeType="image/png"/>
+                    <hi>如人羊角虎瓜</hi>佗<lb/>
+<hi>委委佗佗美也又託何切</hi>醝<hi>白酒也昨/何切十九</hi>?<hi>殘薉/田也</hi>瘥<hi>病也又/初介切</hi>?<hi>?縣名在譙郡或作??本音?</hi>
+                    <graphic n="KR2489" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2489.png" mimeType="image/png"/>
+                    <hi>小疫/病也</hi>鹺<hi>禮云鹽/曰鹹鹺</hi>?<hi>?/?</hi>蒫<hi>薺實又子邪切</hi>
+                    <graphic n="KR1237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1237.png" mimeType="image/png"/>
+<hi>籠屬</hi>艖<hi>小/舸</hi>蔖<hi>爾雅曰蓾蔖郭璞曰作履/苴草又采古切蓾音魯</hi>?<hi>榖麥/?也</hi>?<hi>擣也</hi>?<lb/>
+<pb n="21b"/>
+<hi>蹋也</hi>躦<hi>上/同</hi>?<hi>虎不柔也/又才都切/齒/跌</hi>齹<hi>齒/本</hi>?<hi>髮多/?</hi>莪<hi>草名似斜蒿詩云蓼蓼者莪五何切十三</hi>哦<hi>吟/哦</hi>娥<hi>美好也又姓後/魏將軍娥清</hi>?<hi>上/同</hi>?<hi>??</hi>鵝<lb/>
+<hi>說文曰?鵝也</hi>俄<hi>俄頃/速也/齊/也</hi>蛾<hi>?蛾又姓左傳晉大/夫蛾析禮記又音蟻</hi>睋<hi>視也</hi>涐<lb/>
+<hi>水名在汶江</hi>?<hi>嘉善也詩云/?以謐我</hi>硪<hi>說文曰/石巖也</hi>佗<hi>非我也亦虜三字姓後魏書佗駱技氏後改?駱氏託何切七</hi>他<hi>俗今/通用</hi>?<hi>?也俗/作拖</hi>它<hi>說文曰虫也?虫而長象冕曲垂尾形上古艸居患它故相問無它乎</hi>蛇<hi>說文同上/今市遮切</hi>痑<hi>馬病又力極/也文叨丹切</hi>?<hi>?名</hi>羅<lb/>
+<hi>羅綺也古者芒氏初作羅爾雅鳥罟謂之羅又姓出長沙?自顓頊未胤受封於羅國今房州也?楚所滅子孫以?氏魯何切十</hi>蘿<hi>女/蘿</hi>籮<hi>篩/籮</hi>儸<hi>儸出/玉篇</hi>?<hi>?/?</hi>[泳-永+羅]<hi>汨[泳-永+羅]水名/屈原沈處</hi>欏<hi>桫欏木名出??山</hi>囉<hi>羅歌詞又嘍囉/也亦小兒語也</hi>鑼<hi>?鑼/器也</hi>剆<hi>擊/也</hi>那<hi>何也都也於也盡也詩云受福不那那多也亦朝那縣名在安定又姓西魏揚州刺史那椿諾何切九</hi>?<hi>獸名似?班題食之明目<pb n="22a"/>似牛白尾</hi>挪<hi>搓/挪</hi>儺<hi>驅/疫/上/同/多/也/纂文云人/值鬼驚聲</hi>臡<hi>麋鹿骨醬</hi>
+何<hi>?也說文儋也又姓出自周成王母弟唐叔虞後封於韓韓滅子孫分散江淮間音以韓?何字隨音變遂?何氏出廬江東海陳郡三望胡歌切七</hi>河<hi>水名出積石山海經云河出??西北隅發源注海亦州取水以名之爾雅有九河徒駭太史馬頰覆?胡蘇澗?鉤盤鬲津</hi>荷<hi>爾雅曰荷芙/蕖又胡哿切</hi>菏<hi>菏菔/草也</hi>苛<hi>政煩也怒也說文曰小艸也</hi>蚵<hi>蜉/蠪</hi>魺<hi>魚/名</hi>訶<hi>責也怒也/虎何切五</hi>呵<hi>上/同/傾頭</hi>?<lb/>
+<hi>止也</hi>?<hi>擔?/俗</hi>珂<hi>馬腦苦/何切四/問口/聲</hi>?<hi>膝/骨</hi>軻<hi>又苦/賀切</hi>阿<hi>曲也近也倚也爾雅云大陵曰阿亦姓風俗通云阿衡伊尹?其後氏焉又虜三字姓匹氏後魏書云阿伏于氏後改?阿氏阿鹿桓氏後改?鹿氏又有阿史那氏阿史德氏烏何切七</hi>?<hi>媕?不決/媕音痾</hi>痾<hi>亦作?病也</hi>?<lb/>
+<hi>女字</hi>?<hi>女師又/音哥</hi>?<hi>繒之/細者</hi>鈳<hi>鈳?/小?</hi>︻八戈<hi>干戈說文云平頭戟也天授年置司戈八品武職古禾切十五</hi>過<hi>經也又過所也釋名曰過所至關津以示之也或曰傳過也移所在識以?信也亦<pb n="22b"/>姓風俗通云過國夏諸侯後因?氏漢有?州刺史過栩</hi>渦<hi>亦作濄水名出淮陽扶溝浪蕩渠又姓三輔決?有扶風太守渦尚</hi>鍋<hi>?/器</hi>
+                    <graphic n="KR2824" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2824.png" mimeType="image/png"/>
+                    <hi>車盛/膏器</hi>?<hi>上同一曰紡/車收絲具</hi>瘑<hi>瘡/也</hi>?<hi>上同</hi>
+                    <graphic n="KR3085" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3085.png" mimeType="image/png"/>
+<hi>說文曰秦名土?曰<graphic n="KR3085" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3085.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR3630" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3630.png" mimeType="image/png"/>
+                    <hi>上/同</hi>?<hi>小兒相應/也又音禾</hi>緺<hi>綬/名</hi>堝<hi>甘/堝/鳥名螗蜋?名</hi>遳<hi>?也七/戈切一/堆丁/戈切二</hi>?<hi>木?/也</hi>莎<hi>草名亦樹似桄榔其樹出?蘇禾切十二</hi>魦<hi>魚/名</hi>莏<hi>手挼/莏也</hi>
+                    <graphic n="KR2007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2007.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2007.png" mimeType="image/png"/>題縣名/在涿郡</hi>趖<hi>趖/疾</hi>蓑<hi>草名可?雨衣</hi>唆<lb/>
+<hi>?唆小兒相應</hi>
+                    <graphic n="KR3250" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3250.png" mimeType="image/png"/>
+                    <hi>佞/也</hi>?<hi>鬖?/??</hi>梭<hi>織具晉書陶侃少時漁於雷澤?網得一梭以挂於壁上須臾雷雨暴至乃化?龍而去/上/同</hi>?<hi>女字穆天子傳云盛姬喪/天子三女叔??王也</hi>婆<hi>老母稱也薄波切九</hi>媻<hi>說文曰/奢也</hi>鄱<hi>鄱陽縣名/在饒州</hi>皤<hi>老人/白也/勇舞?說文同上</hi>
+繁<hi>姓也左傳殷人七族有繁氏漢有御史大夫繁延壽又音煩</hi>搫<hi>除也潘岳射雉賦云搫場拄翳又披散也亦音盤</hi>?<hi>??草/木盛?</hi>碆<hi>纜繳石/又音盤</hi>?<hi>牛無角也/徒和切三</hi>碢<hi>碾/碢</hi>堶<hi>飛塼<pb n="23a"/>戲也</hi>摩<hi>研摩又滅也隱也/追也莫婆切十一</hi>
+                    <graphic n="KR2730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2730.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2730.png" mimeType="image/png"/>食也出/異字苑</hi>
+                    <graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>
+                    <hi>杯也又/莫加切</hi>?<hi>?尼</hi>
+魔<hi>鬼魔</hi>?<hi>偏/病</hi>磨<hi>磨礪爾雅曰/石謂之磨</hi>劘<hi>削/也/漏/病/上同</hi>?<lb/>
+<hi>??</hi>矬<hi>短也昨/禾切五</hi>痤<hi>癤/也</hi>銼<hi>銼<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>/小?</hi>?<hi>爾雅云?椄慮李今麥李也或從木</hi>?<lb/>
+<hi>小目</hi>訛<hi>謬也化也動/也五禾切七</hi>?吪<hi>並上/同</hi>?<hi>刓也去/角也</hi>囮<hi>網鳥者媒</hi>魤<lb/>
+<hi>魚名/木/節</hi>詑<hi>欺也說文曰?州謂/欺曰詑土禾切五/俗</hi>?<hi>水在/西河</hi>?<hi>?詆</hi>
+?<hi>退言/獸名魚身鳥翼/落戈切十六</hi>摞<hi>理/也</hi>騾<hi>騾馬也蜀志云後主?騾車降鄧艾也</hi>
+?<hi>上同/盛土/草器</hi>鸁<hi>桑飛/鳥也/木名可/?箭笴</hi>螺<hi>?/屬</hi>蠃<hi>上同榖積也或作/上/同/草名生/水中</hi>
+                    <graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>
+                    <hi>銼<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>小?/也或作鏍</hi>?<hi>?縷/委曲</hi>腡<hi>手指文也</hi>蠡<hi>瓠瓢也又/禮鹿二音</hi>捼<hi>捼莏說文曰摧也一曰兩手/相切摩也俗作挼奴禾切二</hi>?<hi>丸熟</hi>波<lb/>
+<hi>波浪博禾切六</hi>皤<hi>老人白?/又音婆</hi>?<hi>錦類又/絛屬也</hi>嶓<hi>嶓冢/山名</hi>番<hi>書曰番番良士爾雅<pb n="23b"/>曰番番矯矯勇也</hi>碆<hi>石可?/矢鏃也</hi>頗<hi>說文曰頭偏也滂/禾切又匹我切四</hi>坡<hi>坡/?陀不平</hi>玻<hi>玻?玉/西國?</hi>和<hi>爾雅云笙之小者謂之和和順也?也不堅不柔也亦州名在淮南漢九江都尉居之屬九江郡齊?和州又姓出汝南河南二望本自羲和之後一云卞和之後晉有和嶠又虜複姓和稽氏後改?緩氏?戈切九</hi>?<hi>古/文/棺/頭</hi>禾<hi>粟/苗</hi>龢<hi>諧也合也或/曰古和字</hi>鉌<hi>鉌鑾亦作和</hi>?<lb/>
+<hi>草名</hi>?<hi>小兒/相應</hi>盉<hi>調五/味器</hi>科<hi>程也條也本也品也又科斷也苦禾切又苦臥切十四</hi>窠<lb/>
+<hi>窠窟又巢</hi>薖<hi>草名又/?大?</hi>稞<hi>青稞/麥名</hi>?<hi>?生海邊葉/肕可?篾也</hi>蝌<hi>蝌蚪蟲名爾雅曰科斗活東蝦蟆子也字林從虫</hi>?<hi>牛無/角也</hi>犐<hi>上/同</hi>課<hi>課差又/苦臥切</hi>簻<hi>簻軸又陟瓜切</hi>?<lb/>
+<hi>竹名</hi>?<hi>?瘡又/古禾切</hi>髁<hi>膝骨說文口/臥切髀骨也</hi>
+                    <graphic n="KR2551" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2551.png" mimeType="image/png"/>
+                    <hi>美/也</hi>倭<hi>東海中國烏禾切七</hi>濄<lb/>
+<hi>水回</hi>渦<hi>水/坳</hi>?<hi>濁/也/地撾/窟也</hi>踒<hi>躅/也/燕人/云多</hi>?<hi>?鞋釋名曰?本胡服趙武靈王所服許戈切四</hi>靴<hi>上/同/撝/也</hi>?<hi>道經?云/吐氣聲也/手足曲病於靴<pb n="24a"/>切二/癡?/出釋典/手足疾?/去靴切二/上/同</hi>伽<hi>伽藍求/迦切三</hi>茄<hi>茄子菜可食又音加</hi>枷<hi>刑具又/音加</hi>佉<hi>丘伽/切四</hi>呿<hi>張口/?</hi>?<hi>欠去</hi>迦<lb/>
+<hi>釋迦出釋典居伽切又音加一</hi>脞<hi>?也醋/伽切二</hi>?<hi>訬/疾</hi>侳<hi>安也子/切二/骨/出異字苑</hi>
+瘸<hi>腳手病巨靴切一/驢腸胃也/縷/切一</hi>︻九麻<hi>麻紵亦姓風俗通云齊大夫麻嬰之後漢有麻達注論語莫霞切八</hi>犘<hi>犘牛重千/斤出巴中</hi>蟆<hi>蝦蟆亦/作?</hi>
+                    <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2167" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2167.png" mimeType="image/png"/>
+                        <graphic n="KR2086" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2086.png" mimeType="image/png"/>似<graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>鼊生海邊沙中肉甚美多膏/?難語出/陸善經字林</hi>痳<hi>痳風/熱病</hi>
+                    <graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>
+                    <hi>杯也又/莫何切</hi>?<hi>?/愍</hi>車<hi>古史考曰?帝作車引重致?少昊時加牛禹時奚仲加馬周公作指南車又姓出魯國南平淮南河南四望本自舜後陳敬仲奔齊?田氏至漢丞相田千秋以年老得?小車出入省中時人謂之車丞相子孫因以?氏漢末避地於魯又複姓二氏?本有齊臨?大夫車遽氏又有車成氏亦虜複姓魏獻帝命?屬車焜氏後改?車氏尺遮切又音居二</hi>硨<hi>硨磲</hi>奢<lb/>
+<hi>張也侈也勝也式車切三</hi>?<hi>不交/也</hi>畬<hi>燒/種田/又音余</hi>邪<hi>琅邪郡名俗作耶?亦語助以遮切<pb n="24b"/>又似嗟切十三</hi>耶?<hi>並見/上注</hi>?<hi>鏌/?</hi>?<hi>上/同</hi>椰<hi>椰子木名出交州其葉皆面相似</hi>
+擨<hi>擨歈舉手相弄</hi>斜<hi>斜谷在武功西南入谷百里/而至說文杆也又似嗟切</hi>?<hi>草/名</hi>
+                    <graphic n="KR3745" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3745.png" mimeType="image/png"/>
+                    <hi>木名皮可?索</hi>?<hi>穗/也/枲/屬/竹名生/臨海</hi>遮<hi>斷也正/奢切四/儸健而不德</hi>?<lb/>
+<hi>?人呼父</hi>諸<hi>姓也漢有洛陽令諸於何/氏姓苑云?人又職余切</hi>嗟<hi>咨也子邪/切十二/上同</hi>罝<lb/>
+<hi>免罟也詩有免罝篇</hi>蒫<hi>薺實又/昨何切</hi>謯<hi>說文/詠也</hi>瘥<hi>爾雅云病也/又在何切</hi>
+                    <graphic n="KR1818" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1818.png" mimeType="image/png"/>
+                    <hi>長歎</hi>袓<lb/>
+<hi>縣名又似與切</hi>?<hi>憍/也</hi>怛<hi>上/同</hi>
+                    <graphic n="KR2489" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2489.png" mimeType="image/png"/>
+                    <hi>小/疫</hi>?<hi>?丘山/在海東</hi>蛇<hi>毒蟲又姓後秦?姚萇后蛇氏也南安人食遮切又音它三</hi>?<hi>俗</hi>荼<hi>爾雅云?荂荼即?/也又音徒荂音呼</hi>華<hi>草盛也色也說文作?榮也崔豹古今注曰堯設誹謗木今之華表也西京記謂交午柱?花切又呼瓜?化二切十</hi>驊<hi>驊騮周穆王馬</hi>鷨<hi>鳥名/似雉/蟲名似蛇字林云/大蛇也出魏興啖小蛇及蝮但張口小蛇自入也</hi>鋘<lb/>
+<hi>鋘?</hi>鏵<hi>上/同</hi>釫<hi>亦同/上</hi>樺<hi>木名又/?化切</hi>崋<hi>西嶽名也/又?化切</hi>划<hi>划撥進船也</hi>
+<pb n="25a"/>
+瓜<hi>說文蓏也廣雅云龍蹄獸掌羊駮兔頭挂髓蜜?小青大班皆瓜名亦州名本古西戎地左傳范宣子數戎子駒支曰昔秦人迫逐乃袓吾離于瓜州又漢複姓王莽傳有?賊臨淮瓜田儀古華切七</hi>騧<hi>?馬/?喙</hi>緺<hi>青緺綬也</hi>
+婐<hi>女侍又於果切</hi>蝸<hi>蝸牛/小螺</hi>媧<hi>古女/后也</hi>
+                    <graphic n="KR0946" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0946.png" mimeType="image/png"/>
+                    <hi>引也/擊也</hi>華<hi>爾雅云華荂也呼瓜切四</hi>
+花<hi>俗今通用</hi>譁<hi>諠/譁</hi>
+                    <graphic n="KR3688" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3688.png" mimeType="image/png"/>
+                    <hi>上/同</hi>誇<hi>大言也苦/瓜切八</hi>?<hi>?/體柔也爾雅作夸毗</hi>夸<lb/>
+<hi>奢也</hi>姱<hi>姱奢/?</hi>跨<hi>?人/云坐</hi>胯<hi>兩股/間也</hi>
+                    <graphic n="KR0992" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0992.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR0992" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0992.png" mimeType="image/png"/>邪離/?之?</hi>?<hi>額上骨也</hi>拏<lb/>
+<hi>牽也女加切九</hi>?<hi>?語?/張加切</hi>挐<hi>絲絮相牽/又女書切</hi>?<hi>取/也</hi>蒘<hi>?蒘草衣敝/絲/語/不解也/爬/以/收除也</hi>笯<hi>鳥籠又/乃胡切</hi>嘉<hi>善也美也又姓左傳周大夫嘉父古牙切二十六</hi>家<hi>居也爾雅云扆?謂之家又/姓風俗通漢有家羡?劇令</hi>加<hi>?也上也陵也</hi>葭<lb/>
+<hi>葭蘆也說文曰葦之未秀者又音遐</hi>笳<hi>笳簫卷蘆/葉吹之也</hi>麚<hi>牡/鹿</hi>?<hi>上/同</hi>豭<hi>豕也子路佩豭說文曰牡豕也</hi>猳<hi>俗</hi>痂<hi>瘡/痂</hi>鴐<hi>鴐?/鳥</hi>枷<hi>枷鎖又連/枷打榖具</hi>袈<hi>袈裟<pb n="25b"/>袈裟毛衣</hi>跏<hi>跏趺/坐也</hi>
+                    <graphic n="KR3135" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3135.png" mimeType="image/png"/>
+                    <hi>不得/進也/玃</hi>[加/虫]<hi>米中/?蟲</hi>茄<hi>荷莖又漢複姓有茄羅氏</hi>
+迦<hi>漢複姓有迦葉氏又居伽切</hi>珈<hi>婦人/首飾</hi>瘕<hi>病/也</hi>犌<hi>牛?/有力</hi>幏<hi>說文曰南郡蠻夷賨布</hi>貑<hi>貑熊又貑貜也/並見爾雅注</hi>蟼<hi>爾雅云蟼蟆蛙/類也又音?</hi>遐<hi>?也胡加切十四</hi>
+蝦<hi>蝦蟆</hi>鍜<hi>錏/鍜</hi>霞<hi>赤氣騰?雲又漢/複姓有霞露氏</hi>瑕<hi>玉病也過也又姓左傳周大夫瑕禽又漢複姓有瑕?氏</hi>騢<hi>馬赤白/雜色</hi>?<hi>大/鯢</hi>?<hi>腳/下</hi>?<hi>??言/語無度</hi>碬<hi>礪石也春秋傳曰鄭公孫碬字子石</hi>?<hi>履跟/後帖/上/同</hi>赮<hi>日朝/赤色</hi>蕸<hi>荷/葉</hi>葩<hi>花也又草花白亦作?普巴切七</hi>鈀<hi>方言云江/東呼鎞箭</hi>?<hi>字林云/女字也</hi>蚆<hi>貝也爾雅曰蚆博而頯郭璞云頯者中央廣兩頭銳</hi>吧<hi>吧呀大/口?</hi>舥<hi>舥腳/船也/牛角/闊也</hi>鴉<hi>烏?名於加切八</hi>?<lb/>
+<hi>上同</hi>錏<hi>錏/鍜</hi>?<hi>?/作姿態?/音宅加切</hi>椏<hi>方言云江東言/樹枝?椏扠也</hi>丫<hi>象物開之形</hi>?<hi>碨?地形不平</hi>
+                    <graphic n="KR2319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2319.png" mimeType="image/png"/>
+                    <hi>自/刎</hi>巴<hi>巴蜀又州取國以名焉三巴記云閬白水東南流曲折三迴如巴字<pb n="26a"/>亦蟲名又姓後漢有楊州刺史巴祗伯加切八</hi>鈀<hi>兵車又/音葩</hi>笆<hi>有刺/竹籬</hi>豝<hi>豕/也</hi>芭<hi>芭蕉</hi>
+?<hi>?皻鼻病</hi>蚆<hi>又匹加切/義見上文</hi>吧<hi>吧呀小/兒忿爭</hi>叉<hi>交手初/牙切九</hi>杈<hi>杈杷田器說文曰杈枝也</hi>差<hi>擇也又/差舛也</hi>?<hi>??弓/箭室也</hi>鎈<hi>錢異名/出字諟</hi>?<hi>??脯也?物</hi>?<hi>小船/名</hi>艖<hi>上/同</hi>鯊<hi>魚名今之吹鯊小魚/是也所加切十一</hi>魦<hi>上/同</hi>沙<hi>沙汰說文曰水散石也爾雅曰潁?沙謂大水溢出??小水之名亦州取沙角山?名即三秦記鳴沙山也又姓何氏姓苑云東莞人又漢複姓二氏左傳齊有夙沙?神農時夙沙氏之後漢書功臣表有昭沙掉尾又百濟有沙吒氏</hi>砂<hi>俗</hi>裟<lb/>
+<hi>袈裟</hi>?<hi>?/毛衣</hi>?<hi>?棠木名/出??山</hi>紗<hi>絹屬一曰/紡纑也</hi>?<hi>??垂?</hi>
+                    <graphic n="KR3510" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3510.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3391" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3391.png" mimeType="image/png"/>/<graphic n="KR3510" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3510.png" mimeType="image/png"/>
+                    素<graphic n="KR1919" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1919.png" mimeType="image/png"/>/履也</hi>硰<hi>硰石地名見漢書</hi>牙<hi>牙齒又牙旗?志曰孫權因瑞作?龍大牙常在軍中諸軍進退視其所向又姓風俗通云周大司徒君牙之後五加切七</hi>衙<hi>縣名在馮翊亦衙府又姓秦穆公子食采於衙因氏焉蜀志有晉督護衙傳又音語音魚</hi>芽<hi>萌/芽</hi>齖<hi>?齖齒/不平正</hi>呀<hi>吧/呀</hi>枒<hi>杈/枒</hi>吾<hi>漢書金城郡有<pb n="26b"/>允吾縣允音船</hi>樝<hi>似梨而酸或作/柤側加切十二</hi>柤<hi>上同又/煎藥滓/芹楚葵/生水中/以指按也</hi>?<hi>?/齖</hi>皻<hi>皰/鼻</hi>抯<hi>說文/挹也</hi>溠<hi>水名出義陽/又側稼切</hi>渣<hi>上/同/瘡痂甲也</hi>
+                    <graphic n="KR3749" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3749.png" mimeType="image/png"/>
+                    <hi>赤<graphic n="KR3749" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3749.png" mimeType="image/png"/>/稻名</hi>浾<hi>棠/汁/?/宅加/切十五</hi>?<hi>?跱行/難?</hi>荼<hi>苦菜又音徒</hi>?<lb/>
+<hi>亭名在郃陽</hi>
+                    <graphic n="KR2002" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2002.png" mimeType="image/png"/>
+                    <hi>春藏葉可以?飲/巴南人曰葭<graphic n="KR2002" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2002.png" mimeType="image/png"/>
+                    </hi>茶<hi>俗</hi>秅<hi>說文曰秭也周禮云聘禮曰十斗曰斛十六斗曰籔十籔曰秉四秉曰筥十筥曰稯十稯曰秅/美/也</hi>
+                    <graphic n="KR3397" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3397.png" mimeType="image/png"/>
+                    <hi>瘢<graphic n="KR3397" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3397.png" mimeType="image/png"/>/瘡痕/含舌?窊深?</hi>塗<hi>塗飾又/音徒/丘/名</hi>梌<hi>?人云刺/木曰梌也</hi>?<hi>開張屋也又縣名說文作?</hi>
+?<hi>不正也似嗟切四</hi>斜<hi>上/同</hi>邪<hi>鬼病亦不正也/論語曰思無邪</hi>?<hi>?/蒿</hi>闍<hi>闉闍城上重門也視遮切又德胡切五</hi>余<hi>姓也見姓苑/出南昌郡</hi>鉈<hi>短予又/音夷</hi>?<hi>並上同</hi>
+窊<hi>凹也說文曰?下也烏瓜切六</hi>洼<hi>深也亦渥洼水/名又於佳切</hi>?<hi>?留地名在絳州</hi>蛙<lb/>
+<hi>蝦蟆屬也</hi>窪<hi>深也說文曰?水也/一曰窊也又水名</hi>哇<hi>婬/聲</hi>髽<hi>婦人喪髻/莊華切一</hi>檛<hi>棰也<pb n="27a"/>左氏傳曰繞朝贈之以?杜預云馬檛也或作簻陟瓜切四</hi>簻<hi>上/同</hi>
+                    <graphic n="KR2426" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2426.png" mimeType="image/png"/>
+                    <hi>亦/同</hi>膼<hi>膇/也</hi>爬<hi>搔也或作把又姓本杷東樓公之後避難改焉西魏襄州刺史把秀蒲巴切三</hi>杷<hi>枇杷木名說文曰收麥器也</hi>琶<lb/>
+<hi>琵琶樂器</hi>楂<hi>水中浮木又姓出何/氏姓苑鉏加切六</hi>查槎<hi>二/同</hi>?<hi>?齖又音樝</hi>?<lb/>
+<hi>壞也淮南子云?屋之下不可坐也</hi>苴<hi>詩傳云水/中浮草也</hi>侘<hi>侘傺失意敕加/切傺丑例切四</hi>哆<hi>張口也癡/?也</hi>?<hi>緩口又/厚脣也</hi>奓<hi>張也陟/加切八/?語/不正也</hi>觰<hi>角上廣也</hi>
+?<hi>開張屋也又縣名</hi>
+                    <graphic n="KR3397" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3397.png" mimeType="image/png"/>
+                    <hi>瘡/痕</hi>?<hi>達利?出釋/典本音去聲/?/聲</hi>?<hi>不密又黏也</hi>
+煆<hi>火氣猛也許加切又呼嫁切六</hi>呀<hi>唅呀張口?/又呀呷也</hi>?<hi>字統云谽?谷中大空?</hi>?<lb/>
+<hi>?病</hi>岈<hi>?岈山/深之狀</hi>颬<hi>吐氣又/風?</hi>?<hi>大齧也苦/加切三</hi>?<hi>??伏態之??苦交切</hi>
+<graphic n="KR3068" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3068.png" mimeType="image/png"/>
+                    <hi>?<graphic n="KR3068" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3068.png" mimeType="image/png"/>女/作姿態</hi>查<hi>大口?才邪切一</hi>若<hi>蜀地名出巴中記人/?切又惹弱二音二</hi>婼<hi>婼羌西域國名</hi>些<hi>少也寫/邪切一</hi>爹<hi>羌人呼父也/陟邪切一/?/猶?姽/也五瓜切二?<pb n="27b"/>髂骨/乞加/切一</hi>︻十陽<hi>?陽說文曰?明也爾雅云山東曰朝陽山西曰夕陽又姓出右北平本自周景王封少子於陽樊後裔避周之亂適燕家於無終因邑命氏秦置右北平子孫仍屬焉又漢複姓二十二氏歐陽氏越王句踐之後封于烏程歐陽亭後因?氏望出長沙?氏香秋有辯士?陽魋帝顓頊?陽氏之後漢有東海王中尉?陽精少昊?陽氏之後又有御史孫陽放秦穆公時孫陽伯樂之後魯之公族有名子陽者及?公于趙陽之後並以名?氏漢有周陽由淮南王舅周陽侯趙兼之後又駙馬都尉涇陽準秦涇陽君之後?本云偪陽妘姓國?晉所滅子孫因氏焉左傳晉有梗陽巫??有戲陽速漢有博士中山鮭陽鴻又有葉陽氏秦葉陽君之後列仙傳有沛國陵陽子明止陵陽山得仙其後因山?氏漢有楊州刺史鮮陽戩後漢有櫟陽侯景丹?孫汾避亂隴西封?氏又長沙太守濮陽逸陳留人也神仙傳有太陽子白日升天春秋釋例周有老陽子修?老術漢有安陽護軍河東成陽恢何氏姓苑有朱陽氏索陽氏與章切三十一</hi>?<lb/>
+<hi>日出?谷</hi>楊<hi>赤莖柳爾雅曰楊蒲柳又姓出弘農天水二望本自周宣王子尚父幽王邑諸楊?曰楊侯後并於晉因?氏也</hi>揚<hi>舉也說也導也明也又州名禹貢曰淮海惟揚州李巡曰江南之氣躁勁厥性輕揚故曰揚州</hi>颺<lb/>
+<pb n="28a"/>
+<hi>風所飛颺</hi>昜<hi>飛也又曲昜/縣在交阯</hi>羊<hi>牛羊禮記凡祭羊曰柔毛崔豹古今注云羊一名髯須主簿又姓出泰山本自羊舌大夫之後戰國?有羊千者著書顯名又漢複姓二氏列士傳有羊角哀左傳晉大夫有羊舌職</hi>?<lb/>
+<hi>廣雅云?槌也方言曰懸?柱齊謂之?</hi>眻<hi>美目又/餘亮切</hi>佯<hi>詐也或/作詳</hi>詳<hi>上同本音祥</hi>徉<lb/>
+<hi>忀徉徙倚</hi>洋<hi>水流?又海/名又音祥</hi>烊<hi>?烊出陸/善經字林</hi>煬<hi>釋金又/音恙</hi>鍚<hi>兵名又馬額飾/馬額/上靻</hi>?<hi>??/車也</hi>?<hi>明/?</hi>瘍<hi>瘍傷也說文云瘍頭瘡也周禮療瘍以五毒攻之</hi>
+?<hi>
+                        <graphic n="KR2795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2795.png" mimeType="image/png"/>?一足鳥舞則/天下雨出字統</hi>?<hi>赤鱺</hi>鸉<hi>白/鷢</hi>蛘<hi>蟲/名</hi>禓<hi>道上祭一曰道神又舒羊切</hi>崵<hi>說文曰崵/山在遼西</hi>?<hi>讙也又/音恙</hi>瑒<hi>玉/名</hi>
+                    <graphic n="KR2461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2461.png" mimeType="image/png"/>
+                    <hi>杯/也</hi>
+                    <graphic n="KR3104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3104.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3104" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3104.png" mimeType="image/png"/>?藥名多也</hi>詳<hi>審也論也諟/也似羊切八</hi>洋<hi>水名出齊郡臨朐縣北亦州名本漢成固縣秦?漢中郡魏置洋州</hi>翔<lb/>
+<hi>?翔</hi>庠<hi>說文曰禮官養老夏/曰校商曰庠周曰序</hi>祥<hi>吉也/善也</hi>
+                    <graphic n="KR2040" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2040.png" mimeType="image/png"/>
+                    <hi>趨/行</hi>
+                    <graphic n="KR3541" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3541.png" mimeType="image/png"/>
+                    <hi>女鬼古作祥禫字</hi>
+痒<hi>病也</hi>良<hi>賢也善也首也長也又姓左傳鄭大夫良/霄鄭穆公之子子良之後?張切十八</hi>梁<hi>梁棟<pb n="28b"/>又州名書曰華陽?水惟梁州晉太康記云梁者言西方金剛之氣強梁故因名之舜置也秦?漢中郡後其入蜀魏末克蜀分廣漢三巴涪陵以北七郡?梁州梁大同年復移在南鄭亦姓出安定天水河南三望本自秦仲周平王封其少子康於夏陽梁山是?梁伯後?秦并子孫奔晉以國?氏又漢複姓十二氏左傳有梁其?魯伯禽庶子梁其之後又魯有仲梁懷晉有梁餘子養梁由靡秦有強梁?莊子有十梁倚楚文王庶子有食邑諸梁者其後?氏魯有榖梁赤治春秋史記有將梁氏漢光武時有侍御史梁垣烈新垣衍之後漢明帝時有梁成恢善?數</hi>粱<hi>稻粱廣志曰遼東有赤粱魏武以?粥也俗作粱</hi>?<hi>?/食</hi>糧<hi>上/同</hi>涼<hi>薄也亦寒涼也又州名禹貢雍州之域古西戎地也六國時至秦屬戎狄月氏居焉秦置三十六郡西北唯有隴西北地二郡於漢屬涼州部至武帝改雍州?涼州後獻帝分渭川河西四郡?雍州?安十八年復改?涼州又姓魏志有太子太傅山陽涼茂</hi>?<hi>俗/北風也又/力向切</hi>量<hi>量度又力向切</hi>蜋<hi>蜣蜋蟲一名/蛣蜣又音郎</hi>踉<hi>跳踉也/又音郎</hi>椋<hi>木/名</hi>?<hi>賦/也</hi>綡<hi>冠纚</hi>
+                    <graphic n="KR2963" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2963.png" mimeType="image/png"/>
+<hi>薄也又力尚切</hi>?<hi>牻牛/駁色</hi>?<hi>漿/水</hi>輬<hi>?輬/車名</hi>香<hi>說文作/芳也漢書云尚書郎懷香握蘭<pb n="29a"/>許良切五</hi>?<hi>稻/香</hi>薌<hi>榖/氣</hi>?<hi>?黨釋名曰萬二千五百家???向也?所向也又姓出姓苑</hi>膷<lb/>
+<hi>牛羹</hi>商<hi>金音度也張也降也常也亦州名即古商國後魏置洛州周?商州取商於地?名又姓家語有商瞿式羊切十八/說文曰行賈也典籍通用商漢書曰通財鬻貨/曰商白虎通云居賣曰賈通物曰商俗作</hi>傷<hi>傷損傷也又且羊切</hi>殤<hi>殤/夭</hi>?<hi>憂/?</hi>觴<hi>酒器俗/作<graphic n="KR1824" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1824.png" mimeType="image/png"/>
+                    </hi>湯<hi>湯湯流?本他郎切</hi>蔏<lb/>
+<hi>蔏陸草也</hi>
+                    <graphic n="KR2795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2795.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2795.png" mimeType="image/png"/>鶊又/<graphic n="KR2795" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2795.png" mimeType="image/png"/>?也</hi>螪<hi>螪蛘/蟲</hi>?<hi>水/名</hi>?<hi>說文云赤?/色又餘諒切</hi>禓<hi>道上祭也又以章切</hi>饟<hi>饋也又/式尚切</hi>?<hi>?也亦/作</hi>?<hi>耕/?</hi>
+                    <graphic n="KR2145" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2145.png" mimeType="image/png"/>
+                    <hi>上/同</hi>房<hi>房室亦州名即春秋時防渚也秦?房陵郡唐武德?房州又姓出?河濟南河南三望本自堯子丹朱舜封?房邑侯子陵以父封?氏陵四十八代孫雅王莽未??河太守始居?河雅十九代孫諶隨慕容德南遷因居濟南郡生四子豫坦邃??四龍今稱四祖房氏符方切七</hi>防<hi>防禦也/隄防也</hi>坊<hi>上同見禮/又音方</hi>魴<hi>魚/名</hi>方<hi>方與縣名又府良切</hi>
+肪<hi>?肪又音方</hi>?<hi>澤鸆也/又音方</hi>章<hi>篇章又章甫殷冠名禮記曰孔子長居宋冠章甫之冠又明也<pb n="29b"/>采也程也又姓秦將有章邯諸良切十五</hi>漳<hi>水名山海經曰漳水/出?山南注于沮水</hi>樟<hi>豫樟木名</hi>慞<lb/>
+<hi>懼也</hi>璋<hi>半珪曰璋詩云乃/生男子載弄之璋</hi>彰<hi>明/也</hi>墇<hi>壅也又/之尚切</hi>障<hi>隔也又丘山頂上平又音去聲</hi>?<hi>鹿/屬</hi>獐<hi>上/同</hi>彰<hi>邑名/在紀</hi>?<hi>?柳當陸?名</hi>
+                    <graphic n="KR1860" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1860.png" mimeType="image/png"/>
+                    <hi>?人呼水/??<graphic n="KR1860" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1860.png" mimeType="image/png"/>渠泥鞍飾</hi>暲<hi>日/明</hi>昌<hi>盛也說文曰美言也一曰日光也又/姓後漢有東海相昌狶尺良切八</hi>裮<hi>衣披不帶</hi>倡<hi>樂也優也/又音唱</hi>猖<hi>猖/狂</hi>閶<hi>閶/闔</hi>琩<hi>耳/璫</hi>鯧<hi>鯧鯸/魚名</hi>菖<hi>菖蒲藥也</hi>
+羌<hi>章也強也發語端也說文云西戎牧羊人字?人羊又姓晉有石冰將羌迪去羊切四</hi>?<hi>上同或從犬古文</hi>蜣<hi>蜣/蜋</hi>薑<hi>菜名說文云御濕之菜史記云千/畦薑韭與千?侯等居良切十五</hi>?<hi>上同</hi>
+?<hi>說文界也</hi>疆<hi>上/同</hi>?<hi>俗</hi>?<hi>說文曰/比田也</hi>?<hi>牛長脊一/曰白脊牛</hi>?<hi>馬組</hi>
+韁<hi>上同</hi>殭<hi>死不/朽也</hi>礓<hi>礓/石</hi>橿<hi>一名檍萬年木又/云鋤橿鋤柄也</hi>姜<hi>姓也?天水齊姓本自炎帝居於姜水因?氏漢初以豪族徙關中遂居天水也</hi>?<hi>?/白</hi>僵<hi>仆/也</hi>長<hi>?也?也常也<pb n="30a"/>永也直良切又直向丁丈二切八</hi>萇<hi>萇楚蔓生如桃又姓/左傳周有大夫萇弘</hi>腸<hi>腸胃釋名曰腸暢也通暢胃氣也</hi>場<hi>祭神道處又/治榖地也</hi>?<hi>?跪方言曰東齊北/燕之間謂跪曰?</hi>?<hi>道也</hi>?<lb/>
+<hi>蚰蜒?名</hi>?<hi>?也又/除向切</hi>張<hi>張施也又姓出清河南陽?郡安定燉煌武?范陽犍?沛國梁國中山汲郡河??平十四望本自軒轅第五子揮始造弦寔張網羅?掌官職後因氏焉風俗傳云張王李趙?帝賜姓也陟良切四</hi>
+?<hi>?餭餳也</hi>粻<hi>食/米</hi>漲<hi>水大?/又音帳</hi>穰<hi>禾莖也又姓齊將穰苴之後何氏姓苑云今?平人汝陽切十七</hi>禳<hi>除殃/祭也</hi>攘<hi>以手禦又竊也除也遂也止/也揎袂出臂曰攘又音讓</hi>
+                    <graphic n="KR1817" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1817.png" mimeType="image/png"/>
+                    <hi>?也</hi>鑲<lb/>
+<hi>鉤鑲兵器又息羊切/縣名在/南陽</hi>躟<hi>疾/行</hi>瀼<hi>露濃/?/上/同</hi>獽<hi>戎屬</hi>儴<lb/>
+<hi>爾雅曰因也</hi>蘘<hi>蘘/荷</hi>?<hi>??<graphic n="KR1847" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1847.png" mimeType="image/png"/>/米竹器</hi>鬤<hi>鬤/亂也</hi>勷<hi>劻勷/迫?</hi>瓤<hi>瓜實也又女良切</hi>孃<hi>亂也又女良切</hi>方<hi>四方也正也道也比也類也法術也亦官名續漢書曰尚方令掌上手工巧作御刀?諸好器物也又姓史記周大夫方叔之後府良切十三</hi>汸<hi>併船也說文本/作方或從水</hi>坊<hi>坊巷亦州名本<pb n="30b"/>上郡地周於今州界置馬坊武德初置坊州因馬坊?名漢?有太子坊坊亦省名又音房</hi>?<hi>??蟲名</hi>肪<lb/>
+<hi>脂肪</hi>邡<hi>什邡縣/在漢州</hi>?<hi>鷝?鳥名/人面鳥身</hi>枋<hi>木名可以作車又/蜀以木偃魚?枋</hi>鈁<hi>鑊屬</hi>
+?<hi>牛名</hi>?<hi>趼也說文曰/曲脛馬也</hi>?<hi>禾/名</hi>匚<hi>受物之器又/一斗曰匚也</hi>襄<hi>除也上也駕也返也亦州名本楚之西津魏武置襄陽郡西魏改?襄州因水立名又姓魯莊公子襄仲之後子孫以謚?氏後漢有襄楷息良切十三</hi>廂<hi>廊也亦曰/東西室</hi>湘<hi>水名在/零陵</hi>相<hi>共供也瞻視也崔豹古今注云相風烏夏禹作亦相思木名又姓出姓苑又息亮切</hi>緗<hi>淺/?</hi>纕<hi>馬腹帶國語/云忀挾纓纕</hi>忀<hi>忀/徉</hi>驤<hi>馬騰躍又速也低昂也馳駕也</hi>鑲<hi>兵器又/女羊切</hi>瓖<hi>馬帶飾東京賦/曰鉤膺玉瓖</hi>欀<hi>欀木皮中有如白米屑擣之可?麵</hi>箱<hi>箱/籠</hi>葙<hi>青葙/子也</hi>將<hi>送也行也大也助也?也又姓後趙?有常山太守將容即良切又子諒切六</hi>漿<hi>漿/水</hi>?<hi>??魚名/?烏盍切</hi>蔣<hi>菰蔣草/又音?</hi>螿<hi>寒螿/蟬屬/說文云扶也字林又作?</hi>創<hi>說文曰傷也禮曰頭有創則沐/今作瘡初良切又初亮切三</hi>瘡<hi>上/同俗</hi>
+<pb n="31a"/>
+亡<hi>無也滅也逃也說文正作?武方切十一</hi>芒<hi>草端/也</hi>莣<hi>爾雅曰莣桂榮郭璞云今莣草似茅可以?繩索履屩</hi>鋩<hi>刃/端</hi>硭<hi>硭/硝</hi>杗<hi>屋梁又/莫郎切</hi>?<hi>忘也又/莫郎切</hi>邙<hi>縣名在沛郡又洛北山名又音忙/郡名也/又?名</hi>望<hi>看望又/音妄</hi>朢<hi>弦朢又/音妄</hi>孃<hi>母稱女良切四</hi>
+娘<hi>少女之?</hi>瓤<hi>瓜實也/又音穰</hi>鑲<hi>兵/器</hi>?<hi>簀也易曰遜于?下士莊切三</hi>床<hi>俗</hi>?<lb/>
+<hi>病也又女?切</hi>莊<hi>嚴也又莊田爾雅曰六達謂之/莊亦姓莊周著書也側羊切五</hi>?<hi>俗</hi>妝<hi>女字又飾也</hi>裝<hi>裝束又側亮切</hi>?<hi>粉飾/也</hi>常<hi>倍尋曰常又官名漢書曰奉常秦官掌宗廟禮儀景帝六年更名太常也釋名曰九旂之名日月?常謂畫日月於其端天子所?言常明也亦姓出河?漢有常惠市羊切十</hi>尚<lb/>
+<hi>尚書官名又時仗切</hi>裳<hi>上曰衣/下曰裳</hi>?<hi>試也?也說文本作嘗口味之也又姓風俗通云齊孟?君之後</hi>
+嘗<hi>上同</hi>鋿<hi>車鋿/輪?</hi>鱨<hi>魚/名</hi>償<hi>報也還也當也/復也又音?/?鳥名</hi>徜<lb/>
+<hi>徜徉猶徘徊也</hi>霜<hi>凝露也又姓/色莊切七</hi>?<hi>鷫/?</hi>鷞<hi>上/同</hi>孀<hi>寡/婦</hi>驦<hi>驌驦及馬</hi>?<lb/>
+<pb n="31b"/>
+<hi>上同</hi>蠰<hi>爾雅云齧桑?/也又傷餉二音</hi>牆<hi>牆爾雅云牆謂之墉說/文曰牆垣薇也在良切十</hi>廧<hi>上同</hi>
+墻<hi>俗</hi>佯<hi>弱也</hi>嬙<hi>嬪嬙婦/人官名</hi>檣<hi>船/檣</hi>薔<hi>薔薇又東薔子十月熟可食出河西子?賦云東薔彫胡</hi>蘠<hi>上/同</hi>戕<hi>殺也又他國/臣來殺君也/妄強犬也/又徂朗切</hi>鏘<hi>鏗鏘七羊切十二</hi>瑲<hi>玉聲</hi>槍<hi>?也通俗文云剡葦傷/?謂之槍說文曰距也</hi>蹌<hi>說文曰動也詩曰巧趨蹌兮</hi>蹡<lb/>
+<hi>行?/上/同</hi>斨<hi>斧斨說文云/方銎斧也</hi>牄<hi>說文云鳥/獸來食聲</hi>嶈<hi>山?/?/門聲和也/傷也又/式羊切</hi>搶<hi>拒也/突也</hi>匡<hi>輔助也正也又姓風俗通云匡魯邑也句須?之宰其後氏焉漢有匡衡去王切十三</hi>?<hi>邑名說文曰河/東聞喜?也</hi>筐<hi>筐/籠</hi>?<hi>海中/大蝦</hi>框<hi>棺門</hi>恇<lb/>
+<hi>怯也</hi>劻<hi>劻/勷/鬤</hi>洭<hi>水名出桂/陽含洭縣</hi>?<hi>車/戾</hi>眶<hi>目/眶</hi>?<hi>草名</hi>
+                    <graphic n="KR2796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2796.png" mimeType="image/png"/>
+<hi>耳曲</hi>王<hi>大也君也字林云王者天地人一貫三?王天下所法又姓出太原琅邪周靈王太子晉之後北海陳留齊王出和之後東海出自姬姓?平京兆魏信陵君之後天水東平新蔡新野山陽中山章武東萊河東者殷王子比干?紂所害<pb n="32a"/>子孫以王者之後?曰王氏金城廣漢長沙堂邑河南共二十一望又漢複姓王氏左傳晉有樂王鮒小王桃甲賈執英賢傳云東莞有五王氏史記云出齊威王至?王五王之後風俗通云漢有中郎威王弼出自楚威王後漢有新豊令王史音雨方切又雨誑切四</hi>?<hi>?孫蟲名又蜻/蛚即今促織也/鮹/魚名</hi>?<hi>急/行</hi>央<hi>中央一曰?也於良切九</hi>鴦<hi>鴛鴦匹鳥/又烏郎切</hi>殃<hi>禍也各也/罰也敗也</hi>?<hi>上/同</hi>鉠<hi>鈴聲又/音英</hi>秧<hi>蒔秧又於丈切</hi>霙<hi>霙霙白雲/?又音英</hi>胦<hi>脬/胦</hi>泱<hi>水流?又/烏朗切</hi>強<hi>健也暴也說文曰蚚也又姓後漢有強華奉赤伏符巨良切四</hi>疆<hi>與強通用說文/曰弓有力也</hi>?<hi>鯨魚?名/又其京切</hi>?<hi>迫也</hi>
+<graphic n="KR1733" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1733.png" mimeType="image/png"/>
+                    <hi>草名?羊切三</hi>倀<hi>失道?/又狂也</hi>鼚<hi>鼓/聲</hi>芳<hi>芬芳亦州地多芳草故以名之置在常芳縣又姓風俗通云漢幽州刺史芳?敷方切三</hi>妨<hi>妨/害</hi>淓<hi>水/名</hi>狂<hi>病也韓子曰心不能審得失之地則謂之狂也巨王切五</hi>?<hi>紡車/也</hi>?<hi>說文曰車戾/也又去王切</hi>鵟<hi>鴟/屬/草木妄生狂匡往皆從此</hi>
+︻十一唐<hi>說文曰大言也又州春秋時楚地戰國時屬晉後入於韓秦屬南陽郡後魏?淮州隋?顯州貞觀<pb n="32b"/>改?唐州因唐城山?名即??隱所亦姓唐堯之後子孫氏焉出晉昌北海魯國三望徒郎切四十</hi>?<lb/>
+<hi>並古文</hi>煻<hi>煻煨/火</hi>糖<hi>?/也</hi>?<hi>上/同</hi>堂<hi>堂除亦屋白虎通曰天子之堂?九尺天子尊故極陽之數九尺也堂之?言明也所以明禮義也禮記曰天子之堂九尺諸侯七尺大夫五尺士三尺又姓風俗通云堂楚邑大夫五尚?之其後氏焉</hi>?<hi>古/文/?/?一/月三易?</hi>棠<hi>棠?又?棠木生??山?色赤實味如李食之使人不溺亦姓左傳齊大夫棠無咎又漢複姓?王闔閭弟夫?奔楚?棠谿氏</hi>搪<hi>搪/?</hi>蓎<hi>蓎蒙女蘿案爾雅作唐蒙不從艸</hi>瑭<hi>玉/名</hi>?<hi>??黍膏/?杜兮切</hi>?<hi>??/竹笪</hi>螗<hi>蜩/螗牛上同</hi>螳<hi>螳蜋禮記仲/夏月螳蜋生</hi>塘<hi>陂/塘</hi>碭<hi>芒碭山名/又音宕</hi>鶶<hi>鶶鷵鳥名似烏蒼白色</hi>
+                    <graphic n="KR3580" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3580.png" mimeType="image/png"/>
+                    <hi>魚/名</hi>踼<hi>踼跌頓伏?/又吐郎切</hi>闛<hi>說文曰闛闛盛/?又他郎切</hi>赯<hi>赯赤色</hi>
+磄<hi>磄石也</hi>溏<hi>池/也</hi>?<hi>地/名</hi>?<hi>?/不遜</hi>?<hi>殿/基</hi>?<hi>隄/?/?門也</hi>
+鎕<hi>鎕銻火齊</hi>?<hi>罩/也</hi>
+                    <graphic n="KR3645" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3645.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3645" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3645.png" mimeType="image/png"/>?/軘軨</hi>橖<hi>車/橖</hi>榶<hi>榶棣木名案爾雅曰唐棣栘不從木</hi>?<lb/>
+<pb n="33a"/>
+<hi>?眊罽也/瓷/器</hi>郎<hi>官名又魯邑又姓出中山/魏郡二望魯當切三十</hi>?<hi>說文曰禾粟之穗生而不成者謂之董?</hi>稂<hi>草名似莠/說文同二</hi>桹<hi>桄桹/木名</hi>廊<hi>廡也文穎曰廊/殿下外屋也</hi>榔<hi>?榔</hi>
+鋃<hi>鋃鐺鎖頭一曰鍾聲</hi>硠<hi>硠磕/石聲</hi>
+                    <graphic n="KR1991" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1991.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1991" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1991.png" mimeType="image/png"/>?/鳥名</hi>浪<hi>滄浪水名/又盧宕切</hi>?<hi>??股肉?苦光切</hi>蜋<hi>螳/蜋/魚/脂</hi>琅<hi>琅玕玉名爾雅曰西北之美者有??璆琳琅玕焉又琅邪郡名今沂州也又姓齊有大夫琅過</hi>瑯<hi>琅邪郡名/俗作瑯?</hi>?<hi>???/室空?</hi>狼<hi>?狼說文曰?似犬銳頭而白頰?前廣後帝王?紀曰有神牽白狼銜鉤入殷朝又姓左傳晉有大夫狼瞫</hi>欴<hi>欴?/貪?</hi>
+                    <graphic n="KR1668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1668.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1668.png" mimeType="image/png"/>毒藥名</hi>踉<lb/>
+<hi>踉?行?</hi>莨<hi>草/名</hi>?<hi>峻?山名/冬曰所入</hi>?<hi>
+                        <graphic n="KR3645" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3645.png" mimeType="image/png"/>?/軘軨</hi>?<hi>海中/大船</hi>駺<hi>馬尾/白</hi>?<hi>??身長?</hi>筤<hi>車籃一名笑笑音替/短/矛</hi>閬<hi>當門又/盧宕切</hi>?<hi>?吭/吹?</hi>當<hi>敵也直也主也值也亦州本羌地周置同昌郡隋改?嘉城鎮貞觀中改?當州蓋取燒當羌以名之又姓也都郎切十一</hi>鐺<hi>鋃鐺</hi>簹<lb/>
+<hi>篔簹竹名</hi>襠<hi>兩襠/衣</hi>璫<hi>耳/珠/車</hi>檔<hi>木名出文/字音義</hi>儅<hi>止也又丁宕切<pb n="33b"/>耳耳下</hi>?<hi>?瓤/瓜中</hi>蟷<hi>蟷蠰螗蜋?/名亦作</hi>倉<hi>倉庾也亦官名齊職儀曰大倉令周司徒屬官有?人倉人則其職也釋名曰倉藏也藏榖物也漢書曰耿壽昌奏設常平倉又姓?帝史官倉頡之後七岡切七</hi>蒼<lb/>
+<hi>蒼色也又姓漢江夏太守蒼英</hi>鶬<hi>鶬鶊/鳥名/說/文同上</hi>滄<hi>滄浪亦州後魏所置蓋取滄海?名</hi>
+?<hi>寒?/古器也/出說文</hi>岡<hi>爾雅曰山脊岡/古郎切十六</hi>崗<hi>又作堽/並俗</hi>剛<hi>強也俗</hi>?<hi>舉也</hi>笐<hi>說文曰竹列也又爾/雅曰仲無笐竹類也</hi>鋼<hi>鋼/?</hi>綱<hi>綱紀說文曰維紘繩也</hi>亢<hi>星名一曰亢父/縣說文人頸也</hi>犅<hi>特/牛</hi>堈<hi>甕/也</hi>
+                    <graphic n="KR2265" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2265.png" mimeType="image/png"/>
+                    <hi>上/同</hi>?<hi>水牛</hi>苀<lb/>
+<hi>爾雅釋草曰苀東蠡又音杭</hi>魧<hi>魚名爾雅云大/貝本杭沆二音</hi>迒<hi>獸跡又/音抗</hi>桑<hi>木名史記曰齊魯千畝桑麻其人與千?侯等又姓秦大夫子桑之後漢有御史大夫桑弘羊息郎切六</hi>?<hi>俗/亡也死也又姓楚大夫左又息浪切</hi>喪<hi>上/同/淺/?/馬/色</hi>康<hi>和也樂也又姓?康叔之後亦西胡姓苦岡切十四</hi>?<hi>榖/皮</hi>糠<hi>俗</hi>?<hi>榖不升/謂之?</hi>?<hi>?/?</hi>?<hi>?梁?梁也見文選賦</hi>
+<pb n="34a"/>
+<pb n="35a"/>
+<hi>傳云雄曰?雌曰皇</hi>偟<hi>偟/暇</hi>媓<hi>女媓/堯妻</hi>獚<hi>犬/名</hi>蟥<hi>蛂蟥蛢/甲蟲也</hi>韹<hi>韹樂鐘聲也又音?</hi>
+                    <graphic n="KR1609" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1609.png" mimeType="image/png"/>
+                    <hi>古縣/名</hi>?<hi>羽舞/名</hi>?<hi>??/穄名/榮/也</hi>葟<hi>上/同</hi>趪<hi>趪趪舞?又張設?</hi>光<hi>明也亦州名漢西陽縣地屬江夏郡梁置光州因浮光山?名又姓田光之後秦未子孫避地以光?氏晉有樂安光逸古?切十四</hi>光<hi>上/同</hi>洸<hi>水名又/烏光切</hi>桄<hi>桄桹/木名</hi>胱<hi>膀胱/水府</hi>垙<hi>垙陌</hi>
+<graphic n="KR3436" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3436.png" mimeType="image/png"/>
+                    <hi>車下?木</hi>?<hi>上/同</hi>?<hi>長安門名/又?觥切</hi>
+                    <graphic n="KR3894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3894.png" mimeType="image/png"/>
+                    <hi>決<graphic n="KR3894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3894.png" mimeType="image/png"/>馬旋/毛在脊也</hi>恍<hi>武也</hi>茪<lb/>
+<hi>茪草名</hi>?<hi>??/武?</hi>?<hi>盛/?</hi>湯<hi>熱水又姓宋有沙門湯/休有文集吐郎切十一</hi>簜<hi>水名在鄴今簜?縣單作</hi>鏜<hi>以?貫物說文/曰?鐘聲也</hi>闛<hi>盛?又/音唐</hi>?<hi>?走/?</hi>踼<hi>踼跌又杜郎切</hi>盪<hi>盪突又/徒郎切</hi>蝪<hi>蛈蝪/蟲名</hi>鼞<hi>?/聲</hi>薚<hi>蓫薚/馬尾</hi>
+                    <graphic n="KR1733" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1733.png" mimeType="image/png"/>
+                    <hi>上/同</hi>滂<hi>滂沱普郎切七</hi>鎊<hi>鎊/削</hi>?<hi>?霈/大雨</hi>雱<hi>雨雪盛?詩/曰雨雪其?</hi>?<hi>上/同</hi>磅<hi>石/聲/量溢也</hi>汪<hi>水深廣又姓汪芒氏之胤姓苑云新安人也烏光切五</hi>兀<hi>曲脛俗/作尤</hi>尪<hi>尪弱說文同上</hi>
+<pb n="35b"/>
+洸<hi>水名又音光/雉/鳴</hi>鴦<hi>鴛鴦匹鳥烏郎/切又一良切七</hi>佒<hi>體不/申也</hi>?<hi>應聲</hi>
+                    <graphic n="KR2543" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2543.png" mimeType="image/png"/>
+<hi>貉屬</hi>?<hi>上/同</hi>?<hi>?/目?</hi>姎<hi>女人自稱/又烏朗切/?肱呼郎切/又苦朗切四</hi>?<hi>欴/?</hi>?<hi>狼?南夷國名</hi>?<hi>??/狼?</hi>航<hi>船也胡郎/切十八</hi>?<hi>?/?</hi>桁<hi>械/也</hi>行<hi>伍也列也又?庚?浪?孟三切</hi>迒<hi>獸?又/古郎切/上/同</hi>頏<hi>頡頏詩傳云飛而上曰頡飛而下曰頏說文音剛與亢同飛?下也</hi>魧<hi>魚名又/大貝</hi>胻<hi>脛/也</hi>邟<hi>餘邟縣名在/?興又音伉</hi>杭<hi>州名古於?餘邟皆?名今餘杭於?縣並在杭州</hi>沆<hi>渡也又/胡郎切</hi>蚢<hi>爾雅蚢蕭繭郭璞曰食蕭葉者皆?類</hi>肮<lb/>
+<hi>肮大脈也</hi>苀<hi>東蠡/草名</hi>抗<hi>舉也又/苦浪切</hi>吭<hi>鳥喉又/下浪切/滄茫莫郎切十四</hi>?<lb/>
+<hi>不知也</hi>?<hi>目不/明也</hi>汒<hi>谷名在/京北</hi>?<hi>怖/也</hi>忙<hi>上/同</hi>?<hi>遽/也</hi>邙<hi>北邙山名又武方切</hi>芒<hi>草端亦姓史記有/魏相芒卯又音亡/碭山名史/記本只作芒</hi>杗<hi>大梁又武方切</hi>蘉<lb/>
+<hi>勉也/寐/語/?名在/藍田</hi>臧<hi>善也厚也又姓出東莞本自魯孝公子臧僖伯之後則郎切六<pb n="36a"/>古文</hi>?<hi>牡/羊</hi>戕<hi>戕牁亦/作牂</hi>贓<hi>納賄/曰贓</hi>?<hi>槌也出/廣雅</hi>囊<hi>袋也說文曰囊橐也又姓楚莊王子子囊之後以王父字?氏奴當切二</hi>蠰<hi>蟷蠰即/螗蜋也</hi>傍<hi>亦作旁側也說文曰近也又羌姓?光切十三</hi>彷<hi>彷/徨</hi>膀<hi>膀/胱</hi>?<hi>上/同</hi>?<hi>踉?/急行</hi>?<hi>膝脛/曲?</hi>房<hi>阿房宮名</hi>旁<lb/>
+<hi>爾雅曰二達謂之岐旁謂岐道旁出也說文曰薄也</hi>篣<hi>竹箕又/薄庚切/亭名在/汝南</hi>螃<hi>螃蟹本只名蟹俗加螃字</hi>?<hi>??/穄名</hi>?<hi>馬盛?又甫/盲薄庚二切</hi>卬<hi>?也我也又姓漢有御史大夫卬祗五剛切又魚兩切七</hi>?<hi>千里駒說文又五/浪切??馬怒?</hi>?<hi>繫馬柱也劉備縛/督卸者又五浪切</hi>昂<hi>舉也</hi>
+?<hi>昌蒲?名又魚兩切</hi>?<hi>飛?/斜桷</hi>?<hi>履/頭</hi>藏<hi>隱也匿也昨?/切又徂浪切一</hi>?<hi>??苦光切一</hi>幫<hi>衣治鞋履出文字/集略博旁切五</hi>縍<hi>上/同</hi>?<hi>捍也/?也/加杯上酒</hi>鞤<lb/>
+<hi>鞋革皮用</hi>︻十二庚<hi>更也償也爾雅云太?在庚曰上章又姓唐有太常博士庚季良又漢複姓莊子有庚桑楚古行切十二</hi>鶊<hi>鶬/鶊</hi>更<hi>代也償也改/也又古孟切</hi>?<hi>兔/徑</hi>?<hi>?/稻</hi>?<hi>上同</hi>粳<lb/>
+<pb n="36b"/>
+<hi>俗</hi>賡<hi>續也經也償也</hi>羹<hi>?<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>爾雅曰/肉謂之?/古/文</hi>埂<hi>秦人謂/坑也</hi>浭<hi>水名出北平</hi>阬<hi>爾雅曰?也郭璞云/阬?也客庚切六</hi>坑<hi>上/同</hi>硎<hi>亦/同/?視不分明</hi>?<lb/>
+<hi>?硠石聲</hi>?<hi>?/有力</hi>盲<hi>目無童子/武庚切八</hi>?<hi>蟲/也</hi>鄳<hi>縣名在/江夏</hi>
+                    <graphic n="KR2001" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2001.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2001" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2001.png" mimeType="image/png"/>盯直視</hi>
+莔<hi>貝母草</hi>
+                    <graphic n="KR3585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3585.png" mimeType="image/png"/>
+                    <hi>古縣名/在義昌</hi>?<hi>?/銷/竹/名</hi>?<hi>縱?也又姓風俗通云韓王子成號?陽君其後?氏?盲切十六</hi>黌<hi>學/也</hi>蝗<hi>蟲又/音皇</hi>?<hi>六/鐘</hi>?<hi>玉聲說/文音皇</hi>喤<hi>泣聲</hi>
+鍠<hi>和也樂也又鐘聲說文音皇</hi>?<hi>??/暴風</hi>?<hi>方舟也一曰?州人呼渡津舫??或作</hi>?<lb/>
+<hi>??祭名/褡/小被/瓦/也/織/也/?</hi>韹<hi>聲/也</hi>彋<hi>弸彋帷帳起?</hi>閍<lb/>
+<hi>?中門也一曰巷門甫盲切六</hi>祊<hi>廟門/傍祭</hi>
+                    <graphic n="KR2358" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2358.png" mimeType="image/png"/>
+                    <hi>上/同</hi>?<hi>??馬行又/音傍音彭</hi>嗙<hi>喝聲</hi>?<lb/>
+<hi>大也</hi>諻<hi>語聲虎/?切五</hi>?<hi>?然/飛聲</hi>謍<hi>謍謍/小聲</hi>嚝<hi>鼓鐘/聲</hi>喤<hi>喤呷也又音?</hi>?<lb/>
+<hi>?角?酒器受七升罰失禮者古?切六</hi>觥<hi>上/同</hi>?<hi>小?春秋國語曰/?飯不及??/?主孫休<pb n="37a"/>二子名</hi>?<hi>網/滿/上/同</hi>彭<hi>行也道也盛也說文曰鼓聲也又姓大彭之後左傳楚有令尹彭仲爽漢有大司空彭宣薄庚切十七</hi>澎<hi>地名又擊水/勢又撫庚切</hi>膨<hi>膨脝/脹?</hi>?<hi>?螖似蟹而小</hi>?<lb/>
+<hi>?鬤亂髮?鬤乃庚切</hi>棚<hi>棧也/閣也</hi>榜<hi>說文曰所以輔弓/弩也又甫孟切</hi>?<hi>??祭名</hi>搒<lb/>
+<hi>笞打說文又北孟切掩也</hi>蒡<hi>菜一名隱荵/似蘇可?葅</hi>篣<hi>籠又/音旁</hi>
+                    <graphic n="KR4362" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4362.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR4362" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4362.png" mimeType="image/png"/>馞/大香</hi>?<hi>馬行盛?</hi>
+憉<hi>憉?自強/量/溢</hi>輣<hi>兵車又/樓車也/上/同</hi>脝<hi>膨脝脹也/許庚切三</hi>?<hi>憉?自強</hi>亨<hi>通也或作/又/匹庚許兩二切</hi>瞠<hi>直視?丑/庚切五</hi>橕<hi>撥也又/橕柱也</hi>樘<hi>上同說文曰?柱也</hi>?<hi>字書??/行??</hi>竀<hi>正/視</hi>鎗<hi>鼎類楚/庚切四</hi>鐺<hi>俗本/音當</hi>槍<hi>欃槍祅星</hi>
+琤<hi>玉聲</hi>傖<hi>楚人?種也/助庚切五</hi>?<hi>角長/?/?亂/髮?</hi>?<hi>上同</hi>崢<lb/>
+<hi>崢嶸山?</hi>霙<hi>雨雪雜也/於驚切十</hi>鉠<hi>鈴/聲</hi>韺<hi>五韺?陽氏/樂亦作英</hi>渶<hi>水名出青丘山</hi>鶧<lb/>
+<hi>繼鶧鳥名</hi>英<hi>華也榮而不實曰英也/又英俊亦姓漢有英布</hi>瑛<hi>玉/光</hi>?<hi>青/?</hi>?<hi>女人稱美</hi>?<lb/>
+<pb n="37b"/>
+<hi>?梅今之雀梅</hi>磅<hi>小石落聲/撫庚切四</hi>恲<hi>滿/也</hi>亨<hi>?也俗作烹又/許庚許兩二切</hi>澎<hi>澎<graphic n="KR1485" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1485.png" mimeType="image/png"/>水?又音彭</hi>平<hi>正也和也易也亦州名古山戎孤竹白狄肥子二國之地秦?遼西郡隋?北平郡武德初?平州有盧龍塞又姓齊相晏平仲之後漢相丞相平當又漢複姓何氏姓苑云有平陵平寧二氏符兵切八</hi>評<hi>評量亦評事大理寺官唐初置十二?又音病</hi>苹<hi>葭一曰蒲白又曰萍/?名又云藾蕭也</hi>枰<hi>枰仲木名又博局也</hi>泙<lb/>
+<hi>水名說文谷也</hi>坪<hi>地/平</hi>?<hi>牛羊/脂也</hi>?<hi>?</hi>驚<hi>懼也說文曰馬/駭也舉卿切七</hi>京<hi>大也廣雅曰四起曰京風俗通曰京非人力所成天地性自然也京義亦取此公羊曰京者大也師者?也天子之居必以?大之?言之又姓風俗通云鄭武公子?封於京號京城大叔其後氏焉漢有京房</hi>?<hi>?楚亦木名可染又州名夏及周並?州秦?南郡即郢都之渚?又姓燕刺客?軻</hi>麠<hi>獸名一角/似麋牛尾</hi>?<hi>上/同</hi>鶁<hi>羌鶁鳥</hi>蟼<lb/>
+<hi>蟼蛙</hi>明<hi>光也昭也通也發也又姓出平原河/南山公集有平原明普武兵切五</hi>盟<hi>盟約殺牲歃血也周禮有司盟</hi>
+                    <graphic n="KR3072" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3072.png" mimeType="image/png"/>
+                    <hi>上/同</hi>鵬<hi>鷦鵬似?/南方神鳥</hi>鳴<hi>嘶鳴又姓/出姓苑</hi>棖<hi>門兩旁木直庚切七</hi>盯<lb/>
+<pb n="38a"/>
+<hi>
+                        <graphic n="KR2001" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2001.png" mimeType="image/png"/>盯/視?</hi>澄<hi>水清定又音懲</hi>掁<hi>掁/觸</hi>?<hi>距也周禮曰/唯角?之</hi>?<hi>舉/也</hi>?<hi>?失志又音懲</hi>趟<hi>?趟躍跳竹盲/切趟陟交切二/?/狂風</hi>榮<hi>榮華又姓漢有榮?期永兵切六</hi>禜<lb/>
+<hi>祭名又音詠</hi>蠑<hi>蠑螈蜥/蜴?名</hi>瑩<hi>王色詩云充耳/秀瑩又烏定切</hi>揘<hi>拔/也</hi>嶸<hi>崢嶸又?萌切</hi>
+兵<hi>戎也周禮有司兵掌五兵五盾?本曰蚩尤以金作兵器也甫明切一</hi>兄<hi>爾雅男子先生曰兄說文長也許榮切一</hi>卿<hi>說文章也公卿春秋漢含孳曰三公象五岳九卿法河海三公法三台九卿法北斗釋名曰漢置十二卿正卿九太常光??尉太僕廷尉鴻臚宗正司農少府又姓風俗通云趙相虞卿之後去京切一</hi>生<hi>生長也易曰天地之大德曰生又姓出姓苑所庚切十</hi>笙<hi>樂器也禮記女媧造笙簧釋名曰笙生也象物貫地而生也又簟也?都賦曰桃笙象簟</hi>牲<hi>犧/牲</hi>猩<hi>猩猩能言似猿/聲如小兒也</hi>狌<hi>上/同</hi>鉎<hi>?/鉎</hi>甥<hi>外甥又姓風俗通云晉大夫?甥之後</hi>?<hi>獸名大/如兔也</hi>鼪<hi>鼪鼬/?也</hi>?<hi>金/色</hi>擎<hi>舉也渠京切十一</hi>
+勍<hi>強力</hi>黥<hi>?刑/在面</hi>??<hi>並上/同</hi>?<hi>大魚雄曰/?雌曰鯢</hi>鯨<hi>上同</hi>檠<lb/>
+<pb n="38b"/>
+<hi>所以正弓</hi>樈<hi>鑿/柄</hi>葝<hi>山/薤</hi>?<hi>頸/也</hi>迎<hi>逢也語/京切一</hi>行<hi>行?也適也往也去也又姓周有大行人之官其後氏焉?庚切又?剛?浪下孟三切十</hi>衡<hi>?也平也又姓風俗通云阿衡伊尹之後又云衡魯公字後乃氏焉</hi>?<hi>牛脊/後骨</hi>胻<hi>牛勢/胻也</hi>洐<hi>溝水/也</hi>?<hi>??/行笪</hi>珩<hi>佩上玉</hi>桁<lb/>
+<hi>屋桁</hi>蘅<hi>杜蘅香草大者曰杜若也爾雅/注曰杜衡似葵而香字不從卄/熟/肉</hi>鬤<hi>?鬤亂髮?乃庚切六</hi>?<hi>犬多毛?/說文云亂也/一曰窒</hi>獰<hi>惡/也/榖芒/長也/說文曰/牂可以作縻綆</hi>︻十三耕<hi>?也周書曰神農之時天雨粟/神農耕田而種之古莖切一</hi>鏗<hi>鏗鏘金石聲也口莖切十五</hi>銵<hi>上/同</hi>?<hi>車?又/車堅牢</hi>鳽<hi>雝渠/鳥名</hi>誙<hi>莊子曰誙誙如也</hi>牼<lb/>
+<hi>牛膝骨又人名宋有司馬牼</hi>
+                    <graphic n="KR2060" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2060.png" mimeType="image/png"/>
+                    <hi>或作硎谷名在麗/山昔秦密種瓜處</hi>硻<hi>說文云/餘堅也</hi>?<hi>敵也</hi>?<lb/>
+<hi>琴聲</hi>?<hi>車/聲</hi>硜<hi>硜硜小/人?</hi>?<hi>撞/也</hi>?<hi>?/?</hi>羥<hi>羊/名</hi>甍<hi>屋棟也莫耕切十一上同</hi>?<hi>竹/筒</hi>萌<hi>萌/牙</hi>氓<hi>民/也</hi>甿<hi>上/同</hi>嫇<hi>嫈嫇新/婦?</hi>蕄<hi>爾雅云存<pb n="39a"/>存蕄蕄在也又莫登切本亦作萌又作<graphic n="KR3946" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3946.png" mimeType="image/png"/>
+                    </hi>
+                    <graphic n="KR2001" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2001.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2001" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2001.png" mimeType="image/png"/>/盯/苕可/?帚/視/不分明</hi>?<hi>布耕切安船溝又布耿切二</hi>?<hi>冢口/穴也</hi>宏<hi>大也?萌/切十六</hi>紘<hi>冠卷也/又八紘</hi>?<hi>網?</hi>閎<lb/>
+<hi>爾雅曰衖門謂之閎郭璞云閎衖頭門又曰所以止扉謂之閎郭璞云門辟旁長橛也又姓漢有閎孺</hi>嶸<hi>崢嶸山峻</hi>
+?<hi>上同</hi>
+                    <graphic n="KR4194" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4194.png" mimeType="image/png"/>
+                    <hi>谷中響一/曰谷名也</hi>耾<hi>耳/語</hi>翃<hi>蟲/飛</hi>浤<hi>浤浤汩汩/水波之勢</hi>竑<hi>量度周禮考工曰故竑其輻</hi>?<hi>屋響又/烏宏切</hi>鈜<hi>金/聲</hi>吰<hi>噌吰/鐘音</hi>
+                    <graphic n="KR2369" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2369.png" mimeType="image/png"/>
+                    <hi>玉篇云石聲也</hi>彋<lb/>
+<hi>弸彋開張也</hi>莖<hi>草木榦也/?耕切三</hi>?<hi>樂名亦/作莖</hi>牼<hi>牛膝下骨/又苦耕切</hi>朾<hi>伐木聲也中莖切七</hi>丁<hi>上同詩曰/伐木丁丁</hi>玎<hi>玎玲王聲又齊太公子/伋謚玎公出說文也/不仁也出聲譜</hi>
+                    <graphic n="KR4390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4390.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR4390" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4390.png" mimeType="image/png"/>設幕/出字林</hi>?<hi>??腳/細長也</hi>?<hi>?宏闊/大?</hi>甖<hi>瓦器烏莖切十三</hi>罌<lb/>
+<hi>上同</hi>罃<hi>說文曰備火/長頸缾也</hi>鶯<hi>鳥羽/文也</hi>嚶<hi>鳥/聲</hi>櫻<hi>含/桃</hi>嫈<hi>嫈嫇又於營切又乙諍切</hi>鸚<hi>鸚鵡能/言之?</hi>譻<hi>譻<graphic n="KR1585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1585.png" mimeType="image/png"/>/小聲</hi>?<hi>?/?</hi>褮<hi>鬼/衣</hi>
+                    <graphic n="KR1937" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1937.png" mimeType="image/png"/>
+                    <hi>芟除林木也出齊人要術</hi>莖<lb/>
+<pb n="39b"/>
+<hi>爾雅釋草云姚莖涂薺</hi>崢<hi>崢嶸七/耕切六</hi>
+                    <graphic n="KR3015" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3015.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3015" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3015.png" mimeType="image/png"/>薴草/亂?</hi>?<hi>??毛/髮亂?</hi>埩<hi>魯城北門池也說文作淨</hi>?<hi>?鎗/王聲</hi>崝<hi>淮南子云/崝?也</hi>琤<hi>玉聲楚/耕切五</hi>錚<hi>金/聲</hi>凈<hi>冷也出字書</hi>棦<hi>木/束</hi>噲<hi>噲吰/鐘音</hi>儜<hi>困也弱也/女耕切七</hi>薴<hi>
+                        <graphic n="KR3015" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3015.png" mimeType="image/png"/>/薴</hi>?<hi>??</hi>
+                    <graphic n="KR1585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1585.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1585.png" mimeType="image/png"/>
+                    </hi>
+鑏<hi>?鑏</hi>?<hi>充/食</hi>嬣<hi>嬣/体</hi>怦<hi>心急又中直?/普耕切十一</hi>姘<hi>齊/與女交罰金四雨曰姘蒼頡篇曰男女私合曰姘</hi>閛<hi>門扉/聲/牛色駁/如星也</hi>伻<hi>使/人</hi>弸<hi>弸彋/也</hi>?<hi>使羊</hi>
+?<hi>急也</hi>匉<hi>匉訇/大聲</hi>抨<hi>彈/也</hi>砰<hi>砰磕如/雷之聲</hi>轟<hi>群車聲呼/宏切十</hi>輷<hi>上同</hi>
+?<hi>群鳥弄翅</hi>揈<hi>擊/聲</hi>訇<hi>匉訇大聲又姓蜀?/關中流人訇琦訇廣</hi>鍧<hi>鏗鍧鐘鼓聲相雜也</hi>渹<lb/>
+<hi>水石聲又大也/飛/聲/石落/聲/?/好/嗔?</hi>繃<hi>束兒衣墨子云禹葬?稽桐棺三寸葛以繃束也北萌切五</hi>絣<hi>振繩/墨也/上/同</hi>拼<hi>爾雅云使/也又從也</hi>?<hi>艣?舟具</hi>橙<lb/>
+<hi>抽屬宅耕切十二</hi>揨<hi>撞也/觸也/並上/同</hi>湞<hi>水名出/南海</hi>朾<hi>爾雅曰蠪朾螘<pb n="40a"/>郭璞云赤駁蚍蜉</hi>虰<hi>上/同</hi>?<hi>失志?/又音澄</hi>瞪<hi>直視/?/響也</hi>?<hi>安審視也</hi>
+?<hi>小突</hi>泓<hi>水深也烏/宏切四</hi>謍<hi>謍/<graphic n="KR1585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1585.png" mimeType="image/png"/>
+                    </hi>?<hi>屋響又/?萌切/試力/士錘</hi>輣<hi>兵車薄萌切五</hi>棚<hi>棧/也</hi>弸<hi>弓弱/?</hi>?<hi>?/好/嗔?</hi>庄<hi>平也亦/作</hi>娙<hi>身長好?漢書曰娙娥婦官也武帝邢夫人號娙娥五莖切二</hi>俓<hi>急/也</hi>爭<hi>競也引也/側莖切七</hi>箏<hi>樂器秦蒙恬所造</hi>
+埩<hi>埋也治也</hi>綪<hi>禮云齊則/綪結佩</hi>?<hi>縈/也</hi>猙<hi>獸名似豹一角/五尾又音?</hi>?<hi>魚名</hi>
+︻十四?<hi>山海經曰大畤之山?水出焉釋名曰??也去濁?穢色如?也又靜也澄也潔也七情切二</hi>圊<hi>廁也</hi>情<hi>?也說文曰人之?气/有所欲也疾盈切五</hi>晴<hi>天/晴</hi>請<hi>受也又在性七井二切</hi>?<hi>說文曰雨而夜除見星也</hi>?<hi>?受/賜也</hi>精<hi>明也正也善也好也說文曰擇也易曰純粹精也子盈切十五</hi>氏<hi>狋氏縣名/狋音權</hi>箐<hi>?箐/菜也</hi>鶄<hi>鵁鶄/鳥也</hi>蜻<hi>蜻<graphic n="KR1465" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1465.png" mimeType="image/png"/>蟋/蟀也</hi>晶<hi>光也</hi>
+鼱<hi>鼱鼩小鼠</hi>婧<hi>竦立也又/慈性切</hi>睛<hi>目珠/子也/水名在/南郡</hi>旌<hi>旌旗周禮曰析<pb n="40b"/>羽?旌爾雅曰注旄首曰旌</hi>旍<hi>上同/見禮</hi>箐<hi>笭箐/小籠/?/頭也</hi>?<hi>?聽也</hi>盈<lb/>
+<hi>充也滿也又姓出姓苑以成切十二</hi>嬴<hi>秦/姓</hi>?<hi>美好/?</hi>瀛<hi>大海亦州名漢河間王國後魏於此立瀛州蓋以瀛海?名</hi>?<hi>籠也說文笭也漢書曰遺子?/金滿?不如?子一經亦作?</hi>楹<hi>柱也孔子曰夢奠於兩楹</hi>贏<hi>利也益也有/餘也財長也</hi>
+                    <graphic n="KR2924" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2924.png" mimeType="image/png"/>
+                    <hi>似狐/色?/菊花一名/帝女花</hi>
+                    <graphic n="KR3169" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3169.png" mimeType="image/png"/>
+                    <hi>姓也出姓苑魯大夫名</hi>攍<hi>擔/也</hi>營<hi>造也度也說文曰市居也亦州名舜分?州?營州爾雅曰齊曰營州今?州也又姓風俗通云周成王卿士營伯之後漢有京兆尹營郃余傾切六</hi>鎣<hi>采?又/音營</hi>塋<hi>墓/域</hi>?<hi>惑也又?扃切</hi>濴<hi>波勢/回?</hi>謍<hi>說文曰小聲也引/詩云謍謍?蠅</hi>嬰<hi>蒼頡篇云女曰嬰馬曰兒又姓風俗通云晉大夫季嬰之後於盈切七</hi>瓔<hi>瓔/珞</hi>纓<hi>冠纓禮記玉藻/曰玄冠朱組纓</hi>攖<hi>亂/也/地名又一井切</hi>賏<hi>具/飾</hi>蘡<hi>蘡薁/藤也</hi>貞<hi>正也陟/盈切六</hi>楨<hi>楨榦題曰楨旁曰榦又女楨冬不凋木也</hi>禎<lb/>
+<hi>善也祥也</hi>
+                    <graphic n="KR2860" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2860.png" mimeType="image/png"/>
+                    <hi>地名又/直貞切</hi>湞<hi>湞陽縣名/湞水所?/丘/名</hi>檉<hi>木名說文云河柳也丑貞切八</hi>
+<pb n="41a"/>
+偵<hi>偵候又丑鄭切</hi>赬<hi>赤色俗/作?</hi>?<hi>上/同</hi>?<hi>??行/不正</hi>竀<hi>正/視</hi>蟶<hi>蚌屬</hi>
+虰<hi>螘也</hi>成<hi>畢也就也平也善也亦州名古西戎地州南八十里有仇池山晉改?仇池郡後?南秦州梁廢帝改?成州又姓出上谷東郡二望本自周文王子成伯之後又漢複姓十五氏莊子有務成子廣成子?成子游伯成子?韓子有容成子列子有考成子國語晉卻犨食采苦成後因以?氏?本曰宋有大夫老成方盆成括仕於齊晉有英成僖子漢有廣漢太守古成雲古音枯?祖功臣有陽成延後漢有密縣上成公白日升天晉戊己校尉燉煌車成將古成氏之後史記有邢成氏是征切十/古/文</hi>城<hi>城郭崔豹古今注云城者盛也所以盛受民物也又淮南子曰?作城亦姓風俗通云氏於事者城郭園池是也</hi>誠<hi>審也敬/也信也</hi>宬<hi>屋容/受也</hi>郕<hi>地名也/在東平</hi>?<hi>?筐織具</hi>盛<hi>盛受也黍稷在/器也又時正切</hi>?<hi>珠/類</hi>?<hi>頸/也</hi>呈<hi>示也平也見也直貞切七</hi>程<lb/>
+<hi>期也式也限也品也又姓出廣平安定一望本自顓頊重黎之後周宣王時程伯休父入?大司馬封于程後遂?氏與司馬氏同</hi>酲<hi>酒/病</hi>
+                    <graphic n="KR2860" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2860.png" mimeType="image/png"/>
+                    <hi>地名又/音貞</hi>珵<hi>玉/名</hi>?<hi>筵/也</hi>裎<hi>佩帶又/恥領切</hi>聲<hi>聲音又姓<pb n="41b"/>左傳蔡大夫聲子書盈切一</hi>征<hi>行也諸盈/切十三</hi>延<hi>上/同</hi>鯖<hi>?魚煎食曰五侯鯖又倉經切</hi>
+<graphic n="KR1648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1648.png" mimeType="image/png"/>
+                    <hi>並上同</hi>鉦<hi>鐃也/似鈴</hi>怔<hi>怔忪/懼?</hi>正<hi>正朔本/音政</hi>?<hi>方言云齊魯間謂題肩??鳥</hi>?<hi>?輿/馬飾</hi>眐<hi>獨視/?/?小兒/衣出字林</hi>?<hi>?伀遽/行?</hi>輕<hi>輕重去盈切三</hi>
+                    <graphic n="KR1698" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1698.png" mimeType="image/png"/>
+                    <hi>一足/跳行</hi>鑋<hi>說文曰/金聲也</hi>名<hi>名字春秋說題曰名成也大也功也?也說文曰自命也?夕口夕者冥不相見故以口自名也又姓左傳楚大夫彭名之後武并切二</hi>洺<hi>水名在易陽亦州名春秋時?赤狄之地後屬晉秦?邯鄲郡周於此置洺州以洺水?名</hi>?<hi>???/貞切二</hi>令<hi>使也又?鄫郎丁二切</hi>并<lb/>
+<hi>合也亦州名舜分?州?幽州并州春秋時?晉國後屬趙秦?太原郡魏復置并州又姓出姓苑府盈切四</hi>栟<hi>栟櫚木名</hi>?<hi>?篁/車轓</hi>屏<hi>屏盈徬徨又/餅萍二音</hi>傾<hi>側也伏也敬/也去營切二</hi>頃<hi>西頃地名出地理志說文曰頭不正也又去潁切</hi>餳<hi>飴也徐/盈切一</hi>縈<hi>繞也於/營切五</hi>褮<hi>說文云鬼衣也</hi>嫈<lb/>
+<hi>小心態又烏莖切</hi>?<hi>聲/也/覆/也</hi>瓊<hi>玉名渠營/切十七</hi>璚<hi>上/同</hi>煢<hi>獨也一曰迴飛<pb n="42a"/>也</hi>?<hi>上同</hi>?<hi>驚/視</hi>惸<hi>無弟/兄也/博/予一/名投予</hi>藑<hi>藑茅/草也</hi>嬛<hi>好也</hi>
+<graphic n="KR1137" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1137.png" mimeType="image/png"/>
+                    <hi>上同</hi>赹<hi>獨行/?</hi>憌<hi>憂/也/上/同/草/旋/上/同/車輮規一曰輪車也</hi>?<hi>特/也</hi>騂<hi>馬赤色也/息營切四/上/同</hi>垶<hi>赤/土</hi>?<hi>角/弓</hi>頸<hi>項也頸在前項在後巨成切又居郢切五/魚/名</hi>葝<hi>?尾草又山/薤又音擎</hi>
+                    <graphic n="KR3686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3686.png" mimeType="image/png"/>
+                    <hi>上/同/貨也火營切一</hi>
+︻十五?<hi>東方色也亦州名九州之一禹貢曰海岱惟?州又男?女?皆木名出羅浮山記亦姓出何氏姓苑又漢複姓三氏風俗通云漢有?烏子善數術又有青牛氏青陽氏倉經切五</hi>鶄<hi>鶄鶴鳥也出南海又音精</hi>
+鯖<hi>魚名又諸盈切</hi>蜻<hi>蜻蜓蟲方言曰蜻蛉謂/蛉也六足四翼又音精</hi>靘<hi>?靘/無色</hi>經<hi>常也絞也徑也亦經緯又姓出何氏姓苑古靈切又音徑/四</hi>涇<hi>水名淮南子云涇/水出薄洛之山</hi>鵛<hi>鸒鵛鷋也</hi>巠<lb/>
+<hi>直波?巠說文曰水脈也</hi>?<hi>說文曰罰?也今只用/下文刑?經切十七</hi>刑<hi>法也禮曰刑者侀也侀者成也一成而不可變故君子盡心焉說文剄也</hi>形<hi>容也/常也</hi>邢<hi>地名在鄭亦州名古邢侯國也項羽?襄國隋?邢<pb n="42b"/>州取國以名之又姓出河間也本周之?邢侯??所滅後遂?氏漢有侍中邢辟直道忤時??河間鄭令因家焉小瓜</hi>?<hi>?名/在密</hi>桯<hi>?前長几/又音?</hi>鉶<hi>祭/器</hi>型<hi>鑄?模也/又作</hi>陘<hi>連山中?又姓陘晉邑也其大夫氏焉今有井陘縣</hi>侀<hi>成/也</hi>硎<hi>砥/石</hi>娙<hi>女長?又/五莖切</hi>鈃<hi>酒器似鐘而長頸也</hi>?<hi>並同/上</hi>鋞<hi>說文曰?器/也圜而直上</hi>庭<hi>門庭又直也亦州名即漢車師後王庭之地本烏孫國土也其前王庭即交河縣是也特丁切二十一</hi>停<hi>息也定/也止也</hi>鼮<hi>鼮?豹文漢武帝得此?孝廉郎終軍識之賜絹百匹</hi>莛<hi>草/莖</hi>葶<hi>葶/藶</hi>筳<hi>竹/筳</hi>亭<hi>今亭子名釋名曰亭停也人所停集也漢典職曰洛陽二十街街一亭十二城門門一亭也</hi>聤<hi>耳出/惡水</hi>霆<hi>雷/霆</hi>渟<hi>水止魚名</hi>綎<hi>綬/也</hi>娗<hi>好/?</hi>?<hi>?/也/定/息</hi>挺<hi>縣名在膠東/又徒頂切</hi>楟<hi>山?木名</hi>
+蜓<hi>蜻蜓亦蟪姑?名</hi>廷<hi>風俗通云廷者平也又正也國家朝廷也釋名曰廷停也人所停集之處漢書曰廷尉秦官也應劭曰古官也</hi>?<hi>猱?/?屬/埤蒼云/?二眠</hi>丁<hi>當也亦辰名爾雅云太?在丁曰強圉又<pb n="43a"/>姓本自姜姓齊太公子伋謐丁公因以命族出濟陽濟?二望當經切八</hi>釘<hi>又都/定切</hi>玎<hi>玉/聲</hi>?<hi>丘名</hi>
+靪<hi>補履下也</hi>虰<hi>爾雅曰虰蛵負勞郭/璞云或即蜻蛉也</hi>仃<hi>伶仃/獨也</hi>叮<hi>叮/嚀</hi>馨<hi>香也呼刑切三</hi>
+                    <graphic n="KR2066" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2066.png" mimeType="image/png"/>
+                    <hi>說文/聲也</hi>蛵<hi>虰/蛵</hi>星<hi>星宿說文曰萬物之精上?列星淮南子曰日月之淫氣精者?星辰也又姓羊氏家傳曰南陽太守羊續娶濟北星重女桑經切十二</hi>?<hi>上同出/說文</hi>腥<hi>豕息肉又先定切</hi>
+胜<hi>犬膏臭也</hi>?<hi>說文云/魚臭也</hi>?<hi>上/同/稀</hi>醒<hi>酒醒又思挺先定二切</hi>鉎<lb/>
+<hi>?鉎</hi>?<hi>???/駕車轓</hi>猩<hi>說文曰猩猩犬/吠聲又音生</hi>惺<hi>惺?了慧/?出聲類</hi>竮<hi>?竮行不正亦作伶俜普丁切八</hi>俜<hi>見上注又/匹正切</hi>甹<hi>甹夆掣?說文曰亟詞也或曰甹俠也三輔謂輕財者?甹使/也</hi>艵<hi>縹/色</hi>頩<hi>面色又/普冷切</hi>姘<hi>男女/?合</hi>覮<hi>淮南子云覮然能聽</hi>靈<lb/>
+<hi>神也善也巫也寵也福也亦州名漢北郡富平縣地赫連??之果園也後魏置靈州取靈武縣名?之又姓風俗通云齊靈公之後或云宋公子靈圍龜之後晉有餓者靈輒郎丁切八十七</hi>?<hi>並古/文</hi>靈<hi>廣雅曰玉名說<pb n="43b"/>文曰巫以玉事神也與靈同</hi>舲<hi>舟上/有?</hi>齡<hi>年/也</hi>?<hi>大/羊/上/同</hi>囹<hi>囹圄</hi>鴒<lb/>
+<hi>?鴒</hi>?<hi>竹/名</hi>蛉<hi>蜻/蛉</hi>鈴<hi>似鐘/而小</hi>霝<hi>落也墮也說文曰雨/也/?雨<graphic n="KR2958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2958.png" mimeType="image/png"/>象雨形或作零</hi>醽<lb/>
+<hi>?酒</hi>苓<hi>茯/苓</hi>櫺<hi>?櫺又櫺/檻階際欄</hi>柃<hi>說文/木也/空/也</hi>伶<hi>樂/人</hi>泠<hi>清泠水也又水名出丹陽又姓左傳周大夫泠州鳩</hi>瓴<hi>瓴甋一曰/似甖有耳</hi>
+                    <graphic n="KR1598" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1598.png" mimeType="image/png"/>
+                    <hi>說文曰螟<graphic n="KR1598" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1598.png" mimeType="image/png"/>桑蟲也或作蛉</hi>拎<lb/>
+<hi>手懸捻物</hi>?<hi>?利/性人也/似虎而小/出南海/通俗文云/?糞曰/小瓜名出安南</hi>
+玲<hi>?朧玉聲</hi>
+                    <graphic n="KR4179" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4179.png" mimeType="image/png"/>
+                    <hi>似瓶/有耳/瘦/也</hi>?<hi>上/同</hi>聆<hi>以耳/取聲</hi>?<hi>?/竮/字類撞</hi>蘦<hi>菜名似葵可食</hi>軨<hi>車/闌</hi>?<hi>上/同</hi>笭<hi>笭箐/小籠</hi>零<hi>落也說文曰徐雨也又姓出姓苑</hi>?<hi>女字</hi>令<hi>漢複姓有令狐氏本自畢萬之後國語云晉大夫令狐文子即魏顆也自漢已後?本太原至邁?王莽所誅邁少子始居燉煌也</hi>
+                    <graphic n="KR2332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2332.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2332.png" mimeType="image/png"/>/班?</hi>?<hi>字類云/小熱?/食/飽</hi>
+                    <graphic n="KR1751" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1751.png" mimeType="image/png"/>
+                    <hi>山海經曰/神名人面獸身或作?一曰龍名</hi>?<hi>說文/龍也</hi>翎<hi>鳥/羽</hi>?<hi>門上小?出/崔浩女儀</hi>?<hi>??</hi>?<lb/>
+<pb n="44a"/>
+<hi>?鳥鶴?名也</hi>昤<hi>昤曨日光/出道書</hi>駖<hi>駖蓋車/騎聲/螢/也/器名又人名也</hi>蕶<lb/>
+<hi>草蕶落也</hi>酃<hi>地名在/湘東</hi>詅<hi>詅音相次/出異字音</hi>彾<hi>彾俜/行?</hi>?<hi>骨</hi>呤<hi>埤蒼云呤吟語也</hi>?<hi>徐行不正?/出異字音</hi>狑<hi>犬/名/上/同</hi>爧<hi>火光/?</hi>冷<hi>冷澤?人云水凌又力頂切</hi>怜<hi>心了/黠?</hi>
+                    <graphic n="KR2958" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2958.png" mimeType="image/png"/>
+                    <hi>?鳥也/從三口</hi>
+                    <graphic n="KR2802" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2802.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2802" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2802.png" mimeType="image/png"/>艦有/屋舟名/插空又力定切</hi>澪<lb/>
+<hi>水名</hi>鏻<hi>健/也/草莖/?也</hi>?<hi>穗熟玉篇/云年也</hi>?<hi>?耳草也/本亦作苓</hi>?<hi>玉篇云??犬聲又力仁切</hi>岭<hi>山深/?</hi>?<hi>魚連/行?/毛結不理玉/篇云長毛也/餌也</hi>?<lb/>
+<hi>綼絲一百升又絮名</hi>?<hi>竹/名</hi>砱<hi>石/砱</hi>?<hi>阪/名</hi>羚<hi>羊/子</hi>姈<hi>女/字</hi>?<hi>牛名</hi>寧<lb/>
+<hi>安也說文曰願詞也亦州名禹貢古西戎地秦?北地郡亦?豳州又?寧州奴丁切九</hi>寍<hi>說文曰安也??心在皿上皿人之食飲器所以安人也</hi>鸋<hi>爾雅曰鴟鴞鸋/?又曰鴽子鸋</hi>?<hi>天/也/告也又乃定切?名在馮翊谷口又奴?切/螻/蛄</hi>嚀<hi>叮/嚀</hi>聹<hi>耳垢又/乃鼎切</hi>汀<hi>水際平沙也他丁切十四</hi>
+<pb n="44b"/>
+訂<hi>平議也又徒頂他頂二切</hi>桯<hi>碓/桯</hi>綎<hi>絲綬/帶綎</hi>聽<hi>聆也又/湯定切</hi>?<hi>?屋</hi>町<lb/>
+<hi>田處又徒頂切</hi>艼<hi>草/名/罟/也</hi>?<hi>皮帶/?也</hi>?<hi>上/同</hi>?<hi>縚屬說/文緩也</hi>
+                    <graphic n="KR2994" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2994.png" mimeType="image/png"/>
+                    <hi>上同</hi>
+?<hi>平?</hi>冥<hi>暗也幽也又姓禹後因國?氏風俗/通云漢有冥都?丞相莫經切十五</hi>榠<hi>榠樝果木</hi>銘<lb/>
+<hi>銘記釋名曰銘名也記名其功也</hi>鄍<hi>晉/邑</hi>溟<hi>溟濛小雨/又溟海也</hi>?<hi>眉目/間也</hi>螟<hi>螟蛉桑蟲說文曰蟲食榖葉者吏冥冥犯法即生螟/小/豚</hi>?<hi>上/同</hi>蓂<hi>蓂萊堯時生於庭隨月彫榮</hi>瞑<lb/>
+<hi>合目瞑瞑又亡千切/漬/米</hi>嫇<hi>好/?</hi>覭<hi>小見也又爾雅曰覭/髳弗離也又莫的切</hi>暝<hi>晦暝也</hi>
+瓶<hi>汲水器也又姓風俗通云漢有太子少傅瓶守後趙?有北海瓶子然二姓蓋?薄經切十五</hi>缾<hi>上同</hi>蛢<lb/>
+<hi>以翼鳴蟲</hi>?<hi>?子說文/云?令?</hi>屏<hi>三禮圖曰扆從廣八尺畫斧文今之屏風則遺象也又必郢切</hi>荓<lb/>
+<hi>荓馬帚似蓍又荓翳雨師名也</hi>?<hi>竹/名</hi>軿<hi>?軿/兵車</hi>萍<hi>水上/浮萍</hi>蓱<hi>上/同</hi>竮<hi>?竮又普經切</hi>郱<hi>郱城在/東莞/織蒲/?器</hi>洴<hi>莊子曰有洴澼/絖造絮者也</hi>?<hi>???駕車名</hi>熒<lb/>
+<pb n="45a"/>
+<hi>光也明也?扃切六</hi>褮<hi>衣開孔也又/音縈鬼衣也</hi>螢<hi>螢火禮記云季夏/月腐草?螢一名丹良又名?</hi>滎<lb/>
+<hi>小水也又水名在鄭州</hi>?<hi>?惑也又/余傾切/貨/也</hi>扃<hi>?外閉關/古螢切八</hi>駉<hi>駿馬也詩曰駉駉牡馬傳云良馬腹幹肥張也</hi>?<hi>馬肥/盛也</hi>坰<hi>野外曰林/林外曰坰</hi>?<hi>古/文</hi>
+                    <graphic n="KR2794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2794.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2794" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2794.png" mimeType="image/png"/>
+                        <graphic n="KR2332" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2332.png" mimeType="image/png"/>班?</hi>
+絅<hi>引急也/木/名</hi>︻十六蒸<hi>?也進也君也又?曰薪細曰蒸說文曰析麻中幹也又爾雅曰冬祭曰蒸經典亦作烝?仍切七</hi>?<hi>說文/同上</hi>烝<hi>說文曰火/氣上行也/熟/也</hi>?<hi>?也</hi>
+篜<hi>玉篇云竹也</hi>脀<hi>癡/?</hi>承<hi>次也奉也受也又姓後/漢有承?署陵切三</hi>丞<hi>佐也翊也物理論曰?祖定天下置丞相以統文德立大司馬以整武事?二府也</hi>
+                    <graphic n="KR3658" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3658.png" mimeType="image/png"/>
+                    <hi>軺車後登/也出字林</hi>澂<hi>清也直陵切五</hi>
+澄<hi>上同</hi>瞪<hi>直視也又/直庚切</hi>?<hi>平也又/竹萌切</hi>懲<hi>戒也/止也</hi>陵<hi>大阜曰陵釋名曰陵崇也體崇?也又犯也侮也侵也?也又漢複姓六氏?延陵季子之後有延陵氏?士傳有於陵子仲戰國?有安陵丑?氏春秋有鉛陵卓子漢有?陵顯秦昭王弟?陵君之後楚有公子食采於鄧陵後以?氏力膺切十八</hi>淩<hi>?也又水<pb n="45b"/>名?臨淮亦姓?將有淩統</hi>夌<hi>說文/越也</hi>綾<hi>綾/紈</hi>凌<hi>冰/凌/上/同</hi>蔆<hi>芰也</hi>菱<lb/>
+?<hi>並同</hi>?<hi>怜/也</hi>鯪<hi>臨海風土記曰鯪魚腹/背皆有刺如三角菱也</hi>崚<hi>崚嶒/山?</hi>?<hi>?殑鬼出?</hi>崚<hi>去/也/說文曰馬食榖多氣/流四下也本力甑切</hi>?<hi>止也又/力證切</hi>?<hi>祭名神靈之福/欺/俗</hi>膺<hi>?也親也/於陵切四</hi>應<hi>當也又姓出南頓本自周武王後左傳曰邦晉應韓武之穆也漢有應曜隱於淮陽山中與四皓俱?曜獨不至時人語之曰南山四皓不如淮陽一老八代孫劭集解漢書</hi>
+                    <graphic n="KR2258" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2258.png" mimeType="image/png"/>
+<hi>寒蟬</hi>鷹<hi>鳥名月令曰驚蟄/之日鷹化?鳩</hi>?<hi>依几也扶/冰切五</hi>馮<hi>周禮馮相氏鄭玄云馮?也相視也?登?臺以視天文又防戎切</hi>憑<hi>憑/託</hi>淜<hi>說文曰無/舟渡河也</hi>?<hi>水/聲</hi>?<hi>水凍也說文本作?筆陵切三</hi>冰<hi>上同說文/本魚陵切</hi>掤<hi>說文曰所以覆矢/也詩云抑釋掤忌</hi>蠅<hi>蟲也詩云螢螢青蠅余陵切一</hi>繩<hi>直也又繩索俗作/?食陵切十二</hi>譝<hi>稱/舉</hi>憴<hi>上/同</hi>鱦<hi>小/魚</hi>?<hi>駕也勝也登也守也說文作?覆也又姓漢有?昌??棗侯</hi>?<hi>上/同/古/文</hi>澠<hi>水名在齊左傳云有酒如澠又<pb n="46a"/>泯緬二音</hi>溗<hi>波前後/相淩也</hi>塍<hi>稻田畦/也畔也</hi>?<hi>上/同</hi>騬<hi>犗/馬</hi>升<hi>十合也成也又布八十縷?升識蒸切五</hi>昇<hi>日上本亦作升詩曰如/日之升升出也俗加日</hi>陞<hi>登也/躋也</hi>勝<hi>任也舉也說文本?舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公?河東太守又書證切</hi>?<hi>上舉易曰?馬壯吉說文音蒸上聲</hi>仍<hi>因也就也重也頻也又姓/出何氏姓苑如?切七</hi>艿<hi>草名謂陳根草不芟新草又生相因艿也所謂燒火艿者也</hi>?<hi>厚/也</hi>?<hi>往/也</hi>礽<hi>福/也</hi>扔<hi>引/也</hi>?<hi>木/名</hi>兢<hi>兢兢戒慎居陵切二</hi>矜<hi>本矛柄也巨巾切/字?借?矜憐字</hi>徵<hi>召也明也成也證也經典省作徵又姓?太子率更今河南徵崇陟陵切四/古國/名</hi>癥<hi>腹/病/旌旗柱說文本丑/善切旌旗杠?</hi>繒<hi>繒帛又姓漢功臣表有繒賀疾陵切六</hi>鄫<hi>國名也/在琅邪</hi>驓<hi>馬名四/骹皆白</hi>橧<hi>豖所/寢也</hi>?<hi>??</hi>嶒<lb/>
+<hi>崚嶒山?</hi>凝<hi>水結也又成/也魚陵切一</hi>興<hi>盛也舉也善也說文曰起也?舁?同同力也亦州名戰國時?白馬互之地漢置武都郡魏立東益州梁?興州因武興山而名?陵切又許應切三</hi>?<hi>女/字/說文曰/地名也</hi>稱<hi>知輕<pb n="46b"/>重也說文曰銓也又姓漢功臣表有新山侯稱忠處陵切又昌證切三</hi>?<hi>并舉/也</hi>偁<hi>宣揚美事又言也好也楊也舉也足也</hi>殑<hi>殑殑欲死狀其矜/切又其拯切二</hi>?<hi>草名根可?/竹器又音琴</hi>?<hi>??山矜切一</hi>硱<hi>硱磳石?綺兢/切又苦?切一</hi>?<hi>醉行?丑/升切三</hi>庱<hi>亭名在?興孫權射虎處又丑拯切</hi>
+睖<hi>睖瞪直視</hi>磳<hi>硱磳仕/兢切一</hi>砅<hi>水擊山巖聲/披冰切一</hi>︻十七登<hi>成也升也進也?也說文曰上車也亦州名漢文帝封悼惠王子?牟平侯即此地也周?登州取文登山而名又姓蜀有關中流人始平登定都滕切八</hi>璒<hi>石似/玉也</hi>燈<hi>燈/火</hi>簦<hi>長柄/笠也</hi>?<hi>毾/?</hi>?<hi>金?草</hi>?<lb/>
+<hi>瓦器</hi>?<hi>?鶛/鳥也</hi>楞<hi>四方木也/魯登切六</hi>棱<hi>上同又威棱/又柧稜木也</hi>稜<hi>俗</hi>輘<hi>車聲</hi>
+倰<hi>倰?長?</hi>?<hi>祭也福/也靈也</hi>僧<hi>沙門也梵音云/僧伽蘇?切三</hi>鬙<hi>鬅鬙/髮短</hi>?<hi>?甑神不爽也</hi>崩<hi>說文云山?/也北滕切一</hi>?<hi>益也加也重也又埋/幣曰?作滕切十二</hi>憎<hi>憎疾</hi>磳<lb/>
+<hi>硱磳石?又土殑切</hi>?<hi>則也亦姓?參之後漢有/尚書?偉古作?又音層</hi>矰<hi>弋射/矢也</hi>罾<hi>魚網</hi>?<lb/>
+<pb n="47a"/>
+<hi>蜀人取生肉於竹中炙</hi>?<hi>舉也又/飛鳥?</hi>?<hi>巢/?</hi>橧<hi>禮運曰夏/則居橧巢</hi>?<hi>加言也菎草</hi>瞢<hi>目不明武/登切四</hi>蕄<hi>爾雅云存有/蕄蕄在也</hi>?<hi>??神/不爽也/穢也</hi>層<lb/>
+<hi>重屋也昨棱切又作滕切三</hi>?<hi>經也又/作滕切</hi>?<hi>目小作態/瞢?也</hi>朋<hi>朋黨也五貝曰朋書云武王?箕子之對賜十朋也步崩切六</hi>堋<hi>射/堋</hi>鵬<hi>大/鳥</hi>棚<hi>棚閣又/薄庚切</hi>倗<hi>輔也又姓漢書王尊傳云南山??倗宗等又匹等切</hi>鬅<hi>鬅鬙/被髮</hi>弘<hi>大也又姓?有/弘演胡肱切三</hi>鞃<hi>鞃軾中靶也</hi>
+苰<hi>藤苰胡麻也</hi>肱<hi>臂也古/弘切二/軾中/靶也</hi>薨<hi>說文云公侯卒也呼肱切五說文曰惛也</hi>
+                    <graphic n="KR3248" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3248.png" mimeType="image/png"/>
+                    <hi>惛迷/也/大/風也</hi>
+                    <graphic n="KR2699" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2699.png" mimeType="image/png"/>
+                    <hi>水/聲</hi>能<hi>工善也又獸名熊屬足似鹿亦賢能也奴登切又奴代奴來二切一</hi>騰<hi>馳也躍也說文曰傳也/曰犗馬也徒登切十二</hi>滕<hi>國名亦姓滕侯之後以國?氏</hi>縢<hi>行/縢</hi>?<hi>囊可/帶者</hi>螣<hi>螣蛇或曰/食禾蟲</hi>藤<hi>藤苰又/藤蘿</hi>謄<hi>移書謄上黑虎也</hi>?<hi>倰?/長也</hi>
+                    <graphic n="KR3748" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3748.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3748" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3748.png" mimeType="image/png"/>/痛</hi>?<hi>魚名蒼/身赤尾/美目/?</hi>恒<hi>常也?也亦州名春<pb n="47b"/>秋時鮮虞國地漢?恒山郡周武帝置恒州因山以?名爾雅曰恒山?北嶽又姓楚有大夫恒思公胡登切三古文</hi>峘<hi>爾雅曰小山岌大山/峘郭璞云岌謂?也</hi>?<hi>急也淮南子云大弦?則小弦?也古恒切三</hi>?<lb/>
+<hi>大索</hi>?<hi>上/同</hi>?<hi>??鼓聲/他登切四</hi>?<hi>飽也?人/云出方言/小水相/添益?/上同</hi>
+漰<hi>漰?水擊聲普朋切二</hi>堋<hi>堋振/動?</hi>︻十八尤<hi>過也葚也怨也多也說文異也又姓出姓苑羽也切九</hi>枕<hi>木/名</hi>腄<hi>縣名在/東萊</hi>疣<hi>結病也釋名曰疣丘也出皮上聚?如地之有丘也</hi>
+?<hi>上同/?/文</hi>沋<hi>水名在/?密</hi>郵<hi>境上?亦督郵古官?釋名曰督郵主諸縣罰?郵殿糾攝之又姓西京雜記有郵長倩</hi>訧<hi>過也博雅/曰惡也</hi>憂<hi>愁也又姓出姓/苑於求切十七</hi>優<hi>饒也亦優倡又姓史記楚賢臣優孟</hi>瀀<hi>瀀/渥/游本亦作優/詩云?爾優游</hi>麀<hi>牝/鹿/上同</hi>櫌<lb/>
+<hi>鉏也又打塊搥</hi>鄾<hi>邑名/在鄧</hi>
+                    <graphic n="KR1448" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1448.png" mimeType="image/png"/>
+                    <hi>微/小</hi>怮<hi>含怒/不言</hi>嚘<hi>欭嚘/歎也/覆種出王篇</hi>獶<lb/>
+<hi>獶犬名/菜/名</hi>纋<hi>笄/中</hi>?<hi>氣/逆</hi>?<hi>鼻目/間恨</hi>劉<hi>剋也陳也殺也亦劉子木名實如?<pb n="48a"/>核堅味酸美出交阯又姓出彭城沛國弘農河間中山梁郡頓丘南陽東平?平東莞平原廣陵臨淮琅邪蘭陵東海丹陽宣城南郡?堂?密竟陵長沙河南等二十五望並自陶唐氏?衰其後劉累學擾龍事孔甲范氏其後也唯河南一望即虜姓也後魏書官氏志獨孤氏後改?劉氏力求切四十四</hi>留<hi>住也止也說文作?亦姓出?稽本自?大夫留封人之後後漢末避地?稽遂居東陽?郡豪族?志有左將留?</hi>?<hi>?荑/藥名</hi>?<hi>并力也又力逐切</hi>摎<lb/>
+<hi>絞縛殺也又姓魏有河?太守摎尚</hi>鶹<hi>鶹離鳥名少美/長醜亦作流</hi>騮<hi>驊騮周/穆王馬</hi>?<hi>赤馬?髦尾</hi>?<hi>田不耕而火種</hi>
+                    <graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>
+                    <hi>?<graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>/?也</hi>流<hi>演也求也覃也放/也說文曰水行也</hi>?<hi>古文</hi>飂<lb/>
+<hi>?風也</hi>飀<hi>上/同</hi>瘤<hi>肉起疾也釋名曰瘤/流也流聚而生腫也</hi>榴<hi>石榴果名博物志云張騫使西域迴所得</hi>?<hi>美金說文曰垂玉也冕/飾今典籍用下文旒</hi>旒<hi>旗旒廣雅天子十二旒至地諸侯九旒至軫大夫七旒至轂士三旒至肩</hi>?<hi>?/璃/食竹根?/又音柳</hi>
+                    <graphic n="KR2401" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2401.png" mimeType="image/png"/>
+                    <hi>上/同</hi>?<hi>說文云竹聲也又音柳竹名出玉篇</hi>瀏<hi>水清又/音柳</hi>?<hi>風行聲/又音柳</hi>?<hi>魚/名</hi>鰡<hi>同/上</hi>嵧<hi>岣嵧羅君山?</hi>
+<pb n="48b"/>
+<graphic n="KR3899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3899.png" mimeType="image/png"/>
+                    <hi>扶<graphic n="KR3899" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3899.png" mimeType="image/png"/>藤名?木生其味/辛可食其花實似蒟醬</hi>鎦<hi>殺也/綺?/名也/斬/刺/殺也</hi>
+懰<hi>烈也</hi>餾<hi>飯氣蒸也/又力救切</hi>?<hi>蜉?蟲本作/蜉蝣蝣音游</hi>裗<hi>爾雅曰衣裗謂之?郭璞云衣縷也齊人謂之攣或曰?衣之飾</hi>
+                    <graphic n="KR3921" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3921.png" mimeType="image/png"/>
+                    <hi>飛鸓/鳥名/麻/也</hi>硫<hi>石硫?/藥名</hi>遛<hi>逗遛</hi>?<lb/>
+<hi>觩?角?</hi>憀<hi>悲恨也/又音聊</hi>鏐<hi>美金曰鏐即/紫磨金也</hi>秋<hi>春秋說文曰禾榖熟也又姓宋中書?人秋當七由切十七</hi>?<hi>古/文</hi>?<hi>車/?</hi>緧<hi>上同說又/曰馬紂也/上同周禮曰/必其牛後</hi>鞦<lb/>
+<hi>亦上同又鞦韆繩戲古今蓺術圖曰鞦韆北方山戎戲以習輕趫者</hi>湫<hi>水池名/北人呼</hi>鶖<hi>?鶖鳥亦作?</hi>鰍<lb/>
+<hi>魚屬亦作?</hi>楸<hi>木/名</hi>萩<hi>蕭似/蒿也</hi>
+                    <graphic n="KR1434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1434.png" mimeType="image/png"/>
+                    <hi>爾雅曰鼁<graphic n="KR1434" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1434.png" mimeType="image/png"/>蟾蝫郭璞云似蝦蟆居陸地淮南謂之去蚥</hi>?<lb/>
+<hi>上同</hi>蟗<hi>爾雅曰次/蟗??</hi>?<hi>雞/雛</hi>?<hi>說文云吹筩也/玉篇云吹簫也</hi>趥<hi>說文曰行?</hi>猷<lb/>
+<hi>謀也已也圖也若也道也說文曰玃屬一曰隴西謂犬子?猷以周切四十五</hi>猶<hi>上同又尚/也似也</hi>悠<hi>?也遐也思也憂也</hi>油<hi>水名出武/陵又油脂</hi>由<hi>從也經也用也行也/又姓史記有由余</hi>攸<hi>所也又姓北燕<pb n="49a"/>尚書攸邁</hi>蕕<hi>水蕕草/又臭草</hi>浟<hi>水流/?/氣行?/或作逌</hi>
+                    <graphic n="KR2023" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2023.png" mimeType="image/png"/>
+                    <hi>歋<graphic n="KR2023" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2023.png" mimeType="image/png"/>以/手相弄</hi>冘<hi>冘?不定/行/也</hi>輶<hi>輶車又易受/移授二切</hi>?<hi>草盛/也</hi>秞<hi>禾盛/?</hi>蚰<hi>蚰蜒</hi>蝣<lb/>
+<hi>蜉蝣朝生夕死</hi>?<hi>木名出/??山</hi>楢<hi>積也又/音酉/水草一/名軒于</hi>斿<hi>旌旗之末垂者</hi>游<lb/>
+<hi>浮也放也又姓出馮翊廣平前燕慕容廆以廣平游邃?股肱</hi>遊<hi>上/同/古/文</hi>卣<hi>中樽樽有三品上曰?中曰卣下曰罍</hi>?<hi>從/也</hi>?<hi>鮂?/小魚</hi>?<hi>上/同</hi>抌<hi>杼曰出/周禮</hi>揄<hi>上同又音俞</hi>
+舀<hi>上同又以沼切</hi>偤<hi>侍也出文/字辨疑</hi>?<hi>瓦/器/遺玉又/弋九切</hi>?<hi>亭名在?陵</hi>
+繇<hi>猶也/皁/也</hi>?<hi>病也又/息惡肉</hi>囮<hi>鳥/媒</hi>?<hi>上/同</hi>庮<hi>?屋木周禮曰牛夜鳴則?鄭司農云庮杇木臭也又弋?切/空也說文云生條也引書云/若?木之有/?又胡感切/上同下視深也/說文/草也</hi>牛<hi>大牲也?本曰?帝臣胲作服牛史記曰紂倒?九牛又姓出隴西本自殷周封微子於宋其裔司?牛父帥師敗狄長丘死之子孫以玉父字?氏風俗通云漢有牛崇?隴西主簿馬文淵?太守羊喜?功<pb n="49b"/>曹涼部云三牲備具語求切一</hi>遒<hi>盡也即由切又/自秋切十一</hi>鮂<hi>烏化?魚頂上有細骨如禽毛</hi>?<lb/>
+<hi>耳鳴聲</hi>蝤<hi>蝤蛑似蟹而大生/海邊也又自秋切</hi>啾<hi>啾唧/小聲</hi>?<hi>縣名在燕又迫也促也接髮</hi>揂<hi>聚/也</hi>揫<hi>束也/聚也</hi>湫<hi>水名又/子小切/聚也又/束枲也</hi>酋<hi>長也說文曰繹酒也禮有大酋掌酒官也自秋切十</hi>?<hi>?/也</hi>遒<hi>盡也又/即由切</hi>?<hi>耳中聲也/又即由切</hi>崷<hi>崷?山峻?</hi>?<hi>魚名二月有之</hi>蝤<hi>蝤蠐/蝎也</hi>煪<hi>煪/?/隿射收/繳角也</hi>
+                    <graphic n="KR1636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1636.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1636.png" mimeType="image/png"/>液周禮音糟</hi>脩<lb/>
+<hi>脯也又長也又姓漢有屯騎校尉脩炳姓苑云今臨川人息流切七</hi>修<hi>理也說/文飾也</hi>羞<hi>恥也進也又致滋味?羞</hi>
+                    <graphic n="KR2542" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2542.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2542" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2542.png" mimeType="image/png"/>/饙</hi>
+                    <graphic n="KR4191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4191.png" mimeType="image/png"/>
+                    <hi>上/同</hi>?<hi>??載/喪車</hi>樇<hi>木/名</hi>抽<hi>?也引也或作紬紬引其端緒也丑鳩切八/上/同</hi>?<hi>上同見/說文</hi>婤<hi>好?又/音周/失意/視?</hi>惆<hi>惆悵</hi>瘳<lb/>
+<hi>病愈</hi>妯<hi>詩曰憂心且妯/妯動也悼也</hi>恘<hi>戾也去/秋切三/上/同</hi>?<hi>?/屈</hi>?<hi>白色牛說文曰牛息聲也又姓風俗通云晉大夫郤?之後?氏春秋云陳留有惡人焉曰敦洽?糜狹顙廣額?色如漆陳侯?之赤周<pb n="50a"/>切二</hi>犨<hi>上/同</hi>周<hi>周?也又至也備也?也密也又姓出汝南廬江尋陽臨川陳留沛國泰山河南等八望?自周平王子?封汝川人謂之周家因氏焉一云赧王?秦所滅黜?庶人百姓稱?周家因而氏焉魏官氏志獻帝次兄普氏後改?周氏又漢複姓魏初?士燉煌周生烈晉武帝中經簿云周生姓烈名職流切十</hi>州<hi>州郡周禮曰五黨?州又姓左傳晉大夫州綽/校/米粉/餅出字林</hi>輖<hi>重載/也</hi>洲<hi>洲渚也爾雅曰水中可居曰洲</hi>賙<lb/>
+<hi>贍也</hi>喌<hi>呼雞聲/又音祝</hi>舟<hi>舟船墨子曰工倕作舟?氏春秋曰虞姁作舟?本曰共鼓貨狄作舟二人並?帝臣又姓左傳晉大夫舟之僑</hi>?<hi>?帝後/所封國</hi>婤<hi>女字左傳衛襄公有/嬖人婤姶又音抽</hi>讎<hi>匹也仇也市流切十/懸擊/也/上同說/文棄也</hi>?<hi>魚名又/直留切</hi>酬<hi>周也報也以財貨曰酬又酬酢</hi>?<hi>上同說文本作/主人送客也</hi>詶<hi>以言荅之/又之又切</hi>雔<hi>說文曰雙鳥也又爾雅曰雔由樗繭郭璞云食樗葉俗作?</hi>?<hi>惡也棄也/又音醜</hi>
+                    <graphic n="KR1514" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1514.png" mimeType="image/png"/>
+                    <hi>蜀江源地/又音儔</hi>柔<hi>順也安也說文曰木曲直也耳由切十六</hi>鍒<hi>?之/耎也</hi>?<hi>良/田</hi>騥<hi>馬青/驪也</hi>蝚<hi>爾雅云蛭蝚至掌又云蝚蛖螻蛭音質</hi>蹂<lb/>
+<pb n="50b"/>
+<hi>踐榖又而九切</hi>葇<hi>香葇/菜</hi>鞣<hi>熟/皮</hi>鰇<hi>魚/名</hi>?<hi>玉名也/見聲類</hi>?<hi>肥/?</hi>鶔<hi>鷗鶔鳥</hi>揉<hi>捻也又順也詩曰揉此萬邦箋云揉順也又汝又切</hi>?<hi>馬之/繁鬣/?/名</hi>?<hi>面/和</hi>收<hi>歛也捕也又夏冕名史記曰堯?收純衣俗作收式州切一</hi>丘<hi>聚也空也大也又丘陵爾雅非人?之曰丘郭璞云地自然生說文作?亦姓??興河南二望風俗通曰魯左丘明之後又云齊太公封於營丘支孫以地?氏代居扶風漢末丘俊持節江淮屬王莽篡位遂留江左居?興也又漢複姓四十四氏左傳齊有藉丘子鉏梁丘據閭丘嬰莒有著丘公渠丘父後並因邑?氏晉有虞丘書??馬御祖氏家記有太中大夫東安於丘淵史記有狐丘子林楚有苞丘先生齊桓公至麥丘麥丘人年八十三祝桓公封於麥丘其後氏焉孟子齊有曼丘不擇又有咸丘蒙隱居列仙傳有浮丘公梁州刺史莊丘?魯莊公庶子食采於瑕丘其後氏焉齊有勇士?丘訴神仙傳漢有稷丘子又有?丘充隱居齊魯之間楚有列威將軍何丘寄楚文王庶子食采於軒丘其後?氏周宣王支庶食采於謝丘其後?氏漢有趙人吾丘壽王又有曹丘先生侍御史余丘炳鉅鹿太守莊丘勝以勇力聞安丘望之注老子列仙傳有?邑人商丘子胥藝文志有桑丘公漢有?人龍丘萇隱居不屈濟北<pb n="51a"/>蛇丘惑?河?太守魏有幽豫二州刺史毌丘儉?有平原陶丘洪晉有雍丘洛以武力聞何氏姓苑云漢有司?校尉水丘岑古有蔡丘欣喪馬淮陽東海北丘氏又有羌丘常丘?丘獻丘陽丘逢丘厚丘泥丘等氏又虜複姓二氏後魏獻帝次弟丘敦氏後改?丘氏丘林氏後改?林氏去鳩切六</hi>?<hi>古/文</hi>蓲<hi>烏蓲/草名</hi>蚯<hi>蚯蚓蟲名禮記孟夏月蚯蚓?</hi>邱<hi>地/名</hi>訄<hi>追/也</hi>?<hi>風吹?匹/尤切七</hi>秠<hi>一稃二米/又芳鄙切/寐作聲</hi>衃<lb/>
+<hi>疑血</hi>?<hi>孕一月又普/回普來二切</hi>紑<hi>說文云白鮮衣/?又甫鳩切</hi>醅<hi>醉飽又/普裴切</hi>鳩<hi>鳥名又聚也居求切十/秦/藥名/又居由切/大/力</hi>朻<hi>?木又/居虯切</hi>?<hi>車軫長也</hi>?<lb/>
+<hi>腹中急痛又古巧切</hi>
+                    <graphic n="KR0848" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0848.png" mimeType="image/png"/>
+                    <hi>?取也/又音糾</hi>?<hi>相糾/繚也</hi>龜<hi>又居/危切</hi>勼<hi>說文/聚也</hi>不<hi>弗也又姓晉書有汲郡人不準?發六國時魏王冢得古文竹書今之汲冢記也甫鳩切又甫九甫救二切五</hi>?<hi>吹氣</hi>紑<lb/>
+<hi>詩傳云?鮮貌</hi>?<hi>未燒/瓦器</hi>鴀<hi>鴀鳩/鳥也</hi>
+                    <graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>
+                    <hi>索也求也聚也/所鳩切十七</hi>搜<hi>上同凡從?者作叟同</hi>
+                    <graphic n="KR4374" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4374.png" mimeType="image/png"/>
+                    <hi>飯/?</hi>
+                    <graphic n="KR3538" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3538.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3538" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3538.png" mimeType="image/png"/>飋/風?</hi>
+                    <graphic n="KR1566" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1566.png" mimeType="image/png"/>
+                    <hi>小/便</hi>?<hi>馬金/耳飾</hi>廋<hi>匿也論語曰仁焉廋哉</hi>蒐<lb/>
+<pb n="51b"/>
+<hi>茅蒐草又春獵曰蒐</hi>
+                    <graphic n="KR2906" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2906.png" mimeType="image/png"/>
+                    <hi>?腸/草也</hi>獀<hi>獶獀南越/人犬名</hi>?<hi>乾/魚/北方/國名</hi>?<hi>蛷?蟲亦名蠷?/蕃/中大馬</hi>?<hi>牛三?也/又息含切/白/酒/趨/不進</hi>搊<hi>手搊楚鳩切七/俗餘/倣此</hi>篘<hi>酒/篘</hi>?<hi>上/同</hi>?<hi>板木/不正/粉</hi>謅<hi>謅/?私小言</hi>
+鄒<hi>縣名屬?州又姓漢有鄒陽側鳩切十四</hi>鄹<hi>上/同</hi>郰<hi>說文云孔子之/?也論語作鄹</hi>騶<hi>?御亦騶虞仁獸又姓越王之後</hi>齱<hi>齱齵/齒偏</hi>陬<hi>?名一/曰隅也</hi>緅<hi>?赤色也/又子侯切</hi>?<hi>??海船名/獸足/也</hi>菆<hi>草名又矢之善者說文/曰麻蒸也一曰蓐也</hi>棷<hi>薪之?名又又苟切</hi>?<lb/>
+<hi>竹柴?名/小兒/聲</hi>黀<hi>聚/麻</hi>愁<hi>憂也悲也苦/也士尤切二</hi>?<hi>腹中有/水氣也</hi>休<hi>美也善也慶也息也又木名許尤切十三</hi>貅<hi>貔貅/猛獸</hi>?<hi>上/同</hi>鵂<hi>鵂鶹/鳥也/馬/名</hi>?<hi>下病</hi>
+庥<hi>爾雅曰庇庥廕也郭璞曰今俗呼樹??庥</hi>脙<hi>瘠也俗作/?又音求/上/同</hi>?<hi>周禮駹車有?飾注謂?漆赤多?少也或作髹/上/同</hi>咻<hi>口病/聲也</hi>?<hi>汗面亦/作?</hi>囚<hi>拘也繫也<pb n="52a"/>似由切六</hi>泅<hi>人浮/水上</hi>?<hi>古/文</hi>苬<hi>芮芝瑞草一?/三華又音由</hi>慒<hi>慮也又在冬切</hi>鮂<lb/>
+<hi>白鯈</hi>儔<hi>儔?也直由/切二十七</hi>檮<hi>剛木/也</hi>躊<hi>躊/躇</hi>幬<hi>說文作/襌帳也/上同</hi>
+裯<hi>襌被</hi>
+                    <graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>
+                    <hi>咨也說文誰/也又作</hi>疇<hi>誰也等也壅也田疇也又疇/昔說文作耕治之田也</hi>紬<lb/>
+<hi>大絲繒又音抽</hi>綢<hi>綢繆猶/?綿也</hi>稠<hi>穊也/多也</hi>燽<hi>著/也</hi>薵<hi>薵藉/?名</hi>鯈<hi>魚子又魚名也</hi>
+籌<hi>籌筭/雉爾雅云南方/曰<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>字或從鳥/上/同</hi>棸<hi>字統云姓也/又側鳩切</hi>椆<hi>木名不凋</hi>怞<hi>朗/也/腊/脯也</hi>懤<hi>愁毒/?</hi>?<hi>魚名又/音由</hi>?<hi>風/颸</hi>菗<hi>荼菜</hi>
+                    <graphic n="KR1514" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1514.png" mimeType="image/png"/>
+<hi>蜀江原地又上牛切/說文云/籌箸也</hi>輈<hi>車轅也張/流切十一</hi>盩<hi>盩厔縣在京兆府水曲曰盩山曲曰厔又云引擊也</hi>啁<hi>啁?/鳥聲</hi>譸<hi>譸張誑也爾/雅亦作侜</hi>侜<hi>壅蔽/也/騪蕃中大馬</hi>調<lb/>
+<hi>朝也詩云惄如調飢本又音條</hi>咮<hi>曲喙又/張救切/行/不進也/射馬/箭也</hi>?<hi>上同皮衣詩云取彼狐狸?公子又姓/本作仇避讎改作/巨鳩切四十四</hi>裘<hi>上/同</hi>仇<hi>讎也又姓左傳宋大夫仇<pb n="52b"/>牧之後又漢複姓有章仇仇尼二氏隋有章仇大翼善天文</hi>?<hi>漢書地理志?猶縣屬臨淮郡又詩曰?矛鋈錞傳云?三隅矛又說文曰?氣也</hi>?<hi>上/同</hi>求<hi>索也又姓三輔決/?云漢有求仲/上/同</hi>頄<hi>頰間骨也又求龜切</hi>蛷<hi>蛷?/蟲/上同說文云/多足蟲也</hi>逑<hi>匹/也</hi>球<hi>美玉說又曰玉磬也</hi>璆<lb/>
+<hi>上同又渠幽切</hi>艽<hi>?荒之地詩云至/于艽野又獸蓐也</hi>鼽<hi>月令云人多鼽?/說文云寒鼻塞也</hi>莍<hi>椒也</hi>
+?<hi>地名</hi>賕<hi>財/賄</hi>殏<hi>也</hi>梂<hi>說文曰櫟實/也一曰鑿首</hi>朹<hi>爾雅曰朹檕梅郭璞云朹樹狀似梅子如指頭赤色似小?可食</hi>?<hi>??/亭名</hi>俅<hi>戴/也</hi>脙<hi>瘠也又/音休/上同</hi>馗<lb/>
+<hi>爾雅曰中馗菌今土菌可食又音逵</hi>?<hi>急引/也</hi>絿<hi>上/同</hi>?<hi>??/亭名</hi>?<hi>緩/也</hi>銶<hi>鑿屬廣蒼云戴也/籠/也</hi>毬<hi>毛毬/打者</hi>?<hi>?蹋/也</hi>犰<hi>犰狳獸似魚蛇尾豕目見人則佯死/違/也</hi>?<hi>安也/謀也</hi>釚<hi>弩/牙</hi>捄<hi>長匕?詩曰有捄/棘匕傳云捄長?</hi>?<hi>乾肉醬也怨仇也又其九切/白/芷</hi>訄<hi>迫也又/去牛切</hi>浮<hi>?也縳謀/切二十四</hi>?<hi>吹氣又拂<pb n="53a"/>謀切</hi>桴<hi>齊人云屋/棟曰桴也</hi>枹<hi>鼓/槌/竹有/文者</hi>罦<hi>覆車/網也</hi>?<hi>上/同</hi>琈<hi>玉名</hi>
+?<hi>?<graphic n="KR2484" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2484.png" mimeType="image/png"/>
+                    </hi>?<hi>?/鳩</hi>罘<hi>兔/罟</hi>?<hi>魚/名</hi>涪<hi>水名在/巴西</hi>芣<hi>芣?車前也江東謂之蝦蟆衣</hi>蜉<hi>蚍蜉/大螘</hi>烰<hi>火氣爾雅曰烰烰烝/也郭璞云氣出盛</hi>?<hi>?鏂/大釭</hi>
+                    <graphic n="KR4012" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4012.png" mimeType="image/png"/>
+                    <hi>多也</hi>
+                    <graphic n="KR3611" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3611.png" mimeType="image/png"/>
+<hi>姓也出纂文</hi>艀<hi>舟/也</hi>棓<hi>杖也又/音棒</hi>掊<hi>把/也</hi>?<hi>小/缶</hi>?<hi>雨雪/?</hi>謀<hi>謀計也又姓風俗通云周卿士祭公謀父之後莫浮切二十四</hi>?<hi>魚/名</hi>雺<hi>天氣下地不應又莫貢切又莫紅切</hi>眸<lb/>
+<hi>目童子</hi>牟<hi>說文曰牛鳴又過也陪也進也大也亦牟平縣屬登州又姓風俗通云牟子國祝融之後後因氏焉漢有太尉牟融又漢複姓三氏東萊先賢傳有?州刺史平昌曹牟君卿禮記云魯有?牟賈何氏姓苑有彌牟氏</hi>侔<hi>等也均也齊也</hi>矛<hi>戈矛說文曰酋矛也建於兵車長二/丈象形?越春秋曰越王以屈盧之矛?光之?獻於?王古文</hi>鍪<hi>?鍪首鎧說/文曰鍑屬也</hi>鞪<hi>上同漢書/云鞮鞪</hi>麰<hi>大麥又/短粒麥/上同</hi>堥<lb/>
+<hi>堆堥小隴</hi>?<hi>勉/也</hi>
+                    <graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>?榆/人醬</hi>蝥<hi>食穀蟲說文本又作蟊蟲食艸根者吏抵冒取民財則生</hi>蟊<lb/>
+<pb n="53b"/>
+<hi>上同說文曰蠿蟊也</hi>鷚<hi>鷚鸙/鳥也</hi>
+                    <graphic n="KR3864" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3864.png" mimeType="image/png"/>
+                    <hi>髮至眉/或作髳</hi>?<hi>縛/也</hi>?<hi>愛/也</hi>鴾<hi>鶉之?名</hi>蛑<lb/>
+<hi>蝤蛑似蟹而大</hi>繆<hi>絲千/累</hi>︻十九侯<hi>候也何也美也?也爾雅曰父侯君也又乃也又周禮司裘氏王大射則共虎侯熊侯豹侯諸侯則共熊侯豹侯卿大夫則共麋侯皆設其鵠鄭司農云方十尺曰侯四尺曰鵠說文本作侯?人?象張布之狀矢在其下又姓出上谷河南二望亦漢複姓八氏夏侯氏出自夏禹之後杞簡公?楚所滅其弟佗奔魯魯悼公以佗出自夏后氏受爵?侯謂之夏侯因而命氏後有去魯之沛者分沛立譙遂有譙魯二望羅國?楚所滅其後?羅侯氏韓詩外傳云周宣王大夫韓侯子有賢德史記魏有屈侯鮒左傳曹有豎侯氏孺漢有尚書郎?侯雋?有張昭師白侯子安又虜三字姓二氏周書有侯莫陳氏侯崇傳云其先魏之?部也又周有大將軍伏侯龍氏名恩?鉤切二十四</hi>
+?<hi>見上注/古/文</hi>?<hi>射侯見上/注俗從巾</hi>鄇<hi>地/名</hi>?<hi>??/大言</hi>鍭<hi>箭鏃</hi>銗<lb/>
+<hi>鏂銗錏鍜</hi>猴<hi>獼猴/猱也</hi>?<hi>?/?</hi>翭<hi>說文曰羽本也/一曰羽初生?</hi>翵<hi>上/同</hi>餱<hi>乾食</hi>喉<lb/>
+<hi>咽喉</hi>篌<hi>箜/篌</hi>鯸<hi>鯸?/魚名</hi>?<hi>?桃文?/櫟木也/谷名在成/?亦作</hi>瘊<hi>疣癭</hi>?<lb/>
+<pb n="54a"/>
+<hi>蟲名</hi>葔<hi>葔莎/草</hi>?<hi>骨/?</hi>?<hi>半盲又/胡遘切</hi>?<hi>?褕/小衫</hi>謳<hi>吟也歌也烏侯切十六</hi>
+嘔<hi>嘔唲小兒語也</hi>歐<hi>歐陽複姓/出長沙郡</hi>甌<hi>瓦器亦甌閩/又姓出姓苑</hi>區<hi>姓也古善?區冶子之後今郴州有之</hi>漚<hi>浮/漚</hi>鷗<hi>水鳥說文/云水鴞也</hi>?<hi>深目?又/若侯切</hi>?<hi>上同</hi>櫙<lb/>
+<hi>木名爾雅曰櫙荎今之刺榆</hi>蓲<hi>上/同</hi>醧<hi>酒/甘</hi>?<hi>??又/格侯切</hi>?<hi>小兒/涎衣</hi>鏂<hi>鏂銗</hi>
+?<hi>?脂</hi>羺<hi>羺/胡羊/奴鉤切四</hi>獳<hi>犬/怒</hi>?<hi>兔/子</hi>?<hi>鬼?聲??不止也出說文</hi>樓<lb/>
+<hi>亦作婁重屋也亦姓夏少康之裔周封?東樓公子孫因氏焉漢末樓秦自譙徙居?稽因以東陽?望也又虜複姓有蓋樓氏賀樓氏落侯切二十九</hi>婁<hi>空也又星名亦姓邾婁國之後漢有婁敬又漢複姓五氏左傳齊大夫工婁灑漢書藝文志有齊隱士贛婁子著書何氏姓苑云母婁氏今琅邪人又有精婁氏邾婁氏又虜複姓二氏後魏獻帝次弟?伊婁氏又有匹婁氏後並改?婁氏說文作婁今作婁並同</hi>?<hi>?名又/力于切</hi>
+                    <graphic n="KR1454" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1454.png" mimeType="image/png"/>
+                    <hi>縣/名</hi>
+                    <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR0797" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0797.png" mimeType="image/png"/>
+                        <graphic n="KR0803" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0803.png" mimeType="image/png"/>/土瓜</hi>蔞<hi>爾雅曰購蔏蔞蔞蒿也生下田初出可啖詩云言采其蔞又力朱切</hi>
+                    <graphic n="KR3642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3642.png" mimeType="image/png"/>
+                    <hi>頭<graphic n="KR3642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3642.png" mimeType="image/png"/>/小穿</hi>?<hi>求子/豬也/土似羊<pb n="54b"/>四角其銳難當觸物則斃食人出山海經</hi>僂<hi>躽僂又/力主切</hi>艛<hi>舟/名</hi>耬<hi>種/具</hi>髏<hi>髑髏</hi>膢<lb/>
+<hi>八月祭名又力于切</hi>
+                    <graphic n="KR1365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1365.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1365.png" mimeType="image/png"/>/苦<graphic n="KR1365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1365.png" mimeType="image/png"/>
+                    </hi>廔<hi>廲廔/綺</hi>?<hi>小穿又/音?</hi>摟<hi>探/取</hi>嘍<hi>嘍唳鳥聲</hi>
+瞜<hi>視?</hi>螻<hi>螻蛄一名仙蛄一名石?爾/雅曰/天螻又曰蝚蛖螻</hi>簍<hi>籠/也</hi>鞻<hi>鞮鞻氏掌四夷之樂</hi>慺<hi>慺慺謹/敬之?</hi>鷜<hi>爾雅曰鵱鷜?/即今之野?</hi>?<hi>魚/名</hi>褸<hi>衣襟又力主切</hi>?<lb/>
+<hi>說文曰連?也</hi>謱<hi>說文云/謰謱也</hi>涑<hi>澣也速/侯切八</hi>?<hi>刻/鏤</hi>?<hi>軟/皮/上同白頭人也</hi>?<hi>摟?取也出/陸氏字林/今/欶/女/字</hi>彄<hi>弓彄恪/侯切八</hi>摳<hi>摳衣挈衣也</hi>?<hi>宛裏也又/乙侯切</hi>韝<hi>射韝臂捍也/又古侯切/指</hi>滱<hi>水名在北地又音寇</hi>
+夠<hi>多也</hi>?<hi>目深/??</hi>齁<hi>齁?鼻息也/呼侯切二/鳥青色/似?鳩也/麻幹子也侯切五</hi>緅<hi>青赤色也再染/曰緅三入成纁</hi>陬<hi>隅也又/聚居</hi>棷<hi>薪?/名</hi>掫<hi>說文云夜戒守有所繫也</hi>偷<hi>?也爾雅云佻偷也/謂苟且託侯切四</hi>?<hi>?石似金/陶之則分</hi>鋀<hi>上/同</hi>媮<hi>薄也<pb n="55a"/>又巧黠也</hi>頭<hi>說文云頭首也釋名云頭獨也/於體?而獨也度侯切十五</hi>?<hi>??足節又刀剜物</hi>投<lb/>
+<hi>託也?也合也說文擿也亦姓郇伯周畿?侯桓王伐鄭投先驅以?其後氏焉漢有光?投調又漢複姓有投?氏風俗通云晉中行穆子相投?因以氏焉姓苑云東莞人也/字書云麻一絜說/文云/屬或作?</hi>骰<hi>骰子博陸采具出聲譜/?擊/?</hi>?<hi>陶/?</hi>牏<hi>築垣短版/又羊朱切</hi>?<hi>
+                        <graphic n="KR1753" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1753.png" mimeType="image/png"/>?/醬也</hi>?<hi>?行圊廁</hi>揄<lb/>
+<hi>引也又欲朱切</hi>窬<hi>穿也又/羊朱切</hi>緰<hi>布/也</hi>歈<hi>歌也又/羊朱切/鴢頭鵁似鳧腳近尾</hi>齵<lb/>
+<hi>齱齵五婁切又牛俱切一</hi>鉤<hi>曲也又?屬字樣句之類並無著?者古侯切十八</hi>
+                    <graphic n="KR2505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2505.png" mimeType="image/png"/>
+                    <hi>說文云關西/呼鎌?<graphic n="KR2505" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2505.png" mimeType="image/png"/>也</hi>
+溝<hi>溝渠爾雅云水注谷曰溝釋名曰田間之水曰溝溝搆也縱?相交搆也</hi>?<hi>襌/衣</hi>韝<hi>臂捍又苦侯切</hi>
+緱<hi>緱氏縣屬河南府又姓孝子傳陳留緱氏女名王亦刀?頭纏絲?緱</hi>篝<hi>燻/籠/<graphic n="KR3173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3173.png" mimeType="image/png"/>桃枝竹名</hi>
+<graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1314" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1314.png" mimeType="image/png"/>鼊似龜說文其俱切/屬/頭有兩角出遼東亦作</hi>?<hi>唱?/<graphic n="KR1365" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1365.png" mimeType="image/png"/>
+                    </hi>?<hi>?<graphic n="KR1139" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1139.png" mimeType="image/png"/>船名</hi>冓<lb/>
+<hi>數名十秭曰冓</hi>枸<hi>曲木又/木名也</hi>句<hi>說文曲也又?句驪遼東國名又句龍社神名亦姓史記有句疆又九遇<pb n="55b"/>古候二切</hi>軥<hi>車軥心木又夏/后之輅曰軥也</hi>夠<hi>多/也</hi>鴝<hi>鴝鵒鳥/又音衢</hi>?<hi>?鍪首鎧也當侯切十</hi>?<hi>佔?垂下?佔丁兼切</hi>?<hi>輕出/言?/飼馬/籠也/眵目汁疑眵赤支切</hi>?<lb/>
+<hi>小穿又音婁或作/說文云目/蔽垢也/小裂/?</hi>郖<hi>說文云弘/農縣庾地白頭</hi>
+?<hi>細斷徂鉤切二</hi>鯫<hi>魚名又士苟切/又小人之?也</hi>裒<hi>聚也薄/侯切九</hi>?<hi>說文云髮?</hi>捊<lb/>
+<hi>說文云引取也</hi>抔<hi>手掬/物也</hi>掊<hi>詩曰?是掊/克謂聚斂也</hi>?<hi>豕肉/醬也/饇曰食也</hi>?<lb/>
+<hi>說文云小缶也</hi>?<hi>說文云/竹?也</hi>?<hi>就也千/侯切一</hi>呣<hi>慮也亡侯切一</hi>︻二十　幽<lb/>
+<hi>深也微也隱也亦州名釋名曰幽州在北幽昧之地故曰幽禹貢?州之域舜以?州南北廣大分燕北?幽州又北方曰幽都又姓出姓苑於虯切七</hi>泑<hi>澤在?/?山下</hi>呦<hi>鹿/鳴/上/同</hi>
+                    <graphic n="KR1894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1894.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR1894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1894.png" mimeType="image/png"/>蟉龍?又一糾切</hi>怮<lb/>
+<hi>說文憂?</hi>
+                    <graphic n="KR1448" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1448.png" mimeType="image/png"/>
+                    <hi>微/也</hi>虯<hi>無角龍也渠幽/切又居幽切七</hi>觩<hi>上曲/?</hi>璆<hi>玉/名</hi>觓<hi>角爵?</hi>
+鷚<hi>爾雅云鷚天鸙郭璞云大如鷃雀色似鶉好?飛作聲又音繆</hi>蟉<hi>
+                        <graphic n="KR1894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1894.png" mimeType="image/png"/>蟉/龍?/角/?</hi>彪<hi>虎文<pb n="56a"/>也甫烋切三</hi>髟<hi>?垂?又/標?二音</hi>驫<hi>馬走?/又音標</hi>鏐<hi>紫磨金也/力幽切二</hi>蟉<hi>
+                        <graphic n="KR1894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1894.png" mimeType="image/png"/>蟉又翹糾切</hi>樛<hi>說文曰下句曰樛詩曰南有樛/木傳云木下曲也居虯切五/說文曰相糾繚也今作?同草之相糾繚也</hi>朻<hi>說文云/?大也</hi>?<hi>腹急/病也</hi>淲<hi>水流?亦作/滮皮彪切三</hi>瀌<hi>雨雷?又音鏕風?</hi>?<hi>禾生也子/幽切一</hi>?<hi>牛三?山/幽切一</hi>聱<hi>聱取魚鳥狀語虯切又玉苞切一</hi>
+?<hi>驚風香幽切又風幽切二</hi>烋<hi>美也福?也慶善也/出玉篇又火交切</hi>繆<hi>詩傳云綢繆猶??也說文曰枲十絜也武彪切又目謬二音三</hi>鷚<hi>天鸙鳥也/又音虯</hi>?<hi>縛也</hi>︻二十一　侵<lb/>
+<hi>漸進也說文作?又姓三輔決?有侵恭七林切七/上/同</hi>駸<hi>馬行/疾也</hi>浸<hi>浸?也又子鴆切</hi>?<lb/>
+<hi>野生豆也/錐/也</hi>綅<hi>說文曰絳?也詩曰貝胄/朱綅又子心息廉二切</hi>尋<hi>長也又尋常六尺曰尋倍尋曰常山海經曰尋木長千里生河邊又姓晉有尋?字子貢徐林切十六/上同出/說文</hi>鐔<hi>?鼻又姓漢有鐔顯又覃淫二音</hi>潯<hi>傍深又/水涯也</hi>?<hi>魚名口在腹/下又音淫</hi>?<hi>木名/似槐</hi>鄩<hi>地名<pb n="56b"/>在鞏又姓左傳有周大夫鄩肝/小堆/阜也</hi>
+                    <graphic n="KR3353" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3353.png" mimeType="image/png"/>
+                    <hi>姓也出/纂文</hi>
+                    <graphic n="KR3339" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3339.png" mimeType="image/png"/>
+                    <hi>姓也姓苑/云汝南人</hi>襑<hi>衣博大也</hi>枔<hi>木/葉</hi>撏<hi>取/也</hi>灊<hi>水名?巴郡又/才心昨鹽二切</hi>鬵<hi>鼎大上小下又才心昨鹽二切續也</hi>林<hi>林木爾雅曰野外謂之林說文曰平土有叢/木曰林又姓風俗通曰林放之後力尋切八</hi>琳<hi>玉名</hi>淋<lb/>
+<hi>以水沃也</hi>臨<hi>?也大也監也又姓後趙/?有秦州刺史臨深也</hi>痳<hi>痳/病</hi>箖<hi>箖箊/竹名</hi>?<hi>水出?說文云谷也一曰寒也</hi>霖<hi>?/雨</hi>琛<hi>琛寶也丑/林切七</hi>棽<hi>木枝長又/林森二音</hi>?<hi>船行私?頭視也又丑鴆切</hi>綝<hi>繕/也</hi>郴<hi>縣名在桂陽又姓陶/??傳有江夏郴寶</hi>賝<hi>賝賮也</hi>斟<lb/>
+<hi>斟酌也益也又姓國語云祝融之後侯伯八姓斟姓無後賈逵注云斟姓是曹姓之後又漢複姓有斟弋氏?史記職深切九</hi>
+針<hi>針線</hi>鍼<hi>上同說文曰/所以縫也/?/鳥名</hi>箴<hi>箴規也又姓風俗通云有?大夫箴莊子</hi>
+葴<hi>酸蔣草也</hi>瑊<hi>廣雅曰瑊石次玉也郭璞云瑊/似玉之/石司馬相如子?賦曰其石則瑊玄礪</hi>鱵<lb/>
+<hi>魚名</hi>?<hi>?鄩古/國名</hi>沈<hi>沒也說文曰陵上滈水也又漢複姓魯有沈猶氏常朝飲其道何氏姓苑云今泰山<pb n="57a"/>人直深切又尸甚切九</hi>沉<hi>俗/水/牛</hi>莐<hi>爾雅曰<graphic n="KR1627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1627.png" mimeType="image/png"/>莐藩郭璞/云生山上葉如韭</hi>?<hi>上同又羊針都敢二切</hi>?<hi>?/?</hi>湛<hi>漢書曰旦從俗/浮湛又徒減切</hi>枕<hi>繫牛/杙也</hi>鈂<hi>鍾屬</hi>碪<lb/>
+<hi>擣衣石也知林切五</hi>砧<hi>上/同</hi>椹<hi>鈇椹斫木質文字指/歸俗用?桑椹字非</hi>枮<hi>上/同</hi>坫<hi>權安厝也</hi>
+諶<hi>誠也爾雅云信也氏任切七</hi>愖<hi>上/同</hi>?<hi>上同說文曰燕代/東齊謂信曰?</hi>忱<hi>上同</hi>煁<lb/>
+<hi>煁烓行?烓鳥珪切</hi>?<hi>腹?/故病</hi>?<hi>上/同</hi>任<hi>堪也保也當也又姓出樂安?帝二十五子十二人各以德?姓第一?任氏如林切七</hi>鵀<hi>戴勝鳥也頭上毛/似勝又女今切</hi>恁<hi>信也又/音荏</hi>壬<hi>?也又辰名爾雅曰太?在壬曰玄<graphic n="KR1580" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1580.png" mimeType="image/png"/>
+                    </hi>紝<hi>織任亦/作?</hi>銋<hi>銋濡廣/雅韏也</hi>?<hi>信也/念也</hi>深<hi>?也又水名出桂陽南平式針切二/蒲/蒻</hi>淫<hi>?雨曰淫書曰罔淫于樂/傳云淫過也餘針切十五</hi>霪<hi>?雨</hi>婬<lb/>
+<hi>婬蕩/竹/名</hi>蟫<hi>白魚/蟲</hi>鷣<hi>鷂之/?名</hi>?<hi>熱/也</hi>冘<hi>行/?/上/同</hi>?<hi>熟麴又昨淫切</hi>撢<hi>探/也/地/名</hi>?<hi>貪也又/延求切</hi>鐔<hi>?鼻又尋/覃二音</hi>?<hi>魚名又徐林切</hi>
+<pb n="57b"/>
+心<hi>火藏釋名曰心?也所識纖微無不貫也息林切四/?緩/?/車軥/木</hi>杺<hi>木名其心?</hi>愔<hi>靖也挹淫切二</hi>韾<hi>聲和/靖也</hi>祲<hi>日傍氣也子心/切又子禁切九</hi>梫<hi>木/名</hi>?<hi>銘意</hi>
+埐<hi>說文地也又昨淫切/雞之/?名/?/鼻</hi>綅<hi>縫/線/錐/也/魚名大魚曰鮓小魚曰一曰北/方曰鮓南方曰/昨淫切十</hi>?<hi>上同見/說文</hi>鬵<hi>說文曰大?也一曰鼎大上小下苦甑曰鬵</hi>嶜<hi>嶜/嵒</hi>梣<hi>木/名</hi>埐<hi>地名又/子心切/掘/也</hi>鈂<hi>上同又直林切</hi>灊<lb/>
+<hi>水名出巴郡</hi>?<hi>熟麴又/餘針切</hi>?<hi>??喉聲/女心切三</hi>?<hi>?織也齊/也或作紝</hi>鵀<hi>戴勝</hi>琴<lb/>
+<hi>樂器神農作之本五弦周加文武二絃白虎通曰琴禁也以禁止淫邪正人心也又姓左傳琴張也巨金切二十二</hi>?<lb/>
+<hi>急持</hi>?<hi>上/同</hi>擒<hi>亦/同</hi>黔<hi>?而?亦姓齊有/黔熬又巨炎切</hi>禽<hi>二足而羽者曰禽又姓?士傳有禽慶</hi>芩<hi>?芩/藥名/亭/名</hi>檎<hi>林禽/果名</hi>?<hi>說文云/石地也</hi>?<hi>鶨鳥亦作鳹</hi>?<lb/>
+<hi>草名根可?竹器出玉篇</hi>澿<hi>水/名</hi>?<hi>寒狀又/力甚切</hi>庈<hi>人名/庈父</hi>雂<hi>鳥名又巨炎切</hi>?<lb/>
+<pb n="58a"/>
+<hi>持也</hi>?<hi>禁也又/竹甚切</hi>黚<hi>??色又/巨炎切</hi>?<hi>禾欲/秀也</hi>耹<hi>音/也</hi>靲<hi>靲鞻四夷樂也</hi>
+欽<hi>敬也又姓何氏姓苑云?人也去金切五</hi>菳<hi>草名/似蒿</hi>衾<hi>被/也</hi>嶔<hi>嶔/崟</hi>顉<hi>曲?又五感切</hi>吟<hi>歎也說文云呻/吟也魚金切十</hi>?<hi>上/同/古/文</hi>?<hi>亦古吟字說文又巨錦切</hi>崟<lb/>
+<hi>嶔崟/水菜/似?</hi>碞<hi>僭/差</hi>
+                    <graphic n="KR3568" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3568.png" mimeType="image/png"/>
+                    <hi>霖雨又/牛皆切</hi>?<hi>?立/?</hi>
+                    <graphic n="KR2767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2767.png" mimeType="image/png"/>
+                    <hi>崟<graphic n="KR2767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2767.png" mimeType="image/png"/>山崖狀也又口敢切</hi>
+歆<hi>神食氣也許金切四</hi>廞<hi>爾雅曰興也亦陳車服也/亦廞巇山險?又許錦切</hi>?<hi>愛也又火甘切</hi>?<lb/>
+<hi>火盛?</hi>金<hi>金寶說文曰五色金也??之長?薶不生衣百?不輕?革不違西方之行生於土亦州名周?附庸國魏於委康縣置東梁州後周改金州又金?釋名曰金禁也?進退之禁也又姓古天子金天氏之後也又漢複姓有金留氏出姓苑居吟切九</hi>今<hi>對古之稱說/文云是時也</hi>?<hi>?/色</hi>衿<hi>衣小帶也/又其禁切</hi>襟<hi>袍襦前袂</hi>
+?<hi>上同</hi>禁<hi>力所加也勝/也又居?切</hi>?<hi>心?/?/淺?色說文云??也又古咸切</hi>音<lb/>
+<hi>說文曰聲也生於心有節於外謂之音?商角?羽聲也絲竹金石匏土革木音也於金切八</hi>?<hi>?陽也說文作?闇<pb n="58b"/>也水之南山之北也又姓出武威風俗通云管修自齊適楚??大夫其後氏焉</hi>?<hi>爾雅云闇也注謂?然冥貌又烏感切</hi>瘖<hi>瘖?文子/曰?陶瘖</hi>霠<hi>雲覆日又/姓出纂文</hi>?<hi>?/豆</hi>喑<hi>極啼無聲又於含切</hi>?<lb/>
+<hi>醉聲又於南切</hi>森<hi>長木?所/今切十</hi>參<hi>參星亦姓?本云祝/融之後又蒼含切</hi>?<hi>上同</hi>蔘<lb/>
+<hi>人蔘藥也</hi>?<hi>古/文</hi>槮<hi>樹長/?</hi>襳<hi>襳襹毛/羽衣?/突/也</hi>?<hi>上/同</hi>棽<hi>木枝長也又丑林切</hi>岑<hi>山小而?又姓出南陽風俗通云古/岑子國之後後漢有岑彭鋤針切九</hi>涔<hi>涔陽地名又管涔山名又蹄涔不容尺鯉蹄牛馬跡</hi>?<hi>入山/深?</hi>梣<hi>青皮木名/又子心切/上/同/雨聲魚名</hi>?<hi>禾欲/秀</hi>笒<hi>竹/名/說文曰首笄/也側吟切四</hi>簪<hi>上/同</hi>?<hi>石似玉也</hi>?<lb/>
+<hi>速也</hi>嵾<hi>嵾差不齊?亦/作參楚簪切六</hi>參<hi>上/同</hi>梫<hi>梫桂木花白/也又音寢/字書云禾長?</hi>
+駸<hi>馬行疾?</hi>槮<hi>木長/?/說文云?視/也充針切一</hi>︻二十二覃<hi>及也延也又姓梁東寧州刺史覃旡先徒含切二十</hi>[邱-丘+覃]<hi>[邱-丘+覃]城/縣名</hi>潭<hi>水名出武陵/郡潭城縣東入鬱林又深水?</hi>曇<lb/>
+<pb n="59a"/>
+<hi>雲布</hi>藫<hi>水/衣</hi>橝<hi>木名灰/可染也</hi>蟫<hi>白魚蟲/又音淫</hi>譚<hi>大也又姓漢有/河南尹譚閎</hi>?<hi>??走?</hi>燂<lb/>
+<hi>火爇</hi>?<hi>甒/屬</hi>鐔<hi>?口又/音尋</hi>眈<hi>視近而志/?又音耽</hi>?<hi>??室/深?/聒/也</hi>
+                    <graphic n="KR3373" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3373.png" mimeType="image/png"/>
+                    <hi>馣<graphic n="KR3373" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3373.png" mimeType="image/png"/>香氣</hi>
+                    <graphic n="KR1627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1627.png" mimeType="image/png"/>
+<hi>草名爾雅曰<graphic n="KR1627" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1627.png" mimeType="image/png"/>莐藩</hi>蕁<hi>上/同</hi>?<hi>糝/也</hi>?<hi>長味又/徒紞切</hi>參<hi>參承參覲也俗/作?倉含切五</hi>驂<hi>驂馬</hi>
+?<hi>??</hi>?<hi>好/?</hi>?<hi>玉篇云/婪?也</hi>南<hi>火方亦果名臨海異物志云多南子大如指紫色味甘似梅又姓魯大夫南遺也又漢複姓九氏左傳齊有南史氏其後?姓又魯有南?敬叔晉國?士全隱於南?因以?氏六國時有南公子著書言五行?陽事莊子有南郭子綦又有南榮趎古有善暴背於南榮之者獻之於君其後?氏又有南伯子蔡姓苑有南野氏又有南門氏那含切七</hi>男<hi>男子也又所封爵也環齊要/略曰男任詔事受王命?君</hi>柟<hi>木名又人詹切</hi>楠<hi>俗</hi>
+抩<hi>併持也又他含切</hi>?<hi>龜有距也/又如詹切/上/同</hi>諳<hi>記也憶也烏/含切十二</hi>?<hi>?鶉字林作?</hi>
+　媕<hi>媕?不決</hi>庵<hi>小草/?也</hi>腤<hi>?魚/肉也</hi>菴<hi>菴?草又/菴羅果也</hi>?<hi>蹇跛/之?</hi>馣<hi>香也</hi>
+?<hi>貪愛</hi>韽<hi>聲小又/於林切</hi>盦<hi>說文曰/覆蓋也</hi>喑<hi>啼泣/無聲</hi>含<hi>說文銜也胡/男切二十二</hi>涵<hi>涵泳</hi>
+<pb n="59b"/>
+?<hi>實中竹名</hi>?<hi>上/同</hi>梒<hi>梒桃禮/亦作含</hi>?<hi>鎧別名孟子云矢人豈不仁於?人哉矢人唯恐不傷人?人唯恐傷人</hi>函<hi>容也禮云/席閒函丈</hi>顄<hi>顄/?/上/同</hi>蜬<hi>爾雅云蠃/小者曰蜬</hi>頷<hi>說文曰面?也又胡感切</hi>涵<lb/>
+<hi>水澤多?</hi>鋡<hi>受/也/似瓶/有耳/船/沒</hi>?<hi>?屬又/古南切</hi>?<hi>銜也說/文舌也</hi>肣<hi>排囊柄也說文同上</hi>
+?<hi>久雨/上/同</hi>
+                    <graphic n="KR1887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1887.png" mimeType="image/png"/>
+                    <hi>說文曰嘾也艸木之華未/發?然象形又下感切/寒/?</hi>婪<hi>貪也盧含切六</hi>
+惏<hi>上同</hi>?<hi>焦/色</hi>嵐<hi>州名近太原因岢嵐山?名/有渥洼池出良馬亦山氣也</hi>?<hi>草得/風?</hi>?<hi>酒巡匝曰?出酒律亦作</hi>?<hi>吐絲蟲俗作蚕/非昨含切四</hi>撏<hi>取/也</hi>?<hi>亭/名/止/也</hi>簪<hi>作含切又側岑切七</hi>?<hi>盡/也</hi>篸<hi>所以綴衣/又作感切</hi>?<hi>腤/?</hi>?<hi>羊/腌</hi>鐕<hi>無蓋/釘也</hi>探<hi>取也說文作?取/之也他含切三</hi>撢<hi>周禮有/撢人</hi>貪<hi>貪婪也釋名曰貪/探也探入他分也</hi>耽<hi>說文曰耳大垂也又耽樂也詩曰無與士耽或作?丁含切九</hi>湛<hi>湛樂亦/見詩</hi>眈<hi>視近而/志?也</hi>酖<hi>嗜/酒</hi>?<hi>?/樂</hi>甔<hi>大甖可受一石</hi>?<hi>婬過說/文樂也/?視又/大含切/多/也</hi>龕<hi>塔也亦曰龍?又云/塔下室口含切/十</hi>
+                    <graphic n="KR2617" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2617.png" mimeType="image/png"/>
+                    <hi>殺也<pb n="60a"/>刺也/醜/?</hi>堪<hi>任也勝也克也說文曰地突也/又姓風俗通云八元仲堪之後</hi>戡<hi>勝也/克也/和也又紅談古三二切</hi>嵁<hi>嵁崿又/五男切</hi>?<hi>瓦/器</hi>撖<hi>挂/也</hi>?<hi>敧多/也</hi>?<hi>大谷也火/含切八</hi>
+                    <graphic n="KR2311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2311.png" mimeType="image/png"/>
+                    <hi>面紅</hi>?<lb/>
+<hi>小香/含笑/?</hi>谽<hi>谽?/谷空</hi>唅<hi>唅/呀/不脫冠帶/而寐也</hi>
+                    <graphic n="KR3448" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3448.png" mimeType="image/png"/>
+                    <hi>上/同</hi>毿<hi>長毛?蘇含切三</hi>
+蔘<hi>蔘綏垂?</hi>?<hi>牛/也</hi>弇<hi>同也蓋覆也後漢有耿/弇古南切又音掩五</hi>?<hi>?/名</hi>淦<hi>水入船中又最也泥也汲也又甘暗切吉州有新淦縣水所出入湖或作?</hi>?<hi>持意也又/呼兼切</hi>蜬<hi>蠃小者又貝居水者肉如科斗但有頭尾</hi>
+?<hi>不惠也又謔弄言五含切三/寐中/言語</hi>嵁<hi>嵁?又苦男切</hi>
+二十三談<hi>談話又言論也戲調也又姓蜀?云晉有征東將軍談巴徒甘切十一</hi>郯<hi>國名其後以國?姓春秋時郯子入魯辨古官與孔子相遇姓苑云沛人</hi>惔<hi>憂/也</hi>錟<hi>長/矛</hi>淡<hi>水?又徒覽/徒濫二切</hi>痰<hi>?上水病</hi>澹<lb/>
+<hi>漢複姓孔子弟子有澹臺滅明又徒覽徒濫二切</hi>倓<hi>恬也安也靜也又/徒監徒坎二切</hi>餤<hi>進也詩曰亂是用餤又徒濫切刮馬?也</hi>?<hi>小/熱</hi>甘<hi>說文作甘美也又隴右州本月支國漢匈奴觻得王所居後魏?張掖郡又改?州取甘<pb n="60b"/>峻山名之界有弱水祁連山上有松?五木美水茂草冬?夏涼又有仙樹人行山中飢即食之輒飽不得持去平居時亦不可見也又姓武丁臣甘盤之後又漢複姓有甘莊甘士甘先三氏古三切七</hi>柑<hi>木名/似橘</hi>?<hi>?/竹</hi>?<hi>?草藥出洮州</hi>
+泔<hi>米汁/和/也</hi>?<hi>?媞/也</hi>擔<hi>擔負釋名曰擔任也任/力所勝也都甘切五</hi>儋<hi>說文何也亦姓左傳周有大夫儋翩</hi>聸<hi>說文曰垂耳也南/方有聸耳之國</hi>?<hi>頰/緩</hi>甔<hi>小/甖</hi>三<hi>數名又漢複姓五氏三閭氏三閭大夫屈原之後也沛上計三烏群三烏大夫之後也三飯?之後有三飯氏三州孝子之後有三州氏後單姓州蜀志有三丘務蘇甘切五</hi>參<hi>上同又七南所/今二切俗作?</hi>?<hi>古/文</hi>
+                    <graphic n="KR3787" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3787.png" mimeType="image/png"/>
+                    <hi>衣破/襤<graphic n="KR3787" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3787.png" mimeType="image/png"/>
+                    </hi>鬖<hi>?鬖/毛垂</hi>藍<hi>染草又姓戰國策有中山大夫藍諸魯甘切十一</hi>襤<hi>襤/褸</hi>?<hi>鬢髮/??</hi>?<hi>?/持</hi>籃<hi>籃/籠長面</hi>
+                    <graphic n="KR2873" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2873.png" mimeType="image/png"/>
+<hi>
+                        <graphic n="KR2873" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2873.png" mimeType="image/png"/>鷜鳥名今/俗呼郭公也</hi>?<hi>?貪?</hi>?<hi>??/薄大</hi>?<hi>?儳形/?惡也</hi>灆<hi>瓜/葅</hi>坩<hi>坩甒苦甘切一</hi>
+舑<hi>吐舌也他酣切九</hi>聃<hi>耳漫無輪又老氏名又/姓左傳周大夫聃?</hi>
+                    <graphic n="KR2157" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2157.png" mimeType="image/png"/>
+                    <hi>俗</hi>緂<hi>色/鮮</hi>?<hi>水衝岸壞</hi>
+?<hi>??名</hi>?<hi>??/薄大</hi>?<hi>??峻/波也</hi>
+                    <graphic n="KR3517" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3517.png" mimeType="image/png"/>
+                    <hi>?<graphic n="KR3517" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3517.png" mimeType="image/png"/>/瓜葅</hi>?<hi>愧也昨/甘切五</hi>慚<hi>上同</hi>鏨<lb/>
+<pb n="61a"/>
+<hi>小鑿</hi>?<hi>鶚?/名</hi>?<hi>說文/暫也</hi>酣<hi>酣飲應劭曰洽也張晏曰中/酒曰酣又樂也胡甘切八</hi>甝<hi>白虎</hi>?<lb/>
+<hi>桑蟲</hi>魽<hi>蛤/也/和也又口含/古三二切</hi>煔<hi>火上/行?</hi>?<hi>上/同</hi>邯<hi>江湘人言/也又音寒</hi>姏<hi>老女稱武酣切一長面?昨三切一</hi>蚶<hi>蚌屬爾雅曰魁陸本草云魁狀如海蛤?而厚外有文縱?即今蚶也亦作魽呼談切五戲乞人物亦作歛</hi>?<hi>貪妄又/一含切</hi>歛<hi>欲/也</hi>憨<hi>癡/也</hi>二十四鹽<hi>說文曰鹹也古者宿沙初作?海?鹽亦州近北鹽池因以名之又姓魯國先賢傳有/北海相鹽津余廉切十五</hi>?<hi>俗/木/名</hi>閻<hi>里中門又姓出天水河南二望</hi>
+壛<hi>壛榻也說文同上</hi>阽<hi>臨/危</hi>檐<hi>屋檐說文/曰檐?也</hi>簷<hi>上/同</hi>?<hi>亦/同/步/長/廊也</hi>?<hi>說文云海岱之閒謂相汙曰?/離鳥自/?牝牡也</hi>?<hi>語林云大夫向?而立說/文曰?謂之樀樀廟門也</hi>?<hi>病走進也</hi>廉<hi>廉儉也釋名曰廉斂也自檢斂/也亦姓趙有廉頗力鹽切二十</hi>鐮<hi>刀鐮也釋名曰鐮廉也薄其所刈似廉也</hi>鎌<lb/>
+<hi>上同/久/雨</hi>?<hi>??/帷也</hi>簾<hi>簾箔/釋名曰簾廉也自障蔽/?廉恥也三秦記曰明光?以金玉珠璣?簾箔</hi>薕<lb/>
+<hi>薑也說文蒹也</hi>薟<hi>白薟藥/又音斂</hi>蘞<hi>蔓草/說文/同上又音斂</hi>?<hi>盛香器也又鏡/?也俗作奩</hi>?<hi>上同<pb n="61b"/>赤礪石</hi>獫<hi>犬長喙又力?切/又音險獫/狁也</hi>蠊<hi>蜚蠊蟲名說文作?海/蟲也長寸而白可食</hi>?<hi>禾/名/車輞</hi>
+<graphic n="KR2272" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2272.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2272" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2272.png" mimeType="image/png"/>鼓鼓/初打也</hi>帘<hi>?帘酒家望子</hi>鬑<hi>鬋也一/曰長?</hi>覝<hi>察/也</hi>砭<hi>以石刺病府廉切又方驗切二古文</hi>銛<hi>銛利也說文曰臿屬纂文曰鐵有距/施竹頭以擲魚?銛也息廉切十三</hi>暹<hi>日光/進也</hi>枮<hi>木/名</hi>綅<hi>白經?緯上同/細又山韭也今通/作?凡從/者倣此</hi>襳<hi>小/襦</hi>纖<hi>細也/微也</hi>憸<hi>利/口</hi>孅<hi>銳也細也</hi>?<lb/>
+<hi>髮也</hi>?<hi>毛飾又/所銜切</hi>
+                    <graphic n="KR2548" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2548.png" mimeType="image/png"/>
+                    <hi>疾利/口也</hi>籤<hi>說文驗也一曰銳/也貫也七廉切十</hi>臉<hi>臉<graphic n="KR0796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0796.png" mimeType="image/png"/>/也</hi>?<hi>上同</hi>鹼<lb/>
+<hi>水和鹽又工斬切</hi>槧<hi>削皮又才敢/七豔二切</hi>憸<hi>?憸詖也/?音猒</hi>僉<hi>咸也/皆也/切/割也</hi>?<hi>??記出字林</hi>譣<hi>譣/詖</hi>詹<hi>至也應劭漢官曰詹事秦官也又/姓楚詞有詹尹俗作詹職廉切六</hi>瞻<hi>瞻/視</hi>占<hi>視兆也亦姓陳大夫子占之後又章豔切</hi>蟾<hi>蟾蠩蝦蟆也張衡靈憲曰羿請不死之藥於西王/母恒娥竊之奔月?遂託身於月是?蟾蠩抱朴子云蟾蠩壽三千?者頭上有角頷下有丹書八字玄中記云蟾蠩頭生角者/食之壽千?也</hi>?<hi>?言/語也</hi>?<hi>說文云仰也一曰屋招也秦謂之桷齊謂之?本魚毀切</hi>棎<hi>果名似柰而/酸視占切三</hi>撏<hi>撏取/也</hi>蟾<hi>蟾光月彩又職廉切</hi>
+<pb n="62a"/>
+　苫<hi>草覆屋又凶服者以?覆席也又姓左傳魯/季氏家臣苫夷失廉切三</hi>痁<hi>病又/音店</hi>
+                    <graphic n="KR2618" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2618.png" mimeType="image/png"/>
+                    <hi>妗/<graphic n="KR2618" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2618.png" mimeType="image/png"/>善笑?又丑兼切</hi>
+　?<hi>屏也處占切十一</hi>?<hi>?侈輕薄?/又尺?切</hi>幨<hi>幨幃釋名曰/?前帷曰幨</hi>襜<hi>襜褕/蔽膝</hi>裧<hi>上同</hi>
+                    <graphic n="KR2233" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2233.png" mimeType="image/png"/>
+<hi>
+                        <graphic n="KR2233" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2233.png" mimeType="image/png"/>
+                        <graphic n="KR2233" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2233.png" mimeType="image/png"/>衣/動?</hi>?<hi>皮?也</hi>緂<hi>衣色/鮮</hi>妗<hi>妗<graphic n="KR2618" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2618.png" mimeType="image/png"/>善笑?/又許兼切/懘音不和/也禮記作怗/?也</hi>
+　<graphic n="KR1730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1730.png" mimeType="image/png"/>
+                    <hi>說文曰頰須也汝鹽/切十二</hi>髯<hi>上/同</hi>蚺<hi>大/蛇</hi>呥<hi>?/?</hi>柟<hi>梅也子如/杏而醋</hi>
+                    <graphic n="KR2071" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2071.png" mimeType="image/png"/>
+                    <hi>多/言</hi>蛅<hi>爾雅曰蟔蛅蟴郭璞云蛓屬也今?州人呼蛓?蛅/蟴</hi>冉<hi>說文云毛冉/冉也亦作?</hi>袡<hi>衣/?</hi>?<hi>有距/龜</hi>?<hi>皮?又處占切</hi>
+　舑<hi>?舑長舌</hi>黏<hi>黏麴女/廉切三</hi>粘<hi>俗</hi>?<hi>南楚呼/食麥粥</hi>炎<hi>熱也說文曰火光/上也于廉切一</hi>霑<lb/>
+<hi>霑濕也又濡也漬也張廉切三</hi>沾<hi>水名在上黨/說文他兼切/?/也</hi>覘<hi>闚視也丑廉切/又丑豔/切二</hi>
+                    <graphic n="KR2618" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2618.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2618" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2618.png" mimeType="image/png"/>妗喜?</hi>
+　淹<hi>漬也滯也久留/也敗也央炎切六</hi>菴<hi>菴?草/又音諳</hi>崦<hi>崦嵫山下有虞泉/日所入又於檢切</hi>醃<hi>鹽醃又葅也</hi>
+　?<hi>邑名</hi>閹<hi>男無勢/精閉者</hi>
+                    <graphic n="KR2223" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2223.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2223" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2223.png" mimeType="image/png"/>?意不安/也丘廉切二/曲/頭鑿</hi>
+                    <graphic n="KR2874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2874.png" mimeType="image/png"/>
+                    <hi>齒差語/廉切一</hi>尖<hi>銳也子廉/切十一</hi>殲<hi>盡也/滅也</hi>瀸<hi>漬也沒也洽也/又泉水出微?</hi>?<hi>拭/也</hi>
+                    <graphic n="KR3269" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3269.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR3269" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3269.png" mimeType="image/png"/>?不廉又將?切?子俱切</hi>漸<lb/>
+<pb n="62b"/>
+<hi>入也漬也又慈染切</hi>虃<hi>百足/草</hi>熸<hi>火/滅</hi>?<hi>刺也銳意也又/持戈說文?也</hi>
+                    <graphic n="KR2822" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2822.png" mimeType="image/png"/>
+                    <hi>小雨又/霑也</hi>鑯<hi>說文曰鐵器也一曰鐫也</hi>鋟<hi>以瓜刻/櫃版也</hi>
+                    <graphic n="KR2622" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2622.png" mimeType="image/png"/>
+                    <hi>漬也或作/又所咸切</hi>潛<hi>水伏流又藏也亦水名又姓姓苑云臨川人昨鹽切九</hi>
+朁<hi>於朁縣名屬杭州今作潛</hi>鬵<hi>甑也又/才林切</hi>
+                    <graphic n="KR3796" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3796.png" mimeType="image/png"/>
+                    <hi>漂絮簀/又音前</hi>灊<hi>水名在巴郡宕渠又古縣名在廬江又才林切</hi>?<hi>閉目/?思</hi>燂<hi>周禮注云/炙爛也/古/文</hi>螹<hi>螹/蟲名</hi>箝<hi>鎖頭亦作鉗晉律曰鉗重二斤翹長一尺五寸又羌複姓有鉗耳氏說文/?也巨淹切十一</hi>鉗<hi>上同說文曰以/?有所劫束也/絹</hi>鉆<hi>持鐵者說文又敕淹切鐵鋤也一曰膏車鐵鉆</hi>黚<hi>淺黃?色又古黚陽/縣在武陵又巨今切</hi>拑<hi>脅持/也</hi>黔<hi>??色說文曰黎也秦謂民?黔首謂?色也周謂之黎民又音琴</hi>羬<hi>羊六尺/?羬</hi>鳹<hi>白喙/鳥</hi>雂<hi>上/同</hi>鍼<hi>鍼虎人名/又之林切</hi>鈐<hi>兵鈐以閉房神府以備非常又鉤鈐星名說文曰鈐<graphic n="KR2302" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2302.png" mimeType="image/png"/>大?也</hi>?<hi>安也一/鹽切七</hi>猒<hi>飽也又/於豔切</hi>饜<hi>上/同</hi>嬮<hi>和靜</hi>
+?<hi>?憸</hi>?<hi>??苗/美也/含怒也又/魚檢切</hi>燅<hi>說文曰湯中爚/肉也徐鹽切九/說文同上</hi>燖爓<lb/>
+<hi>並同上</hi>?<hi>山/菜/摘物?字/諟及聲類</hi>?<hi>木細/葉也/小/巾</hi>襳<hi>襳/毛羽衣/史炎切一</hi>
+<pb n="63a"/>
+?<hi>字林云小熱也直廉切三/埤蒼云/赤?色</hi>?<hi>言利美也又/人名字書無</hi>鍼<hi>巨鹽切又音針一</hi>
+二十五添<hi>益也他兼切四</hi>沾<hi>說文曰水出壺關東/入淇一曰沾益也</hi>?<hi>?/色</hi>?<hi>?舑吐舌鬑鬢髮?/薄?丁兼切八</hi>敁<hi>敁?/稱量</hi>佔<hi>佔?輕/薄也</hi>詀<hi>轉/語</hi>?<hi>衣領又/丁頰切</hi>
+                    <graphic n="KR1645" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1645.png" mimeType="image/png"/>
+                    <hi>上同耳小垂</hi>?<hi>目垂又/丁念切</hi>甜<hi>甘也徒/兼切五</hi>恬<hi>靖/也</hi>湉<hi>木/靖</hi>菾<hi>菜/名/藥名</hi>鬑<lb/>
+<hi>鬑勒兼切六</hi>薕<hi>薕蒹秀/了荻草</hi>?<hi>煣軔說文曰火/煣車網絕也</hi>溓<hi>大水中絕小水出也說文曰薄水也一曰中絕小水</hi>濂<hi>薄/也</hi>?<hi>火不/絕?</hi>謙<hi>敬也讓也/苦兼切二</hi>?<hi>堅持意又/呼廉切</hi>兼<hi>說文曰并也兼持二禾秉持一禾又姓?公子兼之後古甜切七</hi>縑<hi>絹也說文曰/并絲繒/也</hi>鶼<hi>比翼/鳥/?稻/白米</hi>蒹<hi>荻未秀絲/網</hi>鰜<hi>比目/魚</hi>嫌<hi>說文曰不平於心一/曰疑也?兼切一</hi>?<hi>稻不黏者/又力兼切</hi>?<hi>魚名奴兼切三</hi>?<hi>說文曰相/謁食麥也</hi>拈<hi>指取/物也</hi>馦<hi>香氣許/兼切七</hi>?<hi>??/病也</hi>?<hi>赤?/色</hi>?<hi>香美</hi>
+?<hi>貪慾也又笑也</hi>?<hi>堅持意又/契兼切</hi>妗<hi>美/也</hi>二十六咸<hi>皆也同也悉也亦姓姓苑云巫咸之<pb n="63b"/>後今東海有/之胡讒切十一</hi>鹹<hi>不/淡</hi>?<hi>俗</hi>函<hi>函谷關名又函書亦姓漢有豫章太守函?又漢複姓漢末有?門侍郎函治子覺又音含/驩古縣名/漢書只作咸</hi>諴<hi>和/也</hi>鰜<hi>魚/名</hi>?<hi>不作/稻也</hi>椷<hi>杯/也</hi>?<hi>上同</hi>
+?<hi>車聲</hi>緘<hi>緘封古/咸切七</hi>?<hi>慳?又堅持/意口閉也</hi>瑊<hi>美石/次玉</hi>?<hi>上/同</hi>?<hi>?尬行不正也</hi>
+?<hi>?底?也/說文曰雖?而?/也古人名/字?</hi>攕<hi>女手?所/咸切十一</hi>摻<hi>上同詩曰摻摻女手又所減切</hi>?<hi>木名似松爾/雅又作煔</hi>杉<hi>上/同</hi>櫼<hi>上同說文/音尖楔也</hi>
+                    <graphic n="KR2622" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2622.png" mimeType="image/png"/>
+                    <hi>雨?說文曰微雨也/或作/又子廉切微雨</hi>?<hi>瞻視又/所儳切/車/聲/鞍/垂?</hi>?<hi>犬容頭/進也</hi>
+                    <graphic n="KR3081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3081.png" mimeType="image/png"/>
+                    <hi>犬吠聲乙咸切又乙陷切三</hi>
+淊<hi>淊沒</hi>黯<hi>深黑也又/乙減切</hi>嵒<hi>巖也又?嵒/山?/?亦地名五咸切十</hi>?<hi>面長?又/丘檻切</hi>?<hi>?底?也又音緘</hi>羬<hi>山/羊/熊虎絕/有力也</hi>麙<hi>上/同</hi>
+                    <graphic n="KR2874" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2874.png" mimeType="image/png"/>
+                    <hi>齒/?</hi>碞<hi>僣差又/牛金切</hi>?<hi>羊有力也和也又戲言也</hi>?<hi>笑?許/咸切五</hi>
+                    <graphic n="KR1173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1173.png" mimeType="image/png"/>
+                    <hi>似蛤出/海中也</hi>妗<hi>喜?又/香兼切</hi>
+                    <graphic n="KR2187" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2187.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR2187" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2187.png" mimeType="image/png"/>?谷/空?</hi>?<hi>出頭?</hi>
+詀<hi>詀諵語聲竹咸切又尺?切四</hi>?<hi>??出/頭?</hi>?<hi>鳥啄物也/又苦咸切/鹹/味</hi>諵<hi>詀諵也女咸切二</hi>
+<pb n="64a"/>
+喃<hi>上同</hi>讒<hi>譖/也士咸切/又士銜切十三</hi>獑<hi>獑猢似猿而/曰又士銜切</hi>鏨<hi>小鑿又/才三切</hi>饞<hi>不廉</hi>毚<lb/>
+<hi>狡毚</hi>?<hi>上/同/鼻?/?</hi>欃<hi>檀木/別名</hi>攙<hi>刺也又/楚銜切/?名又埤/蒼云??</hi>
+                    <graphic n="KR3740" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3740.png" mimeType="image/png"/>
+                    <hi>鳥<graphic n="KR3740" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3740.png" mimeType="image/png"/>物也</hi>
+儳<hi>?儳?惡也又仕陷切</hi>酁<hi>宋地/名</hi>?<hi>鳥?物苦/咸切五/上/同</hi>嵁<hi>嵁巖不平正?</hi>?<lb/>
+<hi>山崖空穴閒?/?/長面</hi>二十七銜<hi>說文曰馬勒口中?金?/行銜行馬/者?監切二</hi>?<hi>乾瓦屋也</hi>
+巉<hi>險也鋤銜切八</hi>?<hi>?嵒/山?</hi>劖<hi>刺也說文曰斷/也一曰剽也</hi>艬<hi>合木/船</hi>鑱<hi>?人云?鐵說文銳也又士懺切</hi>獑<hi>獑猢又/士咸切</hi>毚<hi>又士/咸切</hi>嚵<hi>嚵氣說文曰小/也/一曰喙也又音懺</hi>巖<hi>?也險也峻廊也五銜切三</hi>礹<hi>上/同/呻/吟</hi>攙<hi>攙搶祅星爾雅作/欃/槍楚銜切又士咸切一</hi>衫<hi>衫衣所銜切八</hi>纔<lb/>
+<hi>帛?色又音裁</hi>髟<hi>屋翼也又/長髮?</hi>縿<hi>絳帛/說文/曰旌旗游也</hi>?<hi>毛/長</hi>芟<hi>刈/草</hi>穇<hi>?穇穗不實見齊人要術/又所/咸切</hi>監<hi>領也察也說文云臨下/也古銜切又古?切五</hi>礛<hi>礛?/青礪/視/也</hi>鑑<hi>鑑諸以取月中水又明也</hi>?<hi>細/切/步渡水白/銜切一</hi>嵌<hi>巖山也口/銜切一</hi>二十八嚴<hi>嚴毅也威<pb n="64b"/>也敬也說文曰嚴令急也亦姓本姓莊避漢明帝諱改姓嚴語/切二</hi>?<hi>射/翳/胡被也?嚴切五</hi>杴<lb/>
+<hi>鍬屬古作或作?方言/云青齊呼意所好?杴</hi>?<hi>?/物/在喉也/禾傷/肥也</hi>蘞<hi>芋之辛味曰蘞</hi>
+醃<hi>鹽漬魚也於嚴切二</hi>腌<hi>上/同</hi>?<hi>?欹不齊丘嚴/切又丘?切二</hi>?<hi>山側空處也</hi>
+二十九凡<hi>常也皆也輕也非一也又姓周公子凡伯之後姓苑云晉陵人符咸切七</hi>帆<hi>船上幔也亦作颿又扶汎切</hi>
+<graphic n="KR1665" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1665.png" mimeType="image/png"/>
+                    <hi>輕也又孚?切</hi>
+                    <graphic n="KR3837" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3837.png" mimeType="image/png"/>
+                    <hi>船/舷</hi>氾<hi>國名又姓出燉煌濟北二望皇甫謐云本姓凡氏遭秦亂避地於氾水因改焉漢有氾勝之撰書言種植之事子輯?燉/煌太守子孫因家焉又音汎</hi>颿<hi>馬疾/步</hi>柉<hi>木皮可/以?索</hi>?<hi>草/浮水/?匹凡切二/多智慧也</hi>
+廣韻下平聲卷第二<lb/>
+　　　新添類隔今更音和切<lb/>
+?<hi>名延切/中全/切</hi>閍<hi>北盲/切</hi>平<hi>僕兵/切</hi>凡<hi>符芝/切</hi>?<hi>敷凡切</hi>
+<pb n="65a"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

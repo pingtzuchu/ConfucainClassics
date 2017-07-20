@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>禮書卷九</head> <lb/>
+    <p>
+<pb n="1a"/>
+欽定四庫全書<lb/>
+　禮書卷九<lb/>
+　　　　　　　　　　　　宋　陳祥道　撰<lb/>
+<pb n="2a"/>
+</p>
+<p>
+<pb n="3a"/>
+</p>
+<p>
+<pb n="4a"/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+<pb n="4b"/>
+　　天子始冠之冠<hi>?冠朱組纓</hi>
+　　諸侯始冠之冠<hi>緇布冠續緌</hi>
+玉藻曰?冠朱組纓天子之冠也緇布冠繢緌諸侯之<lb/>
+冠也鄭氏曰皆始冠之冠考之於禮始冠緇布冠自諸<lb/>
+侯下達則諸侯所以異於大夫士者繢緌耳天子始冠<lb/>
+不以緇布而以?冠然其子則猶士而已以天下無生<lb/>
+而貴也<hi>唐志天子始冠緇布冠五梁非古也</hi>?冠朱組纓則緌可知也緇<lb/>
+布冠繢緌則纓可知也朱以著正陽之色繢以備五采<lb/>
+<pb n="5a"/>
+之文五采雖美不若正陽之純純其飾所以異也國語<lb/>
+委貌有笄士冠禮緇布冠無笄則天子始冠之冠有笄<lb/>
+諸侯始冠之冠無笄明矣家語大戴禮公冠四加?冕<lb/>
+賈公?謂天子宜五加?冕觀成王加元服其頌曰去<lb/>
+?志心?職則五加?冕可知<lb/>
+　　諸侯齊冠<hi>?冠丹組纓</hi>
+　　士齊冠<hi>?冠綦組纓綦蒼艾色</hi>
+周官司服其齊服有?端素端記曰太古冠布齊則緇<lb/>
+<pb n="5b"/>
+之又曰齊之?也以?幽思也又曰齊?而養又曰?<lb/>
+冕齊戒鬼神?陽也又曰?冠丹組纓諸侯之齊冠也<lb/>
+?冠綦組纓士之齊冠也荀卿曰端衣?裳絻而乘路<lb/>
+者志不在於食葷?太古之齊冠以緇周之齊冠以?<lb/>
+天子齊則?冕而端?所謂絻而乘路是也諸侯而下<lb/>
+?冠?端而巳所謂?冠丹組纓?冠綦組纓是也然<lb/>
+則諸侯與士之齊則同而尊卑之分則異同故皆?冠<lb/>
+以一其誠異故組纓朱色以辨其等諸侯丹組纓則陽<lb/>
+<pb n="6a"/>
+而已以其純於?故也士綦組纓則?陽雜矣以其不<lb/>
+純於?故也說文綦作?綦蒼艾色也詩以綦巾為女<lb/>
+巾書與詩以騏弁為士弁禮以綦組為世子之佩綬皆<lb/>
+?未成者之禮也孔子佩象環而綦組纓綬則其義異<lb/>
+此矣天子諸侯大夫齊祭異服特天子?冕以祭?小<lb/>
+祀其冕?與齊同而其異者?服?端而已士之齊祭<lb/>
+一於冠端?其冠?與朝服之冠同其異者組纓之色<lb/>
+而已然則武王端冕以奉丹書則天子齋而端冕信矣<lb/>
+<pb n="6b"/>
+諸侯昏禮?冕齊戒魏文侯端冕聽古樂則昏以?冕<lb/>
+攝盛也魏文侯之端冕非攝盛則僣也鄭康成釋旅賁<lb/>
+謂?同賓容王亦齊服服?釋冕司服以齊服?端為<lb/>
+士禮此說非是<lb/>
+　　子姓冠<hi>縞冠?武其制厭</hi>
+國語言帥其子姓及國子姓詩言振振公姓喪大記言<lb/>
+子姓立于西方玉藻言縞冠?武子姓之冠?孫之傳<lb/>
+姓謂之子姓子姓之於大父母服綦而已縞冠?武以<lb/>
+<pb n="7a"/>
+父之喪未終而子不敢純吉故也以縞為之則無緌可<lb/>
+知<lb/>
+　　既祥冠<hi>縞冠素紕其制厭無緌</hi>
+玉藻曰縞冠素紕既祥之冠也喪服小記曰除成?者<lb/>
+其祭也朝服縞冠雜記曰祥主人之除也於夕為期朝<lb/>
+服又曰既祥雖不當縞者必縞然後反服問傳曰大祥<lb/>
+素縞麻衣則是大祥之祭縞冠朝服而有嚮於吉既祥<lb/>
+則素縞麻衣而未忘乎哀則祥與既祥之冠同而其服<lb/>
+<pb n="7b"/>
+異<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　<lb/>
+　禮書卷九<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

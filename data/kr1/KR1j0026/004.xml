@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div> <lb/>
+    <p>
+<pb n="1a"/>
+汗簡卷中之二?四<lb/>
+　　　　　　　　　　方　凡方之?皆?方<lb/>
+<hi>方見說文/方?華/岳碑/房出義雲章</hi>
+　　　　　　　　　　儿<hi>人出?字</hi>凡儿之?皆?儿<lb/>
+<hi>?出王庶子碑</hi>
+　　　　　　　　　　兄　凡兄之?皆?兄<lb/>
+<hi>兢見尚書說文通為小篆</hi>
+　　　　　　　　　先<hi>側林切古?字</hi>凡先之?皆?先<lb/>
+<pb n="1b"/>
+<pb n="1b"/>
+　　　　　　　　　　覞<hi>音耀</hi>凡覞之?皆?覞<lb/>
+<hi>口?切見古春秋/闕出義雲章</hi>
+　　　　　　　　　　欠　凡欠之?皆?欠<lb/>
+<hi>諤去/炊/炊並出義雲章</hi>
+　　　　　　　　　　?<hi>於錦切</hi>凡?之?皆??<lb/>
+　　　　　　　　　　　?<hi>徐延切</hi>凡?之?皆??<lb/>
+<hi>羡見古周?/盜出碧落文</hi>
+　　　　　　　　　　　旡<hi>音既</hi>凡旡之?皆?旡<lb/>
+<pb n="2a"/>
+<hi>?力向切見古?雅/禍見/莊子/氣出淮南王上升記</hi>
+　　　　　　　　　　　　頁　凡頁之?皆?頁<lb/>
+<hi>夏須/額/沫呼妹切/並尚書/俯見史書容上同/規/?夏頗並出義雲章/頂/脣並出王/存乂切韻/容?華岳頌宣俯並出/碧落文/出裴光/遠集綴/頂出朱育集字</hi>
+　　　　　　　　　　　　<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>
+                    <hi>亦首字</hi>凡百之?皆?<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>
+<hi>傲見尚書/柔見古爾雅及說文</hi>
+<pb n="2b"/>
+　　　　　　　　　　面　凡面之?皆?面<lb/>
+　　　　　　　　　　丏<hi>莫?切</hi>凡丏之?皆?丏<lb/>
+<hi>沔見尚書</hi>
+　　　　　　　　　　首　凡首之?皆?首<lb/>
+<hi>稽見尚書上聲讀之/道並出林罕集字工?切</hi>凡　之?皆?<lb/>
+　　　　　　　　　　須　凡須之?皆?須<lb/>
+<hi>?出存乂切韻/髯出李尚?集字</hi>
+<pb n="3a"/>
+　　　　　　　　　　　　?<hi>山?切</hi>凡?之?皆??<lb/>
+<hi>變上同或/作此/穆/柂/<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>
+                    諸洋並見/尚書/參見/?文/閔見/石經/魯/見石經說文亦作旅伊?碧落文/格/瞻/色並?/義雲章/未亦作神並出林罕集/字/贍出義雲章</hi>
+　　　　　　　　　　　　?　凡?之?皆??<lb/>
+<hi>?見說文/文見諸/家?體/彩見碧落文</hi>
+　　　　　　　　　　　　文　凡文之?皆?文<lb/>
+<pb n="3b"/>
+<hi>列出義雲章/?出李尚?字略</hi>
+　　　　　　　　　　　　　　　　　　髟　凡髟　之?皆?髟<lb/>
+<hi>?見?子/?方/未切/七可切</hi>
+　　　　　　　　　　　　　　　　　　　后　凡后之?皆?后<lb/>
+<hi>厚見尚書及說文/?音/仇/詬呼後切出徐邈集古文</hi>
+　　　　　　　　　　　　　　　　　　　司　凡司之?皆?司<lb/>
+<hi>辭見尚書/鬱/出王/存乂切韻/詞出義/雲章司詞並出王庶子/?音/信/同出天台碑</hi>
+<pb n="4a"/>
+　　　　　　　　　　　?　凡?之?皆??<lb/>
+　　　　　　　　　　　?<hi>節</hi>凡?之?皆??<lb/>
+<hi>遷見尚書/昭見石經王庶子/碑以?照/字/?見/石經/節出義雲章仰合出華/岳碑/磔出林/罕集字/殿出林罕字?</hi>
+　　　　　　　　　　　印　凡印之?皆?印<lb/>
+　　　　　　　　　　　色　凡色之?皆?色<lb/>
+<hi>艴蒲?切見古論語</hi>
+　　　　　　　　　　　卿　凡卿之?皆?卿<lb/>
+<pb n="4b"/>
+　　　　　　　　　　辟　凡辟之?皆?辟<lb/>
+<hi>辟擗見古/孝經/辟/辟並出/義雲章甓</hi>
+　　　　　　　　　　?<hi>百交切</hi>凡?之?皆??<lb/>
+<hi>旬陶並見/尚書/上同出/義雲章/訇音轟</hi>
+　　　　　　　　　　　包　凡包之?皆?包<lb/>
+<hi>音闕出華岳碑</hi>
+　　　　　　　　　　　苟<hi>已力切</hi>凡苟之?皆?苟<lb/>
+<hi>苟苟並?說/文義雲章/敬出碧落文</hi>
+<pb n="5a"/>
+　　　　　　　　　　　　　　　　　　　鬼　凡鬼之?皆?鬼<lb/>
+<hi>鬼見說文/神亦坤字/?華岳碑/蜮于/力切/化並出義雲章</hi>
+　　　　　　　　　　　　　　　　　　　　?　凡?之?皆??<lb/>
+<hi>畏亦威字見?文/上同?義/雲章</hi>
+　　　　　　　　　　　　　　　　　　　?<hi>私</hi>凡?之?皆?　?<lb/>
+<hi>篡又官切出演?文/羑出郭顯卿字指</hi>
+　　　　　　　　　　　　　　　　　　嵬　凡嵬之?皆?嵬<lb/>
+　　　　　　　　　　　　　　　　　　　山　凡山之?皆?山<lb/>
+<pb n="5b"/>
+<hi>岳崇/?/?並見尚書扈戕慈羊切/並見說文/岡出義/雲/章/仙見碧落文密岫並?裴光/?集綴/華?/化切/岳並出華岳碑嶷魚力切出張揖集古文說文</hi>
+　　　　　　　　　　屾　凡屾之?皆?屾<lb/>
+<hi>嵞大奴切見尚書</hi>
+　　　　　　　　　　?<hi>丘葛切</hi>凡?之?皆??<lb/>
+　　　　　　　　　　?<hi>牛儉切</hi>凡?之?皆??<lb/>
+<pb n="6a"/>
+<hi>宅亦度字/?/文/廡並見/尚書堆勤並見史書/拉/廉/度度亭?/廓並出碧落文府出濟南碑文/龐出孫/強集字/?出凌敲/臺銘文</hi>
+　　　　　　　　　　　　厂<hi>呼旱切</hi>凡厂之?皆?厂<lb/>
+<hi>辰庶並見/石經/席/掣並見/說文/庶見古孝經側見史書/廣/鴈上同寓藍/廟並出/義雲章/?廊荅切<pb n="6b"/>?顛並出裴反/光?集綴/?並出林/罕集字</hi>
+　　　　丸　凡丸之?皆?丸<lb/>
+　　　　危凡危之?皆?危<lb/>
+<hi>?丘?切見說文詭居委切</hi>
+　　　　石　凡石之?皆?石<lb/>
+<hi>磬並見碑?文/磻研研巖上同/研/碣並出義雲章</hi>
+　　　　長凡長之?皆?長<lb/>
+<pb n="7a"/>
+<hi>長見尚書并說文/長/張並出華/岳碑/??碧落文長出貝丘長碑/張出義/雲章孥</hi>
+　　　　　　　　　　　　　　　　　　勿　凡勿之?皆?勿<lb/>
+<hi>勿虢/則/則/刻又列字畫奄/翦並出/義雲章/刑華/岳碑/?出存乂切韻然出林罕集字/?出牧/子文/稱出王/庶子碑/遁或如此作</hi>
+　　　　　　　　　　　　　　　　　　　?　凡?之?皆??<lb/>
+<hi>益見尚書/衰見/說文/催見義雲章</hi>
+<pb n="7b"/>
+　　　　　　　　　　　　而　凡而之?皆?而<lb/>
+<hi>而說文音乃伐切/能見/史書而出王庶子碑</hi>
+　　　　　　　　　　　　豕　凡豕之?皆?豕<lb/>
+<hi>貉見古論語/肆見石經說文/音銑又音邠</hi>
+　　　　　　　　　　　　　?<hi>弋乂切</hi>凡?之?皆??<lb/>
+<hi>豪見?雅/肆見?文以為虞書肆類上帝之肆今古尚書無之</hi>
+　　　　　　　　　　　　　?<hi>已例切</hi>凡<graphic n="KR3425" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3425.png" mimeType="image/png"/>之?皆?<graphic n="KR3425" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3425.png" mimeType="image/png"/>
+<hi>?融知切見?文/彘文例切見古?記</hi>
+<pb n="8a"/>
+　　　　　　　　　　　豚　凡豚之?皆?豚<lb/>
+　　　　　　　　　　　豸　凡豸之?皆?豸<lb/>
+<hi>貉古論語/弋恭切見山海經</hi>
+　　　　　　　　　　　兕<hi>見說文</hi>凡兕之?皆?兕<lb/>
+　　　　　　　　　　　易　凡易之?皆?易<lb/>
+<hi>?以?切見史書/錫出無錫縣銘</hi>
+　　　　　　　　　　象　凡象之?皆?象<lb/>
+<hi>象上同並出/碧/落文/象出華岳碑</hi>
+<pb n="8b"/>
+　　　　　　　　　　　　　　　　　　馬　凡馬之?皆?馬<lb/>
+<hi>馳見石經/傲/駱又佗/各切/縶見/尚書閑驢?/駭/驤並義/雲章駕御並出碧落/文/奔?朱育集字</hi>
+　　　　　　　　　　　　　　　　　　<graphic n="KR1959" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1959.png" mimeType="image/png"/>　凡廌之?皆?廌<lb/>
+<hi>法見周?及石臺孝經/薦見古?記</hi>
+　　　　　　　　　　　　　　　　　　鹿　凡鹿之?皆?鹿<lb/>
+<hi>麒見?雅/麀於求切見石經</hi>
+<pb n="9a"/>
+<pb n="10a"/>
+<hi>貍見尚書/桓見/石經/逐/獨/上同並出/義雲章然華岳碑/獨出王存乂切韻</hi>
+　　　　　　　　　　　　?<hi>牛巾切</hi>凡?之?皆??<lb/>
+<hi>嶽出郭顯卿字指</hi>
+　　　　　　　　　　　?　凡?之?皆??<lb/>
+<hi>符表切出趙琬璋古字/鼶息/?切/於革切並/出義雲章</hi>
+　　　　　　　　　　　　能　凡能之?皆?能<lb/>
+<hi>罷出?文</hi>
+<pb n="10b"/>
+　　　　熊凡熊之?皆?熊<lb/>
+　　　　火凡火之?皆?火<lb/>
+<hi>光燠?/六切/?/?災業狂/灼並見/書經/燎/氣並見說文災燾大到切/並石經/然/冕並出史書俊遼/照/標必/照切/燭並出乂雲章?殖說文亦作熾/因/?並出/演說文氣於並碧落文/營華於王存輝耀並出李/岳碑乂切韻尚隱集字</hi>
+<pb n="11a"/>
+　　　　　　　　　　　　　炎　凡炎之?皆?炎<lb/>
+<hi>?弋漸切出開元文字/光/輝並碧/落文/赤出王存乂切?</hi>
+　　　　　　　　　　　　　?　凡?之?皆??<lb/>
+<hi>黛出說文/緎音域?裴/光?集綴/?乙夬切出張楫集古文</hi>
+　　　　　　　　　　　　　?<hi>又江切</hi>凡?之?皆??<lb/>
+<hi>?出說文/上同?郭顯卿字指</hi>
+　　　　　　　　　　　　　焱<hi>弋?切</hi>凡焱之?皆?焱<lb/>
+<hi>?出說文/赤?義雲章</hi>
+<pb n="11b"/>
+　　　　　　　　　　　炙<hi>之液切</hi>凡炙之?皆?炙<lb/>
+<hi>燔火爰切古?雅</hi>
+　　　　　　　　　　　　赤　凡赤之?皆?赤<lb/>
+<hi>?音赬出石經/鬩呼狄切出/義雲章</hi>
+　　　　　　　　　　　　太　凡太之?皆?太<lb/>
+<hi>夾出尚書/秦見/說文/泰?華岳碑</hi>
+　　　　　　　　　　　亦　凡亦之?皆?亦<lb/>
+<hi>亦華岳碑</hi>
+<pb n="12a"/>
+　　　　　　　　　　　　仄　凡仄之?皆?仄<lb/>
+<hi>?出說文/?乂/雲章/仄出王存乂切韻</hi>
+　　　　　　　　　　　　夭　凡夭之?皆?夭<lb/>
+　　　　　　　　　　　　交　凡交之?皆?交<lb/>
+<hi>交諸家?體亦作此/絞孫強古字</hi>
+　　　　　　　　　　　　?<hi>烏?切</hi>凡?之?皆??<lb/>
+<hi>跛?古周易/?烏光切出說文</hi>
+　　　　　　　　　　　?<hi>?姑切</hi>凡?之?皆??<lb/>
+<pb n="12b"/>
+<pb n="12b"/>
+<pb n="12b"/>
+<pb n="12b"/>
+　　　　心　凡心之?皆?心<lb/>
+<hi>恪德/敦/惠?謀念/念/愛固毅豫/泥/勇懼悉惕/儉/恕讎睦常/噫/悟/慶見尚書仁姦並/說文/恐/閔/怛並史書譎劣/惕/惄惜</hi>
+<pb n="13a"/>
+<pb n="14a"/>
+</p>
+<p>
+汗簡卷中之二?四<lb/>
+<pb n="14b"/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>

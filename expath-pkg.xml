@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://expath.org/ns/pkg" name="http://exist-db.org/apps/cc" abbrev="cc" version="0.2" spec="1.0">
+    <title>Confucian Classics</title>
+    <dependency processor="http://exist-db.org" semver-min="3.0.4"/>
+    <dependency package="http://exist-db.org/apps/shared"/>
+</package>

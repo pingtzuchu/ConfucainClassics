@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+<head>¬K¬î¤­Â§¨Ò©v¨÷¥|</head> <lb/>
+    <p>
+<pb n="1a"/>
+´Ü©w¥|®w¥þ®Ñ<lb/>
+¡@¬K¬î¤­Â§¨Ò©v¨÷¥|<lb/>
+¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@§º¡@±i¤j¦ë¡@¼¶<lb/>
+<hi>Âö</hi>
+<pb n="2a"/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+<pb n="2b"/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@<lb/>
+¡@¬K¬î¤­Â§¨Ò©v¨÷¥|<lb/>
+</p>
+<p>
+</p>
+  </div>
+</body>
+</text>
+</TEI>
