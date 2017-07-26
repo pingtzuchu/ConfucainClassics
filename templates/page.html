@@ -94,20 +94,24 @@
                         </ul>
                     </li>
                 </ul>
-                        <button type="button" id="togglePageNumber" class="btn btn-warning" style="position: relative; right:0px; top:9px;">頁碼顯示</button>
+                <ul class="nav navbar-nav">
+                    <li>
+                        <button type="button" id="togglePageNumber" class="btn btn-warning" style="position:relative; left:95％; top:9px;">頁碼顯示</button>
                         <script>
-                            $("#togglePageNumber").click(function(){
-                            $("pb").toggle()
-                            });
-                        </script>
-
+                           $("#togglePageNumber").click(function(){
+                           $("pb").toggle()
+                           });
+                       </script>
+                    </li>
+                </ul>
             </div>
         </nav>
+
         <div id="content" class="container"/>
 
         <footer>
             <a class="poweredby" href="http://exist-db.org">
-                <img src="$shared/resources/images/powered-by.svg" alt="Powered by eXist-db" style="position:absolute;bottom:0px;right:0px;width:128px;height:60px;"/>
+                <img src="$shared/resources/images/powered-by.svg" alt="Powered by eXist-db" style="float:right; sbottom:0px; swidth:128px;height:60px;"/>
             </a>
         </footer>
     </body>
