@@ -667,17 +667,14 @@ pb {
   display: inline;
   color:black;
   content: attr(n);
-  background-color:YellowGreen;
 }    
 pb::before {
   display:inline;
-  content: "\a["attr(n)"=";
-  white-space: pre;
+  content: "["attr(n);  
 }
 pb::after {
-    display:inline;
-    content: "\a";
-    white-space: pre;
+  display:inline;
+  content: ">";
 }
 pc[n="："]{
     content:"：";

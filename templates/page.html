@@ -6,7 +6,7 @@
         <meta data-template="config:app-meta"/>
         <link rel="shortcut icon" href="$shared/resources/images/exist_icon_16x16.ico"/>
         <link rel="stylesheet" type="text/css" href="$shared/resources/css/bootstrap-3.0.3.min.css"/>
-       <link rel="stylesheet" type="text/css" href="$shared/resources/css/tei_chinese.css"/>
+        <link rel="stylesheet" type="text/css" href="../shared-resources/resources/css/tei_chinese.css"/>
         <script type="text/javascript" src="$shared/resources/scripts/jquery/jquery-1.7.1.min.js"/>
         <script type="text/javascript" src="$shared/resources/scripts/loadsource.js"/>
         <script type="text/javascript" src="$shared/resources/scripts/bootstrap-3.0.3.min.js"/>
@@ -35,7 +35,7 @@
                 </ul>
                 <ul class="nav navbar-nav">
                     <li class="dropdown" id="test">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">閱覽功能</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">示範功能</a>
                         <ul class="dropdown-menu">
                             <li>
                                 <a href="index.html?mode=1">逐層閱覽</a>
@@ -94,24 +94,13 @@
                         </ul>
                     </li>
                 </ul>
-                <ul class="nav navbar-nav">
-                    <li>
-                        <button type="button" id="togglePageNumber" class="btn btn-warning" style="position:relative; left:95％; top:9px;">頁碼顯示</button>
-                        <script>
-                           $("#togglePageNumber").click(function(){
-                           $("pb").toggle()
-                           });
-                       </script>
-                    </li>
-                </ul>
             </div>
         </nav>
-
         <div id="content" class="container"/>
 
         <footer>
             <a class="poweredby" href="http://exist-db.org">
-                <img src="$shared/resources/images/powered-by.svg" alt="Powered by eXist-db" style="float:right; sbottom:0px; swidth:128px;height:60px;"/>
+                <img src="$shared/resources/images/powered-by.svg" alt="Powered by eXist-db" style="position:absolute;bottom:0px;right:0px;width:128px;height:60px;"/>
             </a>
         </footer>
     </body>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
     <description>Confucian Classics</description>
-    <author>祝平次</author>
-    <website>http://140.114.113.168:8080/exist/apps/cc/index.html</website>
+    <author/>
+    <website/>
     <status>alpha</status>
     <license>GNU-LGPL</license>
     <copyright>true</copyright>
@@ -10,6 +10,6 @@
     <target>cc</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
-    <permissions user="admin" group="dba" mode="rw-rw-r--"/>
-<deployed>2017-06-29T09:45:53.001+08:00</deployed>
+    <permissions xmlns:repo="http://exist-db.org/xquery/repo" password="" user="admin" group="dba" mode="rw-rw-r--"/>
+
 </meta>
